@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import type { Song } from './types/song';
-import { getStoredSongs, saveCustomSong, deleteSongById, resetSongsToDefault } from './services/songStorage';
+import { getStoredSongs, saveCustomSong, deleteSongById, resetSongsToDefault, restoreDefaultSongs } from './services/songStorage';
 import { YouTubePlayer } from './components/YouTubePlayer';
 import { LyricViewer } from './components/LyricViewer';
 import { Header } from './components/Header';
@@ -174,12 +174,22 @@ export const App: React.FC = () => {
     }
   };
 
-  // Reset defaults
+  // Reset defaults (all songs backed up to trash first)
   const handleResetDefaults = () => {
     const defaults = resetSongsToDefault();
     setSongs(defaults);
-    setCurrentSong(defaults[0]);
+    setCurrentSong(defaults[0] || null);
     setCurrentTime(0);
+  };
+
+  // Safe restore defaults (restores default songs without deleting custom songs)
+  const handleRestoreDefaults = () => {
+    const updated = restoreDefaultSongs();
+    setSongs(updated);
+    if (!currentSong || !updated.some(s => s.id === currentSong.id)) {
+      setCurrentSong(updated[0] || null);
+      setCurrentTime(0);
+    }
   };
 
   // When a kanji is clicked in lyrics, switch left panel to Kanji view
@@ -437,6 +447,7 @@ export const App: React.FC = () => {
         }}
         onDeleteSong={handleDeleteSong}
         onResetDefaults={handleResetDefaults}
+        onRestoreDefaults={handleRestoreDefaults}
         isShuffle={isShuffle}
         onToggleShuffle={() => setIsShuffle(prev => !prev)}
         autoPlayNext={autoPlayNext}

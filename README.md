@@ -60,6 +60,8 @@
 | :--- | :--- | :---: | :---: | :---: |
 | **エメラルド (Emerald)** | キタニタツヤ feat. 初音ミク | `kM8HEzBGU-0` | 32구절 | 81자 (전수 매핑) |
 | **ギャンブルショット (Gamble Shot)** | 佐倉流星 feat. 重音テトSV | `QOVVWkAXtSg` | 44구절 | 129자 (전수 매핑) |
+| **でまかせなシンフォニー (되는대로 심포니)** | 馬車馬カエデ × ちから feat. 重音テト & ALL | `Gtu2utelMRc` | 83구절 | 131자 (전수 매핑) |
+| **ハローサロウ (Hello Sorrow)** | Aliey:S feat. v flower | `-kXdEsihdvU` | 81구절 | 127자 (전수 매핑) |
 
 ---
 
@@ -69,7 +71,7 @@
 - **Styling**: Tailwind CSS, CSS Flexbox Ruby Zero-Gap Architecture
 - **Media**: YouTube IFrame Player API
 - **Icons**: Lucide React
-- **Storage**: Browser LocalStorage (`utastudy_songs_v7`)
+- **Storage**: Browser LocalStorage (`utastudy_songs_v9`)
 - **Fonts**:
   - 한글/공통: Pretendard (Gothic / Sans)
   - 일본어 명조: Shippori Mincho B1 (Google Fonts)

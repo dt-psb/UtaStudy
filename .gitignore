@@ -16,6 +16,7 @@ dist-ssr/
 *.local
 
 # Temporary / Scratch data & subtitles
+trash/
 scratch/
 scripts/
 *.vtt
@@ -23,6 +24,13 @@ scripts/
 temp_*
 scratch_*
 *.tmp
+
+# Custom song files (Keep only the 2 official default songs tracked in repo)
+src/data/songs/*
+!src/data/songs/emerald.ts
+!src/data/songs/emerald.json
+!src/data/songs/gamble_shot.ts
+!src/data/songs/gamble_shot.json
 
 # Python artifacts
 __pycache__/

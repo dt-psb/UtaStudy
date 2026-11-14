@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import type { Song } from '../types/song';
-import { ListMusic, Plus, Trash2, Search, Play, Music, Sparkles, RotateCcw, X, Shuffle, Repeat } from 'lucide-react';
+import { ListMusic, Plus, Trash2, Search, Play, Music, RotateCcw, X, Shuffle, Repeat } from 'lucide-react';
 
 interface PlaylistDrawerProps {
   isOpen: boolean;
@@ -11,6 +11,7 @@ interface PlaylistDrawerProps {
   onOpenAddModal: () => void;
   onDeleteSong: (id: string) => void;
   onResetDefaults: () => void;
+  onRestoreDefaults?: () => void;
   isShuffle: boolean;
   onToggleShuffle: () => void;
   autoPlayNext: boolean;
@@ -27,6 +28,7 @@ export const PlaylistDrawer: React.FC<PlaylistDrawerProps> = ({
   onOpenAddModal,
   onDeleteSong,
   onResetDefaults,
+  onRestoreDefaults,
   isShuffle,
   onToggleShuffle,
   autoPlayNext,
@@ -34,6 +36,7 @@ export const PlaylistDrawer: React.FC<PlaylistDrawerProps> = ({
   onShufflePlayNow
 }) => {
   const [search, setSearch] = useState('');
+  const [isDeleteMode, setIsDeleteMode] = useState(false);
 
   const filteredSongs = songs.filter(s =>
     s.title.toLowerCase().includes(search.toLowerCase()) ||
@@ -142,6 +145,23 @@ export const PlaylistDrawer: React.FC<PlaylistDrawerProps> = ({
           </div>
         </div>
 
+        {/* Delete Mode Guidance Banner */}
+        {isDeleteMode && (
+          <div className="mx-3 mt-3 p-2.5 rounded-xl bg-rose-50 dark:bg-rose-950/50 border border-rose-200 dark:border-rose-800/60 text-rose-800 dark:text-rose-200 text-xs flex items-center justify-between animate-fadeIn">
+            <span className="flex items-center gap-1.5 font-medium">
+              <Trash2 className="w-3.5 h-3.5 text-rose-500 flex-shrink-0" />
+              삭제할 곡의 휴지통을 누르세요 (trash 백업)
+            </span>
+            <button
+              type="button"
+              onClick={() => setIsDeleteMode(false)}
+              className="font-bold underline text-[11px] ml-2 text-rose-600 dark:text-rose-400"
+            >
+              완료
+            </button>
+          </div>
+        )}
+
         {/* Song List */}
         <div className="flex-1 overflow-y-auto p-3 space-y-2">
           {filteredSongs.map((song, index) => {
@@ -197,20 +217,22 @@ export const PlaylistDrawer: React.FC<PlaylistDrawerProps> = ({
                   </p>
                 </div>
 
-                {/* Delete button (available for all songs in playlist) */}
-                <button
-                  type="button"
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    if (confirm(`'${song.title}' 곡을 보관함에서 삭제하시겠습니까?`)) {
-                      onDeleteSong(song.id);
-                    }
-                  }}
-                  className="opacity-70 group-hover:opacity-100 p-2 rounded-lg text-slate-400 hover:text-rose-600 dark:hover:text-rose-400 hover:bg-rose-50 dark:hover:bg-rose-950/50 transition-all flex-shrink-0"
-                  title="보관함에서 곡 삭제"
-                >
-                  <Trash2 className="w-4 h-4" />
-                </button>
+                {/* Delete button (ONLY shown when isDeleteMode is active!) */}
+                {isDeleteMode && (
+                  <button
+                    type="button"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      if (confirm(`'${song.title}' 곡을 보관함에서 삭제하시겠습니까?\n\n(삭제된 곡은 trash/ 폴더에 안전하게 백업 보관됩니다)`)) {
+                        onDeleteSong(song.id);
+                      }
+                    }}
+                    className="p-2 rounded-xl text-rose-500 hover:text-white hover:bg-rose-600 bg-rose-50 dark:bg-rose-950/60 transition-all flex-shrink-0 animate-scaleIn shadow-sm border border-rose-200 dark:border-rose-800"
+                    title="trash/ 폴더에 안전 백업 후 삭제"
+                  >
+                    <Trash2 className="w-4 h-4" />
+                  </button>
+                )}
               </div>
             );
           })}
@@ -235,24 +257,40 @@ export const PlaylistDrawer: React.FC<PlaylistDrawerProps> = ({
           )}
         </div>
 
-        {/* Footer info & Reset */}
-        <div className="p-3 border-t border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/40 flex items-center justify-between text-xs text-slate-500 dark:text-slate-400">
-          <span className="flex items-center gap-1">
-            <Sparkles className="w-3.5 h-3.5 text-indigo-600 dark:text-indigo-400" />
-            브라우저 로컬 보관
-          </span>
-
+        {/* Footer info & Safe Management Controls */}
+        <div className="p-3 border-t border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/40 flex items-center justify-between text-xs">
+          {/* Left: Safe Restore Button (Restores built-ins without deleting custom songs) */}
           <button
+            type="button"
             onClick={() => {
-              if (confirm('보관함을 기본 상태(에메랄드 곡 1곡)로 초기화하시겠습니까?')) {
-                onResetDefaults();
+              if (confirm('기본 곡(에메랄드 등)을 보관함에 복원(추가)하시겠습니까?\n(사용자가 추가한 다른 곡은 유지됩니다)')) {
+                if (onRestoreDefaults) {
+                  onRestoreDefaults();
+                } else {
+                  onResetDefaults();
+                }
               }
             }}
-            className="flex items-center gap-1 hover:text-slate-900 dark:hover:text-slate-200 transition-colors text-[11px] font-medium"
-            title="기본 곡(에메랄드)으로 리셋"
+            className="flex items-center gap-1.5 py-1.5 px-2.5 rounded-lg text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-800 transition-colors text-xs font-semibold"
+            title="기본 곡을 보관함에 복원"
           >
-            <RotateCcw className="w-3 h-3" />
-            기본 곡(에메랄드) 복원
+            <RotateCcw className="w-3.5 h-3.5 text-indigo-500" />
+            <span>기본 곡 복원</span>
+          </button>
+
+          {/* Right: Toggle Delete / Management Mode Button */}
+          <button
+            type="button"
+            onClick={() => setIsDeleteMode(prev => !prev)}
+            className={`flex items-center gap-1.5 py-1.5 px-3 rounded-lg text-xs font-bold transition-all border ${
+              isDeleteMode
+                ? 'bg-rose-600 text-white border-rose-500 shadow-sm shadow-rose-600/30'
+                : 'bg-white dark:bg-slate-800/80 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-rose-400 hover:text-rose-600'
+            }`}
+            title="곡 삭제 버튼 표시/숨김 토글"
+          >
+            <Trash2 className="w-3.5 h-3.5" />
+            <span>{isDeleteMode ? '삭제 완료' : '곡 삭제'}</span>
           </button>
         </div>
       </aside>
