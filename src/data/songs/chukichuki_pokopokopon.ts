@@ -1,0 +1,805 @@
+import type { Song } from '../../types/song';
+
+export const chukichukiPokopokoponSong: Song = {
+  "id": "tak-chukichuki-pokopokopon",
+  "title": "ちゅきちゅきポコポコポン (Chukichuki Pokopokopon)",
+  "artist": "TAK feat. 初音ミク",
+  "youtubeId": "pHakQLbGjaU",
+  "thumbnail": "https://img.youtube.com/vi/pHakQLbGjaU/hqdefault.jpg",
+  "duration": 161,
+  "lyrics": [
+    {
+      "id": 1,
+      "start": 8.49,
+      "end": 11.03,
+      "rubyText": "ちゅきちゅきポコポン",
+      "translation": "츄키츄키 포코퐁",
+      "romaji": "chuki chuki pokopon"
+    },
+    {
+      "id": 2,
+      "start": 19.8,
+      "end": 22.07,
+      "rubyText": "1, 2, 3 ふりふりふり",
+      "translation": "하나, 둘, 셋 살랑살랑살랑",
+      "romaji": "ichi ni san furi-furi-furi"
+    },
+    {
+      "id": 3,
+      "start": 22.07,
+      "end": 23.25,
+      "rubyText": "すきすきポコポン",
+      "translation": "좋아좋아 포코퐁",
+      "romaji": "suki suki pokopon"
+    },
+    {
+      "id": 4,
+      "start": 23.25,
+      "end": 24.44,
+      "rubyText": "すきすきポコポン",
+      "translation": "좋아좋아 포코퐁",
+      "romaji": "suki suki pokopon"
+    },
+    {
+      "id": 5,
+      "start": 24.44,
+      "end": 26.51,
+      "rubyText": "かくれんぼふりふりふり",
+      "translation": "숨바꼭질 살랑살랑살랑",
+      "romaji": "kakurenbo furi-furi-furi"
+    },
+    {
+      "id": 6,
+      "start": 26.51,
+      "end": 28.45,
+      "rubyText": "すきすきポコポコポン",
+      "translation": "좋아좋아 포코포코퐁",
+      "romaji": "suki suki pokopoko-pon"
+    },
+    {
+      "id": 7,
+      "start": 28.45,
+      "end": 33.28,
+      "rubyText": "このまま夢[ゆめ]でポンポコしたい",
+      "translation": "이대로 꿈속에서 폼포코 하고 싶어",
+      "romaji": "konomama yume de ponpoko shitai"
+    },
+    {
+      "id": 8,
+      "start": 33.28,
+      "end": 35.39,
+      "rubyText": "1, 2, 3 ふりふりふり",
+      "translation": "하나, 둘, 셋 살랑살랑살랑",
+      "romaji": "ichi ni san furi-furi-furi"
+    },
+    {
+      "id": 9,
+      "start": 35.39,
+      "end": 36.89,
+      "rubyText": "すきすきポコポコポン",
+      "translation": "좋아좋아 포코포코퐁",
+      "romaji": "suki suki pokopoko-pon"
+    },
+    {
+      "id": 10,
+      "start": 36.89,
+      "end": 41.79,
+      "rubyText": "ちょっとだけみるだけそれだけ",
+      "translation": "진짜 조금 보기만 했을 뿐, 그게 다야",
+      "romaji": "chotto dake miru dake sore dake"
+    },
+    {
+      "id": 11,
+      "start": 41.79,
+      "end": 44.46,
+      "rubyText": "もうがまんできない、がまんできない",
+      "translation": "이젠 더는 못 참겠어, 못 참겠어",
+      "romaji": "mou gaman dekinai, gaman dekinai"
+    },
+    {
+      "id": 12,
+      "start": 44.46,
+      "end": 46.66,
+      "rubyText": "ポンポコしたい",
+      "translation": "폼포코 하고 싶어",
+      "romaji": "ponpoko shitai"
+    },
+    {
+      "id": 13,
+      "start": 46.66,
+      "end": 50.57,
+      "rubyText": "どんじゅみるだけそれだけ",
+      "translation": "도토리 주스 보기만 했을 뿐, 그게 다야",
+      "romaji": "donju miru dake sore dake"
+    },
+    {
+      "id": 14,
+      "start": 50.57,
+      "end": 53.64,
+      "rubyText": "タヌ語[ご]でキミにメッセージ",
+      "translation": "너구리어로 너에게 메세지",
+      "romaji": "tanugo de kimi ni messeeji"
+    },
+    {
+      "id": 15,
+      "start": 53.64,
+      "end": 55.41,
+      "rubyText": "（ポンポコしたい）",
+      "translation": "(폼포코 하고 싶어)",
+      "romaji": "(ponpoko shitai)"
+    },
+    {
+      "id": 16,
+      "start": 55.41,
+      "end": 59.31,
+      "rubyText": "ポンポコポンポコわかんぬぬ",
+      "translation": "폼포코 폼포코 몰라구리",
+      "romaji": "ponpoko ponpoko wakannunu"
+    },
+    {
+      "id": 17,
+      "start": 59.31,
+      "end": 60.44,
+      "rubyText": "ちゅきちゅきちゅ（き！）",
+      "translation": "츄키츄키츄 (키!)",
+      "romaji": "chuki chuki chu (ki!)"
+    },
+    {
+      "id": 18,
+      "start": 60.44,
+      "end": 61.58,
+      "rubyText": "ちゅきちゅきちゅ（き！）",
+      "translation": "츄키츄키츄 (키!)",
+      "romaji": "chuki chuki chu (ki!)"
+    },
+    {
+      "id": 19,
+      "start": 61.58,
+      "end": 64.52,
+      "rubyText": "ちゅきちゅきポコポコちゅきポコポン（ドン！ドン！）",
+      "translation": "츄키츄키 포코포코 츄키포코퐁 (둥! 둥!)",
+      "romaji": "chuki chuki pokopoko chuki poko-pon (don! don!)"
+    },
+    {
+      "id": 20,
+      "start": 64.52,
+      "end": 68.25,
+      "rubyText": "ポンポコポンポコひみつだポン",
+      "translation": "폼포코 폼포코 비밀이야구리",
+      "romaji": "ponpoko ponpoko himitsu da pon"
+    },
+    {
+      "id": 21,
+      "start": 68.25,
+      "end": 69.37,
+      "rubyText": "ちゅきちゅきちゅ（き！）",
+      "translation": "츄키츄키츄 (키!)",
+      "romaji": "chuki chuki chu (ki!)"
+    },
+    {
+      "id": 22,
+      "start": 69.37,
+      "end": 70.49,
+      "rubyText": "ちゅきちゅきちゅ（き！）",
+      "translation": "츄키츄키츄 (키!)",
+      "romaji": "chuki chuki chu (ki!)"
+    },
+    {
+      "id": 23,
+      "start": 70.49,
+      "end": 72.29,
+      "rubyText": "ちゅきちゅきポコポコちゅきポコ",
+      "translation": "츄키츄키 포코포코 츄키포코",
+      "romaji": "chuki chuki pokopoko chuki poko"
+    },
+    {
+      "id": 24,
+      "start": 72.29,
+      "end": 73.52,
+      "rubyText": "ちゅきちゅきポコポコ",
+      "translation": "츄키츄키 포코포코",
+      "romaji": "chuki chuki pokopoko"
+    },
+    {
+      "id": 25,
+      "start": 73.52,
+      "end": 75.5,
+      "rubyText": "ちゅきちゅきポコポコポン",
+      "translation": "츄키츄키 포코포코퐁",
+      "romaji": "chuki chuki pokopoko-pon"
+    },
+    {
+      "id": 26,
+      "start": 77.8,
+      "end": 80.5,
+      "rubyText": "Go back to E Major!",
+      "translation": "E 메이저로 돌아가자!",
+      "romaji": "Go back to E Major!"
+    },
+    {
+      "id": 27,
+      "start": 84.07,
+      "end": 88.84,
+      "rubyText": "「ねえ、知[し]ってた？ たぬきのしっぽって、二色[にしょく]なんだよ。」",
+      "translation": "“있잖아, 그거 알아? 너구리 꼬리는 두 가지 색이래”",
+      "romaji": "\"Nee, shitteta? Tanuki no shippo tte, nishoku nan da yo.\""
+    },
+    {
+      "id": 28,
+      "start": 88.84,
+      "end": 90.2,
+      "rubyText": "「なぜかな？」",
+      "translation": "“왜 그럴까?”",
+      "romaji": "\"Naze ka na?\""
+    },
+    {
+      "id": 29,
+      "start": 90.2,
+      "end": 93.5,
+      "rubyText": "「たぶん、だんごを3本[ぼん]食[た]べたせいだと思[おも]う。」",
+      "translation": "“아마, 경단을 세 개나 먹어서 그런 것 같아”",
+      "romaji": "\"Tabun, dango o sanbon tabeta sei da to omou.\""
+    },
+    {
+      "id": 30,
+      "start": 93.5,
+      "end": 102.05,
+      "rubyText": "でもね、涙[なみだ]って、しっぽの先[さき]まであったかくなるんだ、あったかくなるんだ",
+      "translation": "그렇지만, 눈물은 꼬리 끝까지 따뜻해지는 거야, 따뜻해지는 거야",
+      "romaji": "demo ne, namida tte, shippo no saki made attakaku narun da, attakaku narun da"
+    },
+    {
+      "id": 31,
+      "start": 102.05,
+      "end": 109.8,
+      "rubyText": "だからどうしても君[きみ]の希望[きぼう]に変身[へんしん]したかったの",
+      "translation": "그래서 어떻게든 너의 희망으로 변신하고 싶었어",
+      "romaji": "dakara doushitemo kimi no kibou ni henshin shitakatta no"
+    },
+    {
+      "id": 32,
+      "start": 110.13,
+      "end": 115.0,
+      "rubyText": "ちょっとだけみるだけそれだけ",
+      "translation": "진짜 조금 보기만 했을 뿐, 그게 다야",
+      "romaji": "chotto dake miru dake sore dake"
+    },
+    {
+      "id": 33,
+      "start": 115.0,
+      "end": 117.84,
+      "rubyText": "もうがまんできない、がまんできない",
+      "translation": "이젠 더는 못 참겠어, 못 참겠어",
+      "romaji": "mou gaman dekinai, gaman dekinai"
+    },
+    {
+      "id": 34,
+      "start": 117.84,
+      "end": 120.0,
+      "rubyText": "ポンポコしたい",
+      "translation": "폼포코 하고 싶어",
+      "romaji": "ponpoko shitai"
+    },
+    {
+      "id": 35,
+      "start": 120.0,
+      "end": 124.14,
+      "rubyText": "どんじゅみるだけそれだけ",
+      "translation": "도토리 주스 보기만 했을 뿐, 그게 다야",
+      "romaji": "donju miru dake sore dake"
+    },
+    {
+      "id": 36,
+      "start": 124.14,
+      "end": 128.58,
+      "rubyText": "タヌ語[ご]でキミにメッセージ",
+      "translation": "너구리어로 너에게 메시지",
+      "romaji": "tanugo de kimi ni messeeji"
+    },
+    {
+      "id": 37,
+      "start": 131.25,
+      "end": 134.85,
+      "rubyText": "ポンポコポンポコわかんぬぬ",
+      "translation": "폼포코 폼포코 몰라구리",
+      "romaji": "ponpoko ponpoko wakannunu"
+    },
+    {
+      "id": 38,
+      "start": 134.85,
+      "end": 136.07,
+      "rubyText": "ちゅきちゅきちゅ（き！）",
+      "translation": "츄키츄키츄 (키!)",
+      "romaji": "chuki chuki chu (ki!)"
+    },
+    {
+      "id": 39,
+      "start": 136.07,
+      "end": 137.29,
+      "rubyText": "ちゅきちゅきちゅ（き！）",
+      "translation": "츄키츄키츄 (키!)",
+      "romaji": "chuki chuki chu (ki!)"
+    },
+    {
+      "id": 40,
+      "start": 137.29,
+      "end": 139.86,
+      "rubyText": "ちゅきちゅきポコポコちゅきポコポン（ドン！ドン！）",
+      "translation": "츄키츄키 포코포코 츄키포코퐁 (둥! 둥!)",
+      "romaji": "chuki chuki pokopoko chuki poko-pon (don! don!)"
+    },
+    {
+      "id": 41,
+      "start": 139.86,
+      "end": 143.69,
+      "rubyText": "ポンポコポンポコひみつだポン",
+      "translation": "폼포코 폼포코 비밀이야구리",
+      "romaji": "ponpoko ponpoko himitsu da pon"
+    },
+    {
+      "id": 42,
+      "start": 143.69,
+      "end": 144.89,
+      "rubyText": "ちゅきちゅきちゅ（き！）",
+      "translation": "츄키츄키츄 (키!)",
+      "romaji": "chuki chuki chu (ki!)"
+    },
+    {
+      "id": 43,
+      "start": 144.89,
+      "end": 146.1,
+      "rubyText": "ちゅきちゅきちゅ（き！）",
+      "translation": "츄키츄키츄 (키!)",
+      "romaji": "chuki chuki chu (ki!)"
+    },
+    {
+      "id": 44,
+      "start": 146.1,
+      "end": 147.87,
+      "rubyText": "ちゅきちゅきポコポコちゅきポコ",
+      "translation": "츄키츄키 포코포코 츄키포코",
+      "romaji": "chuki chuki pokopoko chuki poko"
+    },
+    {
+      "id": 45,
+      "start": 147.87,
+      "end": 149.08,
+      "rubyText": "ちゅきちゅきポコポコ",
+      "translation": "츄키츄키 포코포코",
+      "romaji": "chuki chuki pokopoko"
+    },
+    {
+      "id": 46,
+      "start": 149.08,
+      "end": 150.5,
+      "rubyText": "ちゅきちゅきポコポコポン",
+      "translation": "츄키츄키 포코포코퐁",
+      "romaji": "chuki chuki pokopoko-pon"
+    },
+    {
+      "id": 47,
+      "start": 150.7,
+      "end": 152.2,
+      "rubyText": "ラララ ラララ ラララ ラララ",
+      "translation": "라라라 라라라 라라라 라라라",
+      "romaji": "rarara rarara rarara rarara"
+    },
+    {
+      "id": 48,
+      "start": 152.2,
+      "end": 153.8,
+      "rubyText": "ちゅきちゅきポコポコポン",
+      "translation": "츄키츄키 포코포코퐁",
+      "romaji": "chuki chuki pokopoko-pon"
+    },
+    {
+      "id": 49,
+      "start": 153.8,
+      "end": 155.3,
+      "rubyText": "ちゅきちゅきポコポコポン",
+      "translation": "츄키츄키 포코포코퐁",
+      "romaji": "chuki chuki pokopoko-pon"
+    },
+    {
+      "id": 50,
+      "start": 155.3,
+      "end": 157.0,
+      "rubyText": "ラララ ラララ ラララ ラララ",
+      "translation": "라라라 라라라 라라라 라라라",
+      "romaji": "rarara rarara rarara rarara"
+    },
+    {
+      "id": 51,
+      "start": 157.0,
+      "end": 158.5,
+      "rubyText": "ちゅきちゅきポコポコポン",
+      "translation": "츄키츄키 포코포코퐁",
+      "romaji": "chuki chuki pokopoko-pon"
+    },
+    {
+      "id": 52,
+      "start": 158.5,
+      "end": 159.5,
+      "rubyText": "ちゅき",
+      "translation": "츄키 (좋아해)",
+      "romaji": "chuki"
+    }
+  ],
+  "kanjiDictionary": {
+    "二": {
+      "character": "二",
+      "korean": "두 이",
+      "kun": [
+        "ふた",
+        "ふた・つ"
+      ],
+      "on": [
+        "に",
+        "じ"
+      ],
+      "meaning": "둘, 두 번째",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "二人",
+          "reading": "ふたり",
+          "meaning": "두 사람, 둘"
+        },
+        {
+          "word": "二つ",
+          "reading": "ふたつ",
+          "meaning": "두 개"
+        },
+        {
+          "word": "二月",
+          "reading": "にがつ",
+          "meaning": "2월"
+        }
+      ]
+    },
+    "先": {
+      "character": "先",
+      "korean": "먼저 선",
+      "kun": [
+        "さき",
+        "ま.ず"
+      ],
+      "on": [
+        "セン"
+      ],
+      "meaning": "먼저, 앞, 앞서다",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "先生",
+          "reading": "せんせい",
+          "meaning": "선생님"
+        },
+        {
+          "word": "先",
+          "reading": "さき",
+          "meaning": "앞, 먼저"
+        }
+      ]
+    },
+    "君": {
+      "character": "君",
+      "korean": "임금 군 / 그대 군",
+      "kun": [
+        "きみ"
+      ],
+      "on": [
+        "クン"
+      ],
+      "meaning": "너, 그대, 임금",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "君",
+          "reading": "きみ",
+          "meaning": "너, 그대"
+        },
+        {
+          "word": "君たち",
+          "reading": "きみたち",
+          "meaning": "너희들"
+        }
+      ]
+    },
+    "変": {
+      "character": "変",
+      "korean": "변할 변",
+      "kun": [
+        "か.わる",
+        "か.える"
+      ],
+      "on": [
+        "ヘン"
+      ],
+      "meaning": "바뀌다, 변하다, 이상하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "変化",
+          "reading": "へんか",
+          "meaning": "변화"
+        },
+        {
+          "word": "大変",
+          "reading": "たいへん",
+          "meaning": "힘듦, 큰일"
+        }
+      ]
+    },
+    "夢": {
+      "character": "夢",
+      "korean": "꿈 몽",
+      "kun": [
+        "ゆめ"
+      ],
+      "on": [
+        "ム"
+      ],
+      "meaning": "꿈, 희망",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "夢",
+          "reading": "ゆめ",
+          "meaning": "꿈"
+        },
+        {
+          "word": "悪夢",
+          "reading": "あくむ",
+          "meaning": "악몽"
+        }
+      ]
+    },
+    "希": {
+      "character": "希",
+      "korean": "바랄 희",
+      "kun": [
+        "こいねが.う"
+      ],
+      "on": [
+        "キ",
+        "ケ"
+      ],
+      "meaning": "바라다, 희망, 드물다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "希望",
+          "reading": "きぼう",
+          "meaning": "희망"
+        },
+        {
+          "word": "希少",
+          "reading": "きしょう",
+          "meaning": "희소"
+        }
+      ]
+    },
+    "思": {
+      "character": "思",
+      "korean": "생각 사",
+      "kun": [
+        "おも.う"
+      ],
+      "on": [
+        "シ"
+      ],
+      "meaning": "생각하다, 그리워하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "思う",
+          "reading": "おもう",
+          "meaning": "생각하다"
+        },
+        {
+          "word": "思い出",
+          "reading": "おもいで",
+          "meaning": "추억"
+        }
+      ]
+    },
+    "望": {
+      "character": "望",
+      "korean": "바랄 망",
+      "kun": [
+        "のぞ.む"
+      ],
+      "on": [
+        "ボウ",
+        "モウ"
+      ],
+      "meaning": "바라다, 희망, 원하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "本望",
+          "reading": "ほんもう",
+          "meaning": "숙원, 바라던 바"
+        },
+        {
+          "word": "絶望",
+          "reading": "ぜつぼう",
+          "meaning": "절망"
+        }
+      ]
+    },
+    "本": {
+      "character": "本",
+      "korean": "근본 본",
+      "kun": [
+        "もと"
+      ],
+      "on": [
+        "ホン"
+      ],
+      "meaning": "책, 근본, 본래",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "本望",
+          "reading": "ほんもう",
+          "meaning": "숙원, 오랜 소원"
+        },
+        {
+          "word": "基本",
+          "reading": "きほん",
+          "meaning": "기본"
+        }
+      ]
+    },
+    "涙": {
+      "character": "涙",
+      "korean": "눈물 루",
+      "kun": [
+        "なみだ"
+      ],
+      "on": [
+        "ルイ"
+      ],
+      "meaning": "눈물",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "涙声",
+          "reading": "なみだごえ",
+          "meaning": "울먹이는 목소리"
+        },
+        {
+          "word": "感涙",
+          "reading": "かんるい",
+          "meaning": "감루, 감격의 눈물"
+        }
+      ]
+    },
+    "知": {
+      "character": "知",
+      "korean": "알 지",
+      "kun": [
+        "し.る"
+      ],
+      "on": [
+        "チ"
+      ],
+      "meaning": "알다, 지식",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "知る",
+          "reading": "しる",
+          "meaning": "알다"
+        },
+        {
+          "word": "知識",
+          "reading": "ちしき",
+          "meaning": "지식"
+        }
+      ]
+    },
+    "色": {
+      "character": "色",
+      "korean": "빛 색",
+      "kun": [
+        "いろ"
+      ],
+      "on": [
+        "ショク",
+        "シキ"
+      ],
+      "meaning": "빛깔, 색채, 모양",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "色",
+          "reading": "いろ",
+          "meaning": "색깔"
+        },
+        {
+          "word": "景色",
+          "reading": "けしき",
+          "meaning": "경치"
+        }
+      ]
+    },
+    "語": {
+      "character": "語",
+      "korean": "말씀 어",
+      "kun": [
+        "かた.る",
+        "かた.らう"
+      ],
+      "on": [
+        "ゴ"
+      ],
+      "meaning": "이야기하다, 말, 언어",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "日本語",
+          "reading": "にほんご",
+          "meaning": "일본어"
+        },
+        {
+          "word": "語彙",
+          "reading": "ごい",
+          "meaning": "어휘"
+        }
+      ]
+    },
+    "身": {
+      "character": "身",
+      "korean": "몸 신",
+      "kun": [
+        "み"
+      ],
+      "on": [
+        "シン"
+      ],
+      "meaning": "몸, 자신, 신체",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "身",
+          "reading": "み",
+          "meaning": "몸, 신체"
+        },
+        {
+          "word": "自身",
+          "reading": "じしん",
+          "meaning": "자신"
+        }
+      ]
+    },
+    "食": {
+      "character": "食",
+      "korean": "먹을 식 / 밥 식",
+      "kun": [
+        "た.べる",
+        "く.う"
+      ],
+      "on": [
+        "ショク",
+        "ジキ"
+      ],
+      "meaning": "먹다, 음식, 밥",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "食べる",
+          "reading": "たべる",
+          "meaning": "먹다"
+        },
+        {
+          "word": "食事",
+          "reading": "しょくじ",
+          "meaning": "식사"
+        }
+      ]
+    }
+  }
+};

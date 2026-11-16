@@ -39,6 +39,7 @@ export const parseRubyText = (rubyText: string): ParsedToken[] => {
   // Group 2: the kanji compound immediately preceding the brackets
   // Group 3: the furigana inside [brackets]
   // Group 4: any standalone text without ruby
+  // eslint-disable-next-line no-useless-escape
   const regex = /([^\[\]]*?)([\u4e00-\u9faf\u3400-\u4dbf\u3005]+)\[([^\]]+)\]|([^\[\]]+)/g;
   let match;
   let index = 0;

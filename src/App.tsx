@@ -8,7 +8,7 @@ import { PlaylistDrawer } from './components/PlaylistDrawer';
 import { AddSongModal } from './components/AddSongModal';
 import { KanjiInspectorPanel } from './components/KanjiInspectorPanel';
 import { extractKanji } from './utils/lyricParser';
-import { Music2, BookOpen, Video } from 'lucide-react';
+import { Music2, BookOpen, Video, SkipBack, SkipForward, Shuffle, Repeat } from 'lucide-react';
 
 export const App: React.FC = () => {
   const [songs, setSongs] = useState<Song[]>([]);
@@ -25,9 +25,22 @@ export const App: React.FC = () => {
   // Left View: false = Video visible, true = Real-time Kanji Inspector covers entire left panel (Audio never stops!)
   const [showKanjiView, setShowKanjiView] = useState<boolean>(false);
 
-  // Playback flow: Shuffle & Auto-Next
-  const [isShuffle, setIsShuffle] = useState<boolean>(false);
-  const [autoPlayNext, setAutoPlayNext] = useState<boolean>(true);
+  // Playback flow: Shuffle & Auto-Next (persisted to localStorage)
+  const [isShuffle, setIsShuffle] = useState<boolean>(() => {
+    try {
+      return localStorage.getItem('utastudy_shuffle_mode') === 'true';
+    } catch {
+      return false;
+    }
+  });
+  const [autoPlayNext, setAutoPlayNext] = useState<boolean>(() => {
+    try {
+      const stored = localStorage.getItem('utastudy_autoplay_next');
+      return stored !== null ? stored === 'true' : true;
+    } catch {
+      return true;
+    }
+  });
   const [shouldAutoPlay, setShouldAutoPlay] = useState<boolean>(false);
 
   // Modals
@@ -36,6 +49,19 @@ export const App: React.FC = () => {
 
   // Player reference for seeking
   const playerRef = useRef<any>(null);
+
+  // Keep references to live state so async/event listeners never capture stale state
+  const songsRef = useRef(songs);
+  const currentSongRef = useRef(currentSong);
+  const isShuffleRef = useRef(isShuffle);
+  const autoPlayNextRef = useRef(autoPlayNext);
+
+  useEffect(() => {
+    songsRef.current = songs;
+    currentSongRef.current = currentSong;
+    isShuffleRef.current = isShuffle;
+    autoPlayNextRef.current = autoPlayNext;
+  });
 
   // Sync theme with HTML class
   useEffect(() => {
@@ -100,8 +126,33 @@ export const App: React.FC = () => {
     setCurrentTime(time);
   };
 
+  // Toggle handlers with persistence
+  const handleToggleShuffle = () => {
+    setIsShuffle(prev => {
+      const next = !prev;
+      try {
+        localStorage.setItem('utastudy_shuffle_mode', String(next));
+      } catch {}
+      return next;
+    });
+  };
+
+  const handleToggleAutoPlayNext = () => {
+    setAutoPlayNext(prev => {
+      const next = !prev;
+      try {
+        localStorage.setItem('utastudy_autoplay_next', String(next));
+      } catch {}
+      return next;
+    });
+  };
+
   // Switch song
   const handleSelectSong = (song: Song) => {
+    if (currentSong?.id === song.id) {
+      handleSeek(0);
+      return;
+    }
     setShouldAutoPlay(true);
     setCurrentSong(song);
     setCurrentTime(0);
@@ -109,9 +160,10 @@ export const App: React.FC = () => {
 
   // Play next song (Auto or manual)
   const handlePlayNextSong = () => {
-    if (songs.length === 0) return;
+    const songList = songsRef.current;
+    if (songList.length === 0) return;
 
-    if (songs.length === 1) {
+    if (songList.length === 1) {
       handleSeek(0);
       if (playerRef.current && typeof playerRef.current.playVideo === 'function') {
         playerRef.current.playVideo();
@@ -119,19 +171,20 @@ export const App: React.FC = () => {
       return;
     }
 
-    const currentIndex = songs.findIndex(s => s.id === currentSong?.id);
+    const curSong = currentSongRef.current;
+    const currentIndex = songList.findIndex(s => s.id === curSong?.id);
     let nextIndex: number;
 
-    if (isShuffle) {
-      const candidates = songs
+    if (isShuffleRef.current) {
+      const candidates = songList
         .map((_, idx) => idx)
         .filter(idx => idx !== currentIndex);
       nextIndex = candidates[Math.floor(Math.random() * candidates.length)];
     } else {
-      nextIndex = (currentIndex + 1) % songs.length;
+      nextIndex = currentIndex >= 0 ? (currentIndex + 1) % songList.length : 0;
     }
 
-    const nextSong = songs[nextIndex];
+    const nextSong = songList[nextIndex];
     if (nextSong) {
       setShouldAutoPlay(true);
       setCurrentSong(nextSong);
@@ -139,15 +192,54 @@ export const App: React.FC = () => {
     }
   };
 
+  // Play previous song
+  const handlePlayPrevSong = () => {
+    const songList = songsRef.current;
+    if (songList.length === 0) return;
+
+    // If more than 3s into the song, restart it
+    if (currentTime > 3) {
+      handleSeek(0);
+      return;
+    }
+
+    if (songList.length === 1) {
+      handleSeek(0);
+      return;
+    }
+
+    const curSong = currentSongRef.current;
+    const currentIndex = songList.findIndex(s => s.id === curSong?.id);
+    let prevIndex: number;
+
+    if (isShuffleRef.current) {
+      const candidates = songList
+        .map((_, idx) => idx)
+        .filter(idx => idx !== currentIndex);
+      prevIndex = candidates[Math.floor(Math.random() * candidates.length)];
+    } else {
+      prevIndex = currentIndex >= 0 ? (currentIndex - 1 + songList.length) % songList.length : 0;
+    }
+
+    const prevSong = songList[prevIndex];
+    if (prevSong) {
+      setShouldAutoPlay(true);
+      setCurrentSong(prevSong);
+      setCurrentTime(0);
+    }
+  };
+
   // Immediate Shuffle play trigger
   const handleShufflePlayNow = () => {
-    if (songs.length <= 1) return;
-    const currentIndex = songs.findIndex(s => s.id === currentSong?.id);
-    const candidates = songs
+    const songList = songsRef.current;
+    if (songList.length <= 1) return;
+    const curSong = currentSongRef.current;
+    const currentIndex = songList.findIndex(s => s.id === curSong?.id);
+    const candidates = songList
       .map((_, idx) => idx)
       .filter(idx => idx !== currentIndex);
     const nextIndex = candidates[Math.floor(Math.random() * candidates.length)];
-    const nextSong = songs[nextIndex];
+    const nextSong = songList[nextIndex];
     if (nextSong) {
       setShouldAutoPlay(true);
       setCurrentSong(nextSong);
@@ -313,7 +405,7 @@ export const App: React.FC = () => {
                   videoId={currentSong.youtubeId}
                   onTimeUpdate={setCurrentTime}
                   onEnded={() => {
-                    if (autoPlayNext) {
+                    if (autoPlayNextRef.current) {
                       handlePlayNextSong();
                     }
                   }}
@@ -341,6 +433,58 @@ export const App: React.FC = () => {
                     <span className="text-xs px-2.5 py-1 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-700 font-mono">
                       {currentSong.lyrics.length}구절
                     </span>
+                  </div>
+
+                  {/* Playback Controls (Prev, Next, Shuffle, AutoNext) */}
+                  <div className="flex items-center justify-between p-2.5 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200/80 dark:border-slate-700/60">
+                    <div className="flex items-center gap-1.5">
+                      <button
+                        type="button"
+                        onClick={handlePlayPrevSong}
+                        className="p-2 rounded-lg hover:bg-slate-200/70 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 transition-colors"
+                        title="이전 곡 (3초 이상 재생 중이면 처음부터)"
+                      >
+                        <SkipBack className="w-4 h-4" />
+                      </button>
+                      <button
+                        type="button"
+                        onClick={handlePlayNextSong}
+                        className="p-2 rounded-lg hover:bg-slate-200/70 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 transition-colors"
+                        title="다음 곡"
+                      >
+                        <SkipForward className="w-4 h-4" />
+                      </button>
+                    </div>
+
+                    <div className="flex items-center gap-2">
+                      <button
+                        type="button"
+                        onClick={handleToggleShuffle}
+                        className={`flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg text-xs font-medium transition-all ${
+                          isShuffle
+                            ? 'bg-purple-600 text-white shadow-sm shadow-purple-600/30'
+                            : 'bg-white dark:bg-slate-700/60 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-600'
+                        }`}
+                        title="랜덤 셔플 재생 On/Off"
+                      >
+                        <Shuffle className="w-3.5 h-3.5" />
+                        <span>셔플 {isShuffle ? 'ON' : 'OFF'}</span>
+                      </button>
+
+                      <button
+                        type="button"
+                        onClick={handleToggleAutoPlayNext}
+                        className={`flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg text-xs font-medium transition-all ${
+                          autoPlayNext
+                            ? 'bg-emerald-600 text-white shadow-sm shadow-emerald-600/30'
+                            : 'bg-white dark:bg-slate-700/60 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-600'
+                        }`}
+                        title="곡 종료 시 자동 다음곡 재생 On/Off"
+                      >
+                        <Repeat className="w-3.5 h-3.5" />
+                        <span>자동다음곡 {autoPlayNext ? 'ON' : 'OFF'}</span>
+                      </button>
+                    </div>
                   </div>
 
                   {/* In-Song Kanji Cloud */}
@@ -449,9 +593,9 @@ export const App: React.FC = () => {
         onResetDefaults={handleResetDefaults}
         onRestoreDefaults={handleRestoreDefaults}
         isShuffle={isShuffle}
-        onToggleShuffle={() => setIsShuffle(prev => !prev)}
+        onToggleShuffle={handleToggleShuffle}
         autoPlayNext={autoPlayNext}
-        onToggleAutoPlayNext={() => setAutoPlayNext(prev => !prev)}
+        onToggleAutoPlayNext={handleToggleAutoPlayNext}
         onShufflePlayNow={handleShufflePlayNow}
       />
 

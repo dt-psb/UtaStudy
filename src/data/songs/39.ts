@@ -1,0 +1,165 @@
+import type { Song } from '../../types/song';
+
+export const miku39Song: Song = {
+  "id": "d0tc0mmie-39",
+  "title": "39",
+  "artist": "d0tc0mmie feat. 初音ミク, 重音テトSV",
+  "youtubeId": "ZhOyrxdK3Hs",
+  "thumbnail": "https://img.youtube.com/vi/ZhOyrxdK3Hs/hqdefault.jpg",
+  "duration": 113,
+  "lyrics": [
+    {
+      "id": 1,
+      "start": 13.94,
+      "end": 17.12,
+      "rubyText": "ひかりのなかでとびはねる",
+      "translation": "빛 속에서 뛰어올라",
+      "romaji": "hikari no naka de tobihaneru"
+    },
+    {
+      "id": 2,
+      "start": 17.12,
+      "end": 20.51,
+      "rubyText": "からだをあずけてゆらめく",
+      "translation": "몸을 맡긴 채 흔들리며",
+      "romaji": "karada o azukete yurameku"
+    },
+    {
+      "id": 3,
+      "start": 20.51,
+      "end": 24.07,
+      "rubyText": "よるのリズムにしずむよう",
+      "translation": "밤의 리듬 속으로 가라앉듯이",
+      "romaji": "yoru no rizumu ni shizumuyou"
+    },
+    {
+      "id": 4,
+      "start": 24.07,
+      "end": 27.54,
+      "rubyText": "こころをひらいてかけだす",
+      "translation": "마음을 열고 달려 나가",
+      "romaji": "kokoro o hiraite kakedasu"
+    },
+    {
+      "id": 5,
+      "start": 27.54,
+      "end": 34.17,
+      "rubyText": "にほんとそとのあいだでゆれるこころをかかえてあるくきょうもひとりでね",
+      "translation": "일본과 바깥 세계 사이에서 흔들리는 마음을 안고 오늘도 혼자 걸어가",
+      "romaji": "nihon to soto no aida de yureru kokoro o kakaete aruku kyou mo hitori de ne"
+    },
+    {
+      "id": 6,
+      "start": 34.17,
+      "end": 41.01,
+      "rubyText": "はんぶんのじぶんをさがしてさまようようにおどるよるのまちでいるんだ",
+      "translation": "반쪽짜리 나 자신을 찾듯이 헤매며 춤추는 밤의 거리에 있어",
+      "romaji": "hambun no jibun o sagashite samayou you ni odoru yoru no machi de irun da"
+    },
+    {
+      "id": 7,
+      "start": 41.01,
+      "end": 47.9,
+      "rubyText": "にほんとそとのあいだでつないだこころをひかりにかえてきょうもあるくよ",
+      "translation": "일본과 바깥 세계 사이에서 이어진 마음을 빛으로 바꿔서 오늘도 걸어가",
+      "romaji": "nihon to soto no aida de tsunaida kokoro o hikari ni kaete kyou mo aruku yo"
+    },
+    {
+      "id": 8,
+      "start": 47.9,
+      "end": 54.75,
+      "rubyText": "ふたつのせかいをむねにだいてひかりまといおどるよるのまちでいきる",
+      "translation": "두 개의 세계를 가슴에 품고 빛을 두른 채 춤추며 밤의 거리에서 살아가",
+      "romaji": "futatsu no sekai o mune ni daite hikari matoi odoru yoru no machi de ikiru"
+    },
+    {
+      "id": 9,
+      "start": 54.75,
+      "end": 58.28,
+      "rubyText": "よぞらのひかりにさそわれ",
+      "translation": "밤하늘의 빛에 이끌려",
+      "romaji": "yozora no hikari ni sasoware"
+    },
+    {
+      "id": 10,
+      "start": 58.28,
+      "end": 61.74,
+      "rubyText": "むねのおくまでひびいてく",
+      "translation": "가슴 깊은 곳까지 울려 퍼지고",
+      "romaji": "mune no oku made hibiiteku"
+    },
+    {
+      "id": 11,
+      "start": 61.74,
+      "end": 65.08,
+      "rubyText": "すべてをあずけてとけあう",
+      "translation": "모든 것을 맡긴 채 서로 녹아들며",
+      "romaji": "subete o azukete tokeau"
+    },
+    {
+      "id": 12,
+      "start": 65.08,
+      "end": 68.33,
+      "rubyText": "まだみぬせかいへすすむよ",
+      "translation": "아직 보지 못한 세계로 나아가",
+      "romaji": "mada minu sekai e susumu yo"
+    },
+    {
+      "id": 13,
+      "start": 68.51,
+      "end": 71.84,
+      "rubyText": "よぞらのひかりにさそわれ",
+      "translation": "밤하늘의 빛에 이끌려",
+      "romaji": "yozora no hikari ni sasoware"
+    },
+    {
+      "id": 14,
+      "start": 71.84,
+      "end": 75.3,
+      "rubyText": "むねのおくまでひびいてく",
+      "translation": "가슴 깊은 곳까지 울려 퍼지고",
+      "romaji": "mune no oku made hibiiteku"
+    },
+    {
+      "id": 15,
+      "start": 75.3,
+      "end": 78.67,
+      "rubyText": "すべてをあずけてとけあう",
+      "translation": "모든 것을 맡긴 채 서로 녹아들며",
+      "romaji": "subete o azukete tokeau"
+    },
+    {
+      "id": 16,
+      "start": 78.67,
+      "end": 82.29,
+      "rubyText": "まだみぬせかいへすすむよ",
+      "translation": "아직 보지 못한 세계로 나아가",
+      "romaji": "mada minu sekai e susumu yo"
+    },
+    {
+      "id": 17,
+      "start": 82.29,
+      "end": 85.68,
+      "rubyText": "ここにいていいとわらえた",
+      "translation": "여기에 있어도 된다고 느껴서 웃을 수 있었어",
+      "romaji": "koko ni ite ii to waraeta"
+    },
+    {
+      "id": 18,
+      "start": 85.68,
+      "end": 89.07,
+      "rubyText": "うたがいばしょをくれたんだ",
+      "translation": "안심하고 있을 수 있는 곳을 주었어",
+      "romaji": "uta ga ibasho o kuretan da"
+    },
+    {
+      "id": 19,
+      "start": 89.07,
+      "end": 95.89,
+      "rubyText": "ゆめをくれたきみへこころからありがとうをこめてね",
+      "translation": "꿈을 준 너에게, 진심으로 고마움을 담아서",
+      "romaji": "yume o kureta kimi e kokoro kara arigatou o komete ne"
+    }
+  ],
+  "kanjiDictionary": {}
+};

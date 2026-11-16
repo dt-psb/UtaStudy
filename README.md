@@ -62,6 +62,90 @@
 | **ギャンブルショット (Gamble Shot)** | 佐倉流星 feat. 重音テトSV | `QOVVWkAXtSg` | 44구절 | 129자 (전수 매핑) |
 | **でまかせなシンフォニー (되는대로 심포니)** | 馬車馬カエデ × ちから feat. 重音テト & ALL | `Gtu2utelMRc` | 83구절 | 131자 (전수 매핑) |
 | **ハローサロウ (Hello Sorrow)** | Aliey:S feat. v flower | `-kXdEsihdvU` | 81구절 | 127자 (전수 매핑) |
+| **運命 (운명) - 던전밥 2기 OP** | sumika | `qabqhNQS-S0` | 70구절 | 93자 (전수 매핑) |
+| **エゴ (Ego)** | sasakure.UK feat. 初音ミク | `79LwIdheZts` | 52구절 | 68자 (전수 매핑) |
+| **ウルトラトレーラー (Ultra Trailer)** | マサラダ feat. 重音テトSV | `Fhg3KsDkMJM` | 67구절 | 128자 (전수 매핑) |
+| **ちっちゃな私 (Chiisana Watashi)** | マサラダ feat. 重音テトSV | `4aFC2oC-wHA` | 30구절 | 29자 (전수 매핑) |
+| **ライアーダンサー (Liar Dancer)** | マサラダ feat. 重音テトSV | `UHbmkxv-874` | 51구절 | 80자 (전수 매핑) |
+| **ゼロトーキング (Zero Talking)** | はるまきごはん feat. 初音ミク | `2INYgH-Gcjk` | 61구절 | 82자 (전수 매핑) |
+| **一輪の詩 (Ichirin no Uta)** | Project Lumina feat. 星界 | `_zhfi_RyF1U` | 65구절 | 92자 (전수 매핑) |
+| **パリィ (Parry)** | 宮守文学 feat. 鏡音レン, 鏡音リン | `p9F__9fciRo` | 96구절 | 128자 (전수 매핑) |
+| **ハレ (Hare / 맑음)** | Project Lumina feat. 知声 | `T9eFcn4vKTI` | 54구절 | 53자 (전수 매핑) |
+| **アイムマイン (I'm Mine)** | halyosy ft. VOCALOIDS | `yVMHWv7hKTE` | 83구절 | 203자 (전수 매핑) |
+| **あっぷりケ (Applique / 아플리케)** | 真島ゆろ feat. 可不 | `TpkZqCopUDA` | 59구절 | 97자 (전수 매핑) |
+| **Ours** | *Luna feat. 初音ミク | `QcpjV43ALCA` | 39구절 | 62자 (전수 매핑) |
+| **フィクション (Fiction)** | sumika | `IKHGAuNaGuA` | 41구절 | 76자 (전수 매핑) |
+| **にっこり^^調査隊のテーマ (Niccori Survey Team Theme)** | WONDERFUL★OPPORTUNITY! feat. 鏡音リン, 鏡音レン | `C_Fc1x_aeFQ` | 85구절 | 118자 (전수 매핑) |
+| **ひゅ〜どろどろ (Hyu~Dorodoro)** | 栗山夕璃 feat. 初音ミク, MEIKO | `8D_7-jNaErg` | 26구절 | 87자 (전수 매핑) |
+| **オーバーレイ・ワールド (Overlay World)** | 雪乃イト feat. 重音テト | `7b4M8utvFb8` | 51구절 | 120자 (전수 매핑) |
+| **25時の情熱 (25-ji no Jounetsu)** | カンザキイオリ feat. VOCALOIDS | `RifILHUOV_w` | 31구절 | 72자 (전수 매핑) |
+| **ミックスナッツ (Mixed Nuts)** | Official HIGE DANDism | `CbH2F0kXgTY` | 33구절 | 103자 (전수 매핑) |
+| **スーツ (Suits)** | カンザキイオリ feat. 重音テト, 初音ミク | `DMEmRL5YGTM` | 54구절 | 115자 (전수 매핑) |
+| **僕らはなんにも悪くない！ (Nothing Wrong With Us!)** | 宮守文学 feat. 初音ミク | `WWD7qemSKyc` | 68구절 | 138자 (전수 매핑) |
+| **水色侵略 (Mizuiro Shinryaku)** | ナユタン星人 feat. 初音ミク | `Mksf3xakH8s` | 60구절 | 75자 (전수 매핑) |
+| **コバルトメモリーズ (Cobalt Memories)** | はるまきごはん feat. 初音ミク | `0X_pI_SCDK8` | 55구절 | 102자 (전수 매핑) |
+| **クローンクローン (Clone Clone)** | Atena feat. GUMI, 鏡音リン | `bmbAm-fKnbQ` | 56구절 | 65자 (전수 매핑) |
+| **アタマモミ (Atamamomi)** | はるまきごはん feat. 初音ミク, ナースロボ_タイプT | `WPXDz834NEo` | 60구절 | 70자 (전수 매핑) |
+| **Ribbon** | sabio feat. 重音テト | `_a-eNWjvw1g` | 39구절 | 74자 (전수 매핑) |
+| **グルグル (Guruguru)** | Omi feat. 重音テト | `Hn6SpfEu2MA` | 52구절 | 86자 (전수 매핑) |
+| **マジック・メイド (Magic Maid)** | MIMI feat. 重音テトSV | `TC80uw4HgCw` | 48구절 | 65자 (전수 매핑) |
+| **星降る海 (Hoshi Furu Umi)** | Aqu3ra feat. 月見ヤチヨ (cv. 早見沙織) | `h5XQqKuek5A` | 40구절 | 95자 (전수 매핑) |
+| **アンドゥ (Undo)** | 宮守文学 feat. 鏡音レン, 鏡音リン | `Nen743brrNA` | 88구절 | 142자 (전수 매핑) |
+| **密かなる交信曲 (Hisokanaru Koushinkyoku)** | 濁茶 feat. 初音ミク | `Ch4RQPG1Tmo` | 30구절 | 106자 (전수 매핑) |
+| **UNIVERCE** | あたたかい水族館 feat. 初音ミク, 音街ウナ | `Q2n-G_SMAEw` | 39구절 | 78자 (전수 매핑) |
+| **テレパシ (Telepathy)** | DECO*27 feat. 初音ミク | `c56TpxfO9q0` | 53구절 | 75자 (전수 매핑) |
+| **溶けちゃいそう (Tokechaisou)** | なみぐる feat. AiSuu | `Q3FjTt2bzoQ` | 41구절 | 56자 (전수 매핑) |
+| **贅沢と君とカプチーノ (Zeitaku to Kimi to Cappuccino)** | shikisai feat. 初音ミク, 鏡音リン | `LPci3mEA5AA` | 67구절 | 105자 (전수 매핑) |
+| **アンコールダンス (Encore Dance)** | MIMI feat. 重音テトSV | `5hgSET4bpbk` | 27구절 | 52자 (전수 매핑) |
+| **お水見ずにいる (Omizu Mizu ni Iru)** | 濁茶 feat. 知声, りむる | `UtVS0YEdOes` | 18구절 | 88자 (전수 매핑) |
+| **お返事まだカナ💦❓おじさん構文😁❗️ (Ohenji Mada Kana? Ojisan Koubun!)** | 雨衣 | `8E8aWeY-pAc` | 84구절 | 91자 (전수 매핑) |
+| **ゔるとぅーむ (Vulthoom)** | 藤原ハガネ feat. flower, 重音テトSV | `4peROn0bCAQ` | 33구절 | 120자 (전수 매핑) |
+| **夏に透明 (Natsu ni Toumei)** | Twinfield feat. 初音ミク | `d8tp0hbDQBM` | 32구절 | 74자 (전수 매핑) |
+| **どりーむもーど (Dream Mode)** | Atena feat. 音街ウナ, 歌愛ユキ | `7Ucwpeg9iXM` | 76구절 | 89자 (전수 매핑) |
+| **ちゅきちゅきポコポコポン (Chukichuki Pokopokopon)** | TAK feat. 初音ミク | `pHakQLbGjaU` | 52구절 | 15자 (전수 매핑) |
+| **ブレインロット (Brain rot)** | 東京真中 feat. 重音テト | `UsjsYMo3O1Q` | 24구절 | 24자 (전수 매핑) |
+| **てんしかあくまか (Tenshi ka Akuma ka)** | WONDERFUL★OPPORTUNITY! feat. 雨衣 | `YC6DLCKhlkY` | 64구절 | 61자 (전수 매핑) |
+| **ドゥーマー (Doomer)** | 東京真中 feat. 重音テト | `YcO-MxPf_Vg` | 44구절 | 31자 (전수 매핑) |
+| **我ら！ゴミ分別団 (Garbage Sorting Squad)** | かてらざわ feat. 重音テト, ずんだもん | `OreUrf87EUE` | 51구절 | 79자 (전수 매핑) |
+| **ヒロインRE♡クエスト (Heroine RE♡Request)** | 삼사 feat. 重音テト, 足立レイ | `VXA0PEjkIGU` | 73구절 | 76자 (전수 매핑) |
+| **いえない (Ienai)** | ひらぎ feat. 初音ミク | `SuP_gK4q2a8` | 26구절 | 82자 (전수 매핑) |
+| **Phonky Donky Crazy** | Chenomio feat. 重音テト | `nzMKs_Xh1Co` | 42구절 | 71자 (전수 매핑) |
+| **アダチ・レイ (Adachi Rei)** | 佐藤ちなみに feat. 足立レイ, 重音テト | `cRnjetMobw8` | 38구절 | 88자 (전수 매핑) |
+| **39** | d0tc0mmie feat. 初音ミク, 重音テトSV | `ZhOyrxdK3Hs` | 19구절 | 0자 (순수 히라가나 곡) |
+| **無宗教クラブ (Gray Zone)** | Parang feat. 初音ミク | `hU7hcBcLLUY` | 51구절 | 22자 (전수 매핑) |
+| **ディスコティックナイト (Discotic Night)** | NEKOZUME feat. 雨衣, 重音テト | `CrfRliqxuYc` | 41구절 | 47자 (전수 매핑) |
+| **拝啓、少年よ (Haikei, Shounen yo)** | Hump Back | `d6i4AtCxrDo` | 29구절 | 42자 (전수 매핑) |
+| **カンケーガール (Kankee Girl)** | マサラダ feat. 重音テト | `5lK9z88taP8` | 56구절 | 76자 (전수 매핑) |
+| **フィクションです。 (Fiction Desu)** | Chenomio feat. 重音テト | `LxVv4QneUuU` | 57구절 | 69자 (전수 매핑) |
+| **ミスエラア (Miss Error)** | Vell feat. 初音ミク | `sRnx3XjcDFs` | 42구절 | 86자 (전수 매핑) |
+| **マギアート (Magiato)** | 煮ル果実 feat. v flower | `IMJVU4ztJI0` | 56구절 | 148자 (전수 매핑) |
+| **キャラクターT (Character T)** | Atena feat. 重音テト, 重音テトSV | `YSBZFVSvqL0` | 83구절 | 102자 (전수 매핑) |
+| **アンタに言ってんの！！！ (Anta ni Itten no!!!)** | ぴーなた feat. 重音テト | `V4elF7---KQ` | 44구절 | 69자 (전수 매핑) |
+| **承認してくださいジーニーさん！ (Approve, Please! Genie)** | TRAP CHICK feat. 重音テト, 音街ウナ | `XKZIQlqVjjk` | 88구절 | 104자 (전수 매핑) |
+| **Take me out** | Omi feat. 重音テト | `L6e6fjlQiL8` | 33구절 | 46자 (전수 매핑) |
+| **子供になっちゃえよ (Kodomo ni Natchae yo)** | 栗山夕璃 feat. flower, 重音テトSV | `JucbynqMPvc` | 34구절 | 49자 (전수 매핑) |
+| **ライフリワード (Life Reward)** | 栗山夕璃 feat. 重音テトSV | `81jeVW4JLXs` | 35구절 | 83자 (전수 매핑) |
+| **ポッペンキュート (Poppen Cute)** | 東京真中 feat. 重音テト | `XYYq-uSeVwY` | 41구절 | 62자 (전수 매핑) |
+| **プラネテス (Planetes)** | seiza feat. 初音ミク | `KcCNaBP06dM` | 20구절 | 73자 (전수 매핑) |
+| **ヤラララ (YARARARA)** | ABM feat. 重音テト | `T24rF_x0TmQ` | 57구절 | 52자 (전수 매핑) |
+| **しらないプラネット (Shiranai Planet)** | shikisai feat. 初音ミク, 鏡音リン | `TqTmTqIxcGQ` | 38구절 | 48자 (전수 매핑) |
+| **海底の彗星 (Kaitei no Suisei)** | まきゃヴぇり feat. 鏡音リン, 鏡音レン | `s-qMpqq791M` | 67구절 | 95자 (전수 매핑) |
+| **アクマバライ (Akumabarai / Exorcist)** | うちのボカロは様子がおかしい feat. 雨衣, Gemini, 初音ミク | `TzH5BsJj81Y` | 37구절 | 61자 (전수 매핑) |
+| **スパイラル・メロディーズ (Spiral Melodies)** | Omoi feat. 初音ミク with メロエッタ | `yNw89sQOKas` | 40구절 | 48자 (전수 매핑) |
+| **君のココロをハッキング (Kimi no Kokoro o Hacking)** | ki-you feat. りむる | `-pIGv9GlhEU` | 41구절 | 66자 (전수 매핑) |
+| **最高のMVの作りかた (Saikou no MV no Tsukurikata)** | 阿修 feat. 初音ミク | `fcVC8FN_Qx8` | 55구절 | 144자 (전수 매핑) |
+| **マイルストーン (Milestone)** | しゃいと feat. 音街ウナ | `s5Jj3aE9GAk` | 59구절 | 70자 (전수 매핑) |
+| **オイメアルシー (oimearcy)** | 88 / nihachi feat. 知声 | `9v_0TZ4XMuw` | 29구절 | 41자 (전수 매핑) |
+| **あなたのアーカイブ (Anata no Archive)** | 真島ゆろ feat. 初音ミク | `75KQXOArrTE` | 56구절 | 91자 (전수 매핑) |
+| **connecting the dots** | 蒼天のラピスラズリ feat. 初音ミク, IA | `Kz9hfvwfFXk` | 36구절 | 39자 (전수 매핑) |
+| **こころこぼれ (Kokoro Kobore)** | Omi feat. 重音テト | `Xtc5GiharaE` | 35구절 | 98자 (전수 매핑) |
+| **ウタカタナ (Utakatana)** | halyosy feat. KAITO, MEIKO, 巡音ルカ | `9RgvGM33aSM` | 83구절 | 186자 (전수 매핑) |
+| **時間厳守！どんびーれいと！ (Jikan Genshu! Don't Be Late!)** | いずん≒ feat. 音街ウナ | `odGELwGS2Ko` | 40구절 | 100자 (전수 매핑) |
+| **パカパカバカリ (Pakapaka Bakari)** | ぼっちぼろまる | `HGaXGRQrKsY` | 54구절 | 68자 (전수 매핑) |
+| **ハオ (Hao)** | DECO*27 feat. 初音ミク | `3GzRDW3hZ1k` | 46구절 | 82자 (전수 매핑) |
+| **愛属性 (Ai Zokusei)** | ピノキオピー feat. 初音ミク | `Xx1TnVObQ0k` | 78구절 | 130자 (전수 매핑) |
+| **完璧超人だ！ (Kanpeki Choujin da!)** | かてらざわ feat. ずんだもん, Yi Xi | `ql-DCZqjLNk` | 60구절 | 107자 (전수 매핑) |
+| **惑星ウェブスター (Wakusei Webster)** | Atena feat. 蒼姫ラピス, メルリ | `UlhFuCzxNbk` | 61구절 | 80자 (전수 매핑) |
 
 ---
 
@@ -71,7 +155,7 @@
 - **Styling**: Tailwind CSS, CSS Flexbox Ruby Zero-Gap Architecture
 - **Media**: YouTube IFrame Player API
 - **Icons**: Lucide React
-- **Storage**: Browser LocalStorage (`utastudy_songs_v9`)
+- **Storage**: Browser LocalStorage (`utastudy_songs_v12`)
 - **Fonts**:
   - 한글/공통: Pretendard (Gothic / Sans)
   - 일본어 명조: Shippori Mincho B1 (Google Fonts)

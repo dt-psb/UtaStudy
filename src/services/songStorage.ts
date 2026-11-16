@@ -1,9 +1,11 @@
 import type { Song } from '../types/song';
+import { emeraldSong } from '../data/songs/emerald';
 
-const STORAGE_KEY = 'utastudy_songs_v10';
+const STORAGE_KEY = 'utastudy_songs_v28';
 const TRASH_STORAGE_KEY = 'utastudy_trash_songs_v1';
+const DELETED_STORAGE_KEY = 'utastudy_deleted_song_ids_v1';
 
-// Minimal safe fallback song in case all files in src/data/songs/ are removed
+// Minimal safe fallback song in case files are missing
 const FALLBACK_EMERALD_SONG: Song = {
   id: 'kitani-emerald-safe-fallback',
   title: 'エメラルド (Emerald)',
@@ -71,16 +73,73 @@ export const sanitizeSong = (raw: any): Song => {
   };
 };
 
-// Dynamically discover all song files in src/data/songs/ without hardcoded static imports
-// Even if the user deletes, renames, or moves files out of the folder, NO compile errors occur!
-export const loadBuiltinSongs = (): Song[] => {
+// Deduplicate songs by id and youtubeId to prevent any duplicate entries (e.g. 2 copies of I'm Mine)
+export const deduplicateSongs = (songs: Song[]): Song[] => {
+  const seenIds = new Set<string>();
+  const seenYtIds = new Set<string>();
+  const result: Song[] = [];
+
+  for (const s of songs) {
+    if (!s || !s.id) continue;
+    const yId = (s.youtubeId || '').trim();
+    if (seenIds.has(s.id)) continue;
+    if (yId && seenYtIds.has(yId)) continue;
+
+    seenIds.add(s.id);
+    if (yId) seenYtIds.add(yId);
+    result.push(s);
+  }
+  return result;
+};
+
+// Permanently deleted song ID tracking
+export const getDeletedSongIds = (): Set<string> => {
+  const set = new Set<string>();
+  // Songs explicitly deleted by user
+  set.add('lumina-hare');
+  set.add('gen-hoshino-toki-yo');
+  try {
+    const raw = localStorage.getItem(DELETED_STORAGE_KEY);
+    if (raw) {
+      const list: string[] = JSON.parse(raw);
+      if (Array.isArray(list)) {
+        list.forEach(id => set.add(id));
+      }
+    }
+  } catch (e) {
+    console.error('Failed to read deleted song ids:', e);
+  }
+  return set;
+};
+
+export const addDeletedSongId = (id: string) => {
+  try {
+    const set = getDeletedSongIds();
+    set.add(id);
+    localStorage.setItem(DELETED_STORAGE_KEY, JSON.stringify(Array.from(set)));
+  } catch (e) {
+    console.error('Failed to record deleted song id:', e);
+  }
+};
+
+export const removeDeletedSongId = (id: string) => {
+  try {
+    const set = getDeletedSongIds();
+    set.delete(id);
+    localStorage.setItem(DELETED_STORAGE_KEY, JSON.stringify(Array.from(set)));
+  } catch (e) {
+    console.error('Failed to remove deleted song id:', e);
+  }
+};
+
+// Discover all valid songs from src/data/songs/*.ts (auto-detects all songs created on disk!)
+export const loadDiskSongs = (): Song[] => {
   try {
     const modules = import.meta.glob('../data/songs/*.ts', { eager: true });
     const discovered: Song[] = [];
 
     for (const [, mod] of Object.entries(modules)) {
       const exported = mod as any;
-      // Find any Song object exported from the file
       for (const val of Object.values(exported)) {
         if (val && typeof val === 'object' && ('lyrics' in (val as any) || 'youtubeId' in (val as any))) {
           discovered.push(sanitizeSong(val));
@@ -89,13 +148,23 @@ export const loadBuiltinSongs = (): Song[] => {
     }
 
     if (discovered.length > 0) {
-      return discovered;
+      return deduplicateSongs(discovered);
     }
   } catch (err) {
-    console.warn('Failed to load dynamic song modules, using fallback:', err);
+    console.warn('Failed to discover songs from disk:', err);
   }
 
-  return [FALLBACK_EMERALD_SONG];
+  return [sanitizeSong(emeraldSong)];
+};
+
+// Default song: Emerald is the fallback
+export const loadBuiltinSongs = (): Song[] => {
+  try {
+    return [sanitizeSong(emeraldSong)];
+  } catch (err) {
+    console.warn('Failed to load emerald song, using fallback:', err);
+    return [FALLBACK_EMERALD_SONG];
+  }
 };
 
 export const initialSongs: Song[] = loadBuiltinSongs();
@@ -122,46 +191,96 @@ export const backupToTrash = (song: Song) => {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(song)
     }).catch(err => {
-      // In production or offline, fail gracefully without blocking
       console.warn('Disk trash backup skipped:', err);
     });
   } catch {}
 };
 
+// Get stored songs from localStorage (Single Source of Truth with auto-detection of disk songs & deduplication)
 export const getStoredSongs = (): Song[] => {
-  const currentBuiltins = loadBuiltinSongs();
+  const diskSongs = loadDiskSongs();
+  const deletedIds = getDeletedSongIds();
+
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return currentBuiltins;
-    const stored: any[] = JSON.parse(raw);
-    
-    // Sanitize all stored songs
-    const sanitized = stored
-      .filter(s => s && typeof s === 'object')
-      .map(sanitizeSong)
-      .filter(s => 
-        !s.id.toLowerCase().includes('yoasobi') && 
-        !s.id.toLowerCase().includes('gunjo') && 
-        !s.id.toLowerCase().includes('yoru')
-      );
+    if (!raw) {
+      // First visit: initialize with all available non-deleted disk songs
+      const initial = deduplicateSongs(diskSongs.filter(s => !deletedIds.has(s.id)));
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(initial));
+      } catch {}
+      return initial;
+    }
 
-    // Merge built-in songs with user saved songs
-    const songMap = new Map<string, Song>();
-    currentBuiltins.forEach(s => songMap.set(s.id, s));
-    sanitized.forEach(s => songMap.set(s.id, s));
-    
-    const result = Array.from(songMap.values());
-    return result.length > 0 ? result : currentBuiltins;
+    const stored: any[] = JSON.parse(raw);
+    const currentStored: Song[] = Array.isArray(stored)
+      ? deduplicateSongs(
+          stored
+            .filter(s => s && typeof s === 'object')
+            .map(sanitizeSong)
+            .filter(s => !deletedIds.has(s.id))
+        )
+      : [];
+
+    // Build map of latest non-deleted disk songs to ensure disk updates always reflect in storage
+    const diskSongMap = new Map<string, Song>();
+    for (const dSong of diskSongs) {
+      if (!deletedIds.has(dSong.id)) {
+        diskSongMap.set(dSong.id, dSong);
+        const yId = (dSong.youtubeId || '').trim();
+        if (yId) diskSongMap.set(yId, dSong);
+      }
+    }
+
+    // Update matching stored songs with latest disk data, while preserving custom user songs & ordering
+    const updatedStored = currentStored.map(s => {
+      const fromDisk = diskSongMap.get(s.id) || (s.youtubeId ? diskSongMap.get(s.youtubeId.trim()) : undefined);
+      return fromDisk ? fromDisk : s;
+    });
+
+    const existingIds = new Set<string>(updatedStored.map(s => s.id));
+    const existingYtIds = new Set<string>(
+      updatedStored.map(s => (s.youtubeId || '').trim()).filter(Boolean)
+    );
+
+    // Find new songs on disk that the user hasn't seen/stored yet and hasn't deleted!
+    const newlyAddedSongs: Song[] = [];
+    for (const dSong of diskSongs) {
+      if (deletedIds.has(dSong.id)) continue;
+      const yId = (dSong.youtubeId || '').trim();
+      if (existingIds.has(dSong.id) || (yId && existingYtIds.has(yId))) {
+        continue;
+      }
+      newlyAddedSongs.push(dSong);
+      existingIds.add(dSong.id);
+      if (yId) existingYtIds.add(yId);
+    }
+
+    // Prepend newly added songs to the top of the playlist so they are immediately accessible!
+    const merged = deduplicateSongs([...newlyAddedSongs, ...updatedStored]);
+
+    // Save back deduplicated clean array to localStorage
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(merged));
+    } catch {}
+
+    return merged.length > 0 ? merged : [sanitizeSong(emeraldSong)];
   } catch (err) {
     console.error('Failed to load songs from localStorage:', err);
-    return currentBuiltins;
+    return deduplicateSongs(diskSongs.filter(s => !deletedIds.has(s.id)));
   }
 };
 
+// Save newly added song to storage
 export const saveCustomSong = (newSong: Song): Song[] => {
   const sanitized = sanitizeSong(newSong);
+  // Unmark from deleted list if user explicitly re-adds it
+  removeDeletedSongId(sanitized.id);
+
   const currentSongs = getStoredSongs();
-  const existsIndex = currentSongs.findIndex(s => s.id === sanitized.id);
+  const existsIndex = currentSongs.findIndex(
+    s => s.id === sanitized.id || (s.youtubeId && s.youtubeId === sanitized.youtubeId)
+  );
   
   let updated: Song[];
   if (existsIndex >= 0) {
@@ -171,12 +290,13 @@ export const saveCustomSong = (newSong: Song): Song[] => {
     updated = [sanitized, ...currentSongs];
   }
 
+  const cleanUpdated = deduplicateSongs(updated);
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(updated));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(cleanUpdated));
   } catch (e) {
     console.error('Failed to save to localStorage:', e);
   }
-  return updated;
+  return cleanUpdated;
 };
 
 // Safe delete with automatic backup to 'trash/' folder & localStorage trash
@@ -185,27 +305,30 @@ export const deleteSongById = (id: string): Song[] => {
   const targetSong = current.find(s => s.id === id);
   if (targetSong) {
     backupToTrash(targetSong);
+    // If target has a youtubeId, ensure it's tracked
+    addDeletedSongId(id);
+  } else {
+    addDeletedSongId(id);
   }
 
+  // 1. Remove from active song list
   const updated = current.filter(s => s.id !== id);
+  const cleanUpdated = deduplicateSongs(updated);
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(updated));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(cleanUpdated));
   } catch (e) {
     console.error('Failed to save after deletion:', e);
   }
-  return updated;
+  return cleanUpdated;
 };
 
 // Restore default songs without wiping custom user songs
 export const restoreDefaultSongs = (): Song[] => {
-  const currentBuiltins = loadBuiltinSongs();
+  const diskSongs = loadDiskSongs();
   const currentSongs = getStoredSongs();
 
-  const songMap = new Map<string, Song>();
-  currentSongs.forEach(s => songMap.set(s.id, s));
-  currentBuiltins.forEach(s => songMap.set(s.id, s));
-
-  const restored = Array.from(songMap.values());
+  // Deduplicate and combine
+  const restored = deduplicateSongs([...currentSongs, ...diskSongs.filter(s => s.id !== 'lumina-hare' && s.id !== 'gen-hoshino-toki-yo')]);
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(restored));
   } catch (e) {
@@ -214,18 +337,17 @@ export const restoreDefaultSongs = (): Song[] => {
   return restored;
 };
 
-// Complete reset (all existing songs backed up to trash first!)
+// Complete reset (all existing songs backed up to trash first, resets to only Emerald)
 export const resetSongsToDefault = (): Song[] => {
   const currentSongs = getStoredSongs();
-  // Backup all songs to trash before reset so nothing is lost permanently!
   currentSongs.forEach(backupToTrash);
 
-  const currentBuiltins = loadBuiltinSongs();
+  const defaultBuiltins = loadBuiltinSongs(); // [emeraldSong]
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(currentBuiltins));
+    localStorage.removeItem(DELETED_STORAGE_KEY);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(defaultBuiltins));
   } catch (e) {
     console.error('Failed to reset localStorage:', e);
   }
-  return currentBuiltins;
+  return defaultBuiltins;
 };
-

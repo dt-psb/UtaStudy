@@ -23,6 +23,21 @@ export const YouTubePlayer: React.FC<YouTubePlayerProps> = ({
   const [isReady, setIsReady] = useState(false);
   const [hasError, setHasError] = useState(false);
 
+  // Always keep refs to latest callbacks to eliminate stale closures in YT Player events
+  const onEndedRef = useRef(onEnded);
+  const onTimeUpdateRef = useRef(onTimeUpdate);
+  const onPlayerReadyRef = useRef(onPlayerReady);
+  const playerRefCallbackRef = useRef(playerRefCallback);
+  const autoPlayRef = useRef(autoPlay);
+
+  useEffect(() => {
+    onEndedRef.current = onEnded;
+    onTimeUpdateRef.current = onTimeUpdate;
+    onPlayerReadyRef.current = onPlayerReady;
+    playerRefCallbackRef.current = playerRefCallback;
+    autoPlayRef.current = autoPlay;
+  });
+
   // Load YouTube IFrame API script once
   useEffect(() => {
     if (!window.YT) {
@@ -33,24 +48,45 @@ export const YouTubePlayer: React.FC<YouTubePlayerProps> = ({
     }
   }, []);
 
-  // Initialize or update player
+  // Tracking timer functions
+  const stopTracking = () => {
+    if (timerRef.current !== null) {
+      clearInterval(timerRef.current);
+      timerRef.current = null;
+    }
+  };
+
+  const startTracking = () => {
+    stopTracking();
+    timerRef.current = window.setInterval(() => {
+      if (playerRef.current && typeof playerRef.current.getCurrentTime === 'function') {
+        const time = playerRef.current.getCurrentTime();
+        onTimeUpdateRef.current?.(time);
+      }
+    }, 100); // 100ms interval for smooth sync
+  };
+
+  // Initialize or update player on videoId change
   useEffect(() => {
     let isCancelled = false;
 
     const createPlayer = () => {
       if (!containerRef.current || !window.YT || !window.YT.Player) return;
 
-      // If player already exists, load the new videoId
-      if (playerRef.current) {
+      // If player already exists and is functional, reuse it by loading the new video
+      if (playerRef.current && typeof playerRef.current.loadVideoById === 'function') {
         try {
-          if (autoPlay) {
+          setHasError(false);
+          setIsReady(true);
+          playerRefCallbackRef.current?.(playerRef.current);
+          if (autoPlayRef.current) {
             playerRef.current.loadVideoById(videoId);
           } else {
             playerRef.current.cueVideoById(videoId);
           }
           return;
-        } catch {
-          // If load failed, destroy and recreate
+        } catch (err) {
+          console.warn('Failed to loadVideoById on existing player, recreating:', err);
           try { playerRef.current.destroy(); } catch {}
           playerRef.current = null;
         }
@@ -62,7 +98,7 @@ export const YouTubePlayer: React.FC<YouTubePlayerProps> = ({
       playerRef.current = new window.YT.Player(containerRef.current, {
         videoId,
         playerVars: {
-          autoplay: autoPlay ? 1 : 0,
+          autoplay: autoPlayRef.current ? 1 : 0,
           controls: 1,
           rel: 0,
           modestbranding: 1,
@@ -71,55 +107,45 @@ export const YouTubePlayer: React.FC<YouTubePlayerProps> = ({
           origin: window.location.origin
         },
         events: {
-          onReady: (event) => {
+          onReady: (event: any) => {
             if (isCancelled) return;
             setIsReady(true);
-            onPlayerReady?.(event.target);
-            playerRefCallback?.(event.target);
-            if (autoPlay) {
+            setHasError(false);
+            onPlayerReadyRef.current?.(event.target);
+            playerRefCallbackRef.current?.(event.target);
+            if (autoPlayRef.current) {
               try { event.target.playVideo(); } catch {}
             }
           },
-          onStateChange: (event) => {
+          onStateChange: (event: any) => {
             // Start polling when playing, pause when paused/ended
             if (event.data === window.YT?.PlayerState.PLAYING) {
+              setHasError(false);
               startTracking();
             } else if (event.data === window.YT?.PlayerState.ENDED) {
               stopTracking();
               if (playerRef.current && typeof playerRef.current.getCurrentTime === 'function') {
-                onTimeUpdate(playerRef.current.getCurrentTime());
+                onTimeUpdateRef.current?.(playerRef.current.getCurrentTime());
               }
-              onEnded?.();
+              onEndedRef.current?.();
             } else {
               stopTracking();
               // Update one last time
               if (playerRef.current && typeof playerRef.current.getCurrentTime === 'function') {
-                onTimeUpdate(playerRef.current.getCurrentTime());
+                onTimeUpdateRef.current?.(playerRef.current.getCurrentTime());
               }
             }
           },
-          onError: () => {
+          onError: (event: any) => {
+            console.warn('YouTube Player error event:', event?.data);
             setHasError(true);
+            // If current song video failed/unavailable and autoPlayNext is active, auto-advance
+            setTimeout(() => {
+              onEndedRef.current?.();
+            }, 2500);
           }
         }
       });
-    };
-
-    const startTracking = () => {
-      stopTracking();
-      timerRef.current = window.setInterval(() => {
-        if (playerRef.current && typeof playerRef.current.getCurrentTime === 'function') {
-          const time = playerRef.current.getCurrentTime();
-          onTimeUpdate(time);
-        }
-      }, 100); // 100ms interval for smooth sync
-    };
-
-    const stopTracking = () => {
-      if (timerRef.current !== null) {
-        clearInterval(timerRef.current);
-        timerRef.current = null;
-      }
     };
 
     if (window.YT && window.YT.Player) {
@@ -151,7 +177,7 @@ export const YouTubePlayer: React.FC<YouTubePlayerProps> = ({
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-slate-950/90 z-10 p-6 text-center text-rose-300">
           <p className="font-semibold text-lg mb-2">영상을 재생할 수 없습니다</p>
           <p className="text-xs text-slate-400 max-w-sm">
-            동영상이 외부 임베드를 허용하지 않거나 비공개 상태일 수 있습니다. 다른 유튜브 ID를 확인해 주세요.
+            동영상이 외부 임베드를 허용하지 않거나 비공개 상태일 수 있습니다. 다음 곡으로 자동 이동하거나 목록에서 다른 곡을 선택해 주세요.
           </p>
         </div>
       )}

@@ -30,6 +30,7 @@ export interface Song {
   youtubeId: string;
   thumbnail?: string;
   duration?: number; // 전체 길이(초)
+  endTime?: number;
   lyrics: LyricLine[];
   kanjiDictionary: Record<string, KanjiDetail>;
 }
