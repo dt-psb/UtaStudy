@@ -1,7 +1,7 @@
 import type { Song } from '../types/song';
 import { emeraldSong } from '../data/songs/emerald';
 
-const STORAGE_KEY = 'utastudy_songs_v31';
+const STORAGE_KEY = 'utastudy_songs_v32';
 const TRASH_STORAGE_KEY = 'utastudy_trash_songs_v1';
 const DELETED_STORAGE_KEY = 'utastudy_deleted_song_ids_v1';
 
@@ -75,6 +75,27 @@ const FALLBACK_EMERALD_SONG: Song = {
   }
 };
 
+const parseTimestampToSeconds = (val: any): number => {
+  if (typeof val === 'number') return isNaN(val) ? 0 : val;
+  if (typeof val === 'string') {
+    const trimmed = val.trim();
+    if (trimmed.includes(':')) {
+      const parts = trimmed.split(':');
+      if (parts.length === 3) {
+        const sec = Number(parts[0]) * 3600 + Number(parts[1]) * 60 + Number(parts[2]);
+        return isNaN(sec) ? 0 : sec;
+      }
+      if (parts.length === 2) {
+        const sec = Number(parts[0]) * 60 + Number(parts[1]);
+        return isNaN(sec) ? 0 : sec;
+      }
+    }
+    const num = Number(trimmed);
+    return isNaN(num) ? 0 : num;
+  }
+  return 0;
+};
+
 // Validate and sanitize any raw song object to prevent runtime crashes
 export const sanitizeSong = (raw: any): Song => {
   if (!raw || typeof raw !== 'object') {
@@ -95,14 +116,11 @@ export const sanitizeSong = (raw: any): Song => {
 
   const lyrics = Array.isArray(raw.lyrics)
     ? raw.lyrics.map((l: any, idx: number) => {
-        const start = typeof l.start === 'number'
-          ? l.start
-          : (typeof l.startTime === 'number'
-            ? l.startTime
-            : (typeof l.time === 'number'
-              ? l.time
-              : (Number(l.start ?? l.startTime ?? l.time) || 0)));
-        const end = typeof l.end === 'number' ? l.end : (typeof l.endTime === 'number' ? l.endTime : (Number(l.end ?? l.endTime) || start + 4));
+        const startRaw = l.start ?? l.startTime ?? l.time;
+        const start = parseTimestampToSeconds(startRaw);
+        const endRaw = l.end ?? l.endTime;
+        const endParsed = parseTimestampToSeconds(endRaw);
+        const end = endParsed > start ? endParsed : start + 4;
         const rubyText = typeof l.rubyText === 'string' ? l.rubyText : (typeof l.ruby === 'string' ? l.ruby : (typeof l.ruby_text === 'string' ? l.ruby_text : (l.text || '')));
         const translation = typeof l.translation === 'string' ? l.translation : (l.korean || '');
         return {
@@ -277,7 +295,7 @@ export const backupToTrash = (song: Song) => {
 export const getStoredSongs = (): Song[] => {
   // Purge any stale legacy storage keys
   try {
-    ['utastudy_songs_v28', 'utastudy_songs_v29', 'utastudy_songs_v30'].forEach(k => localStorage.removeItem(k));
+    ['utastudy_songs_v28', 'utastudy_songs_v29', 'utastudy_songs_v30', 'utastudy_songs_v31'].forEach(k => localStorage.removeItem(k));
   } catch {}
 
   const diskSongs = loadDiskSongs().filter(s => !isDeletedSong(s));

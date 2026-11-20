@@ -8,520 +8,520 @@
   "lyrics": [
     {
       "id": 1,
-      "start": "00:00:01.285",
-      "end": "00:00:02.987",
+      "start": 1.28,
+      "end": 2.99,
       "rubyText": "救[すく]えない歌[うた]を歌[うた]って",
       "translation": "구원하지 못할 노래를 부르곤",
       "romaji": "sukuenai uta o utatte"
     },
     {
       "id": 2,
-      "start": "00:00:02.987",
-      "end": "00:00:04.722",
+      "start": 2.99,
+      "end": 4.72,
       "rubyText": "塞[ふさ]ぎ込[こ]むようにキスをして",
       "translation": "우울감에 빠지듯 키스를 하고",
       "romaji": "fusagikomu you ni kisu o shite"
     },
     {
       "id": 3,
-      "start": "00:00:04.722",
-      "end": "00:00:06.423",
+      "start": 4.72,
+      "end": 6.42,
       "rubyText": "その 後[あと]はどうしよっか",
       "translation": "그 다음에는 어떻게 할까?",
       "romaji": "sono ato wa dou shiyok ka"
     },
     {
       "id": 4,
-      "start": "00:00:06.423",
-      "end": "00:00:08.158",
+      "start": 6.42,
+      "end": 8.16,
       "rubyText": "二人[ふたり] 桜[さくら]でも見[み]ようか",
       "translation": "둘이서 벚꽃이라도 볼까",
       "romaji": "futari sakura demo miyou ka"
     },
     {
       "id": 5,
-      "start": "00:00:08.158",
-      "end": "00:00:09.860",
+      "start": 8.16,
+      "end": 9.86,
       "rubyText": "いつまで経[た]っても",
       "translation": "아무리 시간이 흘러도",
       "romaji": "itsumade tattemo"
     },
     {
       "id": 6,
-      "start": "00:00:09.860",
-      "end": "00:00:11.595",
+      "start": 9.86,
+      "end": 11.6,
       "rubyText": "僕[ぼく]らは大人[おとな]にはなれない",
       "translation": "우리는 어른이 될 수 없어",
       "romaji": "bokura wa otona ni wa narenai"
     },
     {
       "id": 7,
-      "start": "00:00:11.595",
-      "end": "00:00:13.731",
+      "start": 11.6,
+      "end": 13.73,
       "rubyText": "どうかそれでも",
       "translation": "그렇더라도 부디",
       "romaji": "douka soredemo"
     },
     {
       "id": 8,
-      "start": "00:00:14.598",
-      "end": "00:00:15.432",
+      "start": 14.6,
+      "end": 15.43,
       "rubyText": "笑[わら]っていて欲[ほ]しいんだ",
       "translation": "계속 웃어줬으면 좋겠어",
       "romaji": "waratteite hoshii nda"
     },
     {
       "id": 9,
-      "start": "00:00:28.746",
-      "end": "00:00:30.014",
+      "start": 28.75,
+      "end": 30.01,
       "rubyText": "いつのことだっけ？",
       "translation": "언제였더라?",
       "romaji": "itsu no koto dakke?"
     },
     {
       "id": 10,
-      "start": "00:00:30.014",
-      "end": "00:00:32.182",
+      "start": 30.01,
+      "end": 32.18,
       "rubyText": "投[な]げた紙飛行機[かみひこうき]が飛[と]び去[さ]ってったこと",
       "translation": "던졌던 종이비행기가 그대로 날아가버렸던 게",
       "romaji": "nageta kamihikouki ga tobisattetta koto"
     },
     {
       "id": 11,
-      "start": "00:00:32.182",
-      "end": "00:00:33.417",
+      "start": 32.18,
+      "end": 33.42,
       "rubyText": "指[ゆび]から放[はな]って",
       "translation": "손끝에서 떠나서",
       "romaji": "yubi kara hanatte"
     },
     {
       "id": 12,
-      "start": "00:00:33.417",
-      "end": "00:00:35.586",
+      "start": 33.42,
+      "end": 35.59,
       "rubyText": "吸[す]い込[こ]まれるように空[そら]へ消[き]えてったんだ",
       "translation": "마치 빨려들어가듯 하늘로 사라졌어",
       "romaji": "suikomareru you ni sora e kietetta nda"
     },
     {
       "id": 13,
-      "start": "00:00:35.586",
-      "end": "00:00:36.887",
+      "start": 35.59,
+      "end": 36.89,
       "rubyText": "そんなこともあったね",
       "translation": "그런 일도 있었지",
       "romaji": "sonna koto mo atta ne"
     },
     {
       "id": 14,
-      "start": "00:00:36.887",
-      "end": "00:00:39.023",
+      "start": 36.89,
+      "end": 39.02,
       "rubyText": "入道雲[にゅうどうぐも]に呑[の]まれて消[き]えた紙切[かみぎ]れが",
       "translation": "적란운에 삼켜져 사라진 그 종잇조각이",
       "romaji": "nyuudougumo ni nomarete kieta kamigire ga"
     },
     {
       "id": 15,
-      "start": "00:00:39.023",
-      "end": "00:00:40.290",
+      "start": 39.02,
+      "end": 40.29,
       "rubyText": "羨[うらや]ましかった",
       "translation": "부러웠어",
       "romaji": "urayamashikatta"
     },
     {
       "id": 16,
-      "start": "00:00:40.290",
-      "end": "00:00:42.459",
+      "start": 40.29,
+      "end": 42.46,
       "rubyText": "僕[ぼく]らもあんな風[ふう]に飛[と]べたらいいのにね",
       "translation": "우리도 그렇게 날 수 있었다면 좋을 텐데",
       "romaji": "bokura mo anna fuu ni tobetara ii no ni ne"
     },
     {
       "id": 17,
-      "start": "00:00:42.459",
-      "end": "00:00:43.727",
+      "start": 42.46,
+      "end": 43.73,
       "rubyText": "いつのことだっけ？",
       "translation": "언제였더라?",
       "romaji": "itsu no koto dakke?"
     },
     {
       "id": 18,
-      "start": "00:00:43.727",
-      "end": "00:00:45.896",
+      "start": 43.73,
+      "end": 45.9,
       "rubyText": "曇[くも]る窓[まど]に指[ゆび]で世界[せかい]を描[えが]いたこと",
       "translation": "김이 서린 창문에 손가락으로 세상을 그렸던 게",
       "romaji": "kumoru mado ni yubi de sekai o egaita koto"
     },
     {
       "id": 19,
-      "start": "00:00:45.896",
-      "end": "00:00:47.164",
+      "start": 45.9,
+      "end": 47.16,
       "rubyText": "なぞってく度[たび]に",
       "translation": "손으로 그려갈수록",
       "romaji": "nazotteku tabi ni"
     },
     {
       "id": 20,
-      "start": "00:00:47.164",
-      "end": "00:00:49.333",
+      "start": 47.16,
+      "end": 49.33,
       "rubyText": "澄[す]んでいく青空[あおぞら]がどうも綺麗[きれい]だった",
       "translation": "맑아져가는 푸른 하늘이 정말 아름다웠어",
       "romaji": "sundeiku aozora ga doumo kirei datta"
     },
     {
       "id": 21,
-      "start": "00:00:49.333",
-      "end": "00:00:50.601",
+      "start": 49.33,
+      "end": 50.6,
       "rubyText": "そんなこともあったね",
       "translation": "그런 일도 있었지",
       "romaji": "sonna koto mo atta ne"
     },
     {
       "id": 22,
-      "start": "00:00:50.601",
-      "end": "00:00:52.770",
+      "start": 50.6,
+      "end": 52.77,
       "rubyText": "言葉[ことば]だけで紡[つむ]いだ僕[ぼく]らのユートピア",
       "translation": "말만으로 만들어낸 우리의 유토피아는",
       "romaji": "kotoba dake de tsumuida bokura no yuutopia"
     },
     {
       "id": 23,
-      "start": "00:00:52.770",
-      "end": "00:00:54.038",
+      "start": 52.77,
+      "end": 54.04,
       "rubyText": "嘘[うそ]じゃなかったよね",
       "translation": "거짓이 아니었단 말이야",
       "romaji": "uso ja nakatta yo ne"
     },
     {
       "id": 24,
-      "start": "00:00:54.038",
-      "end": "00:00:56.206",
+      "start": 54.04,
+      "end": 56.21,
       "rubyText": "空想[くうそう]ばかりが僕[ぼく]らの現実[げんじつ]だった",
       "translation": "공상만이 우리의 현실이었어",
       "romaji": "kuusou bakari ga bokura no genjitsu datta"
     },
     {
       "id": 25,
-      "start": "00:00:56.607",
-      "end": "00:01:00.010",
+      "start": 56.61,
+      "end": 60.01,
       "rubyText": "日々[ひび]は揺[ゆ]らぐように　夜[よる]を揺蕩[たゆた]うように",
       "translation": "하루하루는 요동치듯, 밤을 떠돌듯이",
       "romaji": "hibi wa yuragu you ni yoru o tayutau you ni"
     },
     {
       "id": 26,
-      "start": "00:01:00.010",
-      "end": "00:01:03.414",
+      "start": 60.01,
+      "end": 63.41,
       "rubyText": "「おやすみ」って言[い]われるのは　やっぱり怖[こわ]いままで",
       "translation": "「잘 자」라는 인사를 듣는 건 역시 아직 무서워",
       "romaji": "\"oyasumi\" tte iwareru no wa yappari kowai mama de"
     },
     {
       "id": 27,
-      "start": "00:01:03.414",
-      "end": "00:01:06.417",
+      "start": 63.41,
+      "end": 66.42,
       "rubyText": "君[きみ]が笑[わら]うように　僕[ぼく]が泣[な]かないように",
       "translation": "네가 웃기를, 내가 울지 않기를",
       "romaji": "kimi ga warau you ni boku ga nakanai you ni"
     },
     {
       "id": 28,
-      "start": "00:01:06.417",
-      "end": "00:01:07.718",
+      "start": 66.42,
+      "end": 67.72,
       "rubyText": "って願[ねが]ったまま",
       "translation": "그렇게 바라면서",
       "romaji": "tte negatta mama"
     },
     {
       "id": 29,
-      "start": "00:01:10.287",
-      "end": "00:01:13.724",
+      "start": 70.29,
+      "end": 73.72,
       "rubyText": "救[すく]えない歌[うた]を歌[うた]って　塞[ふさ]ぎ込[こ]むようにキスをして",
       "translation": "구원하지 못할 노래를 부르곤 우울감에 빠지듯 키스를 하고",
       "romaji": "sukuenai uta o utatte fusagikomu you ni kisu o shite"
     },
     {
       "id": 30,
-      "start": "00:01:13.724",
-      "end": "00:01:17.161",
+      "start": 73.72,
+      "end": 77.16,
       "rubyText": "その 後[あと]はどうしようか　二人[ふたり]　桜[さくら]でも見[み]ようか",
       "translation": "그 다음에는 어떻게 할까? 둘이서 벚꽃이라도 볼까",
       "romaji": "sono ato wa dou shiyou ka futari sakura demo miyou ka"
     },
     {
       "id": 31,
-      "start": "00:01:17.161",
-      "end": "00:01:20.597",
+      "start": 77.16,
+      "end": 80.6,
       "rubyText": "いつまで経[た]っても　僕[ぼく]らは大人[おとな]にはなれない",
       "translation": "아무리 시간이 흘러도 우리는 어른이 될 수 없어",
       "romaji": "itsumade tattemo bokura wa otona ni wa narenai"
     },
     {
       "id": 32,
-      "start": "00:01:20.597",
-      "end": "00:01:24.001",
+      "start": 80.6,
+      "end": 84.0,
       "rubyText": "どうかそれでも　笑[わら]っていて欲[ほ]しいんだ",
       "translation": "그렇더라도 부디 계속 웃어줬으면 좋겠어",
       "romaji": "douka soredemo waratteite hoshii nda"
     },
     {
       "id": 33,
-      "start": "00:01:39.016",
-      "end": "00:01:41.185",
+      "start": 99.02,
+      "end": 101.19,
       "rubyText": "いつのことだっけ？　あなたが夜[よる]ひとりで",
       "translation": "언제였더라? 당신이 밤중에 홀로",
       "romaji": "itsu no koto dakke? anata ga yoru hitori de"
     },
     {
       "id": 34,
-      "start": "00:01:41.185",
-      "end": "00:01:41.985",
+      "start": 101.19,
+      "end": 101.98,
       "rubyText": "消[き]えてしまったこと",
       "translation": "사라져버렸던 게",
       "romaji": "kiete shimatta koto"
     },
     {
       "id": 35,
-      "start": "00:01:42.886",
-      "end": "00:01:43.687",
+      "start": 102.89,
+      "end": 103.69,
       "rubyText": "忘[わす]れられないって",
       "translation": "잊을 수 없다고",
       "romaji": "wasurerarenai tte"
     },
     {
       "id": 36,
-      "start": "00:01:43.687",
-      "end": "00:01:45.856",
+      "start": 103.69,
+      "end": 105.86,
       "rubyText": "思[おも]ってたのに　随分[ずいぶん]懐[なつ]かしくなっちゃった",
       "translation": "생각했는데 꽤 그리워지게 됐어",
       "romaji": "omotteta no ni zuibun natsukashiku nacchatta"
     },
     {
       "id": 37,
-      "start": "00:01:45.856",
-      "end": "00:01:47.124",
+      "start": 105.86,
+      "end": 107.12,
       "rubyText": "そんなこともあったね",
       "translation": "그런 일도 있었지",
       "romaji": "sonna koto mo atta ne"
     },
     {
       "id": 38,
-      "start": "00:01:47.124",
-      "end": "00:01:49.293",
+      "start": 107.12,
+      "end": 109.29,
       "rubyText": "外[そと]が少[すこ]しずつ桃色[ももいろ]に染[そ]まっていく",
       "translation": "밖이 조금씩 분홍빛으로 물들어가",
       "romaji": "soto ga sukoshizutsu momoiro ni somatteiku"
     },
     {
       "id": 39,
-      "start": "00:01:49.293",
-      "end": "00:01:51.428",
+      "start": 109.29,
+      "end": 111.43,
       "rubyText": "「この狭[せま]い箱[はこ]を出[で]たら　あの桜[さくら]を見[み]に行[い]こう！」",
       "translation": "「이 비좁은 상자를 벗어나면 저 벚꽃을 보러 가자!」",
       "romaji": "\"kono semai hako o detara ano sakura o mi ni ikou!\""
     },
     {
       "id": 40,
-      "start": "00:01:53.130",
-      "end": "00:01:56.600",
+      "start": 113.13,
+      "end": 116.6,
       "rubyText": "時[とき]が過[す]ぎるように　花[はな]が枯[か]れるように",
       "translation": "시간이 흘러가듯, 꽃이 시들어가듯",
       "romaji": "toki ga sugiru you ni hana ga kareru you ni"
     },
     {
       "id": 41,
-      "start": "00:01:56.600",
-      "end": "00:01:59.903",
+      "start": 116.6,
+      "end": 119.9,
       "rubyText": "夢[ゆめ]ならばどうしようって　今[いま]でもたまに思[おも]っちゃうんだ",
       "translation": "만약 이게 꿈이라면 어쩌지? 아직도 가끔 그런 생각이 들어",
       "romaji": "yume naraba dou shiyou tte ima demo tama ni omocchau nda"
     },
     {
       "id": 42,
-      "start": "00:01:59.903",
-      "end": "00:02:03.006",
+      "start": 119.9,
+      "end": 123.01,
       "rubyText": "君[きみ]が眠[ねむ]る頃[ころ]に　僕[ぼく]は起[お]きてたいと",
       "translation": "네가 잠들 때 나는 깨어있고 싶다고",
       "romaji": "kimi ga nemuru koro ni boku wa okitetai to"
     },
     {
       "id": 43,
-      "start": "00:02:03.006",
-      "end": "00:02:04.274",
+      "start": 123.01,
+      "end": 124.27,
       "rubyText": "思[おも]っていて",
       "translation": "생각하고 있어서",
       "romaji": "omotteite"
     },
     {
       "id": 44,
-      "start": "00:02:06.877",
-      "end": "00:02:10.314",
+      "start": 126.88,
+      "end": 130.31,
       "rubyText": "笑[わら]えない冗談[じょうだん]って　否定[ひてい]して欲[ほ]しくて　叫[さけ]んでみて",
       "translation": "안 웃긴 농담이라며 부정해줬으면 해서 외쳐도 보고",
       "romaji": "waraenai joudan tte hitei shite hoshikute sakendemite"
     },
     {
       "id": 45,
-      "start": "00:02:10.314",
-      "end": "00:02:13.717",
+      "start": 130.31,
+      "end": 133.72,
       "rubyText": "夢[ゆめ]ならば二度[にど]と覚[さ]めないでくれと　心[こころ]から願[ねが]っていた",
       "translation": "만약 꿈이라면 다시는 깨지 말아달라고 진심으로 바라고 있었어",
       "romaji": "yume naraba nido to samenaide kure to kokoro kara negatteita"
     },
     {
       "id": 46,
-      "start": "00:02:13.717",
-      "end": "00:02:17.187",
+      "start": 133.72,
+      "end": 137.19,
       "rubyText": "いつかの終[お]わりに　君[きみ]が僕[ぼく]を忘[わす]れようとも",
       "translation": "언젠가 찾아올 마지막에 네가 날 잊어버리더라도",
       "romaji": "itsuka no owari ni kimi ga boku o wasureyou tomo"
     },
     {
       "id": 47,
-      "start": "00:02:17.187",
-      "end": "00:02:20.557",
+      "start": 137.19,
+      "end": 140.56,
       "rubyText": "どうかそれでも　笑[わら]っていて欲[ほ]しいんだ",
       "translation": "그렇더라도 부디 계속 웃어줬으면 좋겠어",
       "romaji": "douka soredemo waratteite hoshii nda"
     },
     {
       "id": 48,
-      "start": "00:02:36.006",
-      "end": "00:02:39.409",
+      "start": 156.01,
+      "end": 159.41,
       "rubyText": "微睡[まどろみ]に沈[しず]んで　眠[ねむ]たいねって笑[わら]いあって",
       "translation": "선잠에 빠지곤 졸리다며 서로를 보며 웃고",
       "romaji": "madoromi ni shizunde nemutai ne tte waraiatte"
     },
     {
       "id": 49,
-      "start": "00:02:39.409",
-      "end": "00:02:42.813",
+      "start": 159.41,
+      "end": 162.81,
       "rubyText": "それならばどうしようか　続[つづ]きは明日[あした]にしようか",
       "translation": "그렇다면 어떻게 할까? 그 다음은 내일 할까",
       "romaji": "sorenaraba dou shiyou ka tsuzuki wa ashita ni shiyou ka"
     },
     {
       "id": 50,
-      "start": "00:02:42.813",
-      "end": "00:02:45.883",
+      "start": 162.81,
+      "end": 165.88,
       "rubyText": "憧[あこが]れて描[えが]いてきた　僕[ぼく]らの世界[せかい]が",
       "translation": "동경해서 그려왔던 우리의 세상이",
       "romaji": "akogarete egaite kita bokura no sekai ga"
     },
     {
       "id": 51,
-      "start": "00:02:45.883",
-      "end": "00:02:47.618",
+      "start": 165.88,
+      "end": 167.62,
       "rubyText": "全部[ぜんぶ]嘘[うそ]でも",
       "translation": "전부 거짓이라도",
       "romaji": "zenbu uso demo"
     },
     {
       "id": 52,
-      "start": "00:02:47.618",
-      "end": "00:02:48.886",
+      "start": 167.62,
+      "end": 168.89,
       "rubyText": "笑[わら]って",
       "translation": "웃어줘",
       "romaji": "waratte"
     },
     {
       "id": 53,
-      "start": "00:02:49.286",
-      "end": "00:02:50.988",
+      "start": 169.29,
+      "end": 170.99,
       "rubyText": "嘘[うそ]つきだねって笑[わら]って",
       "translation": "거짓말쟁이네, 하고 웃어줘",
       "romaji": "usotsuki da ne tte waratte"
     },
     {
       "id": 54,
-      "start": "00:02:50.988",
-      "end": "00:02:52.723",
+      "start": 170.99,
+      "end": 172.72,
       "rubyText": "さよならの日[ひ]にはキスをして",
       "translation": "헤어지는 날에는 키스를 해줘",
       "romaji": "sayonara no hi ni wa kisu o shite"
     },
     {
       "id": 55,
-      "start": "00:02:53.157",
-      "end": "00:02:56.593",
+      "start": 173.16,
+      "end": 176.59,
       "rubyText": "そのあとはどうしよっか　二人[ふたり]　桜[さくら]でも見[み]ようか",
       "translation": "그 다음에는 어떻게 할까? 둘이서 벚꽃이라도 볼까",
       "romaji": "sono ato wa dou shiyok ka futari sakura demo miyou ka"
     },
     {
       "id": 56,
-      "start": "00:02:56.593",
-      "end": "00:03:00.030",
+      "start": 176.59,
+      "end": 180.03,
       "rubyText": "いつまで経[た]っても　僕[ぼく]は大人[おとな]にはなれなかったよ",
       "translation": "아무리 시간이 흘러도 나는 어른이 될 수는 없었어",
       "romaji": "itsumade tattemo boku wa otona ni wa narenakatta yo"
     },
     {
       "id": 57,
-      "start": "00:03:00.030",
-      "end": "00:03:03.433",
+      "start": 180.03,
+      "end": 183.43,
       "rubyText": "どうかそれでも　笑[わら]っていてくれるかな",
       "translation": "그렇더라도 너는 계속 웃어줄까?",
       "romaji": "douka soredemo waratteite kureru ka na"
     },
     {
       "id": 58,
-      "start": "00:03:03.433",
-      "end": "00:03:06.870",
+      "start": 183.43,
+      "end": 186.87,
       "rubyText": "子供[こども]のとき描[えが]いたみたいな　ユートピアは叶[かな]えられなかったね",
       "translation": "어렸을 때 그렸던 것 같은 유토피아는 결국 이루어지지 않았네",
       "romaji": "kodomo no toki egaita mitai na yuutopia wa kanaerarenakatta ne"
     },
     {
       "id": 59,
-      "start": "00:03:06.870",
-      "end": "00:03:10.307",
+      "start": 186.87,
+      "end": 190.31,
       "rubyText": "あの時[とき]投[な]げた紙飛行機[かみひこうき]も　結局[けっきょく]帰[かえ]ってはこなかったね",
       "translation": "그때 던졌던 종이비행기도 결국 돌아오지 않았구나",
       "romaji": "ano toki nageta kamihikouki mo kekkyoku kaette wa konakatta ne"
     },
     {
       "id": 60,
-      "start": "00:03:10.307",
-      "end": "00:03:12.009",
+      "start": 190.31,
+      "end": 192.01,
       "rubyText": "さよならの言葉[ことば]を言[い]う時[とき]になれば",
       "translation": "작별 인사를 해야 할 때가 되면",
       "romaji": "sayonara no kotoba o iu toki ni nareba"
     },
     {
       "id": 61,
-      "start": "00:03:12.009",
-      "end": "00:03:13.277",
+      "start": 192.01,
+      "end": 193.28,
       "rubyText": "きっと思[おも]い出[だ]すから",
       "translation": "분명 떠오를 테니까",
       "romaji": "kitto omoidasu kara"
     },
     {
       "id": 62,
-      "start": "00:03:13.277",
-      "end": "00:03:14.144",
+      "start": 193.28,
+      "end": 194.14,
       "rubyText": "あの日々[ひび]も",
       "translation": "그때 그날들도",
       "romaji": "ano hibi mo"
     },
     {
       "id": 63,
-      "start": "00:03:14.144",
-      "end": "00:03:15.012",
+      "start": 194.14,
+      "end": 195.01,
       "rubyText": "僕[ぼく]の名前[なまえ]も",
       "translation": "내 이름도",
       "romaji": "boku no namae mo"
     },
     {
       "id": 64,
-      "start": "00:03:15.012",
-      "end": "00:03:15.879",
+      "start": 195.01,
+      "end": 195.88,
       "rubyText": "約束[やくそく]も",
       "translation": "약속도",
       "romaji": "yakusoku mo"
     },
     {
       "id": 65,
-      "start": "00:03:16.747",
-      "end": "00:03:20.617",
+      "start": 196.75,
+      "end": 200.62,
       "rubyText": "だからそれまで　笑[わら]っていて欲[ほ]しいんだ",
       "translation": "그러니까 그때까지 계속 웃어줬으면 좋겠어",
       "romaji": "dakara sore made waratteite hoshii nda"
