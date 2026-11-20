@@ -234,6 +234,141 @@ npm run lint    # oxlint 통과 확인
 | 85 | **愛属性** | ピノキオピー feat. 初音ミク | `Xx1TnVObQ0k` | 78구절 | 130자 | 정상 등록 |
 | 86 | **完璧超人だ！** | かてらざわ feat. ずんだもん, Yi Xi | `ql-DCZqjLNk` | 60구절 | 107자 | 정상 등록 |
 | 87 | **惑星ウェブスター** | Atena feat. 蒼姫ラピス, メルリ | `UlhFuCzxNbk` | 61구절 | 80자 | 정상 등록 |
+| 88 | **はしる! とおく! とどく!** | 薄塩指数 feat. 重音テトSV | `b6ndcYxpX24` | 49구절 | 59자 | 정상 등록 |
+| 89 | **異種 (Ishu)** | GESO feat. 歌愛ユキ, GUMI, 鳴花ヒメ | `rc9MrU98Eco` | 26구절 | 41자 | 정상 등록 |
+| 90 | **冴ゆる青 (Sayuru Ao)** | 瀬名航 feat. 初音ミク | `EesNkIVrbR4` | 42구절 | 92자 | 정상 등록 |
+| 91 | **ベラドンナ (Belladonna)** | nyanyannya（大天才P）- SynthV Yuma | `VSGEpqi48dQ` | 45구절 | 140자 | 정상 등록 |
+| 90 | **スノーマン (Snowman) - Rerec** | halyosy ft. KAITO | `SUXQ7L1D2Dw` | 47구절 | 100자 | 정상 등록 (일본어 전용 1번) |
+| 91 | **モミアゲヲシャカアゲヲ** | ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ | `cirDXY3CkSk` | 85구절 | 74자 | 정상 등록 (한국어 전용 2번) |
+| 92 | **サイエンス (Science)** | MIMI feat. 重音テトSV | `m-bvW4pKT68` | 57구절 | 101자 | 정상 등록 (한국어 전용 3번) |
+| 93 | **はいよろこんで (Hai Yorokonde)** | こっちのけんと | `jzi6RNVEOtA` | 48구절 | 50자 | 정상 등록 (한국어 전용 4번) |
+| 94 | **携帯恋話 (Keitai Renwa)** | まふまふ (cover by Earthy X6) | `HdlJxpetUvc` | 47구절 | 78자 | 정상 등록 (일본어 전용 2번) |
+| 95 | **死神は瞑目、月明かりこそがハイライト。** | Project Lumina feat. v_flower | `W-BlSr5jE9g` | 88구절 | 137자 | 정상 등록 (한국어 전용 5번) |
+| 96 | **ロウワー (Lower)** | ぬゆり feat. 重音テトSV (cover by takaokamizuki) | `vB0edMo1kX8` | 43구절 | 118자 | 정상 등록 (일본어 전용 3번) |
+| 97 | **神様じゃなくてごめんね** | Aliey:S feat. 初音ミク | `OZ8qQ6GKnFE` | 49구절 | 95자 | 정상 등록 (한국어 전용 6번) |
+| 98 | **夕立ちゃん (Yuudachi-chan)** | 雨の介 feat. flower | `uCR3no1sKpI` | 43구절 | 78자 | 정상 등록 (한국어 전용 7번) |
+| 99 | **あの春を返して (Ano Haru wo Kaeshite)** | カンザキイオリ feat. 鏡音リン | `33eTF7Fa0IA` | 104구절 | 166자 | 정상 등록 (일본어 전용 4번) |
+| 100 | **ハローセカイ (Hello Sekai)** | DECO*27 feat. 初音ミク | `t5U0rrj0dio` | 29구절 | 49자 | 정상 등록 (일본어 전용 5번) |
+| 101 | **mochimochi** | TAK feat. 初音ミク | `tQM8pfwmcU0` | 69구절 | 29자 | 정상 등록 (한국어 전용 8번) |
+| 102 | **レシートラスト (Receipt Last)** | いえぬ feat. 重音テト | `QVtOjH3G24U` | 67구절 | 135자 | 정상 등록 (기타언어 전용 4번) |
+| 103 | **ヘリアンサス (Helianthus)** | Aliey:S feat. 初音ミク | `K64aaWn17jk` | 57구절 | 81자 | 정상 등록 (한국어 전용 9번) |
+| 104 | **ギビュリタ (Gibyurita)** | Vell feat. GUMI | `2YjKVSjdDVM` | 46구절 | 108자 | 정상 등록 (기타언어 전용 5번) |
+| 105 | **僕なんかいなくても (With or Without Me)** | ピノキオピー feat. 初音ミク | `A1XqqVWyUl4` | 61구절 | 119자 | 정상 등록 (일본어 전용 6번) |
+| 106 | **ODDS & ENDS** | ryo (supercell) covered by kyaami feat. 重音テト | `R8fuPgbOhTM` | 62구절 | 121자 | 정상 등록 (일본어 전용 7번) |
+| 107 | **ブランディングができない (Branding ga Dekinai)** | Chinozo feat. KafU | `5qunwwaPvN8` | 38구절 | 59자 | 정상 등록 (한국어 전용 10번) |
+| 108 | **あなたのいないデスクトップ (Anata no Inai Desktop)** | 豆カカオ feat. 初音ミク | `8zpxkCgJZSk` | 50구절 | 95자 | 정상 등록 (기타언어 전용 6번) |
+| 109 | **罪と罰 (Reloaded) (Tsumi to Batsu)** | DECO*27 feat. 初音ミク | `iD3oF5HkPms` | 34구절 | 40자 | 정상 등록 (일본어 전용 8번) |
+| 110 | **オブソミート (Obsolete Meat)** | 32ki feat. 初音ミク・重音テトSV | `L2hzsXOT0Nc` | 68구절 | 191자 | 정상 등록 (한국어 전용 11번) |
+| 111 | **Leisure** | wotaku feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO | `aJBbfxlic64` | 48구절 | 53자 | 정상 등록 (기타언어 전용 7번) |
+| 112 | **君恋クエスト (Kimikoi Quest)** | irucaice × 市瀬るぽ feat. 初音ミク | `h3djT-YfSDQ` | 48구절 | 91자 | 정상 등록 (일본어 전용 9번) |
+| 113 | **天使の涙 (Tenshi no Namida)** | MIMI feat. 初音ミク | `mCYjEWWsqZ8` | 38구절 | 61자 | 정상 등록 (기타언어 전용 8번) |
+| 114 | **こたえあわせ (Kotaeawase)** | TANT feat. 鏡音リン・レン | `Hfpzhlc7fdk` | 43구절 | 106자 | 정상 등록 (한국어 전용 12번) |
+| 115 | **ユーチューバー (UTuber)** | ピノキオピー feat. 初音ミク | `lTUVw7wd5qY` | 61구절 | 71자 | 정상 등록 (일본어 전용 10번) |
+| 116 | **ムーンガイズ (Moonguys)** | 煮ル果実 feat. 初音ミク | `dmA_M1xxo9E` | 64구절 | 116자 | 정상 등록 (기타언어 전용 9번) |
+| 117 | **WOLF** | バルーン × ヒトリエ feat. flower | `CvEvfA45nVA` | 41구절 | 56자 | 정상 등록 (일본어 전용 11번) |
+| 118 | **ムウ (MW)** | 煮ル果実 feat. flower | `so8TeLqLWps` | 64구절 | 144자 | 정상 등록 (기타언어 전용 10번) |
+| 119 | **大人にはなれない (Otona ni wa Narenai)** | Aliey:S feat. 重音テトSV | `cANncTf97w8` | 65구절 | 106자 | 정상 등록 (한국어 전용 13번) |
+| 120 | **超主人公 (Super Superhero)** | ピノキオピー feat. 初音ミク | `thmR2SmkeDU` | 65구절 | 88자 | 정상 등록 (일본어 전용 12번) |
+| 121 | **からっぽの久遠 (Karappo no Kuon)** | Aliey:S feat. 初音ミク | `IoAq-sqLPhg` | 70구절 | 86자 | 정상 등록 (한국어 전용 14번) |
+| 122 | **花弁、それにまつわる音声 (Kaben, Sore ni Matsuwaru Onsei)** | あばらや feat. 初音ミク | `LW1KBCgvEPQ` | 39구절 | 93자 | 정상 등록 (기타언어 전용 11번) |
+| 123 | **ダイダイダイダイダイキライ (Daidaidaidaidaikirai)** | 雨良 Amala feat. 初音ミク VS 重音テト | `klIxS5o65C4` | 68구절 | 127자 | 정상 등록 (한국어 전용 15번) |
+| 124 | **ファンファーレ (Fanfare)** | sumika | `7N8oan7fwfk` | 37구절 | 69자 | 정상 등록 (일본어 전용 13번) |
+| 125 | **萬屋レストラン (Yorozuya Restaurant)** | 暖炉P feat. 鏡音リン, 鏡音レン, 初音ミク | `7gv4MLe1ZRg` | 39구절 | 53자 | 정상 등록 (기타언어 전용 12번) |
+| 126 | **D/N/A** | Azari feat. 重音テト, flower | `j9RGt9Z_UeE` | 39구절 | 54자 | 정상 등록 (한국어 전용 16번) |
+| 127 | **インテグラル (Integral)** | *Luna feat. 初音ミク | `gjLYd3iyPKM` | 67구절 | 98자 | 정상 등록 (기타언어 전용 13번) |
+| 128 | **化けの花 (Bake no Hana)** | なきそ feat. 初音ミク | `jaSJ4t2ITW8` | 34구절 | 35자 | 정상 등록 (기타언어 전용 14번) |
+| 129 | **ニャルラト (Nyarlathotep)** | 藤原ハガネ feat. 重音テトSV, 初音ミク | `z1imm_yPUHI` | 40구절 | 151자 | 정상 등록 (기타언어 전용 15번) |
+| 130 | **わたしまだBABY (Watashi Mada BABY)** | MIMI feat. 狐子 | `q8Ap-1MUTew` | 34구절 | 52자 | 정상 등록 (기타언어 전용 16번) |
+| 131 | **冬晴れステップ (Fuyubare Step)** | きさら feat. 初音ミク | `BupJ_OLUBMw` | 32구절 | 62자 | 정상 등록 (기타언어 전용 17번) |
+| 132 | **少女A (Young Girl A)** | 椎名もた feat. 鏡音リン | `AqI97zHMoQw` | 29구절 | 65자 | 정상 등록 (기타언어 전용 18번) |
+| 133 | **Time Traveler** | EMIRI feat. 初音ミク | `MhPXMcL9PBU` | 46구절 | 62자 | 정상 등록 (기타언어 전용 19번) |
+| 134 | **SHOOTING STARS** | めろくる feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO | `EA1H2wHa7iU` | 72구절 | 80자 | 정상 등록 (기타언어 전용 20번) |
+| 135 | **微熱のリリック (Binetsu no Lyric)** | MIMI feat. 重音テトSV | `qXvVt75kNmE` | 41구절 | 67자 | 정상 등록 (기타언어 전용 21번) |
+| 135 | **聖人君子でありたい (Seijin Kunshi de Aritai)** | しゃいと feat. 重音テトSV | `hrBjKBPNi1c` | 51구절 | 109자 | 정상 등록 (한국어 전용 17번) |
+| 136 | **イレギュラーマン (Irregular Man)** | マサラダ feat. 重音テトSV | `KOcReuSy67Y` | 60구절 | 99자 | 정상 등록 (한국어 전용 19번) |
+| 136 | **T氏の話を信じるな (Don’t Believe in T)** | ピノキオピー feat. 初音ミク・重音テト | `Jtm6ikBIl0g` | 70구절 | 92자 | 정상 등록 (일본어 전용 15번) |
+| 137 | **弱虫モンブラン (Reloaded) (Yowamushi Montblanc)** | DECO*27 feat. 初音ミク | `euRzG6zmEb8` | 25구절 | 53자 | 정상 등록 (일본어 전용 16번) |
+| 138 | **チェリーポップ (Cherry Pop)** | DECO*27 feat. 初音ミク | `BI9Ue6JwJic` | 69구절 | 48자 | 정상 등록 (일본어 전용 17번) |
+| 139 | **いますぐ輪廻 (Imasugu Rinne)** | なきそ feat. 初音ミク | `3iUgKH8c7p4` | 42구절 | 60자 | 정상 등록 (한국어 전용 20번) |
+| 140 | **ストリートライト (Streetlight)** | Negi Shower P feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, KAITO, MEIKO | `NPOhKU5VTrQ` | 55구절 | 110자 | 정상 등록 (기타언어 전용 22번) |
+| 141 | **散り散り (Chilly)** | 読谷あかね feat. 重音テト | `Xn-JobZlsQo` | 20구절 | 108자 | 정상 등록 (일본어 전용 18번) |
+| 142 | **ミカンセイニンゲン (Mikansei Ningen)** | ミ瑞 feat. 可不、知声、重音テトSV | `P5nKiqaRo1M` | 76구절 | 77자 | 정상 등록 (한국어 전용 21번) |
+| 143 | **デロデロデロデ (Deroderoderode)** | cosMo＠暴走P feat. 初音ミク | `gX_EUiEdur8` | 54구절 | 73자 | 정상 등록 (일본어 전용 19번) |
+| 144 | **アベリア (Abelia)** | Aliey:S feat. 初音ミク | `wYlH_sR-8cA` | 86구절 | 83자 | 정상 등록 (한국어 전용 22번) |
+| 145 | **天天天国地獄国 (Tentengoku Jigokukoku)** | covered by 初音ミクV4X & 重音テトSV | `xSfIAqxG1OM` | 62구절 | 85자 | 정상 등록 (일본어 전용 20번) |
+| 146 | **エンパープル (Empurple)** | はるまきごはん feat. 初音ミク | `InZ7GOU-CQ8` | 42구절 | 82자 | 정상 등록 (한국어 전용 23번) |
+| 147 | **成れなｲ (Can't becoME)** | 雨曇 feat. 重音テトSV, 重音テト | `7OqQ0HYPJVY` | 43구절 | 71자 | 정상 등록 (기타언어 전용 23번) |
+| 148 | **ルサンチマン (Ressentiment)** | Aliey:S feat. 初音ミク | `vfk8bohEreg` | 56구절 | 62자 | 정상 등록 (한국어 전용 24번) |
+| 149 | **Spoken For** | FLAVOR FOLEY ft. 重音テト | `LvYL8u4p-aM` | 71구절 | 127자 | 정상 등록 (일본어 전용 21번) |
+| 150 | **エターナルアリア (Eternal Aria)** | Adeliae feat. 初音ミク | `GHzCL_6v87Y` | 41구절 | 101자 | 정상 등록 (기타언어 전용 24번) |
+| 151 | **きおくをみたの (Kioku wo Mita no)** | まかろり feat. 初音ミク | `DNltbDXaKw8` | 46구절 | 90자 | 정상 등록 (한국어 전용 25번) |
+| 151 | **モニタリング (Best Friend Remix)** | DECO*27 feat. 初音ミク | `C-CYwNz3z8w` | 48구절 | 82자 | 정상 등록 (일본어 전용 22번) |
+| 152 | **ハピフルエンサー！ (Happyfulencer!)** | irucaice × 市瀬るぽ × Ponchi♪ feat. 初音ミク | `WGNLYKPuIUQ` | 56구절 | 90자 | 정상 등록 (일본어 전용 23번) |
+| 153 | **成長痛 (Seichoutsuu)** | Iori Kanzaki feat. 梵そよぎ | `RXuoTY1neiU` | 63구절 | 104자 | 정상 등록 (일본어 전용 24번) |
+| 154 | **Écho ｢ミロワール｣ (Miroir)** | Écho / エコー・エトワール -Pleiades Éclat- feat. 初音ミク | `un4S1RoQo7A` | 25구절 | 52자 | 정상 등록 (일본어 전용 25번) |
+| 155 | **怪獣になりたい (Kaijuu ni Naritai)** | Sakuzyo feat. 初音ミク | `TbakFPc4ZTw` | 31구절 | 47자 | 정상 등록 (일본어 전용 26번) |
+| 156 | **さざめき、とどめき、大百鬼夜行！ (Dai-hyakkiyagyou)** | netuki feat. 初音ミク | `7V8L9otIYMg` | 46구절 | 141자 | 정상 등록 (일본어 전용 27번) |
+| 157 | **オデッセイ (Odyssey)** | 織井辺コフィ feat. 星界 | `KjJL_8x43OA` | 49구절 | 117자 | 정상 등록 (일본어 전용 28번) |
+| 158 | **超限界バスター (Chougenkai Buster)** | ¿? feat. 重音テト | `PKXJWt0Pcfs` | 59구절 | 54자 | 정상 등록 (일본어 전용 29번) |
+| 159 | **スマート??? (Smart???)** | まらしぃ feat. 鏡音リン | `xDuxw1rsNWo` | 59구절 | 86자 | 정상 등록 (일본어 전용 30번) |
+| 160 | **全部夢だった！ (Zenbu Yume Datta!)** | 黒うさぎ feat. 重音テトSV | `z13hzDHruo8` | 32구절 | 50자 | 정상 등록 (일본어 전용 31번) |
+| 161 | **初音ミクシンフォニー10thテーマ曲『プレイオン』 (Play On)** | Mitchie M feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, KAITO, MEIKO | `CXkY-vWeuRI` | 60구절 | 119자 | 정상 등록 (일본어 전용 32번) |
+| 162 | **彗星ノ銀河 (Suisei no Ginga)** | マツシタレオ feat. 初音ミク | `HDwPGObRmXE` | 31구절 | 77자 | 정상 등록 (일본어 전용 33번) |
+| 163 | **ネバーランド (Neverland)** | DECO*27 feat. 初音ミク | `48Csilkjev0` | 55구절 | 66자 | 정상 등록 (일본어 전용 34번) |
+| 164 | **ドクヘビ (Dokuhebi)** | かめりあ feat. 初音ミク | `n1q-R6iNxRE` | 70구절 | 134자 | 정상 등록 (일본어 전용 35번) |
+| 165 | **アイアイ傘 (Aiaigasa)** | ハム feat. 雨衣 | `e5_XSeN9Y4k` | 35구절 | 65자 | 정상 등록 (일본어 전용 36번) |
+| 166 | **Vermillion** | sumika | `Epd7n5fqoNw` | 53구절 | 95자 | 정상 등록 (일본어 전용 37번) |
+| 167 | **あんたは死んだ (Anta wa Shinda)** | カンザキイオリ feat. 重音テトSV | `bKA5FxTBujA` | 67구절 | 100자 | 정상 등록 (일본어 전용 38번) |
+| 161 | **Pain** | めろくる (Mellowcle) feat. 初音ミク | `X2CFrEDiDyY` | 53구절 | 70자 | 정상 등록 (기타언어 전용 30번) |
+| 162 | **シスターシスター (Sister Sister)** | せきこみごはん feat. 初音ミク | `AvctZU1E_7Q` | 38구절 | 83자 | 정상 등록 (기타언어 전용 31번) |
+| 163 | **回生 (Kaisei)** | ゆくえわっと feat. 健音テイ, 暗鳴ニュイ, 湯鬱声からす | `U0YMFCYVzCI` | 41구절 | 83자 | 정상 등록 (기타언어 전용 32번) |
+| 164 | **あたしの廃園 (Atashi no Haien)** | 溝野あわ feat. 重音テトSV | `xYJkF7EMyP8` | 35구절 | 47자 | 정상 등록 (기타언어 전용 33번) |
+| 165 | **マジカル☆ミラクル☆メタギャルフォーゼ (MAGICAL☆MIRACLE☆METAGALPHOSE)** | ふるーり feat. 重音テトSV | `WYTSF1soBZs` | 60구절 | 108자 | 정상 등록 (기타언어 전용 34번) |
+| 168 | **ジェヘナ (Gehenna)** | Earthy X6 (Cover) [wotaku feat. 巡音ルカ, MEIKO, KAITO] | `seXI1A6tMmA` | 54구절 | 120자 | 정상 등록 (기타언어 전용 35번) |
+| 169 | **Boo!Boo!エトランゼ (Boo!Boo!Etranger)** | きさら feat. v flower & Ci flower | `VHmrMK5K2aY` | 51구절 | 65자 | 정상 등록 (기타언어 전용 36번) |
+| 170 | **トレジャーガーデン (Treasure Garden)** | Ponchi♪ feat. 初音ミク | `RIpHyjsv_84` | 47구절 | 44자 | 정상 등록 (기타언어 전용 37번) |
+| 171 | **MEGANE GIRL MEGANE BOY** | WONDERFUL★OPPORTUNITY! feat. 鏡音リン・鏡音レン | `la6_f-oUFHE` | 58구절 | 77자 | 정상 등록 (기타언어 전용 38번) |
+| 172 | **ポリビュー (polyview)** | いえぬ feat. 初音ミク | `6HSKCce8abM` | 35구절 | 73자 | 정상 등록 (기타언어 전용 39번) |
+| 173 | **空奏ジャンプ (Kuusou Jump)** | ナナホシ管弦楽団 feat. 初音ミク | `5qMb-ZGmT1w` | 47구절 | 84자 | 정상 등록 (기타언어 전용 40번) |
+| 174 | **にゅー！支配者のキャロル (New! Shihaisha no Carol)** | 藤原ハガネ feat. 里石ユカ | `UnlgVoWd7hI` | 45구절 | 121자 | 정상 등록 (기타언어 전용 41번) |
+| 152 | **tig-hug** | sasakure.UK feat. GUMI | `AO81V78Dtwo` | 52구절 | 74자 | 정상 등록 (기타언어 전용 25번) |
+| 153 | **Leucocoryne (リュウココリネ)** | ryuryu feat. 初音ミク | `fFitoGwCITo` | 28구절 | 75자 | 정상 등록 (한국어 전용 26번) |
+| 156 | **パレードレコード (Parade Record)** | きさら feat. 初音ミク | `z7UF260NtyU` | 72구절 | 109자 | 정상 등록 (기타언어 전용 26번) |
+| 157 | **バカみたいじゃん (Baka Mitai jan)** | あくたり (Aktari) feat. 重音テトSV | `2CnLNnY5QME` | 39구절 | 55자 | 정상 등록 (기타언어 전용 27번) |
+| 158 | **Blusher (臙脂)** | om feat. 重音テト | `9HUMT9F7baM` | 48구절 | 80자 | 정상 등록 (기타언어 전용 28번) |
+| 159 | **星降るココロ (Hoshifuru Kokoro)** | MIMI feat. 初音ミク | `Mb9TWJm_5L4` | 21구절 | 51자 | 정상 등록 (기타언어 전용 29번) |
+| 157 | **Do not tap** | Shü feat. 重音テトSV・音街ウナSV | `rMlC5UQM9qI` | 40구절 | 103자 | 정상 등록 (한국어 전용 27번) |
+| 158 | **ウニ (Uni / 성게)** | Adeliae feat. 雨衣 | `fi3YjlKlpRU` | 38구절 | 77자 | 정상 등록 (한국어 전용 28번) |
+| 159 | **目撃！テト31世 (Mokugeki! Teto 31-sei)** | はろける feat. 雨衣・重音テト | `uWMr16O_Aso` | 56구절 | 43자 | 정상 등록 (한국어 전용 29번) |
+| 160 | **カートゥーンガール (Cartoon Girl)** | Kanaria feat. GUMI | `BY7CnLX5Mk0` | 24구절 | 22자 | 정상 등록 (한국어 전용 30번) |
+| 161 | **だれかぬいてくれ (DAREKANUITEKURE)** | ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ feat. 音街ウナSV & タカハシアマト | `VgLNfVougpI` | 61구절 | 42자 | 정상 등록 (한국어 전용 31번) |
+| 162 | **キネティックタウン (Kinetic Town)** | 晴いちばん feat. 初音ミク | `AdT_lmdC39g` | 29구절 | 73자 | 정상 등록 (한국어 전용 32번) |
+| 163 | **死神は瞑目、月明かりこそがハイライト。 (Aliey:S Remix)** | Project Lumina - Aliey:S Remix feat. 初音ミク | `DOai_KjDGh0` | 88구절 | 137자 | 정상 등록 (한국어 전용 33번) |
+| 164 | **ぐるぐる (Guruguru)** | OLDUCT feat. 歌愛ユキ & 初音ミク | `ympFwEAUqc0` | 65구절 | 23자 | 정상 등록 (한국어 전용 34번, ID: `olduct-guruguru`) |
+| 165 | **けっかおーらい (Kekka Orai)** | こっちのけんと | `Ug0N4qGRp_w` | 70구절 | 86자 | 정상 등록 (한국어 전용 35번) |
+| 166 | **やる気が出ない歌 (Yaruki ga Denai Uta)** | えいぷ feat. 初音ミク・重音テト | `xAwnI9AraXs` | 85구절 | 119자 | 정상 등록 (한국어 전용 36번, ID: `eipu-yaruki-ga-denai-uta`) |
+| 167 | **ずんだタコヤーキ (Zunda Takoyaaki)** | なみぐる feat. ずんだもん・琴葉茜 | `pbb7EQx-7tA` | 71구절 | 40자 | 정상 등록 (한국어 전용 37번, ID: `namigroove-zunda-takoyaaki`) |
+| 168 | **メルトアイスクリーム (Melt Ice Cream)** | TRAP CHICK feat. 初音ミク・重音テト | `aDA1B_We5w8` | 51구절 | 81자 | 정상 등록 (한국어 전용 38번, ID: `trapchick-melt-ice-cream`) |
+| 169 | **Pretender** | Official髭男dism | `TQ8WlA2GXbk` | 52구절 | 96자 | 정상 등록 (한국어 전용 39번, ID: `higedan-pretender`) |
+| 170 | **スプリットダンス (Split Dance)** | えいぷ feat. 初音ミク・重音テト | `R401j1QAvEg` | 58구절 | 116자 | 정상 등록 (한국어 전용 40번, ID: `eipu-split-dance`) |
+| 171 | **地獄行きの列車に乗ってさらば！ (Jigoku-yuki no Ressha ni Notte Saraba!)** | Aliey:S feat. 初音ミク | `oz-NYTQXA9o` | 95구절 | 106자 | 정상 등록 (한국어 전용 41번, ID: `alieys-jigoku-yuki-no-ressha`) |
+| 172 | **次元通信 (Signaling)** | AnythingBecomeMoe feat. 初音ミク・重音テト | `PqpCRSOUuIE` | 56구절 | 103자 | 정상 등록 (한국어 전용 42번, ID: `abm-signaling`) |
+| 173 | **杏仁dope (Annin Dope)** | なみぐる feat. 可不 | `fFL9NeOF7XM` | 83구절 | 75자 | 정상 등록 (한국어 전용 43번, ID: `namigroove-annin-dope`) |
+| 174 | **バゥムクゥヘン・エンドロゥル (Baumkuchen End Roll)** | 雨良 feat. 初音ミクVS重音テトVS亞北ネル | `Dz5rALpx06M` | 51구절 | 114자 | 정상 등록 (한국어 전용 44번, ID: `amala-baumkuchen-end-roll`) |
+| 175 | **ループザルーム (Looping the Rooms)** | ルシノ feat. 初音ミク | `icBDYkfxpMs` | 42구절 | 48자 | 정상 등록 (한국어 전용 45번, ID: `rusino-loop-the-room`) |
+| 176 | **桜日和とタイムマシン (Sakurabiyori to Time Machine)** | Ado with 初音ミク | `nIWZfhpnq6M` | 35구절 | 76자 | 정상 등록 (한국어 전용 46번, ID: `ado-sakurabiyori-to-time-machine`) |
+| 177 | **妄想アスパルテーム (Mousou Aspartame)** | picco feat. 初音ミク | `36LsS8T5RHE` | 53구절 | 65자 | 정상 등록 (한국어 전용 47번, ID: `picco-mousou-aspartame`) |
+| 178 | **『トリックハート』 (Trick Heart)** | MIMI feat. 重音テトSV | `uoYegcqyfxE` | 40구절 | 67자 | 정상 등록 (한국어 전용 48번, ID: `mimi-trick-heart`) |
+| 179 | **弱者のマーチ (March of the Weak)** | えいぷ feat. 重音テト | `IxSvgPhdc8c` | 62구절 | 144자 | 정상 등록 (한국어 전용 49번, ID: `eipu-jakusha-no-march`) |
+| 180 | **とろいめもりー (Trois Memory)** | 豆カカオ feat. 初音ミク | `92gM1Kqm8n8` | 57구절 | 130자 | 정상 등록 (한국어 전용 50번, ID: `mamekakao-trois-memory`) |
+| 181 | **それもいいね (Sore mo Ii ne)** | こっちのけんと | `URHwwFNdJ5Y` | 36구절 | 39자 | 정상 등록 (한국어 전용 51번, ID: `kocchinokento-sore-mo-ii-ne`) |
+| 182 | **どこにもいかない (Dokonimo Ikanai)** | マサラダ feat. 雨衣 | `xJULqAHbst0` | 29구절 | 32자 | 정상 등록 (한국어 전용 52번, ID: `masarada-dokonimo-ikanai`) |
+| 183 | **ぼくはそれで委員会! (Boku wa Sore de Iinkai!)** | 薄塩指数 ft. 重音テトSV | `fReNcRnVnS8` | 36구절 | 54자 | 정상 등록 (한국어 전용 53번, ID: `usushioshisuu-boku-wa-sore-de-iinkai`) |
+| 184 | **命辛辛 (Inochigaragara / For dear life)** | 煮ル果実 feat. v flower | `QTxvUA4l0Vs` | 53구절 | 145자 | 정상 등록 (한국어 전용 54번, ID: `nilfruits-inochigaragara`) |
+| 185 | **花びら哀歌 (Hanabira Aika)** | MIMI feat. 重音テトSV | `IxVFW1XIW7Q` | 27구절 | 53자 | 정상 등록 (한국어 전용 55번, ID: `mimi-hanabira-aika`) |
+| 186 | **流季想 (Ryukisou)** | Project Lumina feat. 初音ミク | `Z0iDS-m2uW4` | 61구절 | 66자 | 정상 등록 (한국어 전용 56번, ID: `project-lumina-ryukisou`) |
+| 187 | **だ・し・て (Da・Shi・Te)** | はろける feat. 初音ミク & 重音テトSV | `c4UFhgGrRCk` | 57구절 | 69자 | 정상 등록 (한국어 전용 57번, ID: `harokeru-da-shi-te`) |
+| 188 | **アンチドリームロマンチスト (Anti-Dream Romanticist)** | テンタクル忍者 feat. 初音ミク | `kRTcFyjvUtE` | 72구절 | 82자 | 정상 등록 (한국어 전용 58번, ID: `tentacle-ninja-anti-dream-romanticist`) |
 | - | ~~ハレ (Hare / 맑음)~~ | Project Lumina feat. 知声 | `T9eFcn4vKTI` | - | - | **사용자 요청으로 영구 삭제 (`deletedIds`)** |
 | - | ~~時よ (Toki yo / 시간이여)~~ | 星野源 (Gen Hoshino) | `LGG8grKZhxY` | - | - | **사용자 요청으로 영구 삭제 (영상 후반 앨범 광고로 삭제, `deletedIds`)** |
 

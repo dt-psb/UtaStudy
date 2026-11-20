@@ -11,8 +11,11 @@ import { extractKanji } from './utils/lyricParser';
 import { Music2, BookOpen, Video, SkipBack, SkipForward, Shuffle, Repeat } from 'lucide-react';
 
 export const App: React.FC = () => {
-  const [songs, setSongs] = useState<Song[]>([]);
-  const [currentSong, setCurrentSong] = useState<Song | null>(null);
+  const [songs, setSongs] = useState<Song[]>(() => getStoredSongs());
+  const [currentSong, setCurrentSong] = useState<Song | null>(() => {
+    const loaded = getStoredSongs();
+    return loaded.length > 0 ? loaded[0] : null;
+  });
   const [currentTime, setCurrentTime] = useState<number>(0);
   
   // Toggles & Preferences
@@ -73,15 +76,6 @@ export const App: React.FC = () => {
       document.documentElement.classList.add('light');
     }
   }, [theme]);
-
-  // Load initial songs from storage
-  useEffect(() => {
-    const loaded = getStoredSongs();
-    setSongs(loaded);
-    if (loaded.length > 0) {
-      setCurrentSong(loaded[0]);
-    }
-  }, []);
 
   // Find active lyric line in real-time
   const activeLyric = useMemo(() => {

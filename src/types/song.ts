@@ -12,6 +12,9 @@ export interface KanjiDetail {
   meaning: string;// 한자 의미
   jlptLevel?: string; // N1 ~ N5
   examples: KanjiExample[];
+  onyomi?: string[];
+  kunyomi?: string[];
+  jlpt?: string;
 }
 
 export interface LyricLine {

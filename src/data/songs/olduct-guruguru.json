@@ -1,0 +1,1042 @@
+{
+  "id": "olduct-guruguru",
+  "title": "ぐるぐる",
+  "artist": "OLDUCT feat. 歌愛ユキ & 初音ミク",
+  "youtubeId": "ympFwEAUqc0",
+  "lyrics": [
+    {
+      "id": 1,
+      "start": 0.8,
+      "end": 2.4,
+      "rubyText": "やあ、こんにちは",
+      "translation": "안녕, 안녕하세요"
+    },
+    {
+      "id": 2,
+      "start": 7.167,
+      "end": 8.767,
+      "rubyText": "しなやかに",
+      "translation": "유연하게"
+    },
+    {
+      "id": 3,
+      "start": 9.0,
+      "end": 10.6,
+      "rubyText": "軽[かろ]やかに",
+      "translation": "가볍게"
+    },
+    {
+      "id": 4,
+      "start": 10.8,
+      "end": 12.4,
+      "rubyText": "強[したた]かに",
+      "translation": "강인하게"
+    },
+    {
+      "id": 5,
+      "start": 12.534,
+      "end": 14.134,
+      "rubyText": "雅[みや]びやかに",
+      "translation": "우아하게"
+    },
+    {
+      "id": 6,
+      "start": 14.367,
+      "end": 15.967,
+      "rubyText": "黙[もく]々[もく]と",
+      "translation": "묵묵히"
+    },
+    {
+      "id": 7,
+      "start": 16.167,
+      "end": 17.767,
+      "rubyText": "端[たん]然[ぜん]と",
+      "translation": "단정하게"
+    },
+    {
+      "id": 8,
+      "start": 17.967,
+      "end": 19.567,
+      "rubyText": "悠[ゆう]々[ゆう]と",
+      "translation": "느긋하게"
+    },
+    {
+      "id": 9,
+      "start": 19.767,
+      "end": 21.367,
+      "rubyText": "飄[ひょう]々[ひょう]と",
+      "translation": "표표히"
+    },
+    {
+      "id": 10,
+      "start": 21.5,
+      "end": 24.934,
+      "rubyText": "ねこがそうであるように",
+      "translation": "고양이가 그러하듯"
+    },
+    {
+      "id": 11,
+      "start": 24.934,
+      "end": 27.367,
+      "rubyText": "人[にん]間[げん]もまたそうであるべき",
+      "translation": "인간도 그래야 하지 않을까요?"
+    },
+    {
+      "id": 12,
+      "start": 28.467,
+      "end": 33.3,
+      "rubyText": "みんなもそう思[おも]いませんか？",
+      "translation": "여러분도 그렇게 생각하지 않나요?"
+    },
+    {
+      "id": 13,
+      "start": 35.767,
+      "end": 36.6,
+      "rubyText": "にゃー にゃー",
+      "translation": "야옹 야옹"
+    },
+    {
+      "id": 14,
+      "start": 36.6,
+      "end": 37.567,
+      "rubyText": "かわいいねこ",
+      "translation": "귀여운 고양이"
+    },
+    {
+      "id": 15,
+      "start": 37.567,
+      "end": 38.934,
+      "rubyText": "マオ マオ ファ ファ タン タン",
+      "translation": "마오 마오 파 파 탕 탕"
+    },
+    {
+      "id": 16,
+      "start": 38.934,
+      "end": 39.434,
+      "rubyText": "ねこ",
+      "translation": "고양이"
+    },
+    {
+      "id": 17,
+      "start": 39.434,
+      "end": 40.134,
+      "rubyText": "にゃー にゃー",
+      "translation": "야옹 야옹"
+    },
+    {
+      "id": 18,
+      "start": 40.134,
+      "end": 41.1,
+      "rubyText": "かわいいねこ",
+      "translation": "귀여운 고양이"
+    },
+    {
+      "id": 19,
+      "start": 41.1,
+      "end": 42.434,
+      "rubyText": "もう、萌[も]えすぎてどうしよう…",
+      "translation": "아… 너무 귀여워서 어쩌지…"
+    },
+    {
+      "id": 20,
+      "start": 42.434,
+      "end": 43.234,
+      "rubyText": "ねこをモフる",
+      "translation": "고양이를 포근히 안아줘"
+    },
+    {
+      "id": 21,
+      "start": 43.234,
+      "end": 43.834,
+      "rubyText": "にゃー",
+      "translation": "야옹"
+    },
+    {
+      "id": 22,
+      "start": 43.834,
+      "end": 44.7,
+      "rubyText": "ねこ様[さま]…",
+      "translation": "나의 사랑스러운 고양이님…"
+    },
+    {
+      "id": 23,
+      "start": 44.7,
+      "end": 46.067,
+      "rubyText": "あなた、ねこでしょ？",
+      "translation": "당신, 고양이죠?"
+    },
+    {
+      "id": 24,
+      "start": 46.067,
+      "end": 46.567,
+      "rubyText": "うん",
+      "translation": "응"
+    },
+    {
+      "id": 25,
+      "start": 46.867,
+      "end": 48.267,
+      "rubyText": "…あれ、なんだっけ？",
+      "translation": "…어라, 뭐였더라?"
+    },
+    {
+      "id": 26,
+      "start": 48.267,
+      "end": 48.767,
+      "rubyText": "ねこ！",
+      "translation": "고양이!"
+    },
+    {
+      "id": 27,
+      "start": 48.767,
+      "end": 49.467,
+      "rubyText": "かわいいねこ！",
+      "translation": "귀여운 고양이!"
+    },
+    {
+      "id": 28,
+      "start": 49.6,
+      "end": 50.1,
+      "rubyText": "にゃー♪",
+      "translation": "야옹♪"
+    },
+    {
+      "id": 29,
+      "start": 64.6,
+      "end": 66.567,
+      "rubyText": "思[し]考[こう]回[かい]路[ろ]ぐるぐる",
+      "translation": "생각이 빙글빙글"
+    },
+    {
+      "id": 30,
+      "start": 66.567,
+      "end": 67.967,
+      "rubyText": "目[め]が回[まわ]ってぐるぐる",
+      "translation": "눈도 빙글빙글 돌아가"
+    },
+    {
+      "id": 31,
+      "start": 67.967,
+      "end": 70.8,
+      "rubyText": "今[いま]のインターネットってそんな感[かん]じ",
+      "translation": "지금의 인터넷은 딱 그런 느낌"
+    },
+    {
+      "id": 32,
+      "start": 71.734,
+      "end": 74.967,
+      "rubyText": "そんな時[とき]こそねこ！",
+      "translation": "그럴 때야말로 고양이!"
+    },
+    {
+      "id": 33,
+      "start": 78.834,
+      "end": 85.067,
+      "rubyText": "ねこの喉[のど]がぐるぐる鳴[な]ってる…",
+      "translation": "고양이 목에서 골골골 소리가 나…"
+    },
+    {
+      "id": 34,
+      "start": 85.934,
+      "end": 93.067,
+      "rubyText": "25Hz！",
+      "translation": "25Hz!"
+    },
+    {
+      "id": 35,
+      "start": 93.067,
+      "end": 93.9,
+      "rubyText": "にゃー にゃー",
+      "translation": "야옹 야옹"
+    },
+    {
+      "id": 36,
+      "start": 93.9,
+      "end": 94.867,
+      "rubyText": "かわいいねこ",
+      "translation": "귀여운 고양이"
+    },
+    {
+      "id": 37,
+      "start": 94.867,
+      "end": 96.234,
+      "rubyText": "マオ マオ ファ ファ タン タン",
+      "translation": "마오 마오 파 파 탕 탕"
+    },
+    {
+      "id": 38,
+      "start": 96.234,
+      "end": 96.734,
+      "rubyText": "ねこ",
+      "translation": "고양이"
+    },
+    {
+      "id": 39,
+      "start": 96.734,
+      "end": 97.434,
+      "rubyText": "にゃー にゃー",
+      "translation": "야옹 야옹"
+    },
+    {
+      "id": 40,
+      "start": 97.434,
+      "end": 98.4,
+      "rubyText": "かわいいねこ",
+      "translation": "귀여운 고양이"
+    },
+    {
+      "id": 41,
+      "start": 98.4,
+      "end": 99.734,
+      "rubyText": "もう、萌[も]えすぎてどうしよう…",
+      "translation": "아… 너무 귀여워서 어쩌지…"
+    },
+    {
+      "id": 42,
+      "start": 99.734,
+      "end": 100.534,
+      "rubyText": "ねこをモフる",
+      "translation": "고양이를 포근히 안아줘"
+    },
+    {
+      "id": 43,
+      "start": 100.534,
+      "end": 101.134,
+      "rubyText": "にゃー",
+      "translation": "야옹"
+    },
+    {
+      "id": 44,
+      "start": 101.134,
+      "end": 102.0,
+      "rubyText": "ねこ様[さま]…",
+      "translation": "나의 사랑스러운 고양이님…"
+    },
+    {
+      "id": 45,
+      "start": 102.0,
+      "end": 103.367,
+      "rubyText": "あなた、ねこでしょ？",
+      "translation": "당신, 고양이죠?"
+    },
+    {
+      "id": 46,
+      "start": 103.367,
+      "end": 103.867,
+      "rubyText": "うん",
+      "translation": "응"
+    },
+    {
+      "id": 47,
+      "start": 104.167,
+      "end": 105.567,
+      "rubyText": "…あれ、なんだっけ？",
+      "translation": "…어라, 뭐였더라?"
+    },
+    {
+      "id": 48,
+      "start": 105.567,
+      "end": 106.067,
+      "rubyText": "ねこ！",
+      "translation": "고양이!"
+    },
+    {
+      "id": 49,
+      "start": 106.067,
+      "end": 106.767,
+      "rubyText": "かわいいねこ！",
+      "translation": "귀여운 고양이!"
+    },
+    {
+      "id": 50,
+      "start": 106.9,
+      "end": 107.4,
+      "rubyText": "にゃー♪",
+      "translation": "야옹♪"
+    },
+    {
+      "id": 51,
+      "start": 107.4,
+      "end": 108.234,
+      "rubyText": "にゃー にゃー",
+      "translation": "야옹 야옹"
+    },
+    {
+      "id": 52,
+      "start": 108.234,
+      "end": 109.2,
+      "rubyText": "かわいいねこ",
+      "translation": "귀여운 고양이"
+    },
+    {
+      "id": 53,
+      "start": 109.2,
+      "end": 110.567,
+      "rubyText": "マオ マオ ファ ファ タン タン",
+      "translation": "마오 마오 파 파 탕 탕"
+    },
+    {
+      "id": 54,
+      "start": 110.567,
+      "end": 111.067,
+      "rubyText": "ねこ",
+      "translation": "고양이"
+    },
+    {
+      "id": 55,
+      "start": 111.067,
+      "end": 111.767,
+      "rubyText": "にゃー にゃー",
+      "translation": "야옹 야옹"
+    },
+    {
+      "id": 56,
+      "start": 111.767,
+      "end": 112.734,
+      "rubyText": "かわいいねこ",
+      "translation": "귀여운 고양이"
+    },
+    {
+      "id": 57,
+      "start": 112.734,
+      "end": 114.067,
+      "rubyText": "もう、萌[も]えすぎてどうしよう…",
+      "translation": "아… 너무 귀여워서 어쩌지…"
+    },
+    {
+      "id": 58,
+      "start": 114.067,
+      "end": 114.867,
+      "rubyText": "ねこをモフる",
+      "translation": "고양이를 포근히 안아줘"
+    },
+    {
+      "id": 59,
+      "start": 114.867,
+      "end": 115.467,
+      "rubyText": "にゃー",
+      "translation": "야옹"
+    },
+    {
+      "id": 60,
+      "start": 115.467,
+      "end": 116.334,
+      "rubyText": "ねこ様[さま]…",
+      "translation": "나의 사랑스러운 고양이님…"
+    },
+    {
+      "id": 61,
+      "start": 116.334,
+      "end": 117.7,
+      "rubyText": "あなた、ねこでしょ？",
+      "translation": "당신, 고양이죠?"
+    },
+    {
+      "id": 62,
+      "start": 117.7,
+      "end": 118.2,
+      "rubyText": "うん",
+      "translation": "응"
+    },
+    {
+      "id": 63,
+      "start": 118.5,
+      "end": 119.9,
+      "rubyText": "…あれ、なんだっけ？",
+      "translation": "…어라, 뭐였더라?"
+    },
+    {
+      "id": 64,
+      "start": 119.9,
+      "end": 120.4,
+      "rubyText": "ねこ！",
+      "translation": "고양이!"
+    },
+    {
+      "id": 65,
+      "start": 120.4,
+      "end": 121.1,
+      "rubyText": "かわいいねこ！",
+      "translation": "귀여운 고양이!"
+    }
+  ],
+  "kanjiDictionary": {
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
+        }
+      ]
+    },
+    "人": {
+      "character": "人",
+      "korean": "사람 인",
+      "kun": [
+        "ひと"
+      ],
+      "on": [
+        "ジン",
+        "ニン"
+      ],
+      "meaning": "사람, 인간",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "人間",
+          "reading": "にんげん",
+          "meaning": "인간"
+        },
+        {
+          "word": "一人",
+          "reading": "ひとり",
+          "meaning": "한 사람, 혼자"
+        }
+      ]
+    },
+    "今": {
+      "character": "今",
+      "korean": "이제 금",
+      "kun": [
+        "いま"
+      ],
+      "on": [
+        "コン",
+        "キン"
+      ],
+      "meaning": "지금, 현재",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "今宵",
+          "reading": "こよい",
+          "meaning": "오늘 밤"
+        },
+        {
+          "word": "今",
+          "reading": "いま",
+          "meaning": "지금"
+        }
+      ]
+    },
+    "喉": {
+      "character": "喉",
+      "korean": "목구멍 후",
+      "kun": [
+        "のど"
+      ],
+      "on": [
+        "コウ"
+      ],
+      "meaning": "목구멍, 목",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "喉",
+          "reading": "のど",
+          "meaning": "목구멍, 목"
+        },
+        {
+          "word": "喉仏",
+          "reading": "のどぼとけ",
+          "meaning": "목젖, 울대뼈"
+        }
+      ]
+    },
+    "回": {
+      "character": "回",
+      "korean": "돌아올 회",
+      "kun": [
+        "まわ.る",
+        "まわ.す"
+      ],
+      "on": [
+        "カイ"
+      ],
+      "meaning": "돌다, 횟수, 번",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "一回",
+          "reading": "いっかい",
+          "meaning": "한 번, 1회"
+        },
+        {
+          "word": "回る",
+          "reading": "まわる",
+          "meaning": "돌다"
+        }
+      ]
+    },
+    "強": {
+      "character": "強",
+      "korean": "강할 강",
+      "kun": [
+        "つよ.い",
+        "つよ.まる",
+        "し.いる"
+      ],
+      "on": [
+        "キョウ",
+        "ゴウ"
+      ],
+      "meaning": "강하다, 굳세다",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "強い",
+          "reading": "つよい",
+          "meaning": "강하다"
+        },
+        {
+          "word": "勉強",
+          "reading": "べんきょう",
+          "meaning": "공부"
+        }
+      ]
+    },
+    "思": {
+      "character": "思",
+      "korean": "생각 사",
+      "kun": [
+        "おも.う"
+      ],
+      "on": [
+        "シ"
+      ],
+      "meaning": "생각하다, 그리워하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "思う",
+          "reading": "おもう",
+          "meaning": "생각하다"
+        },
+        {
+          "word": "思い出",
+          "reading": "おもいで",
+          "meaning": "추억"
+        }
+      ]
+    },
+    "悠": {
+      "character": "悠",
+      "korean": "멀 유 / 여유로울 유",
+      "kun": [],
+      "on": [
+        "ゆう"
+      ],
+      "meaning": "멀다, 아득하다, 느긋하다",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "悠々",
+          "reading": "ゆうゆう",
+          "meaning": "유유히, 한가로이"
+        },
+        {
+          "word": "悠久",
+          "reading": "ゆうきゅう",
+          "meaning": "유구"
+        },
+        {
+          "word": "悠然",
+          "reading": "ゆうぜん",
+          "meaning": "유연, 태연자약"
+        }
+      ]
+    },
+    "感": {
+      "character": "感",
+      "korean": "느낄 감",
+      "kun": [],
+      "on": [
+        "カン"
+      ],
+      "meaning": "느끼다, 감각, 감동",
+      "examples": [
+        {
+          "word": "感じる",
+          "reading": "かんじる",
+          "meaning": "느끼다"
+        },
+        {
+          "word": "感謝",
+          "reading": "かんしゃ",
+          "meaning": "감사"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "時": {
+      "character": "時",
+      "korean": "때 시",
+      "kun": [
+        "とき"
+      ],
+      "on": [
+        "ジ"
+      ],
+      "meaning": "때, 시간, 시절",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "時間",
+          "reading": "じかん",
+          "meaning": "시간"
+        },
+        {
+          "word": "時計",
+          "reading": "とけい",
+          "meaning": "시계"
+        }
+      ]
+    },
+    "様": {
+      "character": "様",
+      "korean": "모양 양 / 님 양",
+      "kun": [
+        "さま"
+      ],
+      "on": [
+        "ヨウ"
+      ],
+      "meaning": "모양, 상태, 님(존칭)",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "神様",
+          "reading": "かみさま",
+          "meaning": "신(하느님)"
+        },
+        {
+          "word": "様子",
+          "reading": "ようす",
+          "meaning": "모양, 상태"
+        }
+      ]
+    },
+    "然": {
+      "character": "然",
+      "korean": "그럴 연",
+      "kun": [
+        "しか.し"
+      ],
+      "on": [
+        "ゼン",
+        "ネン"
+      ],
+      "meaning": "그러하다, 그렇다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "偶然",
+          "reading": "ぐうぜん",
+          "meaning": "우연"
+        },
+        {
+          "word": "必然",
+          "reading": "ひつぜん",
+          "meaning": "필연"
+        }
+      ]
+    },
+    "目": {
+      "character": "目",
+      "korean": "눈 목",
+      "kun": [
+        "め"
+      ],
+      "on": [
+        "モク"
+      ],
+      "meaning": "눈, 안목, 번째",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "目的",
+          "reading": "もくてき",
+          "meaning": "목적"
+        },
+        {
+          "word": "目次",
+          "reading": "もくじ",
+          "meaning": "목차"
+        }
+      ]
+    },
+    "端": {
+      "character": "端",
+      "korean": "끝 단",
+      "kun": [
+        "はし",
+        "は",
+        "はた"
+      ],
+      "on": [
+        "タン"
+      ],
+      "meaning": "끝, 모서리, 단서",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "先端",
+          "reading": "せんたん",
+          "meaning": "첨단, 끄트머리"
+        },
+        {
+          "word": "最先端",
+          "reading": "さいせんたん",
+          "meaning": "최첨단"
+        }
+      ]
+    },
+    "考": {
+      "character": "考",
+      "korean": "생각할 고",
+      "kun": [
+        "かんが.える"
+      ],
+      "on": [
+        "コウ"
+      ],
+      "meaning": "생각하다, 헤아리다, 연구하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "考える",
+          "reading": "かんがえる",
+          "meaning": "생각하다"
+        },
+        {
+          "word": "参考",
+          "reading": "さんこう",
+          "meaning": "참고"
+        }
+      ]
+    },
+    "萌": {
+      "character": "萌",
+      "korean": "싹 틀 맹",
+      "kun": [
+        "も.える",
+        "きざ.す",
+        "めば.え"
+      ],
+      "on": [
+        "ほう",
+        "ぼう"
+      ],
+      "meaning": "싹이 트다, 모에(오타쿠 속어로 귀여움이나 애정 등에 빠져드는 감정)",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "萌える",
+          "reading": "もえる",
+          "meaning": "싹트다, (속어) 모에하다, 마음이 설레다"
+        },
+        {
+          "word": "萌芽",
+          "reading": "ほうが",
+          "meaning": "맹아, 싹이 틈"
+        },
+        {
+          "word": "芽萌え",
+          "reading": "めばえ",
+          "meaning": "싹틈, 싹"
+        }
+      ]
+    },
+    "路": {
+      "character": "路",
+      "korean": "길 로",
+      "kun": [
+        "じ",
+        "みち"
+      ],
+      "on": [
+        "ロ"
+      ],
+      "meaning": "길, 도로, 회로",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "回路",
+          "reading": "かいろ",
+          "meaning": "회로 (전기 회로)"
+        },
+        {
+          "word": "道路",
+          "reading": "どうろ",
+          "meaning": "도로"
+        }
+      ]
+    },
+    "軽": {
+      "character": "軽",
+      "korean": "가벼울 경",
+      "kun": [
+        "かる.い",
+        "かろ.やか"
+      ],
+      "on": [
+        "ケイ"
+      ],
+      "meaning": "가볍다, 경쾌하다, 손쉽다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "軽い",
+          "reading": "かるい",
+          "meaning": "가볍다"
+        },
+        {
+          "word": "軽快",
+          "reading": "けいかい",
+          "meaning": "경쾌함"
+        }
+      ]
+    },
+    "間": {
+      "character": "間",
+      "korean": "사이 간",
+      "kun": [
+        "あいだ",
+        "ま"
+      ],
+      "on": [
+        "カン",
+        "ケン"
+      ],
+      "meaning": "사이, 틈, 순간",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "瞬間",
+          "reading": "しゅんかん",
+          "meaning": "순간"
+        },
+        {
+          "word": "人間",
+          "reading": "にんげん",
+          "meaning": "인간"
+        }
+      ]
+    },
+    "雅": {
+      "character": "雅",
+      "korean": "우아할 아",
+      "kun": [
+        "みやび",
+        "みやびやか"
+      ],
+      "on": [
+        "ガ"
+      ],
+      "meaning": "우아하다, 바르다, 고상하다",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "優雅",
+          "reading": "ゆうが",
+          "meaning": "우아함"
+        },
+        {
+          "word": "風雅",
+          "reading": "ふうが",
+          "meaning": "풍아, 고상함"
+        }
+      ]
+    },
+    "飄": {
+      "character": "飄",
+      "korean": "나부낄 표 (회오리바람 표)",
+      "kun": [
+        "つむじかぜ",
+        "ただ・よう"
+      ],
+      "on": [
+        "ヒョウ"
+      ],
+      "meaning": "나부끼다, 회오리바람, 태연자약하다",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "飄々",
+          "reading": "ひょうひょう",
+          "meaning": "표표함 (태연하고 구속받지 않는 모양)"
+        },
+        {
+          "word": "飄然",
+          "reading": "ひょうぜん",
+          "meaning": "표연함 (훌쩍 나타나고 사라짐)"
+        }
+      ]
+    },
+    "鳴": {
+      "character": "鳴",
+      "korean": "울 명",
+      "kun": [
+        "な.く",
+        "な.る",
+        "な.らす"
+      ],
+      "on": [
+        "メイ"
+      ],
+      "meaning": "울다, 울리다, 소리내다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "鳴らす",
+          "reading": "ならす",
+          "meaning": "울리다, 소리내다"
+        },
+        {
+          "word": "悲鳴",
+          "reading": "ひめい",
+          "meaning": "비명"
+        }
+      ]
+    },
+    "黙": {
+      "character": "黙",
+      "korean": "잠잠할 묵",
+      "kun": [
+        "だま.る"
+      ],
+      "on": [
+        "モク"
+      ],
+      "meaning": "잠잠하다, 입을 다물다",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "黙る",
+          "reading": "だまる",
+          "meaning": "입을 다물다, 침묵하다"
+        },
+        {
+          "word": "沈黙",
+          "reading": "ちんもく",
+          "meaning": "침묵"
+        }
+      ]
+    }
+  }
+}

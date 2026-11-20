@@ -32,7 +32,8 @@ export const masterKanjiDictionary: Record<string, KanjiDetail> = {
   '花': { character: '花', korean: '꽃 화', kun: ['はな'], on: ['カ'], meaning: '꽃, 화초', jlptLevel: 'N4', examples: [{ word: '花火', reading: 'はなび', meaning: '불꽃놀이' }] },
   '雨': { character: '雨', korean: '비 우', kun: ['あめ'], on: ['ウ'], meaning: '비, 강우', jlptLevel: 'N5', examples: [{ word: '雨水', reading: 'あまみず', meaning: '빗물' }] },
   '光': { character: '光', korean: '빛 광', kun: ['ひかり', 'ひか.る'], on: ['コウ'], meaning: '빛, 광선', jlptLevel: 'N3', examples: [{ word: '日光', reading: 'にっこう', meaning: '일광' }] },
-  '影': { character: '影', korean: '그림자 영', kun: ['かげ'], on: ['エイ'], meaning: '그림자, 환영', jlptLevel: 'N2', examples: [{ word: '影響', reading: 'えいきょう', meaning: '영향' }] }
+  '影': { character: '影', korean: '그림자 영', kun: ['かげ'], on: ['エイ'], meaning: '그림자, 환영', jlptLevel: 'N2', examples: [{ word: '影響', reading: 'えいきょう', meaning: '영향' }] },
+  '々': { character: '々', korean: '되풀이표 노마', kun: ['くりかえし', 'のま'], on: [], meaning: '한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)', jlptLevel: 'N3', examples: [{ word: '虎視眈々', reading: 'こしたんたん', meaning: '호시탐탐' }, { word: '日々', reading: 'ひび', meaning: '나날, 매일' }] }
 };
 
 export const getKanjiWithFallback = (

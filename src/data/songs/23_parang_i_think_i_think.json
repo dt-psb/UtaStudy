@@ -1,0 +1,1162 @@
+{
+  "id": "23-parang-i-think-i-think",
+  "title": "i think i think too much / 初音ミク",
+  "artist": "Parang",
+  "youtubeId": "n3bh2zDN4zs",
+  "thumbnail": "https://img.youtube.com/vi/n3bh2zDN4zs/hqdefault.jpg",
+  "duration": 170,
+  "lyrics": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.13,
+      "rubyText": ",,ᴗ.ᴗ,,",
+      "translation": ",,ᴗ.ᴗ,,",
+      "romaji": ",, ᴗ. ᴗ,,"
+    },
+    {
+      "id": 2,
+      "start": 10.98,
+      "end": 13.83,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 3,
+      "start": 13.83,
+      "end": 16.73,
+      "rubyText": "君[きみ]の声[こえ]が止[と]まらないや",
+      "translation": "너의 목소리가 멈추질 않아",
+      "romaji": "kiminokoegatomaranaiya"
+    },
+    {
+      "id": 4,
+      "start": 16.73,
+      "end": 18.06,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 5,
+      "start": 18.06,
+      "end": 19.37,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 6,
+      "start": 19.37,
+      "end": 22.37,
+      "rubyText": "考[かんが]えても一生[いっしょう]終[お]わんないよ",
+      "translation": "생각해도 생각해도 끝나질 않아",
+      "romaji": "kangaetemoisshouowannaiyo"
+    },
+    {
+      "id": 7,
+      "start": 22.37,
+      "end": 24.12,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 8,
+      "start": 24.12,
+      "end": 25.11,
+      "rubyText": "ah-ah",
+      "translation": "ah-ah",
+      "romaji": "ah-ah"
+    },
+    {
+      "id": 9,
+      "start": 25.11,
+      "end": 26.99,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 10,
+      "start": 26.99,
+      "end": 27.87,
+      "rubyText": "uh-oh",
+      "translation": "uh-oh",
+      "romaji": "uh-oh"
+    },
+    {
+      "id": 11,
+      "start": 27.87,
+      "end": 30.68,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 12,
+      "start": 30.68,
+      "end": 31.57,
+      "rubyText": "i think i think too",
+      "translation": "i think i think too",
+      "romaji": "i think i think too"
+    },
+    {
+      "id": 13,
+      "start": 31.57,
+      "end": 33.0,
+      "rubyText": "much much much much",
+      "translation": "much much much much",
+      "romaji": "much much much much"
+    },
+    {
+      "id": 14,
+      "start": 33.0,
+      "end": 33.66,
+      "rubyText": "終[お]わんない",
+      "translation": "끝나질 않아",
+      "romaji": "owannai"
+    },
+    {
+      "id": 15,
+      "start": 33.66,
+      "end": 34.76,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 16,
+      "start": 34.76,
+      "end": 36.07,
+      "rubyText": "頭[あたま]の中[なか]",
+      "translation": "머릿 속의",
+      "romaji": "atamanonaka"
+    },
+    {
+      "id": 17,
+      "start": 36.07,
+      "end": 37.35,
+      "rubyText": "... (dot dot dot)",
+      "translation": "... (dot dot dot)",
+      "romaji": "... (dot dot dot)"
+    },
+    {
+      "id": 18,
+      "start": 37.35,
+      "end": 39.78,
+      "rubyText": "一日中[いちにちじゅう] think about that",
+      "translation": "하루 종일 think about that",
+      "romaji": "ichinichijuu think about that"
+    },
+    {
+      "id": 19,
+      "start": 39.78,
+      "end": 42.84,
+      "rubyText": "窓辺[まどべ]を叩[たた]いてる",
+      "translation": "창문을 두드리는",
+      "romaji": "madobewotataiteru"
+    },
+    {
+      "id": 20,
+      "start": 42.84,
+      "end": 45.88,
+      "rubyText": "ざあざあ雨[あめ]の音[おと]",
+      "translation": "주룩주룩 비의 소리",
+      "romaji": "zaazaaamenooto"
+    },
+    {
+      "id": 21,
+      "start": 45.88,
+      "end": 47.37,
+      "rubyText": "どこでもいいよ",
+      "translation": "어디든지 좋아",
+      "romaji": "dokodemoiiyo"
+    },
+    {
+      "id": 22,
+      "start": 47.37,
+      "end": 48.79,
+      "rubyText": "いつでもいいから",
+      "translation": "언제든지 좋으니까",
+      "romaji": "itsudemoiikara"
+    },
+    {
+      "id": 23,
+      "start": 48.79,
+      "end": 50.16,
+      "rubyText": "どこでもいいよ",
+      "translation": "어디든지 좋아",
+      "romaji": "dokodemoiiyo"
+    },
+    {
+      "id": 24,
+      "start": 50.16,
+      "end": 51.3,
+      "rubyText": "逃[に]げたい今[いま]すぐ",
+      "translation": "도망치고 싶어, 지금 당장",
+      "romaji": "nigetaiimasugu"
+    },
+    {
+      "id": 25,
+      "start": 51.3,
+      "end": 54.09,
+      "rubyText": "他[ほか]のものは全部[ぜんぶ]",
+      "translation": "다른 것들은 전부",
+      "romaji": "hokanomonohazenbu"
+    },
+    {
+      "id": 26,
+      "start": 54.09,
+      "end": 55.1,
+      "rubyText": "Drop in down",
+      "translation": "Drop in down",
+      "romaji": "Drop in down"
+    },
+    {
+      "id": 27,
+      "start": 55.1,
+      "end": 55.93,
+      "rubyText": "but, i can't stop...",
+      "translation": "but, i can't stop...",
+      "romaji": "but, i can't stop..."
+    },
+    {
+      "id": 28,
+      "start": 55.93,
+      "end": 58.78,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 29,
+      "start": 58.78,
+      "end": 61.76,
+      "rubyText": "君[きみ]の声[こえ]が止[と]まらないや",
+      "translation": "너의 목소리가 멈추질 않아",
+      "romaji": "kiminokoegatomaranaiya"
+    },
+    {
+      "id": 30,
+      "start": 61.76,
+      "end": 63.01,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 31,
+      "start": 63.01,
+      "end": 64.25,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 32,
+      "start": 64.25,
+      "end": 67.28,
+      "rubyText": "考[かんが]えても一生[いっしょう]終[お]わんないよ",
+      "translation": "생각해도 생각해도 끝나질 않아",
+      "romaji": "kangaetemoisshouowannaiyo"
+    },
+    {
+      "id": 33,
+      "start": 67.29,
+      "end": 69.08,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 34,
+      "start": 69.08,
+      "end": 70.0,
+      "rubyText": "ah-ah",
+      "translation": "ah-ah",
+      "romaji": "ah-ah"
+    },
+    {
+      "id": 35,
+      "start": 70.0,
+      "end": 71.92,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 36,
+      "start": 71.92,
+      "end": 72.76,
+      "rubyText": "uh-oh",
+      "translation": "uh-oh",
+      "romaji": "uh-oh"
+    },
+    {
+      "id": 37,
+      "start": 72.76,
+      "end": 75.6,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 38,
+      "start": 75.6,
+      "end": 76.45,
+      "rubyText": "i think i think too",
+      "translation": "i think i think too",
+      "romaji": "i think i think too"
+    },
+    {
+      "id": 39,
+      "start": 76.45,
+      "end": 77.94,
+      "rubyText": "much much much much",
+      "translation": "much much much much",
+      "romaji": "much much much much"
+    },
+    {
+      "id": 40,
+      "start": 77.94,
+      "end": 78.59,
+      "rubyText": "終[お]わんない",
+      "translation": "끝나질 않아",
+      "romaji": "owannai"
+    },
+    {
+      "id": 41,
+      "start": 78.59,
+      "end": 80.59,
+      "rubyText": "think i think too much...",
+      "translation": "think i think too much...",
+      "romaji": "think i think too much..."
+    },
+    {
+      "id": 42,
+      "start": 90.7,
+      "end": 92.18,
+      "rubyText": "どこでもいいよ",
+      "translation": "어디든지 좋아",
+      "romaji": "dokodemoiiyo"
+    },
+    {
+      "id": 43,
+      "start": 92.18,
+      "end": 93.63,
+      "rubyText": "いつでもいいから",
+      "translation": "언제든지 좋으니까",
+      "romaji": "itsudemoiikara"
+    },
+    {
+      "id": 44,
+      "start": 93.63,
+      "end": 95.0,
+      "rubyText": "どこでもいいよ",
+      "translation": "어디든지 좋아",
+      "romaji": "dokodemoiiyo"
+    },
+    {
+      "id": 45,
+      "start": 95.0,
+      "end": 96.15,
+      "rubyText": "逃[に]げたい今[いま]すぐ",
+      "translation": "도망치고 싶어 지금 당장",
+      "romaji": "nigetaiimasugu"
+    },
+    {
+      "id": 46,
+      "start": 96.15,
+      "end": 98.94,
+      "rubyText": "他[ほか]のものは全部[ぜんぶ]",
+      "translation": "다른 것들은 전부",
+      "romaji": "hokanomonohazenbu"
+    },
+    {
+      "id": 47,
+      "start": 98.94,
+      "end": 99.94,
+      "rubyText": "Drop it down",
+      "translation": "Drop it down",
+      "romaji": "Drop it down"
+    },
+    {
+      "id": 48,
+      "start": 99.94,
+      "end": 100.79,
+      "rubyText": "but, i can't stop...",
+      "translation": "but, i can't stop...",
+      "romaji": "but, i can't stop..."
+    },
+    {
+      "id": 49,
+      "start": 100.79,
+      "end": 103.64,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 50,
+      "start": 103.64,
+      "end": 106.5,
+      "rubyText": "君[きみ]の声[こえ]が止[と]まらないや",
+      "translation": "너의 목소리가 멈추질 않아",
+      "romaji": "kiminokoegatomaranaiya"
+    },
+    {
+      "id": 51,
+      "start": 106.5,
+      "end": 107.84,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 52,
+      "start": 107.84,
+      "end": 109.16,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 53,
+      "start": 109.16,
+      "end": 112.17,
+      "rubyText": "考[かんが]えても一生[いっしょう]終[お]わんないよ",
+      "translation": "생각해도 생각해도 끝나질 않아",
+      "romaji": "kangaetemoisshouowannaiyo"
+    },
+    {
+      "id": 54,
+      "start": 112.17,
+      "end": 113.91,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 55,
+      "start": 113.91,
+      "end": 114.83,
+      "rubyText": "ah-ah",
+      "translation": "ah-ah",
+      "romaji": "ah-ah"
+    },
+    {
+      "id": 56,
+      "start": 114.83,
+      "end": 116.83,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 57,
+      "start": 116.83,
+      "end": 117.66,
+      "rubyText": "uh-oh",
+      "translation": "uh-oh",
+      "romaji": "uh-oh"
+    },
+    {
+      "id": 58,
+      "start": 117.66,
+      "end": 120.47,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 59,
+      "start": 120.47,
+      "end": 121.45,
+      "rubyText": "i think i think too",
+      "translation": "i think i think too",
+      "romaji": "i think i think too"
+    },
+    {
+      "id": 60,
+      "start": 121.45,
+      "end": 122.85,
+      "rubyText": "much much much much",
+      "translation": "much much much much",
+      "romaji": "much much much much"
+    },
+    {
+      "id": 61,
+      "start": 122.85,
+      "end": 123.47,
+      "rubyText": "終[お]わんない",
+      "translation": "끝나질 않아",
+      "romaji": "owannai"
+    },
+    {
+      "id": 62,
+      "start": 123.47,
+      "end": 125.33,
+      "rubyText": "think i think too much...",
+      "translation": "think i think too much...",
+      "romaji": "think i think too much..."
+    },
+    {
+      "id": 63,
+      "start": 126.95,
+      "end": 128.47,
+      "rubyText": "much much much much...",
+      "translation": "much much much much...",
+      "romaji": "much much much much..."
+    },
+    {
+      "id": 64,
+      "start": 128.47,
+      "end": 129.17,
+      "rubyText": "終[お]わんない",
+      "translation": "끝나질 않아",
+      "romaji": "owannai"
+    },
+    {
+      "id": 65,
+      "start": 129.17,
+      "end": 131.16,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 66,
+      "start": 131.16,
+      "end": 132.28,
+      "rubyText": "much",
+      "translation": "much",
+      "romaji": "much"
+    },
+    {
+      "id": 67,
+      "start": 132.6,
+      "end": 134.1,
+      "rubyText": "much much much much...much much much muchmuch much much muchmuch much much muchmuch much much much",
+      "translation": "much much much much...much much much muchmuch much much muchmuch much much muchmuch much much much",
+      "romaji": "much much much much... much much much muchmuch much much muchmuch much much muchmuch much much much"
+    },
+    {
+      "id": 68,
+      "start": 134.1,
+      "end": 134.74,
+      "rubyText": "終[お]わんない",
+      "translation": "끝나질 않아",
+      "romaji": "owannai"
+    },
+    {
+      "id": 69,
+      "start": 134.74,
+      "end": 136.45,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 70,
+      "start": 136.45,
+      "end": 137.42,
+      "rubyText": "ah-ah",
+      "translation": "ah-ah",
+      "romaji": "ah-ah"
+    },
+    {
+      "id": 71,
+      "start": 137.42,
+      "end": 139.32,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 72,
+      "start": 139.32,
+      "end": 140.19,
+      "rubyText": "uh-oh",
+      "translation": "uh-oh",
+      "romaji": "uh-oh"
+    },
+    {
+      "id": 73,
+      "start": 140.19,
+      "end": 143.07,
+      "rubyText": "i think i think too much",
+      "translation": "i think i think too much",
+      "romaji": "i think i think too much"
+    },
+    {
+      "id": 74,
+      "start": 143.07,
+      "end": 143.88,
+      "rubyText": "i think i think too",
+      "translation": "i think i think too",
+      "romaji": "i think i think too"
+    },
+    {
+      "id": 75,
+      "start": 143.88,
+      "end": 145.35,
+      "rubyText": "much much much much...",
+      "translation": "much much much much...",
+      "romaji": "much much much much..."
+    },
+    {
+      "id": 76,
+      "start": 145.35,
+      "end": 146.0,
+      "rubyText": "終[お]わんない",
+      "translation": "끝나질 않아",
+      "romaji": "owannai"
+    },
+    {
+      "id": 77,
+      "start": 146.0,
+      "end": 148.0,
+      "rubyText": "think i think too much",
+      "translation": "think i think too much",
+      "romaji": "think i think too much"
+    },
+    {
+      "id": 78,
+      "start": 152.35,
+      "end": 157.92,
+      "rubyText": ",,ᴗ.ᴗ,,",
+      "translation": ",,ᴗ.ᴗ,,",
+      "romaji": ",, ᴗ. ᴗ,,"
+    },
+    {
+      "id": 79,
+      "start": 166.39,
+      "end": 168.39,
+      "rubyText": "(stop thinking!)",
+      "translation": "(stop thinking!)",
+      "romaji": "(stop thinking!)"
+    }
+  ],
+  "kanjiDictionary": {
+    "一": {
+      "character": "一",
+      "korean": "한 일",
+      "kun": [
+        "ひと",
+        "ひと.つ"
+      ],
+      "on": [
+        "イチ",
+        "イツ"
+      ],
+      "meaning": "하나, 첫째, 오로지",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "一気",
+          "reading": "いっき",
+          "meaning": "단숨에, 일기"
+        },
+        {
+          "word": "一番",
+          "reading": "いちばん",
+          "meaning": "가장, 첫째"
+        }
+      ]
+    },
+    "中": {
+      "character": "中",
+      "korean": "가운데 중",
+      "kun": [
+        "なか"
+      ],
+      "on": [
+        "チュウ"
+      ],
+      "meaning": "가운데, 안, 도중",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "中心",
+          "reading": "ちゅうしん",
+          "meaning": "중심"
+        },
+        {
+          "word": "一日中",
+          "reading": "いちにちじゅう",
+          "meaning": "하루 종일"
+        }
+      ]
+    },
+    "今": {
+      "character": "今",
+      "korean": "이제 금",
+      "kun": [
+        "いま"
+      ],
+      "on": [
+        "コン",
+        "キン"
+      ],
+      "meaning": "지금, 현재",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "今宵",
+          "reading": "こよい",
+          "meaning": "오늘 밤"
+        },
+        {
+          "word": "今",
+          "reading": "いま",
+          "meaning": "지금"
+        }
+      ]
+    },
+    "他": {
+      "character": "他",
+      "korean": "다를 타",
+      "kun": [
+        "ほか"
+      ],
+      "on": [
+        "タ"
+      ],
+      "meaning": "다른 것, 딴 사람, 그 외",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "他人",
+          "reading": "たにん",
+          "meaning": "타인, 남"
+        },
+        {
+          "word": "他人事",
+          "reading": "ひとごと",
+          "meaning": "남의 일 (자신의 일이 아님)"
+        }
+      ]
+    },
+    "全": {
+      "character": "全",
+      "korean": "온전할 전",
+      "kun": [
+        "まった.く",
+        "すべ.て"
+      ],
+      "on": [
+        "ゼン"
+      ],
+      "meaning": "모두, 온전하다, 전부",
+      "examples": [
+        {
+          "word": "全て",
+          "reading": "すべて",
+          "meaning": "모든 것, 전부"
+        },
+        {
+          "word": "全部",
+          "reading": "ぜんぶ",
+          "meaning": "전부"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "叩": {
+      "character": "叩",
+      "korean": "두드릴 고",
+      "kun": [
+        "たたく",
+        "はたく"
+      ],
+      "on": [
+        "コウ"
+      ],
+      "meaning": "두드리다, 치다, 세게 때리다",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "叩く",
+          "reading": "たたく",
+          "meaning": "두드리다, 치다"
+        },
+        {
+          "word": "叩きつける",
+          "reading": "たたきつける",
+          "meaning": "세게 내리치다"
+        }
+      ]
+    },
+    "君": {
+      "character": "君",
+      "korean": "임금 군 / 그대 군",
+      "kun": [
+        "きみ"
+      ],
+      "on": [
+        "クン"
+      ],
+      "meaning": "너, 그대, 임금",
+      "examples": [
+        {
+          "word": "君",
+          "reading": "きみ",
+          "meaning": "너, 그대"
+        },
+        {
+          "word": "君たち",
+          "reading": "きみたち",
+          "meaning": "너희들"
+        }
+      ],
+      "jlptLevel": "N4"
+    },
+    "声": {
+      "character": "声",
+      "korean": "소리 성",
+      "kun": [
+        "こえ",
+        "こわ"
+      ],
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "meaning": "목소리, 소리, 의견",
+      "examples": [
+        {
+          "word": "大声",
+          "reading": "おおごえ",
+          "meaning": "큰 목소리"
+        },
+        {
+          "word": "声明",
+          "reading": "せいめい",
+          "meaning": "성명, 발표"
+        }
+      ],
+      "jlptLevel": "N4"
+    },
+    "日": {
+      "character": "日",
+      "korean": "날 일",
+      "kun": [
+        "ひ",
+        "か"
+      ],
+      "on": [
+        "ニチ",
+        "ジツ"
+      ],
+      "meaning": "해, 날, 낮",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "毎日",
+          "reading": "まいにち",
+          "meaning": "매일"
+        },
+        {
+          "word": "日曜日",
+          "reading": "にちようび",
+          "meaning": "일요일"
+        }
+      ]
+    },
+    "止": {
+      "character": "止",
+      "korean": "그칠 지",
+      "kun": [
+        "と・まる",
+        "と・める",
+        "や・む",
+        "や・める"
+      ],
+      "on": [
+        "し"
+      ],
+      "meaning": "멈추다, 그치다, 중단하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "止まる",
+          "reading": "とまる",
+          "meaning": "멈추다"
+        },
+        {
+          "word": "止める",
+          "reading": "とめる",
+          "meaning": "멈추다, 세우다"
+        },
+        {
+          "word": "中止",
+          "reading": "ちゅうし",
+          "meaning": "중지, 중단"
+        }
+      ]
+    },
+    "生": {
+      "character": "生",
+      "korean": "날 생 / 살 생",
+      "kun": [
+        "い.きる",
+        "う.まれる",
+        "なま"
+      ],
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "meaning": "살다, 낳다, 날것",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "生きる",
+          "reading": "いきる",
+          "meaning": "살아가다"
+        },
+        {
+          "word": "生活",
+          "reading": "せいかつ",
+          "meaning": "생활"
+        }
+      ]
+    },
+    "窓": {
+      "character": "窓",
+      "korean": "창문 창",
+      "kun": [
+        "まど"
+      ],
+      "on": [
+        "ソウ"
+      ],
+      "meaning": "창, 창문",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "窓",
+          "reading": "まど",
+          "meaning": "창문"
+        },
+        {
+          "word": "同窓会",
+          "reading": "どうそうかい",
+          "meaning": "동창회"
+        }
+      ]
+    },
+    "終": {
+      "character": "終",
+      "korean": "마칠 종",
+      "kun": [
+        "お.わる",
+        "お.える"
+      ],
+      "on": [
+        "シュウ"
+      ],
+      "meaning": "끝나다, 마치다, 마침내",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "終わり",
+          "reading": "おわり",
+          "meaning": "끝"
+        },
+        {
+          "word": "最終",
+          "reading": "さいしゅう",
+          "meaning": "최종"
+        }
+      ]
+    },
+    "考": {
+      "character": "考",
+      "korean": "생각할 고",
+      "kun": [
+        "かんが.える"
+      ],
+      "on": [
+        "コウ"
+      ],
+      "meaning": "생각하다, 헤아리다, 연구하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "考える",
+          "reading": "かんがえる",
+          "meaning": "생각하다"
+        },
+        {
+          "word": "参考",
+          "reading": "さんこう",
+          "meaning": "참고"
+        }
+      ]
+    },
+    "辺": {
+      "character": "辺",
+      "korean": "가 변",
+      "kun": [
+        "あた.り",
+        "べ"
+      ],
+      "on": [
+        "ヘン"
+      ],
+      "meaning": "가, 근처, 부근",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "辺り",
+          "reading": "あたり",
+          "meaning": "근처, 부근"
+        },
+        {
+          "word": "周辺",
+          "reading": "しゅうへん",
+          "meaning": "주변"
+        }
+      ]
+    },
+    "逃": {
+      "character": "逃",
+      "korean": "달아날 도",
+      "kun": [
+        "に.げる",
+        "のが.す"
+      ],
+      "on": [
+        "トウ"
+      ],
+      "meaning": "도망치다, 달아나다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "逃げる",
+          "reading": "にげる",
+          "meaning": "도망치다"
+        },
+        {
+          "word": "逃走",
+          "reading": "とうそう",
+          "meaning": "도주"
+        }
+      ]
+    },
+    "部": {
+      "character": "部",
+      "korean": "나눌 부 / 거느릴 부",
+      "kun": [
+        "-べ"
+      ],
+      "on": [
+        "ブ"
+      ],
+      "meaning": "부분, 부서, 방(部屋)",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "部屋",
+          "reading": "へや",
+          "meaning": "방"
+        },
+        {
+          "word": "部分",
+          "reading": "ぶぶん",
+          "meaning": "부분"
+        }
+      ]
+    },
+    "雨": {
+      "character": "雨",
+      "korean": "비 우",
+      "kun": [
+        "あめ",
+        "あま"
+      ],
+      "on": [
+        "う"
+      ],
+      "meaning": "비, 강우",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "雨",
+          "reading": "あめ",
+          "meaning": "비"
+        },
+        {
+          "word": "大雨",
+          "reading": "おおあめ",
+          "meaning": "폭우, 큰비"
+        },
+        {
+          "word": "雨水",
+          "reading": "あまみず",
+          "meaning": "빗물"
+        }
+      ]
+    },
+    "音": {
+      "character": "音",
+      "korean": "소리 음",
+      "kun": [
+        "おと",
+        "ね"
+      ],
+      "on": [
+        "おん",
+        "いん"
+      ],
+      "meaning": "소리, 음",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "鈴の音",
+          "reading": "すずのね",
+          "meaning": "방울 소리"
+        },
+        {
+          "word": "音",
+          "reading": "おと",
+          "meaning": "소리"
+        },
+        {
+          "word": "音楽",
+          "reading": "おんがく",
+          "meaning": "음악"
+        }
+      ]
+    },
+    "頭": {
+      "character": "頭",
+      "korean": "머리 두",
+      "kun": [
+        "あたま",
+        "かしら"
+      ],
+      "on": [
+        "トウ",
+        "ズ"
+      ],
+      "meaning": "머리, 두목",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "頭",
+          "reading": "あたま",
+          "meaning": "머리"
+        },
+        {
+          "word": "先頭",
+          "reading": "せんとう",
+          "meaning": "선두"
+        }
+      ]
+    }
+  }
+}

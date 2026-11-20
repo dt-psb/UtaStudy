@@ -146,6 +146,141 @@
 | **愛属性 (Ai Zokusei)** | ピノキオピー feat. 初音ミク | `Xx1TnVObQ0k` | 78구절 | 130자 (전수 매핑) |
 | **完璧超人だ！ (Kanpeki Choujin da!)** | かてらざわ feat. ずんだもん, Yi Xi | `ql-DCZqjLNk` | 60구절 | 107자 (전수 매핑) |
 | **惑星ウェブスター (Wakusei Webster)** | Atena feat. 蒼姫ラピス, メルリ | `UlhFuCzxNbk` | 61구절 | 80자 (전수 매핑) |
+| **はしる! とおく! とどく!** | 薄塩指数 feat. 重音テトSV | `b6ndcYxpX24` | 49구절 | 59자 (전수 매핑) |
+| **異種 (Ishu / Alien)** | GESO feat. 歌愛ユキ, GUMI, 鳴花ヒメ | `rc9MrU98Eco` | 26구절 | 41자 (전수 매핑) |
+| **冴ゆる青 (Sayuru Ao / Feel sky blue)** | 瀬名航 feat. 初音ミク | `EesNkIVrbR4` | 42구절 | 92자 (전수 매핑) |
+| **ベラドンナ (Belladonna)** | nyanyannya（大天才P）- SynthV Yuma | `VSGEpqi48dQ` | 45구절 | 140자 (전수 매핑) |
+| **スノーマン (Snowman) - Rerec** | halyosy ft. KAITO | `SUXQ7L1D2Dw` | 47구절 | 100자 (전수 매핑) |
+| **モミアゲヲシャカアゲヲ** | ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ | `cirDXY3CkSk` | 85구절 | 74자 (전수 매핑) |
+| **サイエンス (Science)** | MIMI feat. 重音テトSV | `m-bvW4pKT68` | 57구절 | 101자 (전수 매핑) |
+| **はいよろこんで (Hai Yorokonde)** | こっちのけんと | `jzi6RNVEOtA` | 48구절 | 50자 (전수 매핑) |
+| **携帯恋話 (Keitai Renwa)** | まふまふ (cover by Earthy X6) | `HdlJxpetUvc` | 47구절 | 78자 (전수 매핑) |
+| **死神は瞑目、月明かりこそがハイライト。** | Project Lumina feat. v_flower | `W-BlSr5jE9g` | 88구절 | 137자 (전수 매핑) |
+| **神様じゃなくてごめんね** | Aliey:S feat. 初音ミク | `OZ8qQ6GKnFE` | 49구절 | 95자 (전수 매핑) |
+| **夕立ちゃん (Yuudachi-chan)** | 雨の介 feat. flower | `uCR3no1sKpI` | 43구절 | 78자 (전수 매핑) |
+| **ロウワー (Lower)** | ぬゆり feat. 重音テトSV (cover by takaokamizuki) | `vB0edMo1kX8` | 43구절 | 118자 (전수 매핑) |
+| **あの春を返して (Ano Haru wo Kaeshite)** | カンザキイオリ feat. 鏡音リン | `33eTF7Fa0IA` | 104구절 | 166자 (전수 매핑) |
+| **ハローセカイ (Hello Sekai)** | DECO*27 feat. 初音ミク | `t5U0rrj0dio` | 29구절 | 49자 (전수 매핑) |
+| **mochimochi** | TAK feat. 初音ミク | `tQM8pfwmcU0` | 69구절 | 29자 (전수 매핑) |
+| **レシートラスト (Receipt Last)** | いえぬ feat. 重音テト | `QVtOjH3G24U` | 67구절 | 135자 (전수 매핑) |
+| **ヘリアンサス (Helianthus)** | Aliey:S feat. 初音ミク | `K64aaWn17jk` | 57구절 | 81자 (전수 매핑) |
+| **ギビュリタ (Gibyurita)** | Vell feat. GUMI | `2YjKVSjdDVM` | 46구절 | 108자 (전수 매핑) |
+| **僕なんかいなくても (With or Without Me)** | ピノキオピー feat. 初音ミク | `A1XqqVWyUl4` | 61구절 | 119자 (전수 매핑) |
+| **ODDS & ENDS** | ryo (supercell) covered by kyaami feat. 重音テト | `R8fuPgbOhTM` | 62구절 | 121자 (전수 매핑) |
+| **あなたのいないデスクトップ (Anata no Inai Desktop)** | 豆カカオ feat. 初音ミク | `8zpxkCgJZSk` | 50구절 | 95자 (전수 매핑) |
+| **ブランディングができない (Branding ga Dekinai)** | Chinozo feat. KafU | `5qunwwaPvN8` | 38구절 | 59자 (전수 매핑) |
+| **罪と罰 (Reloaded) (Tsumi to Batsu)** | DECO*27 feat. 初音ミク | `iD3oF5HkPms` | 34구절 | 40자 (전수 매핑) |
+| **オブソミート (Obsolete Meat)** | 32ki feat. 初音ミク・重音テトSV | `L2hzsXOT0Nc` | 68구절 | 191자 (전수 매핑) |
+| **Leisure** | wotaku feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO | `aJBbfxlic64` | 48구절 | 53자 (전수 매핑) |
+| **君恋クエスト (Kimikoi Quest)** | irucaice × 市瀬るぽ feat. 初音ミク | `h3djT-YfSDQ` | 48구절 | 91자 (전수 매핑) |
+| **天使の涙 (Tenshi no Namida)** | MIMI feat. 初音ミク | `mCYjEWWsqZ8` | 38구절 | 61자 (전수 매핑) |
+| **こたえあわせ (Kotaeawase)** | TANT feat. 鏡音リン・レン | `Hfpzhlc7fdk` | 43구절 | 106자 (전수 매핑) |
+| **ユーチューバー (UTuber)** | ピノキオピー feat. 初音ミク | `lTUVw7wd5qY` | 61구절 | 71자 (전수 매핑) |
+| **ムーンガイズ (Moonguys)** | 煮ル果実 feat. 初音ミク | `dmA_M1xxo9E` | 64구절 | 116자 (전수 매핑) |
+| **WOLF** | バルーン × ヒトリエ feat. flower | `CvEvfA45nVA` | 41구절 | 56자 (전수 매핑) |
+| **ムウ (MW)** | 煮ル果実 feat. flower | `so8TeLqLWps` | 64구절 | 144자 (전수 매핑) |
+| **大人にはなれない (Otona ni wa Narenai)** | Aliey:S feat. 重音テトSV | `cANncTf97w8` | 65구절 | 106자 (전수 매핑) |
+| **超主人公 (Super Superhero)** | ピノキオピー feat. 初音ミク | `thmR2SmkeDU` | 65구절 | 88자 (전수 매핑) |
+| **からっぽの久遠 (Karappo no Kuon)** | Aliey:S feat. 初音ミク | `IoAq-sqLPhg` | 70구절 | 86자 (전수 매핑) |
+| **花弁、それにまつわる音声 (Kaben, Sore ni Matsuwaru Onsei)** | あばらや feat. 初音ミク | `LW1KBCgvEPQ` | 39구절 | 93자 (전수 매핑) |
+| **ダイダイダイダイダイキライ (Daidaidaidaidaikirai)** | 雨良 Amala feat. 初音ミク VS 重音テト | `klIxS5o65C4` | 68구절 | 127자 (전수 매핑) |
+| **ファンファーレ (Fanfare)** | sumika | `7N8oan7fwfk` | 37구절 | 69자 (전수 매핑) |
+| **萬屋レストラン (Yorozuya Restaurant)** | 暖炉P feat. 鏡音リン, 鏡音レン, 初音ミク | `7gv4MLe1ZRg` | 39구절 | 53자 (전수 매핑) |
+| **D/N/A** | Azari feat. 重音テト, flower | `j9RGt9Z_UeE` | 39구절 | 54자 (전수 매핑) |
+| **インテグラル (Integral)** | *Luna feat. 初音ミク | `gjLYd3iyPKM` | 67구절 | 98자 (전수 매핑) |
+| **化けの花 (Bake no Hana)** | なきそ feat. 初音ミク | `jaSJ4t2ITW8` | 34구절 | 35자 (전수 매핑) |
+| **ニャルラト (Nyarlathotep)** | 藤原ハガネ feat. 重音テトSV, 初音ミク | `z1imm_yPUHI` | 40구절 | 151자 (전수 매핑) |
+| **わたしまだBABY (Watashi Mada BABY)** | MIMI feat. 狐子 | `q8Ap-1MUTew` | 34구절 | 52자 (전수 매핑) |
+| **冬晴れステップ (Fuyubare Step)** | きさら feat. 初音ミク | `BupJ_OLUBMw` | 32구절 | 62자 (전수 매핑) |
+| **少女A (Young Girl A)** | 椎名もた feat. 鏡音リン | `AqI97zHMoQw` | 29구절 | 65자 (전수 매핑) |
+| **Time Traveler** | EMIRI feat. 初音ミク | `MhPXMcL9PBU` | 46구절 | 62자 (전수 매핑) |
+| **SHOOTING STARS** | めろくる feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO | `EA1H2wHa7iU` | 72구절 | 80자 (전수 매핑) |
+| **微熱のリリック (Binetsu no Lyric)** | MIMI feat. 重音テトSV | `qXvVt75kNmE` | 41구절 | 67자 (전수 매핑) |
+| **聖人君子でありたい (Seijin Kunshi de Aritai)** | しゃいと feat. 重音テトSV | `hrBjKBPNi1c` | 51구절 | 109자 (전수 매핑) |
+| **T氏の話を信じるな (Don’t Believe in T)** | ピノキオピー feat. 初音ミク・重音テト | `Jtm6ikBIl0g` | 70구절 | 92자 (전수 매핑) |
+| **弱虫モンブラン (Reloaded) (Yowamushi Montblanc)** | DECO*27 feat. 初音ミク | `euRzG6zmEb8` | 25구절 | 53자 (전수 매핑) |
+| **チェリーポップ (Cherry Pop)** | DECO*27 feat. 初音ミク | `BI9Ue6JwJic` | 69구절 | 48자 (전수 매핑) |
+| **イレギュラーマン (Irregular Man)** | マサラダ feat. 重音テトSV | `KOcReuSy67Y` | 60구절 | 99자 (전수 매핑) |
+| **いますぐ輪廻 (Imasugu Rinne)** | なきそ feat. 初音ミク | `3iUgKH8c7p4` | 42구절 | 60자 (전수 매핑) |
+| **ストリートライト (Streetlight)** | Negi Shower P feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, KAITO, MEIKO | `NPOhKU5VTrQ` | 55구절 | 110자 (전수 매핑) |
+| **散り散り (Chilly)** | 読谷あかね feat. 重音テト | `Xn-JobZlsQo` | 20구절 | 108자 (전수 매핑) |
+| **ミカンセイニンゲン (Mikansei Ningen)** | ミ瑞 feat. 可不、知声、重音テトSV | `P5nKiqaRo1M` | 76구절 | 77자 (전수 매핑) |
+| **デロデロデロデ (Deroderoderode)** | cosMo＠暴走P feat. 初音ミク | `gX_EUiEdur8` | 54구절 | 73자 (전수 매핑) |
+| **アベリア (Abelia)** | Aliey:S feat. 初音ミク | `wYlH_sR-8cA` | 86구절 | 83자 (전수 매핑) |
+| **天天天国地獄国 (Tentengoku Jigokukoku)** | covered by 初音ミクV4X & 重音テトSV | `xSfIAqxG1OM` | 62구절 | 85자 (전수 매핑) |
+| **エンパープル (Empurple)** | はるまきごはん feat. 初音ミク | `InZ7GOU-CQ8` | 42구절 | 82자 (전수 매핑) |
+| **成れなｲ (Can't becoME)** | 雨曇 feat. 重音テトSV, 重音テト | `7OqQ0HYPJVY` | 43구절 | 71자 (전수 매핑) |
+| **ルサンチマン (Ressentiment)** | Aliey:S feat. 初音ミク | `vfk8bohEreg` | 56구절 | 62자 (전수 매핑) |
+| **Spoken For** | FLAVOR FOLEY ft. 重音テト | `LvYL8u4p-aM` | 71구절 | 127자 (전수 매핑) |
+| **エターナルアリア (Eternal Aria)** | Adeliae feat. 初音ミク | `GHzCL_6v87Y` | 41구절 | 101자 (전수 매핑) |
+| **きおくをみたの (Kioku wo Mita no)** | まかろり feat. 初音ミク | `DNltbDXaKw8` | 46구절 | 90자 (전수 매핑) |
+| **モニタリング (Best Friend Remix)** | DECO*27 feat. 初音ミク | `C-CYwNz3z8w` | 48구절 | 82자 (전수 매핑) |
+| **ハピフルエンサー！ (Happyfulencer!)** | irucaice × 市瀬るぽ × Ponchi♪ feat. 初音ミク | `WGNLYKPuIUQ` | 56구절 | 90자 (전수 매핑) |
+| **成長痛 (Seichoutsuu)** | Iori Kanzaki feat. 梵そよぎ | `RXuoTY1neiU` | 63구절 | 104자 (전수 매핑) |
+| **Écho ｢ミロワール｣ (Miroir)** | Écho feat. 初音ミク | `un4S1RoQo7A` | 25구절 | 52자 (전수 매핑) |
+| **怪獣になりたい (Kaijuu ni Naritai)** | Sakuzyo feat. 初音ミク | `TbakFPc4ZTw` | 31구절 | 47자 (전수 매핑) |
+| **さざめき、とどめき、大百鬼夜行！** | netuki feat. 初音ミク | `7V8L9otIYMg` | 46구절 | 141자 (전수 매핑) |
+| **オデッセイ (Odyssey)** | 織井辺コフィ feat. 星界 | `KjJL_8x43OA` | 49구절 | 117자 (전수 매핑) |
+| **超限界バスター (Chougenkai Buster)** | ¿? feat. 重音テト | `PKXJWt0Pcfs` | 59구절 | 54자 (전수 매핑) |
+| **スマート??? (Smart???)** | まらしぃ feat. 鏡音リン | `xDuxw1rsNWo` | 59구절 | 86자 (전수 매핑) |
+| **全部夢だった！ (Zenbu Yume Datta!)** | 黒うさぎ feat. 重音テトSV | `z13hzDHruo8` | 32구절 | 50자 (전수 매핑) |
+| **初音ミクシンフォニー10thテーマ曲『プレイオン』 (Play On)** | Mitchie M | `CXkY-vWeuRI` | 60구절 | 119자 (전수 매핑) |
+| **彗星ノ銀河 (Suisei no Ginga)** | マツシタレオ feat. 初音ミク | `HDwPGObRmXE` | 31구절 | 77자 (전수 매핑) |
+| **ネバーランド (Neverland)** | DECO*27 feat. 初音ミク | `48Csilkjev0` | 55구절 | 66자 (전수 매핑) |
+| **ドクヘビ (Dokuhebi)** | かめりあ feat. 初音ミク | `n1q-R6iNxRE` | 70구절 | 134자 (전수 매핑) |
+| **アイアイ傘 (Aiaigasa)** | ハム feat. 雨衣 | `e5_XSeN9Y4k` | 35구절 | 65자 (전수 매핑) |
+| **Vermillion** | sumika | `Epd7n5fqoNw` | 53구절 | 95자 (전수 매핑) |
+| **あんたは死んだ (Anta wa Shinda)** | カンザキイオリ feat. 重音テトSV | `bKA5FxTBujA` | 67구절 | 100자 (전수 매핑) |
+| **tig-hug** | sasakure.UK feat. GUMI | `AO81V78Dtwo` | 52구절 | 74자 (전수 매핑) |
+| **Leucocoryne (リュウココリネ)** | ryuryu feat. 初音ミク | `fFitoGwCITo` | 28구절 | 75자 (전수 매핑) |
+| **パレードレコード (Parade Record)** | きさら feat. 初音ミク | `z7UF260NtyU` | 72구절 | 109자 (전수 매핑) |
+| **バカみたいじゃん (Baka Mitai jan)** | あくたり (Aktari) feat. 重音テトSV | `2CnLNnY5QME` | 39구절 | 55자 (전수 매핑) |
+| **Blusher (臙脂)** | om feat. 重音テト | `9HUMT9F7baM` | 48구절 | 80자 (전수 매핑) |
+| **星降るココロ (Hoshifuru Kokoro)** | MIMI feat. 初音ミク | `Mb9TWJm_5L4` | 21구절 | 51자 (전수 매핑) |
+| **Pain** | めろくる (Mellowcle) feat. 初音ミク | `X2CFrEDiDyY` | 53구절 | 70자 (전수 매핑) |
+| **シスターシスター (Sister Sister)** | せきこみごはん feat. 初音ミク | `AvctZU1E_7Q` | 38구절 | 83자 (전수 매핑) |
+| **回生 (Kaisei)** | ゆくえわっと feat. 健音テイ, 暗鳴ニュイ, 湯鬱声からす | `U0YMFCYVzCI` | 41구절 | 83자 (전수 매핑) |
+| **あたしの廃園 (Atashi no Haien)** | 溝野あわ feat. 重音テトSV | `xYJkF7EMyP8` | 35구절 | 47자 (전수 매핑) |
+| **マジカル☆ミラクル☆メタギャルフォーゼ (MAGICAL☆MIRACLE☆METAGALPHOSE)** | ふるーり feat. 重音テトSV | `WYTSF1soBZs` | 60구절 | 108자 (전수 매핑) |
+| **ジェヘナ (Gehenna)** | Earthy X6 (Cover) [wotaku feat. 巡音ルカ, MEIKO, KAITO] | `seXI1A6tMmA` | 54구절 | 120자 (전수 매핑) |
+| **Boo!Boo!エトランゼ (Boo!Boo!Etranger)** | きさら feat. v flower & Ci flower | `VHmrMK5K2aY` | 51구절 | 65자 (전수 매핑) |
+| **トレジャーガーデン (Treasure Garden)** | Ponchi♪ feat. 初音ミク | `RIpHyjsv_84` | 47구절 | 44자 (전수 매핑) |
+| **MEGANE GIRL MEGANE BOY** | WONDERFUL★OPPORTUNITY! feat. 鏡音リン・鏡音レン | `la6_f-oUFHE` | 58구절 | 77자 (전수 매핑) |
+| **ポリビュー (polyview)** | いえぬ feat. 初音ミク | `6HSKCce8abM` | 35구절 | 73자 (전수 매핑) |
+| **空奏ジャンプ (Kuusou Jump)** | ナナホシ管弦楽団 feat. 初音ミク | `5qMb-ZGmT1w` | 47구절 | 84자 (전수 매핑) |
+| **にゅー！支配者のキャロル (New! Shihaisha no Carol)** | 藤原ハガネ feat. 里石ユカ | `UnlgVoWd7hI` | 45구절 | 121자 (전수 매핑) |
+| **Do not tap** | Shü feat. 重音テトSV・音街ウナSV | `rMlC5UQM9qI` | 40구절 | 103자 (전수 매핑) |
+| **ウニ (Uni / 성게)** | Adeliae feat. 雨衣 | `fi3YjlKlpRU` | 38구절 | 77자 (전수 매핑) |
+| **目撃！テト31世 (Mokugeki! Teto 31-sei)** | はろける feat. 雨衣・重音テト | `uWMr16O_Aso` | 56구절 | 43자 (전수 매핑) |
+| **カートゥーンガール (Cartoon Girl)** | Kanaria feat. GUMI | `BY7CnLX5Mk0` | 24구절 | 22자 (전수 매핑) |
+| **だれかぬいてくれ (DAREKANUITEKURE)** | ぬぬぬぬぬぬぬぬ feat. 音街ウナSV & タカハシアマト | `VgLNfVougpI` | 61구절 | 42자 (전수 매핑) |
+| **キネティックタウン (Kinetic Town)** | 晴いちばん feat. 初音ミク | `AdT_lmdC39g` | 29구절 | 73자 (전수 매핑) |
+| **死神は瞑目、月明かりこそがハイライト。 (Aliey:S Remix)** | Project Lumina - Aliey:S Remix feat. 初音ミク | `DOai_KjDGh0` | 88구절 | 137자 (전수 매핑) |
+| **ぐるぐる (Guruguru)** | OLDUCT feat. 歌愛ユキ & 初音ミク | `ympFwEAUqc0` | 65구절 | 23자 (전수 매핑) |
+| **けっかおーらい (Kekka Orai)** | こっちのけんと | `Ug0N4qGRp_w` | 70구절 | 86자 (전수 매핑) |
+| **やる気が出ない歌 (Yaruki ga Denai Uta)** | えいぷ feat. 初音ミク・重音テト | `xAwnI9AraXs` | 85구절 | 119자 (전수 매핑) |
+| **ずんだタコヤーキ (Zunda Takoyaaki)** | なみぐる feat. ずんだもん・琴葉茜 | `pbb7EQx-7tA` | 71구절 | 40자 (전수 매핑) |
+| **メルトアイスクリーム (Melt Ice Cream)** | TRAP CHICK feat. 初音ミク・重音テト | `aDA1B_We5w8` | 51구절 | 81자 (전수 매핑) |
+| **Pretender** | Official髭男dism | `TQ8WlA2GXbk` | 52구절 | 96자 (전수 매핑) |
+| **スプリットダンス (Split Dance)** | えいぷ feat. 初音ミク・重音テト | `R401j1QAvEg` | 58구절 | 116자 (전수 매핑) |
+| **地獄行きの列車に乗ってさらば！ (Jigoku-yuki no Ressha ni Notte Saraba!)** | Aliey:S feat. 初音ミク | `oz-NYTQXA9o` | 95구절 | 106자 (전수 매핑) |
+| **次元通信 (Signaling)** | AnythingBecomeMoe feat. 初音ミク・重音テト | `PqpCRSOUuIE` | 56구절 | 103자 (전수 매핑) |
+| **杏仁dope (Annin Dope)** | なみぐる feat. 可不 | `fFL9NeOF7XM` | 83구절 | 75자 (전수 매핑) |
+| **バゥムクゥヘン・エンドロゥル (Baumkuchen End Roll)** | 雨良 feat. 初音ミクVS重音テトVS亞北ネル | `Dz5rALpx06M` | 51구절 | 114자 (전수 매핑) |
+| **ループザルーム (Looping the Rooms)** | ルシノ feat. 初音ミク | `icBDYkfxpMs` | 42구절 | 48자 (전수 매핑) |
+| **桜日和とタイムマシン (Sakurabiyori to Time Machine)** | Ado with 初音ミク | `nIWZfhpnq6M` | 35구절 | 76자 (전수 매핑) |
+| **妄想アスパルテーム (Mousou Aspartame)** | picco feat. 初音ミク | `36LsS8T5RHE` | 53구절 | 65자 (전수 매핑) |
+| **『トリックハート』 (Trick Heart)** | MIMI feat. 重音テトSV | `uoYegcqyfxE` | 40구절 | 67자 (전수 매핑) |
+| **弱者のマーチ (March of the Weak)** | えいぷ feat. 重音テト | `IxSvgPhdc8c` | 62구절 | 144자 (전수 매핑) |
+| **とろいめもりー (Trois Memory)** | 豆カカオ feat. 初音ミク | `92gM1Kqm8n8` | 57구절 | 130자 (전수 매핑) |
+| **それもいいね (Sore mo Ii ne)** | こっちのけんと | `URHwwFNdJ5Y` | 36구절 | 39자 (전수 매핑) |
+| **どこにもいかない (Dokonimo Ikanai)** | マサラダ feat. 雨衣 | `xJULqAHbst0` | 29구절 | 32자 (전수 매핑) |
+| **ぼくはそれで委員会! (Boku wa Sore de Iinkai!)** | 薄塩指数 ft. 重音テトSV | `fReNcRnVnS8` | 36구절 | 54자 (전수 매핑) |
+| **命辛辛 (Inochigaragara / For dear life)** | 煮ル果実 feat. v flower | `QTxvUA4l0Vs` | 53구절 | 145자 (전수 매핑) |
+| **花びら哀歌 (Hanabira Aika)** | MIMI feat. 重音テトSV | `IxVFW1XIW7Q` | 27구절 | 53자 (전수 매핑) |
+| **流季想 (Ryukisou)** | Project Lumina feat. 初音ミク | `Z0iDS-m2uW4` | 61구절 | 66자 (전수 매핑) |
+| **だ・し・て (Da・Shi・Te)** | はろける feat. 初音ミク & 重音テトSV | `c4UFhgGrRCk` | 57구절 | 69자 (전수 매핑) |
+| **アンチドリームロマンチスト (Anti-Dream Romanticist)** | テンタクル忍者 feat. 初音ミク | `kRTcFyjvUtE` | 72구절 | 82자 (전수 매핑) |
 
 ---
 

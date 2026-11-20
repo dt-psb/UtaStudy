@@ -1,0 +1,754 @@
+{
+  "id": "cartoon-girl",
+  "title": "カートゥーンガール",
+  "artist": "Kanaria feat. GUMI",
+  "youtubeId": "BY7CnLX5Mk0",
+  "lyrics": [
+    {
+      "id": 1,
+      "ruby": "メロディ",
+      "translation": "Melody",
+      "romaji": "merodi",
+      "startTime": 6.32,
+      "endTime": 7.72
+    },
+    {
+      "id": 2,
+      "ruby": "それは瞬[しゅん]のぬくもりで",
+      "translation": "그건 깜박임 같은 잠깐의 온기",
+      "romaji": "sore wa shun no nukumori de",
+      "startTime": 9.17,
+      "endTime": 12.02
+    },
+    {
+      "id": 3,
+      "ruby": "メロディ",
+      "translation": "Melody",
+      "romaji": "merodi",
+      "startTime": 12.02,
+      "endTime": 13.45
+    },
+    {
+      "id": 4,
+      "ruby": "食[た]べて吐[は]いて飲[の]み込[こ]んで",
+      "translation": "먹고 내뱉고 삼켜",
+      "romaji": "tabete haite nomikonde",
+      "startTime": 14.9,
+      "endTime": 18.02
+    },
+    {
+      "id": 5,
+      "ruby": "笑味[しょうみ]馬鹿[ばか]みたいに",
+      "translation": "실컷 맛봐",
+      "romaji": "shoumi baka mitai ni",
+      "startTime": 18.47,
+      "endTime": 20.7
+    },
+    {
+      "id": 6,
+      "ruby": "甘[あま]く酸[す]っぱいこのケーキ",
+      "translation": "새콤달콤한 이 케이크",
+      "romaji": "amaku suppai kono keeki",
+      "startTime": 20.7,
+      "endTime": 24.07
+    },
+    {
+      "id": 7,
+      "ruby": "今日[きょう]が夢[ゆめ]みたいに",
+      "translation": "만약 오늘이 꿈 같은 거였다면",
+      "romaji": "kyou ga yume mitai ni",
+      "startTime": 24.07,
+      "endTime": 26.43
+    },
+    {
+      "id": 8,
+      "ruby": "なればゾッコン　病[や]みつき　イライラ",
+      "translation": "너에게 반해 푹 빠져서 초조해질 텐데",
+      "romaji": "nareba zokkon yamitsuki iraira",
+      "startTime": 26.43,
+      "endTime": 29.68
+    },
+    {
+      "id": 9,
+      "ruby": "あら！　あらま　ドキドキで",
+      "translation": "어머! 어머나 두근두근",
+      "romaji": "ara! arama dokidoki de",
+      "startTime": 32.77,
+      "endTime": 35.77
+    },
+    {
+      "id": 10,
+      "ruby": "その心[こころ]は　ラブラブで",
+      "translation": "그 속마음은 러브러브",
+      "romaji": "sono kokoro wa raburabu de",
+      "startTime": 35.77,
+      "endTime": 38.17
+    },
+    {
+      "id": 11,
+      "ruby": "あら！　あらま　なぞなぞで",
+      "translation": "어머! 어머나 수수께끼",
+      "romaji": "ara! arama nazonazo de",
+      "startTime": 38.47,
+      "endTime": 41.53
+    },
+    {
+      "id": 12,
+      "ruby": "ロマンチックなんて勝手[かって]言[い]うんでしょ",
+      "translation": "네 멋대로 로맨틱하다고 할 거지?",
+      "romaji": "romanchikku nante katte iun desho",
+      "startTime": 41.53,
+      "endTime": 44.25
+    },
+    {
+      "id": 13,
+      "ruby": "だからどうか泣[な]かないで",
+      "translation": "그러니 제발 울지 마",
+      "romaji": "dakara douka nakanaide",
+      "startTime": 47.13,
+      "endTime": 49.68
+    },
+    {
+      "id": 14,
+      "ruby": "この心[こころ]が真[ま]っ赤[か]だって言[い]うんでしょ",
+      "translation": "넌 이 마음이 새빨갛다고 할 거지?",
+      "romaji": "kono kokoro ga makka datte iun desho",
+      "startTime": 52.87,
+      "endTime": 55.34
+    },
+    {
+      "id": 15,
+      "ruby": "メロディ",
+      "translation": "Melody",
+      "romaji": "merodi",
+      "startTime": 57.2,
+      "endTime": 58.6
+    },
+    {
+      "id": 16,
+      "ruby": "どこか酸[す]っぱいこのメロディ",
+      "translation": "왠지 새콤한 이 Melody",
+      "romaji": "dokoka suppai kono merodi",
+      "startTime": 60.03,
+      "endTime": 61.47
+    },
+    {
+      "id": 17,
+      "ruby": "メロディ",
+      "translation": "Melody",
+      "romaji": "merodi",
+      "startTime": 62.9,
+      "endTime": 64.33
+    },
+    {
+      "id": 18,
+      "ruby": "食[た]べて吐[は]いて飲[の]み込[こ]んで",
+      "translation": "먹고 내뱉고 삼켜",
+      "romaji": "tabete haite nomikonde",
+      "startTime": 65.8,
+      "endTime": 68.01
+    },
+    {
+      "id": 19,
+      "ruby": "あら！　あらま　ドキドキで",
+      "translation": "어머! 어머나 두근두근",
+      "romaji": "ara! arama dokidoki de",
+      "startTime": 74.47,
+      "endTime": 77.47
+    },
+    {
+      "id": 20,
+      "ruby": "その心[こころ]は　ラブラブで",
+      "translation": "그 속마음은 러브러브",
+      "romaji": "sono kokoro wa raburabu de",
+      "startTime": 77.47,
+      "endTime": 80.2
+    },
+    {
+      "id": 21,
+      "ruby": "あら！　あらま　なぞなぞで",
+      "translation": "어머! 어머나 수수께끼",
+      "romaji": "ara! arama nazonazo de",
+      "startTime": 80.2,
+      "endTime": 83.2
+    },
+    {
+      "id": 22,
+      "ruby": "ロマンチックなんて勝手[かって]言[い]うんでしょ",
+      "translation": "네 멋대로 로맨틱하다고 할 거지?",
+      "romaji": "romanchikku nante katte iun desho",
+      "startTime": 83.2,
+      "endTime": 85.93
+    },
+    {
+      "id": 23,
+      "ruby": "だからどうか泣[な]かないで",
+      "translation": "그러니 제발 울지 마",
+      "romaji": "dakara douka nakanaide",
+      "startTime": 88.8,
+      "endTime": 91.35
+    },
+    {
+      "id": 24,
+      "ruby": "この心[こころ]が真[ま]っ赤[か]だって言[い]うんでしょ",
+      "translation": "넌 이 마음이 새빨갛다고 할 거지?",
+      "romaji": "kono kokoro ga makka datte iun desho",
+      "startTime": 94.54,
+      "endTime": 97.01
+    }
+  ],
+  "kanjiDictionary": {
+    "今": {
+      "character": "今",
+      "korean": "이제 금",
+      "kun": [
+        "いま"
+      ],
+      "on": [
+        "コン",
+        "キン"
+      ],
+      "meaning": "지금, 현재",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "今宵",
+          "reading": "こよい",
+          "meaning": "오늘 밤"
+        },
+        {
+          "word": "今",
+          "reading": "いま",
+          "meaning": "지금"
+        }
+      ]
+    },
+    "勝": {
+      "character": "勝",
+      "korean": "이길 승",
+      "kun": [
+        "か.つ",
+        "まさ.る"
+      ],
+      "on": [
+        "ショウ"
+      ],
+      "meaning": "이기다, 낫다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "勝負",
+          "reading": "しょうぶ",
+          "meaning": "승부"
+        },
+        {
+          "word": "勝利",
+          "reading": "しょうり",
+          "meaning": "승리"
+        }
+      ]
+    },
+    "吐": {
+      "character": "吐",
+      "korean": "토할 토",
+      "kun": [
+        "は.く"
+      ],
+      "on": [
+        "ト"
+      ],
+      "meaning": "토하다, 내뱉다, 말하다",
+      "examples": [
+        {
+          "word": "嘘吐き",
+          "reading": "うそつき",
+          "meaning": "거짓말쟁이"
+        },
+        {
+          "word": "吐息",
+          "reading": "といき",
+          "meaning": "한숨"
+        }
+      ],
+      "jlptLevel": "N1"
+    },
+    "味": {
+      "character": "味",
+      "korean": "맛 미",
+      "kun": [
+        "あじ",
+        "あじ.わう"
+      ],
+      "on": [
+        "ミ"
+      ],
+      "meaning": "맛, 의미, 묘미",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "醍醐味",
+          "reading": "だいごみ",
+          "meaning": "참맛, 묘미"
+        },
+        {
+          "word": "意味",
+          "reading": "いみ",
+          "meaning": "의미"
+        }
+      ]
+    },
+    "夢": {
+      "character": "夢",
+      "korean": "꿈 몽",
+      "kun": [
+        "ゆめ"
+      ],
+      "on": [
+        "ム"
+      ],
+      "meaning": "꿈, 희망",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "夢",
+          "reading": "ゆめ",
+          "meaning": "꿈"
+        },
+        {
+          "word": "悪夢",
+          "reading": "あくむ",
+          "meaning": "악몽"
+        }
+      ]
+    },
+    "心": {
+      "character": "心",
+      "korean": "마음 심",
+      "kun": [
+        "こころ"
+      ],
+      "on": [
+        "シン"
+      ],
+      "meaning": "마음, 심장, 중심",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "心",
+          "reading": "こころ",
+          "meaning": "마음"
+        },
+        {
+          "word": "心配",
+          "reading": "しんぱい",
+          "meaning": "걱정"
+        }
+      ]
+    },
+    "手": {
+      "character": "手",
+      "korean": "손 수",
+      "kun": [
+        "て",
+        "た"
+      ],
+      "on": [
+        "シュ"
+      ],
+      "meaning": "손, 수단",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "手",
+          "reading": "て",
+          "meaning": "손"
+        },
+        {
+          "word": "拍手",
+          "reading": "はくしゅ",
+          "meaning": "박수"
+        }
+      ]
+    },
+    "日": {
+      "character": "日",
+      "korean": "날 일",
+      "kun": [
+        "ひ",
+        "か"
+      ],
+      "on": [
+        "ニチ",
+        "ジツ"
+      ],
+      "meaning": "해, 날, 낮",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "毎日",
+          "reading": "まいにち",
+          "meaning": "매일"
+        },
+        {
+          "word": "日曜日",
+          "reading": "にちようび",
+          "meaning": "일요일"
+        }
+      ]
+    },
+    "泣": {
+      "character": "泣",
+      "korean": "울 읍",
+      "kun": [
+        "な.く"
+      ],
+      "on": [
+        "キュウ"
+      ],
+      "meaning": "울다, 눈물 흘리다",
+      "examples": [
+        {
+          "word": "泣く",
+          "reading": "なく",
+          "meaning": "울다"
+        },
+        {
+          "word": "号泣",
+          "reading": "ごうきゅう",
+          "meaning": "통곡"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "甘": {
+      "character": "甘",
+      "korean": "달 감",
+      "kun": [
+        "あま.い",
+        "あま.やかす"
+      ],
+      "on": [
+        "カン"
+      ],
+      "meaning": "달다, 무르다, 달콤하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "甘い",
+          "reading": "あまい",
+          "meaning": "달다, 달콤하다, 무르다"
+        },
+        {
+          "word": "甘やかす",
+          "reading": "あまやかす",
+          "meaning": "응석을 받아주다"
+        }
+      ]
+    },
+    "病": {
+      "character": "病",
+      "korean": "병 병",
+      "kun": [
+        "や.む",
+        "やまい"
+      ],
+      "on": [
+        "ビョウ",
+        "ヘイ"
+      ],
+      "meaning": "병, 앓다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "病",
+          "reading": "やまい",
+          "meaning": "병, 질환"
+        },
+        {
+          "word": "病院",
+          "reading": "びょういん",
+          "meaning": "병원"
+        }
+      ]
+    },
+    "真": {
+      "character": "真",
+      "korean": "참 진",
+      "kun": [
+        "ま",
+        "まこと"
+      ],
+      "on": [
+        "シン"
+      ],
+      "meaning": "참, 진실, 정면",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "真ん中",
+          "reading": "まんなか",
+          "meaning": "한가운데"
+        },
+        {
+          "word": "写真",
+          "reading": "しゃしん",
+          "meaning": "사진"
+        }
+      ]
+    },
+    "瞬": {
+      "character": "瞬",
+      "korean": "깜짝일 순",
+      "kun": [
+        "またた.く"
+      ],
+      "on": [
+        "シュン"
+      ],
+      "meaning": "눈 깜빡이다, 순식간",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "瞬間",
+          "reading": "しゅんかん",
+          "meaning": "순간"
+        },
+        {
+          "word": "一瞬",
+          "reading": "いっしゅん",
+          "meaning": "일순간"
+        }
+      ]
+    },
+    "笑": {
+      "character": "笑",
+      "korean": "웃을 소",
+      "kun": [
+        "わら.う",
+        "え.む"
+      ],
+      "on": [
+        "ショウ"
+      ],
+      "meaning": "웃다, 기뻐하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "笑う",
+          "reading": "わらう",
+          "meaning": "웃다"
+        },
+        {
+          "word": "笑顔",
+          "reading": "えがお",
+          "meaning": "웃는 얼굴"
+        }
+      ]
+    },
+    "言": {
+      "character": "言",
+      "korean": "말씀 언",
+      "kun": [
+        "い.う",
+        "こと"
+      ],
+      "on": [
+        "ゲン",
+        "ゴン"
+      ],
+      "meaning": "말하다, 말씀, 단어",
+      "examples": [
+        {
+          "word": "言葉",
+          "reading": "ことば",
+          "meaning": "말, 언어"
+        },
+        {
+          "word": "方言",
+          "reading": "ほうげん",
+          "meaning": "방언, 사투리"
+        }
+      ],
+      "jlptLevel": "N5"
+    },
+    "赤": {
+      "character": "赤",
+      "korean": "붉을 적",
+      "kun": [
+        "あか",
+        "あか.い",
+        "あか.らむ"
+      ],
+      "on": [
+        "セキ",
+        "シャク"
+      ],
+      "meaning": "붉다, 순수하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "赤い",
+          "reading": "あかい",
+          "meaning": "붉다, 빨갛다"
+        },
+        {
+          "word": "赤字",
+          "reading": "あかじ",
+          "meaning": "적자 (결손)"
+        }
+      ]
+    },
+    "込": {
+      "character": "込",
+      "korean": "담을 입",
+      "kun": [
+        "こ.む",
+        "こ.める"
+      ],
+      "on": [],
+      "meaning": "들어가다, 넣다, 듬뿍",
+      "examples": [
+        {
+          "word": "迷い込む",
+          "reading": "まよいこむ",
+          "meaning": "헤매어 들다"
+        },
+        {
+          "word": "思い込む",
+          "reading": "おもいこむ",
+          "meaning": "굳게 믿다"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "酸": {
+      "character": "酸",
+      "korean": "실 산",
+      "kun": [
+        "す.い"
+      ],
+      "on": [
+        "サン"
+      ],
+      "meaning": "시다, 시큼하다, 산성",
+      "examples": [
+        {
+          "word": "酸い",
+          "reading": "すい",
+          "meaning": "시다, 맛이 시다"
+        },
+        {
+          "word": "酸性",
+          "reading": "さんせい",
+          "meaning": "산성"
+        }
+      ],
+      "jlptLevel": "N2"
+    },
+    "食": {
+      "character": "食",
+      "korean": "먹을 식 / 밥 식",
+      "kun": [
+        "た.べる",
+        "く.う"
+      ],
+      "on": [
+        "ショク",
+        "ジキ"
+      ],
+      "meaning": "먹다, 음식, 밥",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "食べる",
+          "reading": "たべる",
+          "meaning": "먹다"
+        },
+        {
+          "word": "食事",
+          "reading": "しょくじ",
+          "meaning": "식사"
+        }
+      ]
+    },
+    "飲": {
+      "character": "飲",
+      "korean": "마실 음",
+      "kun": [
+        "の.む"
+      ],
+      "on": [
+        "イン"
+      ],
+      "meaning": "마시다, 삼키다",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "飲む",
+          "reading": "のむ",
+          "meaning": "마시다, 삼키다"
+        },
+        {
+          "word": "飲み込む",
+          "reading": "のみこむ",
+          "meaning": "삼키다, 이해하다"
+        }
+      ]
+    },
+    "馬": {
+      "character": "馬",
+      "korean": "말 마",
+      "kun": [
+        "うま",
+        "ま"
+      ],
+      "on": [
+        "ば"
+      ],
+      "meaning": "말",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "馬鹿",
+          "reading": "ばか",
+          "meaning": "바보, 바보짓"
+        },
+        {
+          "word": "馬",
+          "reading": "うま",
+          "meaning": "말"
+        },
+        {
+          "word": "乗馬",
+          "reading": "じょうば",
+          "meaning": "승마"
+        }
+      ]
+    },
+    "鹿": {
+      "character": "鹿",
+      "korean": "사슴 록",
+      "kun": [
+        "しか",
+        "か"
+      ],
+      "on": [
+        "ろく"
+      ],
+      "meaning": "사슴",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "馬鹿",
+          "reading": "ばか",
+          "meaning": "바보, 멍청이"
+        },
+        {
+          "word": "鹿",
+          "reading": "しか",
+          "meaning": "사슴"
+        }
+      ]
+    }
+  }
+}
