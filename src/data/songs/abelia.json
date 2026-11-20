@@ -6,691 +6,691 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "キミがもう",
+      "start": 1.39,
+      "end": 2.19,
+      "rubyText": "キミがもう",
       "translation": "네가 일찍이",
-      "romaji": "kimi ga mou",
-      "startTime": 1.39,
-      "endTime": 2.19
+      "romaji": "kimi ga mou"
     },
     {
       "id": 2,
-      "ruby": "忘[わす]れてしまった歌[うた]を",
+      "start": 2.32,
+      "end": 4.96,
+      "rubyText": "忘[わす]れてしまった歌[うた]を",
       "translation": "잊어버렸던 노래를",
-      "romaji": "wasurete shimatta uta o",
-      "startTime": 2.32,
-      "endTime": 4.96
+      "romaji": "wasurete shimatta uta o"
     },
     {
       "id": 3,
-      "ruby": "思[おも]い出[だ]させてあげる。",
+      "start": 5.12,
+      "end": 6.59,
+      "rubyText": "思[おも]い出[だ]させてあげる。",
       "translation": "다시 떠올리게 해줄게.",
-      "romaji": "omoidasasete ageru.",
-      "startTime": 5.12,
-      "endTime": 6.59
+      "romaji": "omoidasasete ageru."
     },
     {
       "id": 4,
-      "ruby": "終[お]わらないよ、",
+      "start": 6.92,
+      "end": 7.92,
+      "rubyText": "終[お]わらないよ、",
       "translation": "끝나지 않아,",
-      "romaji": "owaranai yo,",
-      "startTime": 6.92,
-      "endTime": 7.92
+      "romaji": "owaranai yo,"
     },
     {
       "id": 5,
-      "ruby": "覚[おぼ]えていてくれるなら",
+      "start": 8.06,
+      "end": 10.19,
+      "rubyText": "覚[おぼ]えていてくれるなら",
       "translation": "기억하고 있어준다면",
-      "romaji": "oboete ite kureru nara",
-      "startTime": 8.06,
-      "endTime": 10.19
+      "romaji": "oboete ite kureru nara"
     },
     {
       "id": 6,
-      "ruby": "だから、もういいかい",
+      "start": 10.36,
+      "end": 11.86,
+      "rubyText": "だから、もういいかい",
       "translation": "그러니까, 준비 됐니?",
-      "romaji": "dakara, mou ii kai",
-      "startTime": 10.36,
-      "endTime": 11.86
+      "romaji": "dakara, mou ii kai"
     },
     {
       "id": 7,
-      "ruby": "キミがあの日[ひ]",
+      "start": 22.34,
+      "end": 23.34,
+      "rubyText": "キミがあの日[ひ]",
       "translation": "그 날 네가",
-      "romaji": "kimi ga ano hi",
-      "startTime": 22.34,
-      "endTime": 23.34
+      "romaji": "kimi ga ano hi"
     },
     {
       "id": 8,
-      "ruby": "手放[てばな]した夢[ゆめ]を",
+      "start": 23.51,
+      "end": 25.98,
+      "rubyText": "手放[てばな]した夢[ゆめ]を",
       "translation": "포기해버린 꿈을",
-      "romaji": "tebanashita yume o",
-      "startTime": 23.51,
-      "endTime": 25.98
+      "romaji": "tebanashita yume o"
     },
     {
       "id": 9,
-      "ruby": "描[えが]いてみせてあげる。",
+      "start": 26.18,
+      "end": 27.58,
+      "rubyText": "描[えが]いてみせてあげる。",
       "translation": "내가 그려 보일게.",
-      "romaji": "egaite misete ageru.",
-      "startTime": 26.18,
-      "endTime": 27.58
+      "romaji": "egaite misete ageru."
     },
     {
       "id": 10,
-      "ruby": "輝[かがや]いた記憶[きおく]が",
+      "start": 27.91,
+      "end": 29.75,
+      "rubyText": "輝[かがや]いた記憶[きおく]が",
       "translation": "반짝이던 기억이",
-      "romaji": "kagayaita kioku ga",
-      "startTime": 27.91,
-      "endTime": 29.75
+      "romaji": "kagayaita kioku ga"
     },
     {
       "id": 11,
-      "ruby": "呪[のろ]いになってしまわぬように",
+      "start": 29.91,
+      "end": 32.52,
+      "rubyText": "呪[のろ]いになってしまわぬように",
       "translation": "저주가 되어버리지 않도록",
-      "romaji": "noroi ni natte shimawanu you ni",
-      "startTime": 29.91,
-      "endTime": 32.52
+      "romaji": "noroi ni natte shimawanu you ni"
     },
     {
       "id": 12,
-      "ruby": "キミのあの時[とき]",
+      "start": 32.82,
+      "end": 33.82,
+      "rubyText": "キミのあの時[とき]",
       "translation": "그 때 너의",
-      "romaji": "kimi no ano toki",
-      "startTime": 32.82,
-      "endTime": 33.82
+      "romaji": "kimi no ano toki"
     },
     {
       "id": 13,
-      "ruby": "傷[きず]ついた心[こころ]に",
+      "start": 34.02,
+      "end": 36.49,
+      "rubyText": "傷[きず]ついた心[こころ]に",
       "translation": "상처받은 마음에",
-      "romaji": "kizutsuita kokoro ni",
-      "startTime": 34.02,
-      "endTime": 36.49
+      "romaji": "kizutsuita kokoro ni"
     },
     {
       "id": 14,
-      "ruby": "水[みず]を注[そそ]いであげる。",
+      "start": 36.69,
+      "end": 38.05,
+      "rubyText": "水[みず]を注[そそ]いであげる。",
       "translation": "물을 뿌려줄게.",
-      "romaji": "mizu o sosoide ageru.",
-      "startTime": 36.69,
-      "endTime": 38.05
+      "romaji": "mizu o sosoide ageru."
     },
     {
       "id": 15,
-      "ruby": "足元[あしもと]に咲[さ]いた花[はな]を見[み]て！",
+      "start": 38.39,
+      "end": 41.02,
+      "rubyText": "足元[あしもと]に咲[さ]いた花[はな]を見[み]て！",
       "translation": "발치에 피어난 꽃을 봐줘!",
-      "romaji": "ashimoto ni saita hana o mite!",
-      "startTime": 38.39,
-      "endTime": 41.02
+      "romaji": "ashimoto ni saita hana o mite!"
     },
     {
       "id": 16,
-      "ruby": "笑[わら]えなくなるくらいなら",
+      "start": 41.19,
+      "end": 43.23,
+      "rubyText": "笑[わら]えなくなるくらいなら",
       "translation": "웃을 수조차 없어질 정도라면",
-      "romaji": "waraenaku naru kurai nara",
-      "startTime": 41.19,
-      "endTime": 43.23
+      "romaji": "waraenaku naru kurai nara"
     },
     {
       "id": 17,
-      "ruby": "もういいよ",
+      "start": 43.33,
+      "end": 44.23,
+      "rubyText": "もういいよ",
       "translation": "이제 괜찮아",
-      "romaji": "mou ii yo",
-      "startTime": 43.33,
-      "endTime": 44.23
+      "romaji": "mou ii yo"
     },
     {
       "id": 18,
-      "ruby": "キミが願[ねが]うなら",
+      "start": 44.29,
+      "end": 46.13,
+      "rubyText": "キミが願[ねが]うなら",
       "translation": "네가 바란다면",
-      "romaji": "kimi ga negau nara",
-      "startTime": 44.29,
-      "endTime": 46.13
+      "romaji": "kimi ga negau nara"
     },
     {
       "id": 19,
-      "ruby": "いいよ",
+      "start": 46.26,
+      "end": 46.8,
+      "rubyText": "いいよ",
       "translation": "괜찮아",
-      "romaji": "ii yo",
-      "startTime": 46.26,
-      "endTime": 46.8
+      "romaji": "ii yo"
     },
     {
       "id": 20,
-      "ruby": "ボクが歌[うた]うから！",
+      "start": 46.93,
+      "end": 48.73,
+      "rubyText": "ボクが歌[うた]うから！",
       "translation": "내가 노래할 테니까!",
-      "romaji": "boku ga utau kara!",
-      "startTime": 46.93,
-      "endTime": 48.73
+      "romaji": "boku ga utau kara!"
     },
     {
       "id": 21,
-      "ruby": "キミが掬[すく]えなかった涙[なみだ]も",
+      "start": 48.9,
+      "end": 52.17,
+      "rubyText": "キミが掬[すく]えなかった涙[なみだ]も",
       "translation": "네가 닦지 못했던 눈물도",
-      "romaji": "kimi ga sukuenakatta namida mo",
-      "startTime": 48.9,
-      "endTime": 52.17
+      "romaji": "kimi ga sukuenakatta namida mo"
     },
     {
       "id": 22,
-      "ruby": "流[なが]れ星[ぼし]になるの。",
+      "start": 52.34,
+      "end": 53.97,
+      "rubyText": "流[なが]れ星[ぼし]になるの。",
       "translation": "혜성이 될 거야.",
-      "romaji": "nagareboshi ni naru no.",
-      "startTime": 52.34,
-      "endTime": 53.97
+      "romaji": "nagareboshi ni naru no."
     },
     {
       "id": 23,
-      "ruby": "きっと",
+      "start": 54.14,
+      "end": 54.74,
+      "rubyText": "きっと",
       "translation": "분명",
-      "romaji": "kitto",
-      "startTime": 54.14,
-      "endTime": 54.74
+      "romaji": "kitto"
     },
     {
       "id": 24,
-      "ruby": "キミが祈[いの]るなら",
+      "start": 54.8,
+      "end": 56.64,
+      "rubyText": "キミが祈[いの]るなら",
       "translation": "네가 기도한다면",
-      "romaji": "kimi ga inoru nara",
-      "startTime": 54.8,
-      "endTime": 56.64
+      "romaji": "kimi ga inoru nara"
     },
     {
       "id": 25,
-      "ruby": "いつか",
+      "start": 56.77,
+      "end": 57.31,
+      "rubyText": "いつか",
       "translation": "언젠가",
-      "romaji": "itsuka",
-      "startTime": 56.77,
-      "endTime": 57.31
+      "romaji": "itsuka"
     },
     {
       "id": 26,
-      "ruby": "キミが笑[わら]うなら",
+      "start": 57.44,
+      "end": 59.24,
+      "rubyText": "キミが笑[わら]うなら",
       "translation": "네가 웃는다면",
-      "romaji": "kimi ga warau nara",
-      "startTime": 57.44,
-      "endTime": 59.24
+      "romaji": "kimi ga warau nara"
     },
     {
       "id": 27,
-      "ruby": "キミが描[えが]いてくれた翼[つばさ]で",
+      "start": 59.41,
+      "end": 62.55,
+      "rubyText": "キミが描[えが]いてくれた翼[つばさ]で",
       "translation": "네가 그려준 날개로",
-      "romaji": "kimi ga egaite kureta tsubasa de",
-      "startTime": 59.41,
-      "endTime": 62.55
+      "romaji": "kimi ga egaite kureta tsubasa de"
     },
     {
       "id": 28,
-      "ruby": "羽[は]ばたいていけるから！",
+      "start": 62.68,
+      "end": 64.15,
+      "rubyText": "羽[は]ばたいていけるから！",
       "translation": "날갯짓해 날아갈 수 있으니까!",
-      "romaji": "habataite ikeru kara!",
-      "startTime": 62.68,
-      "endTime": 64.15
+      "romaji": "habataite ikeru kara!"
     },
     {
       "id": 29,
-      "ruby": "こんな日[ひ]でも笑[わら]ってみせるから",
+      "start": 64.31,
+      "end": 67.12,
+      "rubyText": "こんな日[ひ]でも笑[わら]ってみせるから",
       "translation": "이런 날일지라도 웃어 보일 테니까",
-      "romaji": "konna hi demo waratte miseru kara",
-      "startTime": 64.31,
-      "endTime": 67.12
+      "romaji": "konna hi demo waratte miseru kara"
     },
     {
       "id": 30,
-      "ruby": "こんな日[ひ]でも歌[うた]うから",
+      "start": 67.28,
+      "end": 69.72,
+      "rubyText": "こんな日[ひ]でも歌[うた]うから",
       "translation": "이런 날일지라도 노래할 테니까!",
-      "romaji": "konna hi demo utau kara",
-      "startTime": 67.28,
-      "endTime": 69.72
+      "romaji": "konna hi demo utau kara"
     },
     {
       "id": 31,
-      "ruby": "これでいいよって",
+      "start": 69.89,
+      "end": 71.32,
+      "rubyText": "これでいいよって",
       "translation": "이거면 충분하다며",
-      "romaji": "kore de ii yo tte",
-      "startTime": 69.89,
-      "endTime": 71.32
+      "romaji": "kore de ii yo tte"
     },
     {
       "id": 32,
-      "ruby": "そんなミライを望[のぞ]んでいれるから。",
+      "start": 71.32,
+      "end": 74.66,
+      "rubyText": "そんなミライを望[のぞ]んでいれるから。",
       "translation": "그런 미래를 바랄 수 있으니까.",
-      "romaji": "sonna mirai o nozonde ireru kara.",
-      "startTime": 71.32,
-      "endTime": 74.66
+      "romaji": "sonna mirai o nozonde ireru kara."
     },
     {
       "id": 33,
-      "ruby": "\"もう一度[いちど]\"がまだ信[しん]じられる",
+      "start": 74.79,
+      "end": 77.59,
+      "rubyText": "\"もう一度[いちど]\"がまだ信[しん]じられる",
       "translation": "\"다시 한 번\"을 아직 믿을 수 있어",
-      "romaji": "\"mou ichido\" ga mada shinjirareru",
-      "startTime": 74.79,
-      "endTime": 77.59
+      "romaji": "\"mou ichido\" ga mada shinjirareru"
     },
     {
       "id": 34,
-      "ruby": "\"もう一回[いっかい]\"が届[とど]いている",
+      "start": 77.76,
+      "end": 80.23,
+      "rubyText": "\"もう一回[いっかい]\"が届[とど]いている",
       "translation": "\"한 번 더\"가 전해지고 있어",
-      "romaji": "\"mou ikkai\" ga todoite iru",
-      "startTime": 77.76,
-      "endTime": 80.23
+      "romaji": "\"mou ikkai\" ga todoite iru"
     },
     {
       "id": 35,
-      "ruby": "大丈夫[だいじょうぶ]！",
+      "start": 80.36,
+      "end": 81.16,
+      "rubyText": "大丈夫[だいじょうぶ]！",
       "translation": "괜찮아!",
-      "romaji": "daijoubu!",
-      "startTime": 80.36,
-      "endTime": 81.16
+      "romaji": "daijoubu!"
     },
     {
       "id": 36,
-      "ruby": "終[お]わらないよ、",
+      "start": 81.23,
+      "end": 82.6,
+      "rubyText": "終[お]わらないよ、",
       "translation": "끝나지 않아,",
-      "romaji": "owaranai yo,",
-      "startTime": 81.23,
-      "endTime": 82.6
+      "romaji": "owaranai yo,"
     },
     {
       "id": 37,
-      "ruby": "キミが覚[おぼ]えていてくれるなら。",
+      "start": 82.67,
+      "end": 85.14,
+      "rubyText": "キミが覚[おぼ]えていてくれるなら。",
       "translation": "네가 기억하고 있어준다면.",
-      "romaji": "kimi ga oboete ite kureru nara.",
-      "startTime": 82.67,
-      "endTime": 85.14
+      "romaji": "kimi ga oboete ite kureru nara."
     },
     {
       "id": 38,
-      "ruby": "散々[さんざん]だって",
+      "start": 95.81,
+      "end": 96.71,
+      "rubyText": "散々[さんざん]だって",
       "translation": "아무리 처참해도",
-      "romaji": "sanzan datte",
-      "startTime": 95.81,
-      "endTime": 96.71
+      "romaji": "sanzan datte"
     },
     {
       "id": 39,
-      "ruby": "もうどうしようもないんだって",
+      "start": 96.78,
+      "end": 97.91,
+      "rubyText": "もうどうしようもないんだって",
       "translation": "더 이상 견딜 수가 없어도",
-      "romaji": "mou dou shiyou mo nai n datte",
-      "startTime": 96.78,
-      "endTime": 97.91
+      "romaji": "mou dou shiyou mo nai n datte"
     },
     {
       "id": 40,
-      "ruby": "それでも何度[なんど]だって",
+      "start": 98.08,
+      "end": 98.82,
+      "rubyText": "それでも何度[なんど]だって",
       "translation": "그럼에도 몇 번이고",
-      "romaji": "soredemo nando datte",
-      "startTime": 98.08,
-      "endTime": 98.82
+      "romaji": "soredemo nando datte"
     },
     {
       "id": 41,
-      "ruby": "立[た]ち向[む]かってきた",
+      "start": 98.92,
+      "end": 99.52,
+      "rubyText": "立[た]ち向[む]かってきた",
       "translation": "다시 맞서 왔고",
-      "romaji": "tachimukatte kita",
-      "startTime": 98.92,
-      "endTime": 99.52
+      "romaji": "tachimukatte kita"
     },
     {
       "id": 42,
-      "ruby": "その度[たび]に傷[きず]ついた",
+      "start": 99.62,
+      "end": 100.62,
+      "rubyText": "その度[たび]に傷[きず]ついた",
       "translation": "그럴 때마다 상처받았지",
-      "romaji": "sono tabi ni kizutsuita",
-      "startTime": 99.62,
-      "endTime": 100.62
+      "romaji": "sono tabi ni kizutsuita"
     },
     {
       "id": 43,
-      "ruby": "君[きみ]の心[こころ]の悲鳴[ひめい]に",
+      "start": 100.72,
+      "end": 101.88,
+      "rubyText": "君[きみ]の心[こころ]の悲鳴[ひめい]に",
       "translation": "그런 네 마음의 비명을",
-      "romaji": "kimi no kokoro no himei ni",
-      "startTime": 100.72,
-      "endTime": 101.88
+      "romaji": "kimi no kokoro no himei ni"
     },
     {
       "id": 44,
-      "ruby": "キミが気[き]づいてあげなきゃ",
+      "start": 102.02,
+      "end": 103.32,
+      "rubyText": "キミが気[き]づいてあげなきゃ",
       "translation": "네가 직접 알아채줘야 해",
-      "romaji": "kimi ga kizuite agenakya",
-      "startTime": 102.02,
-      "endTime": 103.32
+      "romaji": "kimi ga kizuite agenakya"
     },
     {
       "id": 45,
-      "ruby": "花[はな]が枯[か]れちゃう前[まえ]に",
+      "start": 103.32,
+      "end": 104.12,
+      "rubyText": "花[はな]が枯[か]れちゃう前[まえ]に",
       "translation": "꽃이 시들어버리기 전에",
-      "romaji": "hana ga karechau mae ni",
-      "startTime": 103.32,
-      "endTime": 104.12
+      "romaji": "hana ga karechau mae ni"
     },
     {
       "id": 46,
-      "ruby": "息[いき]を吸[す]ってあげなくちゃ！",
+      "start": 104.12,
+      "end": 104.95,
+      "rubyText": "息[いき]を吸[す]ってあげなくちゃ！",
       "translation": "숨을 쉬어줘야만 해!",
-      "romaji": "iki o sutte agenakucha!",
-      "startTime": 104.12,
-      "endTime": 104.95
+      "romaji": "iki o sutte agenakucha!"
     },
     {
       "id": 47,
-      "ruby": "「最高[さいこう]だって終[お]わっちゃうよ。」",
+      "start": 105.62,
+      "end": 107.92,
+      "rubyText": "「最高[さいこう]だって終[お]わっちゃうよ。」",
       "translation": "「최고의 순간도 끝나버리고 말아.」",
-      "romaji": "\"saikou datte owacchau yo.\"",
-      "startTime": 105.62,
-      "endTime": 107.92
+      "romaji": "\"saikou datte owacchau yo.\""
     },
     {
       "id": 48,
-      "ruby": "「いつかは全部[ぜんぶ]終[お]わっちゃうよ。」",
+      "start": 108.22,
+      "end": 110.33,
+      "rubyText": "「いつかは全部[ぜんぶ]終[お]わっちゃうよ。」",
       "translation": "「언젠가는 전부 끝나버리고 말아.」",
-      "romaji": "\"itsuka wa zenbu owacchau yo.\"",
-      "startTime": 108.22,
-      "endTime": 110.33
+      "romaji": "\"itsuka wa zenbu owacchau yo.\""
     },
     {
       "id": 49,
-      "ruby": "でも今[いま]は終[お]わんない限[かぎ]り続[つづ]いてくよ",
+      "start": 110.53,
+      "end": 113.7,
+      "rubyText": "でも今[いま]は終[お]わんない限[かぎ]り続[つづ]いてくよ",
       "translation": "하지만 지금은 끝나지 않는 한 계속 이어갈 거야",
-      "romaji": "demo ima wa owannai kagiri tsuzuiteku yo",
-      "startTime": 110.53,
-      "endTime": 113.7
+      "romaji": "demo ima wa owannai kagiri tsuzuiteku yo"
     },
     {
       "id": 50,
-      "ruby": "大丈夫[だいじょうぶ]！",
+      "start": 113.83,
+      "end": 114.33,
+      "rubyText": "大丈夫[だいじょうぶ]！",
       "translation": "괜찮아!",
-      "romaji": "daijoubu!",
-      "startTime": 113.83,
-      "endTime": 114.33
+      "romaji": "daijoubu!"
     },
     {
       "id": 51,
-      "ruby": "最低[さいてい]も、",
+      "start": 114.47,
+      "end": 114.97,
+      "rubyText": "最低[さいてい]も、",
       "translation": "상황이 나빠도,",
-      "romaji": "saitei mo,",
-      "startTime": 114.47,
-      "endTime": 114.97
+      "romaji": "saitei mo,"
     },
     {
       "id": 52,
-      "ruby": "最悪[さいあく]も、",
+      "start": 115.13,
+      "end": 115.63,
+      "rubyText": "最悪[さいあく]も、",
       "translation": "최악이어도,",
-      "romaji": "saiaku mo,",
-      "startTime": 115.13,
-      "endTime": 115.63
+      "romaji": "saiaku mo,"
     },
     {
       "id": 53,
-      "ruby": "いつか終[お]わるから",
+      "start": 115.8,
+      "end": 116.77,
+      "rubyText": "いつか終[お]わるから",
       "translation": "언젠가 끝날 테니까",
-      "romaji": "itsuka owaru kara",
-      "startTime": 115.8,
-      "endTime": 116.77
+      "romaji": "itsuka owaru kara"
     },
     {
       "id": 54,
-      "ruby": "終[お]わらせるから。",
+      "start": 121.17,
+      "end": 127.11,
+      "rubyText": "終[お]わらせるから。",
       "translation": "끝내줄 테니까.",
-      "romaji": "owaraseru kara.",
-      "startTime": 121.17,
-      "endTime": 127.11
+      "romaji": "owaraseru kara."
     },
     {
       "id": 55,
-      "ruby": "キミがあの日[ひ]",
+      "start": 137.79,
+      "end": 138.75,
+      "rubyText": "キミがあの日[ひ]",
       "translation": "그 날 네가",
-      "romaji": "kimi ga ano hi",
-      "startTime": 137.79,
-      "endTime": 138.75
+      "romaji": "kimi ga ano hi"
     },
     {
       "id": 56,
-      "ruby": "手放[てばな]した思[おも]いを",
+      "start": 138.92,
+      "end": 141.39,
+      "rubyText": "手放[てばな]した思[おも]いを",
       "translation": "포기해버린 마음을",
-      "romaji": "tebanashita omoi o",
-      "startTime": 138.92,
-      "endTime": 141.39
+      "romaji": "tebanashita omoi o"
     },
     {
       "id": 57,
-      "ruby": "抱[かか]えていてあげる。",
+      "start": 141.59,
+      "end": 142.99,
+      "rubyText": "抱[かか]えていてあげる。",
       "translation": "계속 안고 있어줄게.",
-      "romaji": "kakaete ite ageru.",
-      "startTime": 141.59,
-      "endTime": 142.99
+      "romaji": "kakaete ite ageru."
     },
     {
       "id": 58,
-      "ruby": "取[と]り戻[もど]さなくちゃって",
+      "start": 143.33,
+      "end": 145.16,
+      "rubyText": "取[と]り戻[もど]さなくちゃって",
       "translation": "네가 되찾아야겠다고",
-      "romaji": "torimodosa nakucha tte",
-      "startTime": 143.33,
-      "endTime": 145.16
+      "romaji": "torimodosa nakucha tte"
     },
     {
       "id": 59,
-      "ruby": "その時[とき]に渡[わた]せるように",
+      "start": 145.33,
+      "end": 147.93,
+      "rubyText": "その時[とき]に渡[わた]せるように",
       "translation": "생각할 때 건네줄 수 있도록",
-      "romaji": "sono toki ni wataseru you ni",
-      "startTime": 145.33,
-      "endTime": 147.93
+      "romaji": "sono toki ni wataseru you ni"
     },
     {
       "id": 60,
-      "ruby": "キミがいま",
+      "start": 148.26,
+      "end": 149.1,
+      "rubyText": "キミがいま",
       "translation": "지금 네가",
-      "romaji": "kimi ga ima",
-      "startTime": 148.26,
-      "endTime": 149.1
+      "romaji": "kimi ga ima"
     },
     {
       "id": 61,
-      "ruby": "拭[ぬぐ]って呑[の]み込[こ]んだ",
+      "start": 149.23,
+      "end": 151.2,
+      "rubyText": "拭[ぬぐ]って呑[の]み込[こ]んだ",
       "translation": "닦아내어 삼킨",
-      "romaji": "nugutte nomikonda",
-      "startTime": 149.23,
-      "endTime": 151.2
+      "romaji": "nugutte nomikonda"
     },
     {
       "id": 62,
-      "ruby": "悲[かな]しみも痛[いた]みも全部[ぜんぶ]",
+      "start": 151.37,
+      "end": 153.27,
+      "rubyText": "悲[かな]しみも痛[いた]みも全部[ぜんぶ]",
       "translation": "슬픔도 아픔도 전부",
-      "romaji": "kanashimi mo itami mo zenbu",
-      "startTime": 151.37,
-      "endTime": 153.27
+      "romaji": "kanashimi mo itami mo zenbu"
     },
     {
       "id": 63,
-      "ruby": "描[えが]いてみせてよ",
+      "start": 153.4,
+      "end": 154.47,
+      "rubyText": "描[えが]いてみせてよ",
       "translation": "그려 보여줘",
-      "romaji": "egaite misete yo",
-      "startTime": 153.4,
-      "endTime": 154.47
+      "romaji": "egaite misete yo"
     },
     {
       "id": 64,
-      "ruby": "奏[かな]でてみせてみてよ！",
+      "start": 154.6,
+      "end": 156.44,
+      "rubyText": "奏[かな]でてみせてみてよ！",
       "translation": "한 번 연주해 보여줘!",
-      "romaji": "kanadete misete mite yo!",
-      "startTime": 154.6,
-      "endTime": 156.44
+      "romaji": "kanadete misete mite yo!"
     },
     {
       "id": 65,
-      "ruby": "いつか誰[だれ]かを救[すく]うから",
+      "start": 156.71,
+      "end": 158.64,
+      "rubyText": "いつか誰[だれ]かを救[すく]うから",
       "translation": "그게 언젠가 누군가를 구할 테니까",
-      "romaji": "itsuka dareka o sukuu kara",
-      "startTime": 156.71,
-      "endTime": 158.64
+      "romaji": "itsuka dareka o sukuu kara"
     },
     {
       "id": 66,
-      "ruby": "もういいよ",
+      "start": 158.74,
+      "end": 159.64,
+      "rubyText": "もういいよ",
       "translation": "이제 괜찮아",
-      "romaji": "mou ii yo",
-      "startTime": 158.74,
-      "endTime": 159.64
+      "romaji": "mou ii yo"
     },
     {
       "id": 67,
-      "ruby": "キミが願[ねが]うなら",
+      "start": 159.71,
+      "end": 161.55,
+      "rubyText": "キミが願[ねが]うなら",
       "translation": "네가 바란다면",
-      "romaji": "kimi ga negau nara",
-      "startTime": 159.71,
-      "endTime": 161.55
+      "romaji": "kimi ga negau nara"
     },
     {
       "id": 68,
-      "ruby": "いいよ",
+      "start": 161.68,
+      "end": 162.21,
+      "rubyText": "いいよ",
       "translation": "괜찮아",
-      "romaji": "ii yo",
-      "startTime": 161.68,
-      "endTime": 162.21
+      "romaji": "ii yo"
     },
     {
       "id": 69,
-      "ruby": "ボクが歌[うた]うから！",
+      "start": 162.35,
+      "end": 164.15,
+      "rubyText": "ボクが歌[うた]うから！",
       "translation": "내가 노래할 테니까!",
-      "romaji": "boku ga utau kara!",
-      "startTime": 162.35,
-      "endTime": 164.15
+      "romaji": "boku ga utau kara!"
     },
     {
       "id": 70,
-      "ruby": "キミが苦[くる]しんでいた",
+      "start": 164.31,
+      "end": 166.18,
+      "rubyText": "キミが苦[くる]しんでいた",
       "translation": "너를 괴롭히고 있던",
-      "romaji": "kimi ga kurushinde ita",
-      "startTime": 164.31,
-      "endTime": 166.18
+      "romaji": "kimi ga kurushinde ita"
     },
     {
       "id": 71,
-      "ruby": "\"最悪[さいあく]\"も花畑[はなばたけ]になるよ。",
+      "start": 166.28,
+      "end": 169.35,
+      "rubyText": "\"最悪[さいあく]\"も花畑[はなばたけ]になるよ。",
       "translation": "\"최악\"도 예쁜 꽃밭이 될 거야.",
-      "romaji": "\"saiaku\" mo hanabatake ni naru yo.",
-      "startTime": 166.28,
-      "endTime": 169.35
+      "romaji": "\"saiaku\" mo hanabatake ni naru yo."
     },
     {
       "id": 72,
-      "ruby": "きっと",
+      "start": 169.52,
+      "end": 170.12,
+      "rubyText": "きっと",
       "translation": "분명",
-      "romaji": "kitto",
-      "startTime": 169.52,
-      "endTime": 170.12
+      "romaji": "kitto"
     },
     {
       "id": 73,
-      "ruby": "ボクが届[とど]くなら",
+      "start": 170.19,
+      "end": 172.02,
+      "rubyText": "ボクが届[とど]くなら",
       "translation": "내가 전해준다면",
-      "romaji": "boku ga todoku nara",
-      "startTime": 170.19,
-      "endTime": 172.02
+      "romaji": "boku ga todoku nara"
     },
     {
       "id": 74,
-      "ruby": "いつか",
+      "start": 172.16,
+      "end": 172.69,
+      "rubyText": "いつか",
       "translation": "언젠가",
-      "romaji": "itsuka",
-      "startTime": 172.16,
-      "endTime": 172.69
+      "romaji": "itsuka"
     },
     {
       "id": 75,
-      "ruby": "キミが叫[さけ]ぶなら",
+      "start": 172.82,
+      "end": 174.62,
+      "rubyText": "キミが叫[さけ]ぶなら",
       "translation": "네가 외쳐준다면",
-      "romaji": "kimi ga sakebu nara",
-      "startTime": 172.82,
-      "endTime": 174.62
+      "romaji": "kimi ga sakebu nara"
     },
     {
       "id": 76,
-      "ruby": "ボクらが望[のぞ]んで描[えが]いたミライで",
+      "start": 174.79,
+      "end": 178.19,
+      "rubyText": "ボクらが望[のぞ]んで描[えが]いたミライで",
       "translation": "우리가 바라며 꿈꾸던 미래에서",
-      "romaji": "bokura ga nozonde egaita mirai de",
-      "startTime": 174.79,
-      "endTime": 178.19
+      "romaji": "bokura ga nozonde egaita mirai de"
     },
     {
       "id": 77,
-      "ruby": "また会[あ]えるから！",
+      "start": 178.3,
+      "end": 179.53,
+      "rubyText": "また会[あ]えるから！",
       "translation": "다시 만날 수 있을 테니까!",
-      "romaji": "mata aeru kara!",
-      "startTime": 178.3,
-      "endTime": 179.53
+      "romaji": "mata aeru kara!"
     },
     {
       "id": 78,
-      "ruby": "\"もう一度[いちど]！\"",
+      "start": 179.73,
+      "end": 180.33,
+      "rubyText": "\"もう一度[いちど]！\"",
       "translation": "\"다시 한 번!\"",
-      "romaji": "\"mou ichido!\"",
-      "startTime": 179.73,
-      "endTime": 180.33
+      "romaji": "\"mou ichido!\""
     },
     {
       "id": 79,
-      "ruby": "をまた歌[うた]うから",
+      "start": 180.9,
+      "end": 182.5,
+      "rubyText": "をまた歌[うた]うから",
       "translation": "을 다시 노래할 테니까",
-      "romaji": "o mata utau kara",
-      "startTime": 180.9,
-      "endTime": 182.5
+      "romaji": "o mata utau kara"
     },
     {
       "id": 80,
-      "ruby": "\"もう一回[いっかい]\"が響[ひび]くなら",
+      "start": 182.67,
+      "end": 185.07,
+      "rubyText": "\"もう一回[いっかい]\"が響[ひび]くなら",
       "translation": "\"한 번 더\"가 울려퍼진다면",
-      "romaji": "\"mou ikkai\" ga hibiku nara",
-      "startTime": 182.67,
-      "endTime": 185.07
+      "romaji": "\"mou ikkai\" ga hibiku nara"
     },
     {
       "id": 81,
-      "ruby": "キミが連[つ]れてきてくれたセカイで",
+      "start": 185.3,
+      "end": 188.64,
+      "rubyText": "キミが連[つ]れてきてくれたセカイで",
       "translation": "네가 데려와 준 세상에서",
-      "romaji": "kimi ga tsurete kite kureta sekai de",
-      "startTime": 185.3,
-      "endTime": 188.64
+      "romaji": "kimi ga tsurete kite kureta sekai de"
     },
     {
       "id": 82,
-      "ruby": "笑[わら]っていれるから！",
+      "start": 188.81,
+      "end": 190.07,
+      "rubyText": "笑[わら]っていれるから！",
       "translation": "웃을 수 있으니까!",
-      "romaji": "waratte ireru kara!",
-      "startTime": 188.81,
-      "endTime": 190.07
+      "romaji": "waratte ireru kara!"
     },
     {
       "id": 83,
-      "ruby": "大丈夫[だいじょうぶ]をまだ信[しん]じられるなら",
+      "start": 190.21,
+      "end": 192.98,
+      "rubyText": "大丈夫[だいじょうぶ]をまだ信[しん]じられるなら",
       "translation": "괜찮아, 그 말을 아직 믿을 수 있다면",
-      "romaji": "daijoubu o mada shinjirareru nara",
-      "startTime": 190.21,
-      "endTime": 192.98
+      "romaji": "daijoubu o mada shinjirareru nara"
     },
     {
       "id": 84,
-      "ruby": "大丈夫[だいじょうぶ]がまだ響[ひび]くなら",
+      "start": 193.18,
+      "end": 195.44,
+      "rubyText": "大丈夫[だいじょうぶ]がまだ響[ひび]くなら",
       "translation": "괜찮아, 그 말이 아직 울려퍼진다면",
-      "romaji": "daijoubu ga mada hibiku nara",
-      "startTime": 193.18,
-      "endTime": 195.44
+      "romaji": "daijoubu ga mada hibiku nara"
     },
     {
       "id": 85,
-      "ruby": "終[お]わらせないよ！",
+      "start": 195.81,
+      "end": 197.05,
+      "rubyText": "終[お]わらせないよ！",
       "translation": "끝나게 놔두지 않을 거야!",
-      "romaji": "owarasenai yo!",
-      "startTime": 195.81,
-      "endTime": 197.05
+      "romaji": "owarasenai yo!"
     },
     {
       "id": 86,
-      "ruby": "そんなミライで待[ま]っていれるから。",
+      "start": 197.11,
+      "end": 200.72,
+      "rubyText": "そんなミライで待[ま]っていれるから。",
       "translation": "그런 미래에서 기다릴 수 있으니까.",
-      "romaji": "sonna mirai de matte ireru kara.",
-      "startTime": 197.11,
-      "endTime": 200.72
+      "romaji": "sonna mirai de matte ireru kara."
     }
   ],
   "kanjiDictionary": {

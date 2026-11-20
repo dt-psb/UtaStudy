@@ -1,7 +1,7 @@
 import type { Song } from '../types/song';
 import { emeraldSong } from '../data/songs/emerald';
 
-const STORAGE_KEY = 'utastudy_songs_v30';
+const STORAGE_KEY = 'utastudy_songs_v31';
 const TRASH_STORAGE_KEY = 'utastudy_trash_songs_v1';
 const DELETED_STORAGE_KEY = 'utastudy_deleted_song_ids_v1';
 
@@ -95,7 +95,13 @@ export const sanitizeSong = (raw: any): Song => {
 
   const lyrics = Array.isArray(raw.lyrics)
     ? raw.lyrics.map((l: any, idx: number) => {
-        const start = typeof l.start === 'number' ? l.start : (typeof l.time === 'number' ? l.time : (Number(l.start ?? l.time) || 0));
+        const start = typeof l.start === 'number'
+          ? l.start
+          : (typeof l.startTime === 'number'
+            ? l.startTime
+            : (typeof l.time === 'number'
+              ? l.time
+              : (Number(l.start ?? l.startTime ?? l.time) || 0)));
         const end = typeof l.end === 'number' ? l.end : (typeof l.endTime === 'number' ? l.endTime : (Number(l.end ?? l.endTime) || start + 4));
         const rubyText = typeof l.rubyText === 'string' ? l.rubyText : (typeof l.ruby === 'string' ? l.ruby : (typeof l.ruby_text === 'string' ? l.ruby_text : (l.text || '')));
         const translation = typeof l.translation === 'string' ? l.translation : (l.korean || '');
@@ -271,7 +277,7 @@ export const backupToTrash = (song: Song) => {
 export const getStoredSongs = (): Song[] => {
   // Purge any stale legacy storage keys
   try {
-    ['utastudy_songs_v28', 'utastudy_songs_v29'].forEach(k => localStorage.removeItem(k));
+    ['utastudy_songs_v28', 'utastudy_songs_v29', 'utastudy_songs_v30'].forEach(k => localStorage.removeItem(k));
   } catch {}
 
   const diskSongs = loadDiskSongs().filter(s => !isDeletedSong(s));

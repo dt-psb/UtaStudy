@@ -6,307 +6,307 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "ウニ",
+      "start": 11.96,
+      "end": 22.31,
+      "rubyText": "ウニ",
       "translation": "우니(성게)",
-      "romaji": "uni",
-      "startTime": 11.96,
-      "endTime": 22.31
+      "romaji": "uni"
     },
     {
       "id": 2,
-      "ruby": "潮風[しおかぜ]とカモメが去[さ]ってった向[む]こうに",
+      "start": 22.31,
+      "end": 27.28,
+      "rubyText": "潮風[しおかぜ]とカモメが去[さ]ってった向[む]こうに",
       "translation": "바닷바람과 갈매기가 사라진 그 너머에",
-      "romaji": "shiokaze to kamome ga sattetta mukou ni",
-      "startTime": 22.31,
-      "endTime": 27.28
+      "romaji": "shiokaze to kamome ga sattetta mukou ni"
     },
     {
       "id": 3,
-      "ruby": "一体[いったい]何[なに]があるって思[おも]ったんだって急[きゅう]に",
+      "start": 27.41,
+      "end": 32.38,
+      "rubyText": "一体[いったい]何[なに]があるって思[おも]ったんだって急[きゅう]に",
       "translation": "도대체 뭐가 있을까, 문득 그렇게 생각했어",
-      "romaji": "ittai nani ga aru tte omottan datte kyuu ni",
-      "startTime": 27.41,
-      "endTime": 32.38
+      "romaji": "ittai nani ga aru tte omottan datte kyuu ni"
     },
     {
       "id": 4,
-      "ruby": "自[みずか]らだんだん丸[まる]くなっていた理想[りそう]に",
+      "start": 32.55,
+      "end": 37.76,
+      "rubyText": "自[みずか]らだんだん丸[まる]くなっていた理想[りそう]に",
       "translation": "점점 둥글어져 가던 내 이상(理想)이",
-      "romaji": "mizukara dandan maruku natte ita risou ni",
-      "startTime": 32.55,
-      "endTime": 37.76
+      "romaji": "mizukara dandan maruku natte ita risou ni"
     },
     {
       "id": 5,
-      "ruby": "ウカウカしてる間[あいだ]に いつしかなっていた",
+      "start": 37.76,
+      "end": 40.66,
+      "rubyText": "ウカウカしてる間[あいだ]に いつしかなっていた",
       "translation": "어영부영하는 사이에, 어느새 그렇게 되어 있었지",
-      "romaji": "ukauka shiteru aida ni itsushika natte ita",
-      "startTime": 37.76,
-      "endTime": 40.66
+      "romaji": "ukauka shiteru aida ni itsushika natte ita"
     },
     {
       "id": 6,
-      "ruby": "ボクらは 普通[ふつう]に",
+      "start": 40.79,
+      "end": 45.3,
+      "rubyText": "ボクらは 普通[ふつう]に",
       "translation": "우리들은, 그냥 평범하게",
-      "romaji": "bokura wa futsuu ni",
-      "startTime": 40.79,
-      "endTime": 45.3
+      "romaji": "bokura wa futsuu ni"
     },
     {
       "id": 7,
-      "ruby": "あなたへ　あなたへ",
+      "start": 48.06,
+      "end": 50.47,
+      "rubyText": "あなたへ　あなたへ",
       "translation": "너에게 너에게",
-      "romaji": "anata he anata he",
-      "startTime": 48.06,
-      "endTime": 50.47
+      "romaji": "anata he anata he"
     },
     {
       "id": 8,
-      "ruby": "断言[だんげん]とエールを送[おく]るよ",
+      "start": 50.67,
+      "end": 53.04,
+      "rubyText": "断言[だんげん]とエールを送[おく]るよ",
       "translation": "확신과 응원의 말을 보낼게",
-      "romaji": "dangen to eeru wo okuru yo",
-      "startTime": 50.67,
-      "endTime": 53.04
+      "romaji": "dangen to eeru wo okuru yo"
     },
     {
       "id": 9,
-      "ruby": "その細胞[さいぼう]分裂[ぶんれつ]の途中[とちゅう]に",
+      "start": 53.2,
+      "end": 55.84,
+      "rubyText": "その細胞[さいぼう]分裂[ぶんれつ]の途中[とちゅう]に",
       "translation": "그 세포 분열의 한가운데에",
-      "romaji": "sono saibou bunretsu no tochuu ni",
-      "startTime": 53.2,
-      "endTime": 55.84
+      "romaji": "sono saibou bunretsu no tochuu ni"
     },
     {
       "id": 10,
-      "ruby": "雨[あめ]に溺[おぼ]れないように",
+      "start": 58.38,
+      "end": 60.98,
+      "rubyText": "雨[あめ]に溺[おぼ]れないように",
       "translation": "비에 잠기지 않도록 우린",
-      "romaji": "ame ni oborenai you ni",
-      "startTime": 58.38,
-      "endTime": 60.98
+      "romaji": "ame ni oborenai you ni"
     },
     {
       "id": 11,
-      "ruby": "風[かぜ]に飛[と]ばされないように",
+      "start": 60.98,
+      "end": 63.55,
+      "rubyText": "風[かぜ]に飛[と]ばされないように",
       "translation": "바람에 날려가지 않도록 우린",
-      "romaji": "kaze ni tobasarenai you ni",
-      "startTime": 60.98,
-      "endTime": 63.55
+      "romaji": "kaze ni tobasarenai you ni"
     },
     {
       "id": 12,
-      "ruby": "波[なみ]に飲[の]まれないように",
+      "start": 63.55,
+      "end": 66.12,
+      "rubyText": "波[なみ]に飲[の]まれないように",
       "translation": "파도에 삼켜지지 않도록 우린",
-      "romaji": "nami ni nomarenai you ni",
-      "startTime": 63.55,
-      "endTime": 66.12
+      "romaji": "nami ni nomarenai you ni"
     },
     {
       "id": 13,
-      "ruby": "遮二無二[しゃにむに] 好[す]きを抱[だ]いて",
+      "start": 66.12,
+      "end": 68.69,
+      "rubyText": "遮二無二[しゃにむに] 好[す]きを抱[だ]いて",
       "translation": "온 힘 다해 \"좋아함\"을 안고서",
-      "romaji": "shanimuni suki wo daite",
-      "startTime": 66.12,
-      "endTime": 68.69
+      "romaji": "shanimuni suki wo daite"
     },
     {
       "id": 14,
-      "ruby": "心[こころ]靡[なび]く方[ほう]に",
+      "start": 68.69,
+      "end": 71.25,
+      "rubyText": "心[こころ]靡[なび]く方[ほう]に",
       "translation": "마음이 끌리는 쪽으로",
-      "romaji": "kokoro nabiku hou ni",
-      "startTime": 68.69,
-      "endTime": 71.25
+      "romaji": "kokoro nabiku hou ni"
     },
     {
       "id": 15,
-      "ruby": "胸[むね]が躍[おど]る方[ほう]に",
+      "start": 71.25,
+      "end": 73.96,
+      "rubyText": "胸[むね]が躍[おど]る方[ほう]に",
       "translation": "가슴이 뛰는 쪽으로",
-      "romaji": "mune ga odoru hou ni",
-      "startTime": 71.25,
-      "endTime": 73.96
+      "romaji": "mune ga odoru hou ni"
     },
     {
       "id": 16,
-      "ruby": "馬鹿[ばか]げた幻想[げんそう]に",
+      "start": 73.96,
+      "end": 76.46,
+      "rubyText": "馬鹿[ばか]げた幻想[げんそう]に",
       "translation": "바보 같은 환상에",
-      "romaji": "bakageta gensou ni",
-      "startTime": 73.96,
-      "endTime": 76.46
+      "romaji": "bakageta gensou ni"
     },
     {
       "id": 17,
-      "ruby": "ウキウキしたり",
+      "start": 76.46,
+      "end": 78.36,
+      "rubyText": "ウキウキしたり",
       "translation": "들떠 보기도 하고",
-      "romaji": "ukiuki shitari",
-      "startTime": 76.46,
-      "endTime": 78.36
+      "romaji": "ukiuki shitari"
     },
     {
       "id": 18,
-      "ruby": "自由[じゆう]に",
+      "start": 78.36,
+      "end": 84.27,
+      "rubyText": "自由[じゆう]に",
       "translation": "자유롭게",
-      "romaji": "jiyuu ni",
-      "startTime": 78.36,
-      "endTime": 84.27
+      "romaji": "jiyuu ni"
     },
     {
       "id": 19,
-      "ruby": "ウニ",
+      "start": 84.27,
+      "end": 89.34,
+      "rubyText": "ウニ",
       "translation": "우니(성게)",
-      "romaji": "uni",
-      "startTime": 84.27,
-      "endTime": 89.34
+      "romaji": "uni"
     },
     {
       "id": 20,
-      "ruby": "トゲトゲしたものばっか拾[ひろ]っていた水際[みずぎわ]に",
+      "start": 89.34,
+      "end": 94.44,
+      "rubyText": "トゲトゲしたものばっか拾[ひろ]っていた水際[みずぎわ]に",
       "translation": "뾰족한 것들만 주워 담던 물가에서",
-      "romaji": "togetoge shita mono bakka hirotte ita mizugiwa ni",
-      "startTime": 89.34,
-      "endTime": 94.44
+      "romaji": "togetoge shita mono bakka hirotte ita mizugiwa ni"
     },
     {
       "id": 21,
-      "ruby": "その一[ひと]つ一[ひと]つからボクは出来[でき]てるんだ　確[たし]かに",
+      "start": 94.44,
+      "end": 99.65,
+      "rubyText": "その一[ひと]つ一[ひと]つからボクは出来[でき]てるんだ　確[たし]かに",
       "translation": "그 하나하나로 내가 만들어졌다는 걸, 분명히",
-      "romaji": "sono hitotsu hitotsu kara boku wa dekiterun da tashika ni",
-      "startTime": 94.44,
-      "endTime": 99.65
+      "romaji": "sono hitotsu hitotsu kara boku wa dekiterun da tashika ni"
     },
     {
       "id": 22,
-      "ruby": "さて明日[あした]も明後日[あさって]も空模様[そらもよう]は土砂降[どしゃぶ]り",
+      "start": 99.65,
+      "end": 104.62,
+      "rubyText": "さて明日[あした]も明後日[あさって]も空模様[そらもよう]は土砂降[どしゃぶ]り",
       "translation": "자, 내일도 모레도 하늘은 폭우일 테지만",
-      "romaji": "sate ashita mo asatte mo soramoyou wa doshaburi",
-      "startTime": 99.65,
-      "endTime": 104.62
+      "romaji": "sate ashita mo asatte mo soramoyou wa doshaburi"
     },
     {
       "id": 23,
-      "ruby": "けどもう一人[ひとり]で涙[なみだ]は流[なが]さないよ\nうにお願[ねが]いします",
+      "start": 104.62,
+      "end": 110.06,
+      "rubyText": "けどもう一人[ひとり]で涙[なみだ]は流[なが]さないよ\nうにお願[ねが]いします",
       "translation": "그치만 이제는 혼자 울지 않을 거야, 우니, 부탁해",
-      "romaji": "kedo mou hitori de namida wa nagasanai yo / uni onegai shimasu",
-      "startTime": 104.62,
-      "endTime": 110.06
+      "romaji": "kedo mou hitori de namida wa nagasanai yo / uni onegai shimasu"
     },
     {
       "id": 24,
-      "ruby": "あなたとあなたの",
+      "start": 130.61,
+      "end": 133.22,
+      "rubyText": "あなたとあなたの",
       "translation": "너와 너의",
-      "romaji": "anata to anata no",
-      "startTime": 130.61,
-      "endTime": 133.22
+      "romaji": "anata to anata no"
     },
     {
       "id": 25,
-      "ruby": "決意[けつい]にエールを送[おく]るよ",
+      "start": 133.22,
+      "end": 135.89,
+      "rubyText": "決意[けつい]にエールを送[おく]るよ",
       "translation": "결심에 응원을 보낼게",
-      "romaji": "ketsui ni eeru wo okuru yo",
-      "startTime": 133.22,
-      "endTime": 135.89
+      "romaji": "ketsui ni eeru wo okuru yo"
     },
     {
       "id": 26,
-      "ruby": "すべてはあなたのその手中[しゅちゅう]に",
+      "start": 135.89,
+      "end": 138.42,
+      "rubyText": "すべてはあなたのその手中[しゅちゅう]に",
       "translation": "모든 건 네 손안에 있으니까",
-      "romaji": "subete wa anata no sono shuchuu ni",
-      "startTime": 135.89,
-      "endTime": 138.42
+      "romaji": "subete wa anata no sono shuchuu ni"
     },
     {
       "id": 27,
-      "ruby": "嵐[あらし]に負[ま]けないように",
+      "start": 140.96,
+      "end": 143.53,
+      "rubyText": "嵐[あらし]に負[ま]けないように",
       "translation": "폭풍에 지지 않도록, 우린",
-      "romaji": "arashi ni makenai you ni",
-      "startTime": 140.96,
-      "endTime": 143.53
+      "romaji": "arashi ni makenai you ni"
     },
     {
       "id": 28,
-      "ruby": "旱[ひでり]に融[と]かされないように",
+      "start": 143.93,
+      "end": 146.13,
+      "rubyText": "旱[ひでり]に融[と]かされないように",
       "translation": "가뭄에 녹아버리지 않도록 우린",
-      "romaji": "hideri ni tokasarenai you ni",
-      "startTime": 143.93,
-      "endTime": 146.13
+      "romaji": "hideri ni tokasarenai you ni"
     },
     {
       "id": 29,
-      "ruby": "網[あみ]に掛[か]からないように",
+      "start": 146.13,
+      "end": 148.73,
+      "rubyText": "網[あみ]に掛[か]からないように",
       "translation": "그물에 걸리지 않도록 우린",
-      "romaji": "ami ni kakaranai you ni",
-      "startTime": 146.13,
-      "endTime": 148.73
+      "romaji": "ami ni kakaranai you ni"
     },
     {
       "id": 30,
-      "ruby": "飛[と]びっきりの好[す]きを抱[だ]いて",
+      "start": 148.73,
+      "end": 151.27,
+      "rubyText": "飛[と]びっきりの好[す]きを抱[だ]いて",
       "translation": "특별한 \"좋아함\"을 안고서",
-      "romaji": "tobikkiri no suki wo daite",
-      "startTime": 148.73,
-      "endTime": 151.27
+      "romaji": "tobikkiri no suki wo daite"
     },
     {
       "id": 31,
-      "ruby": "心[こころ]叫[さけ]ぶ方[ほう]に",
+      "start": 151.27,
+      "end": 153.84,
+      "rubyText": "心[こころ]叫[さけ]ぶ方[ほう]に",
       "translation": "마음이 외치는 쪽으로",
-      "romaji": "kokoro sakebu hou ni",
-      "startTime": 151.27,
-      "endTime": 153.84
+      "romaji": "kokoro sakebu hou ni"
     },
     {
       "id": 32,
-      "ruby": "体[からだ]動[うご]く方[ほう]に",
+      "start": 153.84,
+      "end": 156.44,
+      "rubyText": "体[からだ]動[うご]く方[ほう]に",
       "translation": "몸이 움직이는 쪽으로",
-      "romaji": "karada ugoku hou ni",
-      "startTime": 153.84,
-      "endTime": 156.44
+      "romaji": "karada ugoku hou ni"
     },
     {
       "id": 33,
-      "ruby": "弾[はじ]けた発想[はっそう]に",
+      "start": 156.44,
+      "end": 159.04,
+      "rubyText": "弾[はじ]けた発想[はっそう]に",
       "translation": "튀어나온 발상에",
-      "romaji": "hajiketa hassou ni",
-      "startTime": 156.44,
-      "endTime": 159.04
+      "romaji": "hajiketa hassou ni"
     },
     {
       "id": 34,
-      "ruby": "ドキドキしたり",
+      "start": 159.04,
+      "end": 160.98,
+      "rubyText": "ドキドキしたり",
       "translation": "두근 두근 거리기도",
-      "romaji": "dokidoki shitari",
-      "startTime": 159.04,
-      "endTime": 160.98
+      "romaji": "dokidoki shitari"
     },
     {
       "id": 35,
-      "ruby": "自由[じゆう]に",
+      "start": 160.98,
+      "end": 165.98,
+      "rubyText": "自由[じゆう]に",
       "translation": "자유롭게",
-      "romaji": "jiyuu ni",
-      "startTime": 160.98,
-      "endTime": 165.98
+      "romaji": "jiyuu ni"
     },
     {
       "id": 36,
-      "ruby": "ウニ",
+      "start": 166.08,
+      "end": 171.89,
+      "rubyText": "ウニ",
       "translation": "우~우니!",
-      "romaji": "uni",
-      "startTime": 166.08,
-      "endTime": 171.89
+      "romaji": "uni"
     },
     {
       "id": 37,
-      "ruby": "だから自分[じぶん]らしくファイト by",
+      "start": 171.89,
+      "end": 174.36,
+      "rubyText": "だから自分[じぶん]らしくファイト by",
       "translation": "그러니까, 자기답게 파이팅 by",
-      "romaji": "dakara jibun rashiku faito by",
-      "startTime": 171.89,
-      "endTime": 174.36
+      "romaji": "dakara jibun rashiku faito by"
     },
     {
       "id": 38,
-      "ruby": "ウニ（雨衣[うい]）",
+      "start": 174.36,
+      "end": 178.33,
+      "rubyText": "ウニ（雨衣[うい]）",
       "translation": "우니(성게)",
-      "romaji": "uni (ui)",
-      "startTime": 174.36,
-      "endTime": 178.33
+      "romaji": "uni (ui)"
     }
   ],
   "kanjiDictionary": {

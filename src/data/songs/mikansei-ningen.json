@@ -6,611 +6,611 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "未完成[みかんせい]なままの",
+      "start": 25.04,
+      "end": 26.38,
+      "rubyText": "未完成[みかんせい]なままの",
       "translation": "미완성인 채로",
-      "romaji": "mikansei na mama no",
-      "startTime": 25.04,
-      "endTime": 26.38
+      "romaji": "mikansei na mama no"
     },
     {
       "id": 2,
-      "ruby": "未完成[みかんせい]な僕[ぼく]のこと",
+      "start": 26.38,
+      "end": 27.98,
+      "rubyText": "未完成[みかんせい]な僕[ぼく]のこと",
       "translation": "미완성인 나의 것도",
-      "romaji": "mikansei na boku no koto",
-      "startTime": 26.38,
-      "endTime": 27.98
+      "romaji": "mikansei na boku no koto"
     },
     {
       "id": 3,
-      "ruby": "未完成[みかんせい]だから",
+      "start": 27.98,
+      "end": 28.95,
+      "rubyText": "未完成[みかんせい]だから",
       "translation": "미완성이기에",
-      "romaji": "mikansei dakara",
-      "startTime": 27.98,
-      "endTime": 28.95
+      "romaji": "mikansei dakara"
     },
     {
       "id": 4,
-      "ruby": "未完成[みかんせい]のまま流[なが]れてくの",
+      "start": 28.95,
+      "end": 30.78,
+      "rubyText": "未完成[みかんせい]のまま流[なが]れてくの",
       "translation": "미완성인 채로 흘러가는 거야",
-      "romaji": "mikansei no mama nagareteku no",
-      "startTime": 28.95,
-      "endTime": 30.78
+      "romaji": "mikansei no mama nagareteku no"
     },
     {
       "id": 5,
-      "ruby": "みかんせ",
+      "start": 30.78,
+      "end": 31.32,
+      "rubyText": "みかんせ",
       "translation": "미완ㅅ",
-      "romaji": "mikanse",
-      "startTime": 30.78,
-      "endTime": 31.32
+      "romaji": "mikanse"
     },
     {
       "id": 6,
-      "ruby": "未完成[みかんせい]な君[きみ]もまた",
+      "start": 31.32,
+      "end": 32.85,
+      "rubyText": "未完成[みかんせい]な君[きみ]もまた",
       "translation": "미완성인 너 또한",
-      "romaji": "mikansei na kimi mo mata",
-      "startTime": 31.32,
-      "endTime": 32.85
+      "romaji": "mikansei na kimi mo mata"
     },
     {
       "id": 7,
-      "ruby": "未完成[みかんせい]な",
+      "start": 32.85,
+      "end": 33.65,
+      "rubyText": "未完成[みかんせい]な",
       "translation": "미완성인",
-      "romaji": "mikansei na",
-      "startTime": 32.85,
-      "endTime": 33.65
+      "romaji": "mikansei na"
     },
     {
       "id": 8,
-      "ruby": "未完成[みかんせい]なままだから",
+      "start": 33.65,
+      "end": 35.09,
+      "rubyText": "未完成[みかんせい]なままだから",
       "translation": "미완성인 모습이니까",
-      "romaji": "mikansei na mama dakara",
-      "startTime": 33.65,
-      "endTime": 35.09
+      "romaji": "mikansei na mama dakara"
     },
     {
       "id": 9,
-      "ruby": "未完成[みかんせい] ただ",
+      "start": 35.09,
+      "end": 35.99,
+      "rubyText": "未完成[みかんせい] ただ",
       "translation": "미완성 그저",
-      "romaji": "mikansei tada",
-      "startTime": 35.09,
-      "endTime": 35.99
+      "romaji": "mikansei tada"
     },
     {
       "id": 10,
-      "ruby": "未完成[みかんせい]で生[い]きていくの",
+      "start": 35.99,
+      "end": 37.55,
+      "rubyText": "未完成[みかんせい]で生[い]きていくの",
       "translation": "미완성으로 살아가는 거야",
-      "romaji": "mikansei de ikite iku no",
-      "startTime": 35.99,
-      "endTime": 37.55
+      "romaji": "mikansei de ikite iku no"
     },
     {
       "id": 11,
-      "ruby": "未完成[みかんせい]だ 未完成[みかんせい]だ 未完成[みかんせい]だ",
+      "start": 37.55,
+      "end": 40.69,
+      "rubyText": "未完成[みかんせい]だ 未完成[みかんせい]だ 未完成[みかんせい]だ",
       "translation": "미완성이다 미완성이다 미완성이다",
-      "romaji": "mikansei da mikansei da mikansei da",
-      "startTime": 37.55,
-      "endTime": 40.69
+      "romaji": "mikansei da mikansei da mikansei da"
     },
     {
       "id": 12,
-      "ruby": "未完成[みかんせい]だ 頭[あたま]",
+      "start": 40.69,
+      "end": 40.96,
+      "rubyText": "未完成[みかんせい]だ 頭[あたま]",
       "translation": "미완성이다 머릿속",
-      "romaji": "mikansei da atama",
-      "startTime": 40.69,
-      "endTime": 40.96
+      "romaji": "mikansei da atama"
     },
     {
       "id": 13,
-      "ruby": "不完全[ふかんぜん]だ 不完全[ふかんぜん]だ 不完全[ふかんぜん]だ",
+      "start": 40.96,
+      "end": 43.29,
+      "rubyText": "不完全[ふかんぜん]だ 不完全[ふかんぜん]だ 不完全[ふかんぜん]だ",
       "translation": "불완전하다 불완전하다 불완전하다",
-      "romaji": "fukanzen da fukanzen da fukanzen da",
-      "startTime": 40.96,
-      "endTime": 43.29
+      "romaji": "fukanzen da fukanzen da fukanzen da"
     },
     {
       "id": 14,
-      "ruby": "心[こころ]のナカミ",
+      "start": 43.29,
+      "end": 44.33,
+      "rubyText": "心[こころ]のナカミ",
       "translation": "마음의 안쪽",
-      "romaji": "kokoro no nakami",
-      "startTime": 43.29,
-      "endTime": 44.33
+      "romaji": "kokoro no nakami"
     },
     {
       "id": 15,
-      "ruby": "不安定[ふあんてい]だ 不安定[ふあんてい]だ 不安定[ふあんてい]だ",
+      "start": 44.33,
+      "end": 47.46,
+      "rubyText": "不安定[ふあんてい]だ 不安定[ふあんてい]だ 不安定[ふあんてい]だ",
       "translation": "불안정하다 불안정하다 불안정하다",
-      "romaji": "fuantei da fuantei da fuantei da",
-      "startTime": 44.33,
-      "endTime": 47.46
+      "romaji": "fuantei da fuantei da fuantei da"
     },
     {
       "id": 16,
-      "ruby": "不安定[ふあんてい]だ 律動[リズム]",
+      "start": 47.46,
+      "end": 47.73,
+      "rubyText": "不安定[ふあんてい]だ 律動[リズム]",
       "translation": "불안정하다 리듬",
-      "romaji": "fuantei da rizumu",
-      "startTime": 47.46,
-      "endTime": 47.73
+      "romaji": "fuantei da rizumu"
     },
     {
       "id": 17,
-      "ruby": "不安定[ふあんてい]な 不安定[ふあんてい]な 不安定[ふあんてい]な",
+      "start": 47.73,
+      "end": 50.07,
+      "rubyText": "不安定[ふあんてい]な 不安定[ふあんてい]な 不安定[ふあんてい]な",
       "translation": "불안정한 불안정한 불안정한",
-      "romaji": "fuantei na fuantei na fuantei na",
-      "startTime": 47.73,
-      "endTime": 50.07
+      "romaji": "fuantei na fuantei na fuantei na"
     },
     {
       "id": 18,
-      "ruby": "この気持[きも]ちは",
+      "start": 50.07,
+      "end": 52.17,
+      "rubyText": "この気持[きも]ちは",
       "translation": "이 기분은",
-      "romaji": "kono kimochi wa",
-      "startTime": 50.07,
-      "endTime": 52.17
+      "romaji": "kono kimochi wa"
     },
     {
       "id": 19,
-      "ruby": "未完成[みかんせい]な 心[こころ]のせいだから。",
+      "start": 52.17,
+      "end": 54.77,
+      "rubyText": "未完成[みかんせい]な 心[こころ]のせいだから。",
       "translation": "미완성인 마음 때문인 거야.",
-      "romaji": "mikansei na kokoro no sei dakara.",
-      "startTime": 52.17,
-      "endTime": 54.77
+      "romaji": "mikansei na kokoro no sei dakara."
     },
     {
       "id": 20,
-      "ruby": "あぁ 途中下車[とちゅうげしゃ]した 線路[せんろ]の先[さき]が",
+      "start": 55.31,
+      "end": 57.64,
+      "rubyText": "あぁ 途中下車[とちゅうげしゃ]した 線路[せんろ]の先[さき]が",
       "translation": "아아 도중 하차한 선로 끝이",
-      "romaji": "aa tochuu gesha shita senro no saki ga",
-      "startTime": 55.31,
-      "endTime": 57.64
+      "romaji": "aa tochuu gesha shita senro no saki ga"
     },
     {
       "id": 21,
-      "ruby": "打[う]ち切[き]られた 話[はなし]の先[さき]が",
+      "start": 57.64,
+      "end": 59.74,
+      "rubyText": "打[う]ち切[き]られた 話[はなし]の先[さき]が",
       "translation": "끊겨버린 이야기 끝이",
-      "romaji": "uchikirareta hanashi no saki ga",
-      "startTime": 57.64,
-      "endTime": 59.74
+      "romaji": "uchikirareta hanashi no saki ga"
     },
     {
       "id": 22,
-      "ruby": "「こんなにも 綺麗[きれい]だな」なんて",
+      "start": 59.74,
+      "end": 61.55,
+      "rubyText": "「こんなにも 綺麗[きれい]だな」なんて",
       "translation": "「이렇게나 예쁘다니」라며",
-      "romaji": "\"konnanimo kirei da na\" nante",
-      "startTime": 59.74,
-      "endTime": 61.55
+      "romaji": "\"konnanimo kirei da na\" nante"
     },
     {
       "id": 23,
-      "ruby": "妄想[もうそう]ばかりが 捗[はかど]って",
+      "start": 61.55,
+      "end": 63.38,
+      "rubyText": "妄想[もうそう]ばかりが 捗[はかど]って",
       "translation": "온갖 망상만 피어올라",
-      "romaji": "mousou bakari ga hakadotte",
-      "startTime": 61.55,
-      "endTime": 63.38
+      "romaji": "mousou bakari ga hakadotte"
     },
     {
       "id": 24,
-      "ruby": "あぁ 作[つく]りかけの 君[きみ]の笑顔[えがお]が",
+      "start": 63.65,
+      "end": 66.02,
+      "rubyText": "あぁ 作[つく]りかけの 君[きみ]の笑顔[えがお]が",
       "translation": "아아 만들다 만 너의 미소가",
-      "romaji": "aa tsukurikake no kimi no egao ga",
-      "startTime": 63.65,
-      "endTime": 66.02
+      "romaji": "aa tsukurikake no kimi no egao ga"
     },
     {
       "id": 25,
-      "ruby": "こんなにも苦[くる]しくて",
+      "start": 66.02,
+      "end": 67.55,
+      "rubyText": "こんなにも苦[くる]しくて",
       "translation": "이렇게나 아파서",
-      "romaji": "konnanimo kurushikute",
-      "startTime": 66.02,
-      "endTime": 67.55
+      "romaji": "konnanimo kurushikute"
     },
     {
       "id": 26,
-      "ruby": "未完成[みかんせい]な 僕[ぼく]の心[こころ]は",
+      "start": 67.82,
+      "end": 69.92,
+      "rubyText": "未完成[みかんせい]な 僕[ぼく]の心[こころ]は",
       "translation": "미완성인 내 마음은",
-      "romaji": "mikansei na boku no kokoro wa",
-      "startTime": 67.82,
-      "endTime": 69.92
+      "romaji": "mikansei na boku no kokoro wa"
     },
     {
       "id": 27,
-      "ruby": "今[いま]にも壊[こわ]れてしまいそうです！",
+      "start": 69.92,
+      "end": 71.72,
+      "rubyText": "今[いま]にも壊[こわ]れてしまいそうです！",
       "translation": "지금이라도 부서질 것 같아!",
-      "romaji": "ima nimo kowarete shimaisou desu!",
-      "startTime": 69.92,
-      "endTime": 71.72
+      "romaji": "ima nimo kowarete shimaisou desu!"
     },
     {
       "id": 28,
-      "ruby": "未完成[みかんせい]な歌[うた]と",
+      "start": 88.71,
+      "end": 90.01,
+      "rubyText": "未完成[みかんせい]な歌[うた]と",
       "translation": "미완성인 노래와",
-      "romaji": "mikansei na uta to",
-      "startTime": 88.71,
-      "endTime": 90.01
+      "romaji": "mikansei na uta to"
     },
     {
       "id": 29,
-      "ruby": "未完成[みかんせい]な僕[ぼく]たちは",
+      "start": 90.01,
+      "end": 91.58,
+      "rubyText": "未完成[みかんせい]な僕[ぼく]たちは",
       "translation": "미완성인 우리들은",
-      "romaji": "mikansei na bokutachi wa",
-      "startTime": 90.01,
-      "endTime": 91.58
+      "romaji": "mikansei na bokutachi wa"
     },
     {
       "id": 30,
-      "ruby": "未完成[みかんせい]のまま",
+      "start": 91.58,
+      "end": 92.61,
+      "rubyText": "未完成[みかんせい]のまま",
       "translation": "미완성인 채로",
-      "romaji": "mikansei no mama",
-      "startTime": 91.58,
-      "endTime": 92.61
+      "romaji": "mikansei no mama"
     },
     {
       "id": 31,
-      "ruby": "蜜柑星[みかんせい]まで歩[ある]いて行[い]くの",
+      "start": 92.61,
+      "end": 94.45,
+      "rubyText": "蜜柑星[みかんせい]まで歩[ある]いて行[い]くの",
       "translation": "밀감성까지 쭉 걸어가는 거야",
-      "romaji": "mikansei made aruite iku no",
-      "startTime": 92.61,
-      "endTime": 94.45
+      "romaji": "mikansei made aruite iku no"
     },
     {
       "id": 32,
-      "ruby": "みかんせ",
+      "start": 94.45,
+      "end": 94.95,
+      "rubyText": "みかんせ",
       "translation": "미완ㅅ",
-      "romaji": "mikanse",
-      "startTime": 94.45,
-      "endTime": 94.95
+      "romaji": "mikanse"
     },
     {
       "id": 33,
-      "ruby": "未完成[みかんせい]な拍子[ひょうし] ほら",
+      "start": 94.95,
+      "end": 96.51,
+      "rubyText": "未完成[みかんせい]な拍子[ひょうし] ほら",
       "translation": "미완성인 박자 봐봐",
-      "romaji": "mikansei na hyoushi hora",
-      "startTime": 94.95,
-      "endTime": 96.51
+      "romaji": "mikansei na hyoushi hora"
     },
     {
       "id": 34,
-      "ruby": "未完成[みかんせい]な",
+      "start": 96.51,
+      "end": 97.31,
+      "rubyText": "未完成[みかんせい]な",
       "translation": "미완성인",
-      "romaji": "mikansei na",
-      "startTime": 96.51,
-      "endTime": 97.31
+      "romaji": "mikansei na"
     },
     {
       "id": 35,
-      "ruby": "未完成[みかんせい]なリズムでも",
+      "start": 97.31,
+      "end": 98.72,
+      "rubyText": "未完成[みかんせい]なリズムでも",
       "translation": "미완성인 리듬이라도",
-      "romaji": "mikansei na rizumu demo",
-      "startTime": 97.31,
-      "endTime": 98.72
+      "romaji": "mikansei na rizumu demo"
     },
     {
       "id": 36,
-      "ruby": "未完成[みかんせい] でも",
+      "start": 98.72,
+      "end": 99.65,
+      "rubyText": "未完成[みかんせい] でも",
       "translation": "미완성 그래도",
-      "romaji": "mikansei demo",
-      "startTime": 98.72,
-      "endTime": 99.65
+      "romaji": "mikansei demo"
     },
     {
       "id": 37,
-      "ruby": "蜜柑星[みかんせい]で聞[き]いてくれよ",
+      "start": 99.65,
+      "end": 101.22,
+      "rubyText": "蜜柑星[みかんせい]で聞[き]いてくれよ",
       "translation": "밀감성에서 들어줬으면 해",
-      "romaji": "mikansei de kiite kure yo",
-      "startTime": 99.65,
-      "endTime": 101.22
+      "romaji": "mikansei de kiite kure yo"
     },
     {
       "id": 38,
-      "ruby": "未完成[みかんせい]だ 未完成[みかんせい]だ 未完成[みかんせい]だ",
+      "start": 101.22,
+      "end": 104.35,
+      "rubyText": "未完成[みかんせい]だ 未完成[みかんせい]だ 未完成[みかんせい]だ",
       "translation": "미완성이다 미완성이다 미완성이다",
-      "romaji": "mikansei da mikansei da mikansei da",
-      "startTime": 101.22,
-      "endTime": 104.35
+      "romaji": "mikansei da mikansei da mikansei da"
     },
     {
       "id": 39,
-      "ruby": "未完成[みかんせい]だ 頭[あたま]",
+      "start": 104.35,
+      "end": 104.59,
+      "rubyText": "未完成[みかんせい]だ 頭[あたま]",
       "translation": "미완성이다 머릿속",
-      "romaji": "mikansei da atama",
-      "startTime": 104.35,
-      "endTime": 104.59
+      "romaji": "mikansei da atama"
     },
     {
       "id": 40,
-      "ruby": "不完全[ふかんぜん]だ 不完全[ふかんぜん]だ 不完全[ふかんぜん]だ",
+      "start": 104.59,
+      "end": 106.96,
+      "rubyText": "不完全[ふかんぜん]だ 不完全[ふかんぜん]だ 不完全[ふかんぜん]だ",
       "translation": "불완전하다 불완전하다 불완전하다",
-      "romaji": "fukanzen da fukanzen da fukanzen da",
-      "startTime": 104.59,
-      "endTime": 106.96
+      "romaji": "fukanzen da fukanzen da fukanzen da"
     },
     {
       "id": 41,
-      "ruby": "心[こころ]のナカミ",
+      "start": 106.96,
+      "end": 107.99,
+      "rubyText": "心[こころ]のナカミ",
       "translation": "마음의 안쪽",
-      "romaji": "kokoro no nakami",
-      "startTime": 106.96,
-      "endTime": 107.99
+      "romaji": "kokoro no nakami"
     },
     {
       "id": 42,
-      "ruby": "不安定[ふあんてい]だ 不安定[ふあんてい]だ 不安定[ふあんてい]だ",
+      "start": 107.99,
+      "end": 111.13,
+      "rubyText": "不安定[ふあんてい]だ 不安定[ふあんてい]だ 不安定[ふあんてい]だ",
       "translation": "불안정하다 불안정하다 불안정하다",
-      "romaji": "fuantei da fuantei da fuantei da",
-      "startTime": 107.99,
-      "endTime": 111.13
+      "romaji": "fuantei da fuantei da fuantei da"
     },
     {
       "id": 43,
-      "ruby": "不安定[ふあんてい]だ 律動[リズム]",
+      "start": 111.13,
+      "end": 111.4,
+      "rubyText": "不安定[ふあんてい]だ 律動[リズム]",
       "translation": "불안정하다 리듬",
-      "romaji": "fuantei da rizumu",
-      "startTime": 111.13,
-      "endTime": 111.4
+      "romaji": "fuantei da rizumu"
     },
     {
       "id": 44,
-      "ruby": "不安定[ふあんてい]な 不安定[ふあんてい]な 不安定[ふあんてい]な",
+      "start": 111.4,
+      "end": 113.73,
+      "rubyText": "不安定[ふあんてい]な 不安定[ふあんてい]な 不安定[ふあんてい]な",
       "translation": "불안정한 불안정한 불안정한",
-      "romaji": "fuantei na fuantei na fuantei na",
-      "startTime": 111.4,
-      "endTime": 113.73
+      "romaji": "fuantei na fuantei na fuantei na"
     },
     {
       "id": 45,
-      "ruby": "この気持[きも]ちは",
+      "start": 113.73,
+      "end": 115.83,
+      "rubyText": "この気持[きも]ちは",
       "translation": "이 기분은",
-      "romaji": "kono kimochi wa",
-      "startTime": 113.73,
-      "endTime": 115.83
+      "romaji": "kono kimochi wa"
     },
     {
       "id": 46,
-      "ruby": "未完成[みかんせい]な 私[わたし]のせいだから。",
+      "start": 115.83,
+      "end": 118.44,
+      "rubyText": "未完成[みかんせい]な 私[わたし]のせいだから。",
       "translation": "미완성인 나 때문이야.",
-      "romaji": "mikansei na watashi no sei dakara.",
-      "startTime": 115.83,
-      "endTime": 118.44
+      "romaji": "mikansei na watashi no sei dakara."
     },
     {
       "id": 47,
-      "ruby": "あぁ 夢中[むちゅう]で描[えが]いた 線[せん]の続[つづ]きが",
+      "start": 118.94,
+      "end": 121.31,
+      "rubyText": "あぁ 夢中[むちゅう]で描[えが]いた 線[せん]の続[つづ]きが",
       "translation": "아아 정신없이 그린 선의 끝이",
-      "romaji": "aa muchuu de egaita sen no tsuzuki ga",
-      "startTime": 118.94,
-      "endTime": 121.31
+      "romaji": "aa muchuu de egaita sen no tsuzuki ga"
     },
     {
       "id": 48,
-      "ruby": "海[うみ]に沈[しず]んだ宝[たから]の地図[ちず]が",
+      "start": 121.31,
+      "end": 123.41,
+      "rubyText": "海[うみ]に沈[しず]んだ宝[たから]の地図[ちず]が",
       "translation": "바다에 잠긴 보물 지도가",
-      "romaji": "umi ni shizunda takara no chizu ga",
-      "startTime": 121.31,
-      "endTime": 123.41
+      "romaji": "umi ni shizunda takara no chizu ga"
     },
     {
       "id": 49,
-      "ruby": "「こんなにも くだらない」なんて",
+      "start": 123.41,
+      "end": 125.21,
+      "rubyText": "「こんなにも くだらない」なんて",
       "translation": "「이렇게나 쓸데없다니」라며",
-      "romaji": "\"konnanimo kudaranai\" nante",
-      "startTime": 123.41,
-      "endTime": 125.21
+      "romaji": "\"konnanimo kudaranai\" nante"
     },
     {
       "id": 50,
-      "ruby": "端[はな]から思[おも]うわけは無[な]くて",
+      "start": 125.21,
+      "end": 127.04,
+      "rubyText": "端[はな]から思[おも]うわけは無[な]くて",
       "translation": "애초부터 생각할 리는 없고",
-      "romaji": "hana kara omou wake wa nakute",
-      "startTime": 125.21,
-      "endTime": 127.04
+      "romaji": "hana kara omou wake wa nakute"
     },
     {
       "id": 51,
-      "ruby": "あぁ 近[ちか]づいてく時間制限[タイムリミット]が",
+      "start": 127.31,
+      "end": 129.65,
+      "rubyText": "あぁ 近[ちか]づいてく時間制限[タイムリミット]が",
       "translation": "아아 다가오는 시간 제한이",
-      "romaji": "aa chikazuiteku taimu rimitto ga",
-      "startTime": 127.31,
-      "endTime": 129.65
+      "romaji": "aa chikazuiteku taimu rimitto ga"
     },
     {
       "id": 52,
-      "ruby": "こんなにも 切[せつ]なくて",
+      "start": 129.65,
+      "end": 131.22,
+      "rubyText": "こんなにも 切[せつ]なくて",
       "translation": "이렇게나 애틋해서",
-      "romaji": "konnanimo setsunakute",
-      "startTime": 129.65,
-      "endTime": 131.22
+      "romaji": "konnanimo setsunakute"
     },
     {
       "id": 53,
-      "ruby": "未完成[みかんせい]な 私[わたし]はこのまま",
+      "start": 131.48,
+      "end": 133.55,
+      "rubyText": "未完成[みかんせい]な 私[わたし]はこのまま",
       "translation": "미완성인 나는 이대로",
-      "romaji": "mikansei na watashi wa kono mama",
-      "startTime": 131.48,
-      "endTime": 133.55
+      "romaji": "mikansei na watashi wa kono mama"
     },
     {
       "id": 54,
-      "ruby": "終[お]わりを迎[むか]えてしまいそうです！",
+      "start": 133.55,
+      "end": 135.39,
+      "rubyText": "終[お]わりを迎[むか]えてしまいそうです！",
       "translation": "끝을 맞이할 것 같아!",
-      "romaji": "owari o mukaete shimaisou desu!",
-      "startTime": 133.55,
-      "endTime": 135.39
+      "romaji": "owari o mukaete shimaisou desu!"
     },
     {
       "id": 55,
-      "ruby": "どんな人[ひと]も どこかは欠[か]けていて",
+      "start": 152.34,
+      "end": 154.71,
+      "rubyText": "どんな人[ひと]も どこかは欠[か]けていて",
       "translation": "어떤 사람도 어딘가 비어 있고",
-      "romaji": "donna hito mo dokoka wa kakete ite",
-      "startTime": 152.34,
-      "endTime": 154.71
+      "romaji": "donna hito mo dokoka wa kakete ite"
     },
     {
       "id": 56,
-      "ruby": "完璧[かんぺき]な人間[にんげん]は 幻想[げんそう]で",
+      "start": 154.71,
+      "end": 156.77,
+      "rubyText": "完璧[かんぺき]な人間[にんげん]は 幻想[げんそう]で",
       "translation": "완벽한 인간은 환상일 뿐",
-      "romaji": "kanpeki na ningen wa gensou de",
-      "startTime": 154.71,
-      "endTime": 156.77
+      "romaji": "kanpeki na ningen wa gensou de"
     },
     {
       "id": 57,
-      "ruby": "だから今[いま]は未完成[みかんせい]だって",
+      "start": 156.77,
+      "end": 158.61,
+      "rubyText": "だから今[いま]は未完成[みかんせい]だって",
       "translation": "그러니 지금은 미완성이더라도",
-      "romaji": "dakara ima wa mikansei datte",
-      "startTime": 156.77,
-      "endTime": 158.61
+      "romaji": "dakara ima wa mikansei datte"
     },
     {
       "id": 58,
-      "ruby": "生[い]きててもいいと思[おも]うんだ",
+      "start": 158.61,
+      "end": 160.68,
+      "rubyText": "生[い]きててもいいと思[おも]うんだ",
       "translation": "살아도 괜찮다고 생각해",
-      "romaji": "ikitete mo ii to omou n da",
-      "startTime": 158.61,
-      "endTime": 160.68
+      "romaji": "ikitete mo ii to omou n da"
     },
     {
       "id": 59,
-      "ruby": "もうちょっと！",
+      "start": 160.68,
+      "end": 161.75,
+      "rubyText": "もうちょっと！",
       "translation": "조금만 더!",
-      "romaji": "mou chotto!",
-      "startTime": 160.68,
-      "endTime": 161.75
+      "romaji": "mou chotto!"
     },
     {
       "id": 60,
-      "ruby": "あぁ 途中下車[とちゅうげしゃ]した 線路[せんろ]の先[さき]が",
+      "start": 162.01,
+      "end": 164.35,
+      "rubyText": "あぁ 途中下車[とちゅうげしゃ]した 線路[せんろ]の先[さき]が",
       "translation": "아아 도중 하차한 선로 끝이",
-      "romaji": "aa tochuu gesha shita senro no saki ga",
-      "startTime": 162.01,
-      "endTime": 164.35
+      "romaji": "aa tochuu gesha shita senro no saki ga"
     },
     {
       "id": 61,
-      "ruby": "打[う]ち切[き]られた 話[はなし]の先[さき]が",
+      "start": 164.35,
+      "end": 166.42,
+      "rubyText": "打[う]ち切[き]られた 話[はなし]の先[さき]が",
       "translation": "끊겨버린 이야기 끝이",
-      "romaji": "uchikirareta hanashi no saki ga",
-      "startTime": 164.35,
-      "endTime": 166.42
+      "romaji": "uchikirareta hanashi no saki ga"
     },
     {
       "id": 62,
-      "ruby": "こんなにも 綺麗[きれい]だななんて",
+      "start": 166.42,
+      "end": 168.25,
+      "rubyText": "こんなにも 綺麗[きれい]だななんて",
       "translation": "이렇게나 예쁘다니 라며",
-      "romaji": "konnanimo kirei da na nante",
-      "startTime": 166.42,
-      "endTime": 168.25
+      "romaji": "konnanimo kirei da na nante"
     },
     {
       "id": 63,
-      "ruby": "妄想[もうそう]ばかりが 捗[はかど]って",
+      "start": 168.25,
+      "end": 170.09,
+      "rubyText": "妄想[もうそう]ばかりが 捗[はかど]って",
       "translation": "온갖 망상만 피어올라",
-      "romaji": "mousou bakari ga hakadotte",
-      "startTime": 168.25,
-      "endTime": 170.09
+      "romaji": "mousou bakari ga hakadotte"
     },
     {
       "id": 64,
-      "ruby": "あぁ 作[つく]りかけの 君[きみ]の笑顔[えがお]が",
+      "start": 170.35,
+      "end": 172.69,
+      "rubyText": "あぁ 作[つく]りかけの 君[きみ]の笑顔[えがお]が",
       "translation": "아아 만들다 만 너의 미소가",
-      "romaji": "aa tsukurikake no kimi no egao ga",
-      "startTime": 170.35,
-      "endTime": 172.69
+      "romaji": "aa tsukurikake no kimi no egao ga"
     },
     {
       "id": 65,
-      "ruby": "こんなにも苦[くる]しくて",
+      "start": 172.69,
+      "end": 174.26,
+      "rubyText": "こんなにも苦[くる]しくて",
       "translation": "이렇게나 아파서",
-      "romaji": "konnanimo kurushikute",
-      "startTime": 172.69,
-      "endTime": 174.26
+      "romaji": "konnanimo kurushikute"
     },
     {
       "id": 66,
-      "ruby": "未完成[みかんせい]な 僕[ぼく]の心[こころ]は",
+      "start": 174.53,
+      "end": 176.59,
+      "rubyText": "未完成[みかんせい]な 僕[ぼく]の心[こころ]は",
       "translation": "미완성인 내 마음은",
-      "romaji": "mikansei na boku no kokoro wa",
-      "startTime": 174.53,
-      "endTime": 176.59
+      "romaji": "mikansei na boku no kokoro wa"
     },
     {
       "id": 67,
-      "ruby": "今[いま]にも壊[こわ]れてしまいそうです！",
+      "start": 176.59,
+      "end": 178.43,
+      "rubyText": "今[いま]にも壊[こわ]れてしまいそうです！",
       "translation": "지금이라도 부서질 것 같아!",
-      "romaji": "ima nimo kowarete shimaisou desu!",
-      "startTime": 176.59,
-      "endTime": 178.43
+      "romaji": "ima nimo kowarete shimaisou desu!"
     },
     {
       "id": 68,
-      "ruby": "ああ もう少[すこ]しだけ君[きみ]の隣[となり]で",
+      "start": 178.43,
+      "end": 181.03,
+      "rubyText": "ああ もう少[すこ]しだけ君[きみ]の隣[となり]で",
       "translation": "아아 조금만 더 네 곁에서",
-      "romaji": "aa mou sukoshi dake kimi no tonari de",
-      "startTime": 178.43,
-      "endTime": 181.03
+      "romaji": "aa mou sukoshi dake kimi no tonari de"
     },
     {
       "id": 69,
-      "ruby": "幸[しあわ]せな僕[ぼく]でいさせて",
+      "start": 181.03,
+      "end": 183.13,
+      "rubyText": "幸[しあわ]せな僕[ぼく]でいさせて",
       "translation": "행복한 나로 있게 해 줘",
-      "romaji": "shiawase na boku de isasete",
-      "startTime": 181.03,
-      "endTime": 183.13
+      "romaji": "shiawase na boku de isasete"
     },
     {
       "id": 70,
-      "ruby": "「未完成[みかんせい]」な心[こころ]が",
+      "start": 183.13,
+      "end": 184.57,
+      "rubyText": "「未完成[みかんせい]」な心[こころ]が",
       "translation": "「미완성」인 마음이",
-      "romaji": "\"mikansei\" na kokoro ga",
-      "startTime": 183.13,
-      "endTime": 184.57
+      "romaji": "\"mikansei\" na kokoro ga"
     },
     {
       "id": 71,
-      "ruby": "いつか君[きみ]の笑顔[えがお]で満[み]たされるように",
+      "start": 184.57,
+      "end": 187.04,
+      "rubyText": "いつか君[きみ]の笑顔[えがお]で満[み]たされるように",
       "translation": "언젠가 너의 미소로 가득 채워지도록",
-      "romaji": "itsuka kimi no egao de mitasareru you ni",
-      "startTime": 184.57,
-      "endTime": 187.04
+      "romaji": "itsuka kimi no egao de mitasareru you ni"
     },
     {
       "id": 72,
-      "ruby": "あぁ 欠[か]けたパーツ埋[う]めてくように",
+      "start": 187.04,
+      "end": 189.41,
+      "rubyText": "あぁ 欠[か]けたパーツ埋[う]めてくように",
       "translation": "아아 빠진 조각 채워가듯이",
-      "romaji": "aa kaketa paatsu umeteku you ni",
-      "startTime": 187.04,
-      "endTime": 189.41
+      "romaji": "aa kaketa paatsu umeteku you ni"
     },
     {
       "id": 73,
-      "ruby": "僕達[ぼくたち]は生[い]きていく！",
+      "start": 189.41,
+      "end": 190.94,
+      "rubyText": "僕達[ぼくたち]は生[い]きていく！",
       "translation": "우리들은 살아갈 거야!",
-      "romaji": "bokutachi wa ikite iku!",
-      "startTime": 189.41,
-      "endTime": 190.94
+      "romaji": "bokutachi wa ikite iku!"
     },
     {
       "id": 74,
-      "ruby": "未完成[みかんせい]な 僕[ぼく]らの心[こころ]が",
+      "start": 191.21,
+      "end": 193.31,
+      "rubyText": "未完成[みかんせい]な 僕[ぼく]らの心[こころ]が",
       "translation": "미완성인 우리들의 마음이",
-      "romaji": "mikansei na bokura no kokoro ga",
-      "startTime": 191.21,
-      "endTime": 193.31
+      "romaji": "mikansei na bokura no kokoro ga"
     },
     {
       "id": 75,
-      "ruby": "幸[しあわ]せでいられますように！",
+      "start": 193.31,
+      "end": 194.85,
+      "rubyText": "幸[しあわ]せでいられますように！",
       "translation": "행복할 수 있기를!",
-      "romaji": "shiawase de iraremasu you ni!",
-      "startTime": 193.31,
-      "endTime": 194.85
+      "romaji": "shiawase de iraremasu you ni!"
     },
     {
       "id": 76,
-      "ruby": "それが 一生[いっしょう]続[つづ]きますように！",
+      "start": 195.01,
+      "end": 197.21,
+      "rubyText": "それが 一生[いっしょう]続[つづ]きますように！",
       "translation": "그것이 평생 이어지기를!",
-      "romaji": "sore ga isshou tsuzukimasu you ni!",
-      "startTime": 195.01,
-      "endTime": 197.21
+      "romaji": "sore ga isshou tsuzukimasu you ni!"
     }
   ],
   "kanjiDictionary": {

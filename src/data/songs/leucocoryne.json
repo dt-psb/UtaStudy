@@ -6,227 +6,227 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "すべてが瞬[またた]きみたいに",
+      "start": 32.92,
+      "end": 38.26,
+      "rubyText": "すべてが瞬[またた]きみたいに",
       "translation": "모든 게 눈 깜빡임 처럼",
-      "romaji": "subete ga matataki mitai ni",
-      "startTime": 32.92,
-      "endTime": 38.26
+      "romaji": "subete ga matataki mitai ni"
     },
     {
       "id": 2,
-      "ruby": "一瞬[いっしゅん]で過[す]ぎ去[さ]ってしまうから",
+      "start": 38.26,
+      "end": 45.68,
+      "rubyText": "一瞬[いっしゅん]で過[す]ぎ去[さ]ってしまうから",
       "translation": "한순간에 지나가 버리니까",
-      "romaji": "isshun de sugisatte shimau kara",
-      "startTime": 38.26,
-      "endTime": 45.68
+      "romaji": "isshun de sugisatte shimau kara"
     },
     {
       "id": 3,
-      "ruby": "永遠[えいえん]に思[おも]えたこの時間[じかん]でさえ",
+      "start": 46.18,
+      "end": 53.8,
+      "rubyText": "永遠[えいえん]に思[おも]えたこの時間[じかん]でさえ",
       "translation": "영원할 거라고 생각했던 이 시간 시간조차",
-      "romaji": "eien ni omoeta kono jikan de sae",
-      "startTime": 46.18,
-      "endTime": 53.8
+      "romaji": "eien ni omoeta kono jikan de sae"
     },
     {
       "id": 4,
-      "ruby": "もうすぐ終[お]わってしまう",
+      "start": 53.8,
+      "end": 58.32,
+      "rubyText": "もうすぐ終[お]わってしまう",
       "translation": "이제 곧 끝나버려",
-      "romaji": "mousugu owatte shimau",
-      "startTime": 53.8,
-      "endTime": 58.32
+      "romaji": "mousugu owatte shimau"
     },
     {
       "id": 5,
-      "ruby": "できるだけ急[いそ]ぎ足[あし]で　何[なに]も見落[みお]とさないように遠[とお]くへ",
+      "start": 59.32,
+      "end": 71.0,
+      "rubyText": "できるだけ急[いそ]ぎ足[あし]で　何[なに]も見落[みお]とさないように遠[とお]くへ",
       "translation": "가능한 빠른 걸음으로 아무것도 놓치지 않도록, 먼곳으로 향하죠",
-      "romaji": "dekiru dake isogiashi de nanimo miotosanai you ni tooku he",
-      "startTime": 59.32,
-      "endTime": 71.0
+      "romaji": "dekiru dake isogiashi de nanimo miotosanai you ni tooku he"
     },
     {
       "id": 6,
-      "ruby": "でも 神様[かみさま]がそっと咲[さ]かせた小[ちい]さな花[はな]に　僕[ぼく]らはそう 気[き]がつかない",
+      "start": 71.78,
+      "end": 84.58,
+      "rubyText": "でも 神様[かみさま]がそっと咲[さ]かせた小[ちい]さな花[はな]に　僕[ぼく]らはそう 気[き]がつかない",
       "translation": "하지만, 신님이 살며시 피운 작은 꽃을 우리들은 깨닫지 못해요",
-      "romaji": "demo kamisama ga sotto sakaseta chiisana hana ni bokura wa sou ki ga tsukanai",
-      "startTime": 71.78,
-      "endTime": 84.58
+      "romaji": "demo kamisama ga sotto sakaseta chiisana hana ni bokura wa sou ki ga tsukanai"
     },
     {
       "id": 7,
-      "ruby": "いくつもの偶然[ぐうぜん]の果[は]てに",
+      "start": 85.68,
+      "end": 91.32,
+      "rubyText": "いくつもの偶然[ぐうぜん]の果[は]てに",
       "translation": "수많은 우연의 끝에",
-      "romaji": "ikutsumo no guuzen no hate ni",
-      "startTime": 85.68,
-      "endTime": 91.32
+      "romaji": "ikutsumo no guuzen no hate ni"
     },
     {
       "id": 8,
-      "ruby": "同[おな]じ夢[ゆめ]の中[なか]で出会[であ]うように",
+      "start": 91.32,
+      "end": 97.7,
+      "rubyText": "同[おな]じ夢[ゆめ]の中[なか]で出会[であ]うように",
       "translation": "같은 꿈 속에서 다시 만나길",
-      "romaji": "onaji yume no naka de deau you ni",
-      "startTime": 91.32,
-      "endTime": 97.7
+      "romaji": "onaji yume no naka de deau you ni"
     },
     {
       "id": 9,
-      "ruby": "奇跡[きせき]みたいな瞬間[しゅんかん]を積[つ]み重[かさ]ね",
+      "start": 98.36,
+      "end": 105.02,
+      "rubyText": "奇跡[きせき]みたいな瞬間[しゅんかん]を積[つ]み重[かさ]ね",
       "translation": "기적같은 순간들을 쌓아올려",
-      "romaji": "kiseki mitai na shunkan wo tsumikasane",
-      "startTime": 98.36,
-      "endTime": 105.02
+      "romaji": "kiseki mitai na shunkan wo tsumikasane"
     },
     {
       "id": 10,
-      "ruby": "ここで呼吸[こきゅう]をしている",
+      "start": 105.02,
+      "end": 110.34,
+      "rubyText": "ここで呼吸[こきゅう]をしている",
       "translation": "여기서 숨을 쉬고 있어",
-      "romaji": "koko de kokyuu wo shite iru",
-      "startTime": 105.02,
-      "endTime": 110.34
+      "romaji": "koko de kokyuu wo shite iru"
     },
     {
       "id": 11,
-      "ruby": "踊[おど]ろうよ　無邪気[むじゃき]な夢[ゆめ]を描[えが]いて ずっと",
+      "start": 111.2,
+      "end": 118.1,
+      "rubyText": "踊[おど]ろうよ　無邪気[むじゃき]な夢[ゆめ]を描[えが]いて ずっと",
       "translation": "춤추자,  천진난만한 꿈을 그리며, 계속",
-      "romaji": "odorou yo mujaki na yume wo egaite zutto",
-      "startTime": 111.2,
-      "endTime": 118.1
+      "romaji": "odorou yo mujaki na yume wo egaite zutto"
     },
     {
       "id": 12,
-      "ruby": "この目[め]に映[うつ]るすべてがただ愛[いと]しいよ",
+      "start": 118.1,
+      "end": 126.02,
+      "rubyText": "この目[め]に映[うつ]るすべてがただ愛[いと]しいよ",
       "translation": "이 눈에 비치는 모든 것이 그저 사랑스러워,",
-      "romaji": "kono me ni utsuru subete ga tada itoshii yo",
-      "startTime": 118.1,
-      "endTime": 126.02
+      "romaji": "kono me ni utsuru subete ga tada itoshii yo"
     },
     {
       "id": 13,
-      "ruby": "また時[とき]は流[なが]れ去[さ]ってゆくけど",
+      "start": 126.02,
+      "end": 131.22,
+      "rubyText": "また時[とき]は流[なが]れ去[さ]ってゆくけど",
       "translation": "다시 시간은 흘러가 버리지만",
-      "romaji": "mata toki wa nagaresatte yuku kedo",
-      "startTime": 126.02,
-      "endTime": 131.22
+      "romaji": "mata toki wa nagaresatte yuku kedo"
     },
     {
       "id": 14,
-      "ruby": "僕[ぼく]らまだここで　恋[こい]に落[お]ちたまま",
+      "start": 131.24,
+      "end": 140.12,
+      "rubyText": "僕[ぼく]らまだここで　恋[こい]に落[お]ちたまま",
       "translation": "우리들은 아직 여기서, 사랑에 빠져 있네",
-      "romaji": "bokura mada koko de koi ni ochita mama",
-      "startTime": 131.24,
-      "endTime": 140.12
+      "romaji": "bokura mada koko de koi ni ochita mama"
     },
     {
       "id": 15,
-      "ruby": "足[た]りないことばかり数[かぞ]えて",
+      "start": 144.32,
+      "end": 149.2,
+      "rubyText": "足[た]りないことばかり数[かぞ]えて",
       "translation": "부족한 것만 세어서",
-      "romaji": "tarinai koto bakari kazoete",
-      "startTime": 144.32,
-      "endTime": 149.2
+      "romaji": "tarinai koto bakari kazoete"
     },
     {
       "id": 16,
-      "ruby": "単純[たんじゅん]な答[こた]えを見失[みうしな]って",
+      "start": 149.2,
+      "end": 156.44,
+      "rubyText": "単純[たんじゅん]な答[こた]えを見失[みうしな]って",
       "translation": "단순한 답을 놓쳐도",
-      "romaji": "tanjun na kotae wo miushinatte",
-      "startTime": 149.2,
-      "endTime": 156.44
+      "romaji": "tanjun na kotae wo miushinatte"
     },
     {
       "id": 17,
-      "ruby": "でもそのままでいればいいよと",
+      "start": 156.9,
+      "end": 162.0,
+      "rubyText": "でもそのままでいればいいよと",
       "translation": "그래도 이 대로 있다면 좋다며,",
-      "romaji": "demo sono mama de ireba ii yo to",
-      "startTime": 156.9,
-      "endTime": 162.0
+      "romaji": "demo sono mama de ireba ii yo to"
     },
     {
       "id": 18,
-      "ruby": "その微笑[ほほえ]みが曇[くも]った心[こころ]を照[て]らす",
+      "start": 162.0,
+      "end": 169.78,
+      "rubyText": "その微笑[ほほえ]みが曇[くも]った心[こころ]を照[て]らす",
       "translation": "그 미소가 흐린 마음을 밝혀",
-      "romaji": "sono hohoemi ga kumotta kokoro wo terasu",
-      "startTime": 162.0,
-      "endTime": 169.78
+      "romaji": "sono hohoemi ga kumotta kokoro wo terasu"
     },
     {
       "id": 19,
-      "ruby": "いつでも変[か]わらないものが　胸[むね]の中[なか]でそっと色付[いろづ]いて",
+      "start": 197.0,
+      "end": 209.08,
+      "rubyText": "いつでも変[か]わらないものが　胸[むね]の中[なか]でそっと色付[いろづ]いて",
       "translation": "언제까지도 변하지 않는 것이, 가슴 속을 살며시 물들이고",
-      "romaji": "itsudemo kawaranai mono ga mune no naka de sotto iroduite",
-      "startTime": 197.0,
-      "endTime": 209.08
+      "romaji": "itsudemo kawaranai mono ga mune no naka de sotto iroduite"
     },
     {
       "id": 20,
-      "ruby": "紡[つむ]ぎだした鮮[あざ]やかな光景[こうけい]に",
+      "start": 209.74,
+      "end": 215.82,
+      "rubyText": "紡[つむ]ぎだした鮮[あざ]やかな光景[こうけい]に",
       "translation": "자아낸 선명한 광경에",
-      "romaji": "tsumugidashita azayaka na koukei ni",
-      "startTime": 209.74,
-      "endTime": 215.82
+      "romaji": "tsumugidashita azayaka na koukei ni"
     },
     {
       "id": 21,
-      "ruby": "僕[ぼく]らの鼓動[こどう]が鳴[な]り響[ひび]く",
+      "start": 216.4,
+      "end": 221.84,
+      "rubyText": "僕[ぼく]らの鼓動[こどう]が鳴[な]り響[ひび]く",
       "translation": "우리들이 고동이 울려퍼지죠",
-      "romaji": "bokura no kodou ga narihibiku",
-      "startTime": 216.4,
-      "endTime": 221.84
+      "romaji": "bokura no kodou ga narihibiku"
     },
     {
       "id": 22,
-      "ruby": "踊[おど]ろうよ　無邪気[むじゃき]な夢[ゆめ]を描[えが]いて ずっと",
+      "start": 222.2,
+      "end": 229.38,
+      "rubyText": "踊[おど]ろうよ　無邪気[むじゃき]な夢[ゆめ]を描[えが]いて ずっと",
       "translation": "춤추자,  천진난만한 꿈을 그리며, 계속",
-      "romaji": "odorou yo mujaki na yume wo egaite zutto",
-      "startTime": 222.2,
-      "endTime": 229.38
+      "romaji": "odorou yo mujaki na yume wo egaite zutto"
     },
     {
       "id": 23,
-      "ruby": "この目[め]に映[うつ]るすべてがただ愛[いと]しいよ",
+      "start": 229.38,
+      "end": 237.24,
+      "rubyText": "この目[め]に映[うつ]るすべてがただ愛[いと]しいよ",
       "translation": "이 눈에 비치는 모든 것이 그저 사랑스러워,",
-      "romaji": "kono me ni utsuru subete ga tada itoshii yo",
-      "startTime": 229.38,
-      "endTime": 237.24
+      "romaji": "kono me ni utsuru subete ga tada itoshii yo"
     },
     {
       "id": 24,
-      "ruby": "形[かたち]さえない想[おも]いや願[ねが]いも",
+      "start": 237.24,
+      "end": 242.38,
+      "rubyText": "形[かたち]さえない想[おも]いや願[ねが]いも",
       "translation": "형태조차 없는 마음도, 바램도,",
-      "romaji": "katachi sae nai omoi ya negai mo",
-      "startTime": 237.24,
-      "endTime": 242.38
+      "romaji": "katachi sae nai omoi ya negai mo"
     },
     {
       "id": 25,
-      "ruby": "心[こころ]を振[ふ]るわす音[おと]も全部[ぜんぶ]",
+      "start": 242.38,
+      "end": 248.44,
+      "rubyText": "心[こころ]を振[ふ]るわす音[おと]も全部[ぜんぶ]",
       "translation": "마음을 흔드는 소리도 전부",
-      "romaji": "kokoro wo furuwasu oto mo zenbu",
-      "startTime": 242.38,
-      "endTime": 248.44
+      "romaji": "kokoro wo furuwasu oto mo zenbu"
     },
     {
       "id": 26,
-      "ruby": "踊[おど]ろうよ　また時[とき]は流[なが]れ去[さ]ってゆくけど",
+      "start": 248.44,
+      "end": 255.64,
+      "rubyText": "踊[おど]ろうよ　また時[とき]は流[なが]れ去[さ]ってゆくけど",
       "translation": "춤추자, 다시 시간은 흘러가 버리지만",
-      "romaji": "odorou yo mata toki wa nagaresatte yuku kedo",
-      "startTime": 248.44,
-      "endTime": 255.64
+      "romaji": "odorou yo mata toki wa nagaresatte yuku kedo"
     },
     {
       "id": 27,
-      "ruby": "僕[ぼく]らまだここで　呼吸[こきゅう]を続[つづ]けている",
+      "start": 255.64,
+      "end": 262.24,
+      "rubyText": "僕[ぼく]らまだここで　呼吸[こきゅう]を続[つづ]けている",
       "translation": "우리들은 아직 여기서, 숨을 쉬고 있네",
-      "romaji": "bokura mada koko de kokyuu wo tsudukete iru",
-      "startTime": 255.64,
-      "endTime": 262.24
+      "romaji": "bokura mada koko de kokyuu wo tsudukete iru"
     },
     {
       "id": 28,
-      "ruby": "僕[ぼく]らまだここで　恋[こい]に落[お]ちたまま",
+      "start": 262.24,
+      "end": 271.08,
+      "rubyText": "僕[ぼく]らまだここで　恋[こい]に落[お]ちたまま",
       "translation": "우리들은 아직 여기서, 사랑에 빠져 있네",
-      "romaji": "bokura mada koko de koi ni ochita mama",
-      "startTime": 262.24,
-      "endTime": 271.08
+      "romaji": "bokura mada koko de koi ni ochita mama"
     }
   ],
   "kanjiDictionary": {

@@ -6,371 +6,371 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "ちょっと涼[すず]しい風[かぜ]が吹[ふ]いた",
+      "start": 5.99,
+      "end": 10.59,
+      "rubyText": "ちょっと涼[すず]しい風[かぜ]が吹[ふ]いた",
       "translation": "살짝 서늘한 바람이 불었어",
-      "romaji": "chotto suzushii kaze ga fuita",
-      "startTime": 5.99,
-      "endTime": 10.59
+      "romaji": "chotto suzushii kaze ga fuita"
     },
     {
       "id": 2,
-      "ruby": "その日[ひ]から夏[なつ]は終[お]わりだと思[おも]っている",
+      "start": 10.59,
+      "end": 14.6,
+      "rubyText": "その日[ひ]から夏[なつ]は終[お]わりだと思[おも]っている",
       "translation": "그날부터 여름은 끝났다고 생각하고 있어",
-      "romaji": "sono hi kara natsu wa owari da to omotte iru",
-      "startTime": 10.59,
-      "endTime": 14.6
+      "romaji": "sono hi kara natsu wa owari da to omotte iru"
     },
     {
       "id": 3,
-      "ruby": "今日[きょう]も何[なに]も出来[でき]なくて",
+      "start": 14.6,
+      "end": 19.7,
+      "rubyText": "今日[きょう]も何[なに]も出来[でき]なくて",
       "translation": "오늘도 아무것도 하지 못하고",
-      "romaji": "kyou mo nani mo dekinakute",
-      "startTime": 14.6,
-      "endTime": 19.7
+      "romaji": "kyou mo nani mo dekinakute"
     },
     {
       "id": 4,
-      "ruby": "声[こえ]の出[だ]し方[かた]も忘[わす]れてく",
+      "start": 19.7,
+      "end": 23.51,
+      "rubyText": "声[こえ]の出[だ]し方[かた]も忘[わす]れてく",
       "translation": "목소리 내는 법도 점점 잊어 가",
-      "romaji": "koe no dashikata mo wasureteku",
-      "startTime": 19.7,
-      "endTime": 23.51
+      "romaji": "koe no dashikata mo wasureteku"
     },
     {
       "id": 5,
-      "ruby": "もっと生[い]きる未来[みらい]があると",
+      "start": 24.31,
+      "end": 28.91,
+      "rubyText": "もっと生[い]きる未来[みらい]があると",
       "translation": "더 살아갈 미래가 있다고",
-      "romaji": "motto ikiru mirai ga aru to",
-      "startTime": 24.31,
-      "endTime": 28.91
+      "romaji": "motto ikiru mirai ga aru to"
     },
     {
       "id": 6,
-      "ruby": "信[しん]じてきたけどダメかもと呟[つぶや]いた",
+      "start": 28.91,
+      "end": 32.88,
+      "rubyText": "信[しん]じてきたけどダメかもと呟[つぶや]いた",
       "translation": "믿어 왔지만 글렀을지도 모른다고 중얼거렸어",
-      "romaji": "shinjite kita kedo dame kamo to tsubuyaita",
-      "startTime": 28.91,
-      "endTime": 32.88
+      "romaji": "shinjite kita kedo dame kamo to tsubuyaita"
     },
     {
       "id": 7,
-      "ruby": "もしも夏[なつ]が終[お]わるなら",
+      "start": 32.88,
+      "end": 37.99,
+      "rubyText": "もしも夏[なつ]が終[お]わるなら",
       "translation": "만약에 여름이 끝난다면",
-      "romaji": "moshimo natsu ga owaru nara",
-      "startTime": 32.88,
-      "endTime": 37.99
+      "romaji": "moshimo natsu ga owaru nara"
     },
     {
       "id": 8,
-      "ruby": "地面[じめん]をみつめている目[め]",
+      "start": 37.99,
+      "end": 40.26,
+      "rubyText": "地面[じめん]をみつめている目[め]",
       "translation": "땅을 바라보는 눈",
-      "romaji": "jimen o mitsumete iru me",
-      "startTime": 37.99,
-      "endTime": 40.26
+      "romaji": "jimen o mitsumete iru me"
     },
     {
       "id": 9,
-      "ruby": "見[み]えない",
+      "start": 40.26,
+      "end": 41.43,
+      "rubyText": "見[み]えない",
       "translation": "보이지 않는",
-      "romaji": "mienai",
-      "startTime": 40.26,
-      "endTime": 41.43
+      "romaji": "mienai"
     },
     {
       "id": 10,
-      "ruby": "記憶[きおく]の中[なか]",
+      "start": 41.43,
+      "end": 43.66,
+      "rubyText": "記憶[きおく]の中[なか]",
       "translation": "기억 속",
-      "romaji": "kioku no naka",
-      "startTime": 41.43,
-      "endTime": 43.66
+      "romaji": "kioku no naka"
     },
     {
       "id": 11,
-      "ruby": "思[おも]い出[で]にない夜[よる]の街並[まちな]みに溶[と]け込[こ]む",
+      "start": 43.66,
+      "end": 47.0,
+      "rubyText": "思[おも]い出[で]にない夜[よる]の街並[まちな]みに溶[と]け込[こ]む",
       "translation": "추억에는 없는 밤의 길거리에 녹아드는",
-      "romaji": "omoide ni nai yoru no machinami ni tokekomu",
-      "startTime": 43.66,
-      "endTime": 47.0
+      "romaji": "omoide ni nai yoru no machinami ni tokekomu"
     },
     {
       "id": 12,
-      "ruby": "切[せつ]なげな横顔[よこがお]の絵[え]なのか現実[げんじつ]なのか",
+      "start": 47.0,
+      "end": 52.14,
+      "rubyText": "切[せつ]なげな横顔[よこがお]の絵[え]なのか現実[げんじつ]なのか",
       "translation": "애달픈 옆모습의 그림일까 현실인 걸까",
-      "romaji": "setsunage na yokogao no e na no ka genjitsu na no ka",
-      "startTime": 47.0,
-      "endTime": 52.14
+      "romaji": "setsunage na yokogao no e na no ka genjitsu na no ka"
     },
     {
       "id": 13,
-      "ruby": "そんなことどうでもいいからさ笑[わら]って",
+      "start": 52.14,
+      "end": 57.48,
+      "rubyText": "そんなことどうでもいいからさ笑[わら]って",
       "translation": "그런 거 아무래도 좋으니까 웃어줘",
-      "romaji": "sonna koto dou demo ii kara sa waratte",
-      "startTime": 52.14,
-      "endTime": 57.48
+      "romaji": "sonna koto dou demo ii kara sa waratte"
     },
     {
       "id": 14,
-      "ruby": "涙[なみだ]を飲[の]み込[こ]む",
+      "start": 57.48,
+      "end": 60.88,
+      "rubyText": "涙[なみだ]を飲[の]み込[こ]む",
       "translation": "눈물을 삼켜 버린",
-      "romaji": "namida o nomikomu",
-      "startTime": 57.48,
-      "endTime": 60.88
+      "romaji": "namida o nomikomu"
     },
     {
       "id": 15,
-      "ruby": "夏[なつ]の静寂[せいじゃく]は",
+      "start": 60.88,
+      "end": 63.11,
+      "rubyText": "夏[なつ]の静寂[せいじゃく]は",
       "translation": "여름의 정적은",
-      "romaji": "natsu no seijaku wa",
-      "startTime": 60.88,
-      "endTime": 63.11
+      "romaji": "natsu no seijaku wa"
     },
     {
       "id": 16,
-      "ruby": "心[こころ]の声[こえ]となり揺[ゆ]れる",
+      "start": 63.11,
+      "end": 67.65,
+      "rubyText": "心[こころ]の声[こえ]となり揺[ゆ]れる",
       "translation": "마음의 목소리가 되어 흔들려",
-      "romaji": "kokoro no koe to nari yureru",
-      "startTime": 63.11,
-      "endTime": 67.65
+      "romaji": "kokoro no koe to nari yureru"
     },
     {
       "id": 17,
-      "ruby": "ただの運命[うんめい]に",
+      "start": 67.65,
+      "end": 69.95,
+      "rubyText": "ただの運命[うんめい]に",
       "translation": "한낱 운명에",
-      "romaji": "tada no unmei ni",
-      "startTime": 67.65,
-      "endTime": 69.95
+      "romaji": "tada no unmei ni"
     },
     {
       "id": 18,
-      "ruby": "歌詞[かし]を投[な]げ出[だ]して",
+      "start": 69.95,
+      "end": 72.26,
+      "rubyText": "歌詞[かし]を投[な]げ出[だ]して",
       "translation": "가사를 내던지고",
-      "romaji": "kashi o nagedashite",
-      "startTime": 69.95,
-      "endTime": 72.26
+      "romaji": "kashi o nagedashite"
     },
     {
       "id": 19,
-      "ruby": "繋[つな]げた言葉[ことば]の絆[きずな]は",
+      "start": 72.26,
+      "end": 76.83,
+      "rubyText": "繋[つな]げた言葉[ことば]の絆[きずな]は",
       "translation": "이어 준 말의 인연은",
-      "romaji": "tsunageta kotoba no kizuna wa",
-      "startTime": 72.26,
-      "endTime": 76.83
+      "romaji": "tsunageta kotoba no kizuna wa"
     },
     {
       "id": 20,
-      "ruby": "儚[はかな]く生[い]きる生[い]きる生[い]きる",
+      "start": 76.83,
+      "end": 81.37,
+      "rubyText": "儚[はかな]く生[い]きる生[い]きる生[い]きる",
       "translation": "덧없이 살아가 살아가 살아가",
-      "romaji": "hakanaku ikiru ikiru ikiru",
-      "startTime": 76.83,
-      "endTime": 81.37
+      "romaji": "hakanaku ikiru ikiru ikiru"
     },
     {
       "id": 21,
-      "ruby": "灯火[ともしび]の向[む]こう側[がわ]へ",
+      "start": 81.37,
+      "end": 83.67,
+      "rubyText": "灯火[ともしび]の向[む]こう側[がわ]へ",
       "translation": "등불의 저편으로",
-      "romaji": "tomoshibi no mukougawa e",
-      "startTime": 81.37,
-      "endTime": 83.67
+      "romaji": "tomoshibi no mukougawa e"
     },
     {
       "id": 22,
-      "ruby": "ずっと探[さが]し物[もの]をしている",
+      "start": 92.84,
+      "end": 97.41,
+      "rubyText": "ずっと探[さが]し物[もの]をしている",
       "translation": "계속해서 찾고 있는",
-      "romaji": "zutto sagashimono o shite iru",
-      "startTime": 92.84,
-      "endTime": 97.41
+      "romaji": "zutto sagashimono o shite iru"
     },
     {
       "id": 23,
-      "ruby": "それは見[み]つかるか分[わ]からない物[もの]だけれど",
+      "start": 97.41,
+      "end": 101.98,
+      "rubyText": "それは見[み]つかるか分[わ]からない物[もの]だけれど",
       "translation": "그건 찾을 수 있을지 모르는 것이지만",
-      "romaji": "sore wa mitsukaru ka wakaranai mono dakedo",
-      "startTime": 97.41,
-      "endTime": 101.98
+      "romaji": "sore wa mitsukaru ka wakaranai mono dakedo"
     },
     {
       "id": 24,
-      "ruby": "僕[ぼく]に意味[いみ]をくれるなら",
+      "start": 101.98,
+      "end": 105.39,
+      "rubyText": "僕[ぼく]に意味[いみ]をくれるなら",
       "translation": "나에게 의미를 준다면",
-      "romaji": "boku ni imi o kureru nara",
-      "startTime": 101.98,
-      "endTime": 105.39
+      "romaji": "boku ni imi o kureru nara"
     },
     {
       "id": 25,
-      "ruby": "どこまで行[い]けるのかと",
+      "start": 105.39,
+      "end": 108.79,
+      "rubyText": "どこまで行[い]けるのかと",
       "translation": "어디까지 갈 수 있냐며",
-      "romaji": "doko made ikeru no ka to",
-      "startTime": 105.39,
-      "endTime": 108.79
+      "romaji": "doko made ikeru no ka to"
     },
     {
       "id": 26,
-      "ruby": "猫[ねこ]の行方[ゆくえ]を知[し]らぬ手足[てあし]",
+      "start": 108.79,
+      "end": 113.46,
+      "rubyText": "猫[ねこ]の行方[ゆくえ]を知[し]らぬ手足[てあし]",
       "translation": "고양이의 행방을 모르는 손발",
-      "romaji": "neko no yukue o shiranu teashi",
-      "startTime": 108.79,
-      "endTime": 113.46
+      "romaji": "neko no yukue o shiranu teashi"
     },
     {
       "id": 27,
-      "ruby": "首[くび]の踪跡[そうせき]を濁[にご]した人間[にんげん]の許[ゆる]せない過[あやま]ちの絵[え]にある笑顔[えがお]を隠[かく]す",
+      "start": 113.46,
+      "end": 120.67,
+      "rubyText": "首[くび]の踪跡[そうせき]を濁[にご]した人間[にんげん]の許[ゆる]せない過[あやま]ちの絵[え]にある笑顔[えがお]を隠[かく]す",
       "translation": "목의 종적을 흐려 버린 인간의 용서 못 할 잘못의 그림에 있는 미소를 감추는",
-      "romaji": "kubi no souseki o nigoshita ningen no yurusenai ayamachi no e ni aru egao o kakusu",
-      "startTime": 113.46,
-      "endTime": 120.67
+      "romaji": "kubi no souseki o nigoshita ningen no yurusenai ayamachi no e ni aru egao o kakusu"
     },
     {
       "id": 28,
-      "ruby": "そんなことどうでもいいからさ歌[うた]って",
+      "start": 120.67,
+      "end": 126.01,
+      "rubyText": "そんなことどうでもいいからさ歌[うた]って",
       "translation": "그런 거 아무래도 좋으니까 노래해",
-      "romaji": "sonna koto dou demo ii kara sa utatte",
-      "startTime": 120.67,
-      "endTime": 126.01
+      "romaji": "sonna koto dou demo ii kara sa utatte"
     },
     {
       "id": 29,
-      "ruby": "花火[はなび]を横目[よこめ]に見[み]てた指先[ゆびさき]は",
+      "start": 126.01,
+      "end": 131.68,
+      "rubyText": "花火[はなび]を横目[よこめ]に見[み]てた指先[ゆびさき]は",
       "translation": "불꽃을 곁눈질로 봤던 그 손끝은",
-      "romaji": "hanabi o yokome ni miteta yubisaki wa",
-      "startTime": 126.01,
-      "endTime": 131.68
+      "romaji": "hanabi o yokome ni miteta yubisaki wa"
     },
     {
       "id": 30,
-      "ruby": "心[こころ]の音[おと]となり揺[ゆ]れる",
+      "start": 131.68,
+      "end": 136.22,
+      "rubyText": "心[こころ]の音[おと]となり揺[ゆ]れる",
       "translation": "마음의 소리가 되어 흔들려",
-      "romaji": "kokoro no oto to nari yureru",
-      "startTime": 131.68,
-      "endTime": 136.22
+      "romaji": "kokoro no oto to nari yureru"
     },
     {
       "id": 31,
-      "ruby": "ただの人生[じんせい]に",
+      "start": 136.22,
+      "end": 138.46,
+      "rubyText": "ただの人生[じんせい]に",
       "translation": "한낱 인생에",
-      "romaji": "tada no jinsei ni",
-      "startTime": 136.22,
-      "endTime": 138.46
+      "romaji": "tada no jinsei ni"
     },
     {
       "id": 32,
-      "ruby": "意味[いみ]を投[な]げ出[だ]して",
+      "start": 138.46,
+      "end": 140.79,
+      "rubyText": "意味[いみ]を投[な]げ出[だ]して",
       "translation": "의미를 내던지고",
-      "romaji": "imi o nagedashite",
-      "startTime": 138.46,
-      "endTime": 140.79
+      "romaji": "imi o nagedashite"
     },
     {
       "id": 33,
-      "ruby": "壊[こわ]れたこの夏[なつ]の記憶[きおく]",
+      "start": 140.79,
+      "end": 145.39,
+      "rubyText": "壊[こわ]れたこの夏[なつ]の記憶[きおく]",
       "translation": "부서진 이 여름의 기억",
-      "romaji": "kowareta kono natsu no kioku",
-      "startTime": 140.79,
-      "endTime": 145.39
+      "romaji": "kowareta kono natsu no kioku"
     },
     {
       "id": 34,
-      "ruby": "虚[むな]しく生[い]きる生[い]きる生[い]きる",
+      "start": 145.39,
+      "end": 149.93,
+      "rubyText": "虚[むな]しく生[い]きる生[い]きる生[い]きる",
       "translation": "허무하게 살아가 살아가 살아가",
-      "romaji": "munashiku ikiru ikiru ikiru",
-      "startTime": 145.39,
-      "endTime": 149.93
+      "romaji": "munashiku ikiru ikiru ikiru"
     },
     {
       "id": 35,
-      "ruby": "記憶[きおく]の奥[おく]深[ふか]くまで",
+      "start": 149.93,
+      "end": 152.2,
+      "rubyText": "記憶[きおく]の奥[おく]深[ふか]くまで",
       "translation": "기억 속 깊은 곳까지",
-      "romaji": "kioku no okufukaku made",
-      "startTime": 149.93,
-      "endTime": 152.2
+      "romaji": "kioku no okufukaku made"
     },
     {
       "id": 36,
-      "ruby": "「もう何[なに]も…」溢[あふ]れる声[こえ]",
+      "start": 170.59,
+      "end": 175.09,
+      "rubyText": "「もう何[なに]も…」溢[あふ]れる声[こえ]",
       "translation": "\"이젠 아무것도…\" 흘러넘친 목소리",
-      "romaji": "\"mou nani mo...\" afureru koe",
-      "startTime": 170.59,
-      "endTime": 175.09
+      "romaji": "\"mou nani mo...\" afureru koe"
     },
     {
       "id": 37,
-      "ruby": "どうするの",
+      "start": 175.09,
+      "end": 177.09,
+      "rubyText": "どうするの",
       "translation": "어떻게 하지",
-      "romaji": "dou suru no",
-      "startTime": 175.09,
-      "endTime": 177.09
+      "romaji": "dou suru no"
     },
     {
       "id": 38,
-      "ruby": "分[わ]かってたけど心地[ここち]が良[よ]くて",
+      "start": 177.09,
+      "end": 179.8,
+      "rubyText": "分[わ]かってたけど心地[ここち]が良[よ]くて",
       "translation": "알고 있었는데도 마음이 편해서",
-      "romaji": "wakatteta kedo kokochi ga yokute",
-      "startTime": 177.09,
-      "endTime": 179.8
+      "romaji": "wakatteta kedo kokochi ga yokute"
     },
     {
       "id": 39,
-      "ruby": "きっと誰[だれ]かのそばに居[い]たくてさ",
+      "start": 179.8,
+      "end": 184.3,
+      "rubyText": "きっと誰[だれ]かのそばに居[い]たくてさ",
       "translation": "분명 누군가의 곁에 있고 싶어서",
-      "romaji": "kitto dareka no soba ni itakute sa",
-      "startTime": 179.8,
-      "endTime": 184.3
+      "romaji": "kitto dareka no soba ni itakute sa"
     },
     {
       "id": 40,
-      "ruby": "泣[な]いてしまえば",
+      "start": 184.3,
+      "end": 186.57,
+      "rubyText": "泣[な]いてしまえば",
       "translation": "울어 버린다면",
-      "romaji": "naite shimaeba",
-      "startTime": 184.3,
-      "endTime": 186.57
+      "romaji": "naite shimaeba"
     },
     {
       "id": 41,
-      "ruby": "「もう何[なに]も…」溢[あふ]れる声[こえ]",
+      "start": 191.18,
+      "end": 195.68,
+      "rubyText": "「もう何[なに]も…」溢[あふ]れる声[こえ]",
       "translation": "\"이젠 아무것도…\" 넘쳐흐른 목소리",
-      "romaji": "\"mou nani mo...\" afureru koe",
-      "startTime": 191.18,
-      "endTime": 195.68
+      "romaji": "\"mou nani mo...\" afureru koe"
     },
     {
       "id": 42,
-      "ruby": "どうしたら思[おも]い出[だ]せるのかな",
+      "start": 195.68,
+      "end": 197.95,
+      "rubyText": "どうしたら思[おも]い出[だ]せるのかな",
       "translation": "어떻게 해야 기억해 낼 수 있을까",
-      "romaji": "dou shitara omoidaseru no ka na",
-      "startTime": 195.68,
-      "endTime": 197.95
+      "romaji": "dou shitara omoidaseru no ka na"
     },
     {
       "id": 43,
-      "ruby": "夏[なつ]のそよ風[かぜ]に投[な]げ出[だ]して",
+      "start": 200.62,
+      "end": 204.92,
+      "rubyText": "夏[なつ]のそよ風[かぜ]に投[な]げ出[だ]して",
       "translation": "여름의 산들바람에 내던지고",
-      "romaji": "natsu no soyokaze ni nagedashite",
-      "startTime": 200.62,
-      "endTime": 204.92
+      "romaji": "natsu no soyokaze ni nagedashite"
     },
     {
       "id": 44,
-      "ruby": "繋[つな]げた言葉[ことば]の絆[きずな]は",
+      "start": 204.92,
+      "end": 209.39,
+      "rubyText": "繋[つな]げた言葉[ことば]の絆[きずな]は",
       "translation": "이어 준 말의 인연은",
-      "romaji": "tsunageta kotoba no kizuna wa",
-      "startTime": 204.92,
-      "endTime": 209.39
+      "romaji": "tsunageta kotoba no kizuna wa"
     },
     {
       "id": 45,
-      "ruby": "儚[はかな]く生[い]きる生[い]きる生[い]きる",
+      "start": 209.39,
+      "end": 213.4,
+      "rubyText": "儚[はかな]く生[い]きる生[い]きる生[い]きる",
       "translation": "덧없이 살아가 살아가 살아가",
-      "romaji": "hakanaku ikiru ikiru ikiru",
-      "startTime": 209.39,
-      "endTime": 213.4
+      "romaji": "hakanaku ikiru ikiru ikiru"
     },
     {
       "id": 46,
-      "ruby": "記憶[きおく]にない笑顔[えがお]の先[さき]へ",
+      "start": 213.4,
+      "end": 220.7,
+      "rubyText": "記憶[きおく]にない笑顔[えがお]の先[さき]へ",
       "translation": "기억에 없는 미소 너머로",
-      "romaji": "kioku ni nai egao no saki e",
-      "startTime": 213.4,
-      "endTime": 220.7
+      "romaji": "kioku ni nai egao no saki e"
     }
   ],
   "kanjiDictionary": {

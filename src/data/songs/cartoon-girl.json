@@ -6,195 +6,195 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "メロディ",
+      "start": 6.32,
+      "end": 7.72,
+      "rubyText": "メロディ",
       "translation": "Melody",
-      "romaji": "merodi",
-      "startTime": 6.32,
-      "endTime": 7.72
+      "romaji": "merodi"
     },
     {
       "id": 2,
-      "ruby": "それは瞬[しゅん]のぬくもりで",
+      "start": 9.17,
+      "end": 12.02,
+      "rubyText": "それは瞬[しゅん]のぬくもりで",
       "translation": "그건 깜박임 같은 잠깐의 온기",
-      "romaji": "sore wa shun no nukumori de",
-      "startTime": 9.17,
-      "endTime": 12.02
+      "romaji": "sore wa shun no nukumori de"
     },
     {
       "id": 3,
-      "ruby": "メロディ",
+      "start": 12.02,
+      "end": 13.45,
+      "rubyText": "メロディ",
       "translation": "Melody",
-      "romaji": "merodi",
-      "startTime": 12.02,
-      "endTime": 13.45
+      "romaji": "merodi"
     },
     {
       "id": 4,
-      "ruby": "食[た]べて吐[は]いて飲[の]み込[こ]んで",
+      "start": 14.9,
+      "end": 18.02,
+      "rubyText": "食[た]べて吐[は]いて飲[の]み込[こ]んで",
       "translation": "먹고 내뱉고 삼켜",
-      "romaji": "tabete haite nomikonde",
-      "startTime": 14.9,
-      "endTime": 18.02
+      "romaji": "tabete haite nomikonde"
     },
     {
       "id": 5,
-      "ruby": "笑味[しょうみ]馬鹿[ばか]みたいに",
+      "start": 18.47,
+      "end": 20.7,
+      "rubyText": "笑味[しょうみ]馬鹿[ばか]みたいに",
       "translation": "실컷 맛봐",
-      "romaji": "shoumi baka mitai ni",
-      "startTime": 18.47,
-      "endTime": 20.7
+      "romaji": "shoumi baka mitai ni"
     },
     {
       "id": 6,
-      "ruby": "甘[あま]く酸[す]っぱいこのケーキ",
+      "start": 20.7,
+      "end": 24.07,
+      "rubyText": "甘[あま]く酸[す]っぱいこのケーキ",
       "translation": "새콤달콤한 이 케이크",
-      "romaji": "amaku suppai kono keeki",
-      "startTime": 20.7,
-      "endTime": 24.07
+      "romaji": "amaku suppai kono keeki"
     },
     {
       "id": 7,
-      "ruby": "今日[きょう]が夢[ゆめ]みたいに",
+      "start": 24.07,
+      "end": 26.43,
+      "rubyText": "今日[きょう]が夢[ゆめ]みたいに",
       "translation": "만약 오늘이 꿈 같은 거였다면",
-      "romaji": "kyou ga yume mitai ni",
-      "startTime": 24.07,
-      "endTime": 26.43
+      "romaji": "kyou ga yume mitai ni"
     },
     {
       "id": 8,
-      "ruby": "なればゾッコン　病[や]みつき　イライラ",
+      "start": 26.43,
+      "end": 29.68,
+      "rubyText": "なればゾッコン　病[や]みつき　イライラ",
       "translation": "너에게 반해 푹 빠져서 초조해질 텐데",
-      "romaji": "nareba zokkon yamitsuki iraira",
-      "startTime": 26.43,
-      "endTime": 29.68
+      "romaji": "nareba zokkon yamitsuki iraira"
     },
     {
       "id": 9,
-      "ruby": "あら！　あらま　ドキドキで",
+      "start": 32.77,
+      "end": 35.77,
+      "rubyText": "あら！　あらま　ドキドキで",
       "translation": "어머! 어머나 두근두근",
-      "romaji": "ara! arama dokidoki de",
-      "startTime": 32.77,
-      "endTime": 35.77
+      "romaji": "ara! arama dokidoki de"
     },
     {
       "id": 10,
-      "ruby": "その心[こころ]は　ラブラブで",
+      "start": 35.77,
+      "end": 38.17,
+      "rubyText": "その心[こころ]は　ラブラブで",
       "translation": "그 속마음은 러브러브",
-      "romaji": "sono kokoro wa raburabu de",
-      "startTime": 35.77,
-      "endTime": 38.17
+      "romaji": "sono kokoro wa raburabu de"
     },
     {
       "id": 11,
-      "ruby": "あら！　あらま　なぞなぞで",
+      "start": 38.47,
+      "end": 41.53,
+      "rubyText": "あら！　あらま　なぞなぞで",
       "translation": "어머! 어머나 수수께끼",
-      "romaji": "ara! arama nazonazo de",
-      "startTime": 38.47,
-      "endTime": 41.53
+      "romaji": "ara! arama nazonazo de"
     },
     {
       "id": 12,
-      "ruby": "ロマンチックなんて勝手[かって]言[い]うんでしょ",
+      "start": 41.53,
+      "end": 44.25,
+      "rubyText": "ロマンチックなんて勝手[かって]言[い]うんでしょ",
       "translation": "네 멋대로 로맨틱하다고 할 거지?",
-      "romaji": "romanchikku nante katte iun desho",
-      "startTime": 41.53,
-      "endTime": 44.25
+      "romaji": "romanchikku nante katte iun desho"
     },
     {
       "id": 13,
-      "ruby": "だからどうか泣[な]かないで",
+      "start": 47.13,
+      "end": 49.68,
+      "rubyText": "だからどうか泣[な]かないで",
       "translation": "그러니 제발 울지 마",
-      "romaji": "dakara douka nakanaide",
-      "startTime": 47.13,
-      "endTime": 49.68
+      "romaji": "dakara douka nakanaide"
     },
     {
       "id": 14,
-      "ruby": "この心[こころ]が真[ま]っ赤[か]だって言[い]うんでしょ",
+      "start": 52.87,
+      "end": 55.34,
+      "rubyText": "この心[こころ]が真[ま]っ赤[か]だって言[い]うんでしょ",
       "translation": "넌 이 마음이 새빨갛다고 할 거지?",
-      "romaji": "kono kokoro ga makka datte iun desho",
-      "startTime": 52.87,
-      "endTime": 55.34
+      "romaji": "kono kokoro ga makka datte iun desho"
     },
     {
       "id": 15,
-      "ruby": "メロディ",
+      "start": 57.2,
+      "end": 58.6,
+      "rubyText": "メロディ",
       "translation": "Melody",
-      "romaji": "merodi",
-      "startTime": 57.2,
-      "endTime": 58.6
+      "romaji": "merodi"
     },
     {
       "id": 16,
-      "ruby": "どこか酸[す]っぱいこのメロディ",
+      "start": 60.03,
+      "end": 61.47,
+      "rubyText": "どこか酸[す]っぱいこのメロディ",
       "translation": "왠지 새콤한 이 Melody",
-      "romaji": "dokoka suppai kono merodi",
-      "startTime": 60.03,
-      "endTime": 61.47
+      "romaji": "dokoka suppai kono merodi"
     },
     {
       "id": 17,
-      "ruby": "メロディ",
+      "start": 62.9,
+      "end": 64.33,
+      "rubyText": "メロディ",
       "translation": "Melody",
-      "romaji": "merodi",
-      "startTime": 62.9,
-      "endTime": 64.33
+      "romaji": "merodi"
     },
     {
       "id": 18,
-      "ruby": "食[た]べて吐[は]いて飲[の]み込[こ]んで",
+      "start": 65.8,
+      "end": 68.01,
+      "rubyText": "食[た]べて吐[は]いて飲[の]み込[こ]んで",
       "translation": "먹고 내뱉고 삼켜",
-      "romaji": "tabete haite nomikonde",
-      "startTime": 65.8,
-      "endTime": 68.01
+      "romaji": "tabete haite nomikonde"
     },
     {
       "id": 19,
-      "ruby": "あら！　あらま　ドキドキで",
+      "start": 74.47,
+      "end": 77.47,
+      "rubyText": "あら！　あらま　ドキドキで",
       "translation": "어머! 어머나 두근두근",
-      "romaji": "ara! arama dokidoki de",
-      "startTime": 74.47,
-      "endTime": 77.47
+      "romaji": "ara! arama dokidoki de"
     },
     {
       "id": 20,
-      "ruby": "その心[こころ]は　ラブラブで",
+      "start": 77.47,
+      "end": 80.2,
+      "rubyText": "その心[こころ]は　ラブラブで",
       "translation": "그 속마음은 러브러브",
-      "romaji": "sono kokoro wa raburabu de",
-      "startTime": 77.47,
-      "endTime": 80.2
+      "romaji": "sono kokoro wa raburabu de"
     },
     {
       "id": 21,
-      "ruby": "あら！　あらま　なぞなぞで",
+      "start": 80.2,
+      "end": 83.2,
+      "rubyText": "あら！　あらま　なぞなぞで",
       "translation": "어머! 어머나 수수께끼",
-      "romaji": "ara! arama nazonazo de",
-      "startTime": 80.2,
-      "endTime": 83.2
+      "romaji": "ara! arama nazonazo de"
     },
     {
       "id": 22,
-      "ruby": "ロマンチックなんて勝手[かって]言[い]うんでしょ",
+      "start": 83.2,
+      "end": 85.93,
+      "rubyText": "ロマンチックなんて勝手[かって]言[い]うんでしょ",
       "translation": "네 멋대로 로맨틱하다고 할 거지?",
-      "romaji": "romanchikku nante katte iun desho",
-      "startTime": 83.2,
-      "endTime": 85.93
+      "romaji": "romanchikku nante katte iun desho"
     },
     {
       "id": 23,
-      "ruby": "だからどうか泣[な]かないで",
+      "start": 88.8,
+      "end": 91.35,
+      "rubyText": "だからどうか泣[な]かないで",
       "translation": "그러니 제발 울지 마",
-      "romaji": "dakara douka nakanaide",
-      "startTime": 88.8,
-      "endTime": 91.35
+      "romaji": "dakara douka nakanaide"
     },
     {
       "id": 24,
-      "ruby": "この心[こころ]が真[ま]っ赤[か]だって言[い]うんでしょ",
+      "start": 94.54,
+      "end": 97.01,
+      "rubyText": "この心[こころ]が真[ま]っ赤[か]だって言[い]うんでしょ",
       "translation": "넌 이 마음이 새빨갛다고 할 거지?",
-      "romaji": "kono kokoro ga makka datte iun desho",
-      "startTime": 94.54,
-      "endTime": 97.01
+      "romaji": "kono kokoro ga makka datte iun desho"
     }
   ],
   "kanjiDictionary": {

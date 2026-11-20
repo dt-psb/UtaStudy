@@ -6,451 +6,451 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "目撃[もくげき]！テト31世[せい]",
+      "start": 3.34,
+      "end": 5.36,
+      "rubyText": "目撃[もくげき]！テト31世[せい]",
       "translation": "목격! 테토 31세",
-      "romaji": "mokugeki! teto sanjuu-issei",
-      "startTime": 3.34,
-      "endTime": 5.36
+      "romaji": "mokugeki! teto sanjuu-issei"
     },
     {
       "id": 2,
-      "ruby": "君[きみ]の一番[いちばん] かわいいところな～んだ？",
+      "start": 6.57,
+      "end": 11.32,
+      "rubyText": "君[きみ]の一番[いちばん] かわいいところな～んだ？",
       "translation": "너의 가장 귀여운 부분은 뭘까~?",
-      "romaji": "kimi no ichiban kawaii tokoro na~nda?",
-      "startTime": 6.57,
-      "endTime": 11.32
+      "romaji": "kimi no ichiban kawaii tokoro na~nda?"
     },
     {
       "id": 3,
-      "ruby": "（かかと？）",
+      "start": 11.32,
+      "end": 12.69,
+      "rubyText": "（かかと？）",
       "translation": "뒤꿈치?",
-      "romaji": "(kakato?)",
-      "startTime": 11.32,
-      "endTime": 12.69
+      "romaji": "(kakato?)"
     },
     {
       "id": 4,
-      "ruby": "撃[う]ち抜[ぬ]かれたり 飛[と]び出[で]ちゃうものな～んだ？",
+      "start": 12.69,
+      "end": 17.54,
+      "rubyText": "撃[う]ち抜[ぬ]かれたり 飛[と]び出[で]ちゃうものな～んだ？",
       "translation": "맞출 수도 있고 튀어나오기도 하는 건 뭘까~?",
-      "romaji": "uchinukaretari tobidechau mono na~nda?",
-      "startTime": 12.69,
-      "endTime": 17.54
+      "romaji": "uchinukaretari tobidechau mono na~nda?"
     },
     {
       "id": 5,
-      "ruby": "（ハート？）",
+      "start": 17.54,
+      "end": 18.54,
+      "rubyText": "（ハート？）",
       "translation": "하트?",
-      "romaji": "(haato?)",
-      "startTime": 17.54,
-      "endTime": 18.54
+      "romaji": "(haato?)"
     },
     {
       "id": 6,
-      "ruby": "大[おお]きくなると 固[かた]くなるものな～んだ？",
+      "start": 18.54,
+      "end": 23.75,
+      "rubyText": "大[おお]きくなると 固[かた]くなるものな～んだ？",
       "translation": "커지면 단단해지는 건 뭘까~?",
-      "romaji": "ookiku naruto kataku naru mono na~nda?",
-      "startTime": 18.54,
-      "endTime": 23.75
+      "romaji": "ookiku naruto kataku naru mono na~nda?"
     },
     {
       "id": 7,
-      "ruby": "（あー...）",
+      "start": 23.75,
+      "end": 24.76,
+      "rubyText": "（あー...）",
       "translation": "어...",
-      "romaji": "(aa...)",
-      "startTime": 23.75,
-      "endTime": 24.76
+      "romaji": "(aa...)"
     },
     {
       "id": 8,
-      "ruby": "君[きみ]が一番[いちばん] ドキドキするの",
+      "start": 24.76,
+      "end": 27.49,
+      "rubyText": "君[きみ]が一番[いちばん] ドキドキするの",
       "translation": "너가 가장 두근두근해 하는 사람은",
-      "romaji": "kimi ga ichiban dokidoki suru no",
-      "startTime": 24.76,
-      "endTime": 27.49
+      "romaji": "kimi ga ichiban dokidoki suru no"
     },
     {
       "id": 9,
-      "ruby": "だ～れ～だ！！！",
+      "start": 27.49,
+      "end": 30.11,
+      "rubyText": "だ～れ～だ！！！",
       "translation": "누~굴~까~?",
-      "romaji": "da~re~da!!!",
-      "startTime": 27.49,
-      "endTime": 30.11
+      "romaji": "da~re~da!!!"
     },
     {
       "id": 10,
-      "ruby": "ボクのことでしょ？",
+      "start": 30.63,
+      "end": 32.27,
+      "rubyText": "ボクのことでしょ？",
       "translation": "당연히 나지?",
-      "romaji": "boku no koto desho?",
-      "startTime": 30.63,
-      "endTime": 32.27
+      "romaji": "boku no koto desho?"
     },
     {
       "id": 11,
-      "ruby": "（違[ちが]うがー？）",
+      "start": 32.27,
+      "end": 33.47,
+      "rubyText": "（違[ちが]うがー？）",
       "translation": "아닌데~?",
-      "romaji": "(chigau gaa?)",
-      "startTime": 32.27,
-      "endTime": 33.47
+      "romaji": "(chigau gaa?)"
     },
     {
       "id": 12,
-      "ruby": "PARTY PARTY PARTY PARTY",
+      "start": 33.47,
+      "end": 34.98,
+      "rubyText": "PARTY PARTY PARTY PARTY",
       "translation": "PARTY PARTY PARTY PARTY",
-      "romaji": "PARTY PARTY PARTY PARTY",
-      "startTime": 33.47,
-      "endTime": 34.98
+      "romaji": "PARTY PARTY PARTY PARTY"
     },
     {
       "id": 13,
-      "ruby": "Today is the 31st",
+      "start": 34.98,
+      "end": 36.59,
+      "rubyText": "Today is the 31st",
       "translation": "Today is the 31st",
-      "romaji": "Today is the 31st",
-      "startTime": 34.98,
-      "endTime": 36.59
+      "romaji": "Today is the 31st"
     },
     {
       "id": 14,
-      "ruby": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
+      "start": 36.59,
+      "end": 37.99,
+      "rubyText": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
       "translation": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
-      "romaji": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
-      "startTime": 36.59,
-      "endTime": 37.99
+      "romaji": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN"
     },
     {
       "id": 15,
-      "ruby": "Teto is 31",
+      "start": 37.99,
+      "end": 39.57,
+      "rubyText": "Teto is 31",
       "translation": "Teto is 31",
-      "romaji": "Teto is 31",
-      "startTime": 37.99,
-      "endTime": 39.57
+      "romaji": "Teto is 31"
     },
     {
       "id": 16,
-      "ruby": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
+      "start": 39.57,
+      "end": 41.01,
+      "rubyText": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
       "translation": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
-      "romaji": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
-      "startTime": 39.57,
-      "endTime": 41.01
+      "romaji": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE"
     },
     {
       "id": 17,
-      "ruby": "Today is the 31st",
+      "start": 41.01,
+      "end": 42.49,
+      "rubyText": "Today is the 31st",
       "translation": "Today is the 31st",
-      "romaji": "Today is the 31st",
-      "startTime": 41.01,
-      "endTime": 42.49
+      "romaji": "Today is the 31st"
     },
     {
       "id": 18,
-      "ruby": "英語[えいご]じゃ何[なに]言[い]ってっか わかんない!!",
+      "start": 42.49,
+      "end": 45.52,
+      "rubyText": "英語[えいご]じゃ何[なに]言[い]ってっか わかんない!!",
       "translation": "영어로 뭐라고 말하는 건지 모르겠어!!",
-      "romaji": "eigo ja nani ittekka wakannai!!",
-      "startTime": 42.49,
-      "endTime": 45.52
+      "romaji": "eigo ja nani ittekka wakannai!!"
     },
     {
       "id": 19,
-      "ruby": "PARTY PARTY PARTY PARTY",
+      "start": 45.52,
+      "end": 47.02,
+      "rubyText": "PARTY PARTY PARTY PARTY",
       "translation": "PARTY PARTY PARTY PARTY",
-      "romaji": "PARTY PARTY PARTY PARTY",
-      "startTime": 45.52,
-      "endTime": 47.02
+      "romaji": "PARTY PARTY PARTY PARTY"
     },
     {
       "id": 20,
-      "ruby": "無責任[むせきにん]だけど！",
+      "start": 47.02,
+      "end": 48.5,
+      "rubyText": "無責任[むせきにん]だけど！",
       "translation": "무책임하더라도",
-      "romaji": "musekinin dakedo!",
-      "startTime": 47.02,
-      "endTime": 48.5
+      "romaji": "musekinin dakedo!"
     },
     {
       "id": 21,
-      "ruby": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
+      "start": 48.5,
+      "end": 49.98,
+      "rubyText": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
       "translation": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
-      "romaji": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
-      "startTime": 48.5,
-      "endTime": 49.98
+      "romaji": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN"
     },
     {
       "id": 22,
-      "ruby": "奪[うば]ったげるわ",
+      "start": 49.98,
+      "end": 51.51,
+      "rubyText": "奪[うば]ったげるわ",
       "translation": "빼앗아 주겠어",
-      "romaji": "ubattageru wa",
-      "startTime": 49.98,
-      "endTime": 51.51
+      "romaji": "ubattageru wa"
     },
     {
       "id": 23,
-      "ruby": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
+      "start": 51.51,
+      "end": 53.0,
+      "rubyText": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
       "translation": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
-      "romaji": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
-      "startTime": 51.51,
-      "endTime": 53.0
+      "romaji": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE"
     },
     {
       "id": 24,
-      "ruby": "痛[いた]くしないから",
+      "start": 53.0,
+      "end": 54.51,
+      "rubyText": "痛[いた]くしないから",
       "translation": "아프지 않을 테니까",
-      "romaji": "itaku shinai kara",
-      "startTime": 53.0,
-      "endTime": 54.51
+      "romaji": "itaku shinai kara"
     },
     {
       "id": 25,
-      "ruby": "初[はじ]めて ボクが奪[うば]ったげるわ",
+      "start": 54.51,
+      "end": 58.62,
+      "rubyText": "初[はじ]めて ボクが奪[うば]ったげるわ",
       "translation": "처음으로 내가 빼앗아 줄거야",
-      "romaji": "hajimete boku ga ubattageru wa",
-      "startTime": 54.51,
-      "endTime": 58.62
+      "romaji": "hajimete boku ga ubattageru wa"
     },
     {
       "id": 26,
-      "ruby": "幼子[おさなご]のみんなへ",
+      "start": 59.45,
+      "end": 60.84,
+      "rubyText": "幼子[おさなご]のみんなへ",
       "translation": "착한 어린이들 모두에게",
-      "romaji": "osanago no minna e",
-      "startTime": 59.45,
-      "endTime": 60.84
+      "romaji": "osanago no minna e"
     },
     {
       "id": 27,
-      "ruby": "今[いま]からボクは、お前[まえ]らの･････お宝[たから]をいただくに参上[さんじょう]します！",
+      "start": 60.84,
+      "end": 65.7,
+      "rubyText": "今[いま]からボクは、お前[まえ]らの･････お宝[たから]をいただくに参上[さんじょう]します！",
       "translation": "지금부터 저는, 여러분의 보물을 받으러 가겠습니다!",
-      "romaji": "ima kara boku wa, omaera no..... otakara o itadaku ni sanjou shimasu!",
-      "startTime": 60.84,
-      "endTime": 65.7
+      "romaji": "ima kara boku wa, omaera no..... otakara o itadaku ni sanjou shimasu!"
     },
     {
       "id": 28,
-      "ruby": "from テト31世[せい]",
+      "start": 65.7,
+      "end": 67.86,
+      "rubyText": "from テト31世[せい]",
       "translation": "from 테토 31세",
-      "romaji": "from teto sanjuu-issei",
-      "startTime": 65.7,
-      "endTime": 67.86
+      "romaji": "from teto sanjuu-issei"
     },
     {
       "id": 29,
-      "ruby": "p.s.",
+      "start": 68.36,
+      "end": 69.36,
+      "rubyText": "p.s.",
       "translation": "p.s.",
-      "romaji": "p.s.",
-      "startTime": 68.36,
-      "endTime": 69.36
+      "romaji": "p.s."
     },
     {
       "id": 30,
-      "ruby": "ちなみにボクは、",
+      "start": 69.36,
+      "end": 71.19,
+      "rubyText": "ちなみにボクは、",
       "translation": "참고로 저는~ · · ·",
-      "romaji": "chinamini boku wa,",
-      "startTime": 69.36,
-      "endTime": 71.19
+      "romaji": "chinamini boku wa,"
     },
     {
       "id": 31,
-      "ruby": "名画[めいが]も秘宝[ひほう]も、絶対[ぜったい]奪[うば]ったりなんてしないんだからね？",
+      "start": 71.19,
+      "end": 75.42,
+      "rubyText": "名画[めいが]も秘宝[ひほう]も、絶対[ぜったい]奪[うば]ったりなんてしないんだからね？",
       "translation": "명화도 보물도, 절~~대 빼앗거나 하지 않을 거라구요?",
-      "romaji": "meiga mo hihou mo, zettai ubattari nante shinain dakara ne?",
-      "startTime": 71.19,
-      "endTime": 75.42
+      "romaji": "meiga mo hihou mo, zettai ubattari nante shinain dakara ne?"
     },
     {
       "id": 32,
-      "ruby": "ほ、本当[ほんとう]だよ？",
+      "start": 75.42,
+      "end": 77.09,
+      "rubyText": "ほ、本当[ほんとう]だよ？",
       "translation": "…저, 정말이라구",
-      "romaji": "ho, hontou da yo?",
-      "startTime": 75.42,
-      "endTime": 77.09
+      "romaji": "ho, hontou da yo?"
     },
     {
       "id": 33,
-      "ruby": "あー...",
+      "start": 77.09,
+      "end": 78.04,
+      "rubyText": "あー...",
       "translation": "아 그리고,",
-      "romaji": "aa...",
-      "startTime": 77.09,
-      "endTime": 78.04
+      "romaji": "aa..."
     },
     {
       "id": 34,
-      "ruby": "最後[さいご]にひとこと...",
+      "start": 78.04,
+      "end": 79.27,
+      "rubyText": "最後[さいご]にひとこと...",
       "translation": "마지막으로 한마디...",
-      "romaji": "saigo ni hitokoto...",
-      "startTime": 78.04,
-      "endTime": 79.27
+      "romaji": "saigo ni hitokoto..."
     },
     {
       "id": 35,
-      "ruby": "ういちゃんにどうしても伝[つた]えたいことがあるんだ",
+      "start": 79.27,
+      "end": 82.98,
+      "rubyText": "ういちゃんにどうしても伝[つた]えたいことがあるんだ",
       "translation": "우이한테 꼭 전하고 싶은 말이 있어",
-      "romaji": "ui-chan ni doushitemo tsutaetai koto ga arun da",
-      "startTime": 79.27,
-      "endTime": 82.98
+      "romaji": "ui-chan ni doushitemo tsutaetai koto ga arun da"
     },
     {
       "id": 36,
-      "ruby": "おかしなこと言[い]ってもいい？",
+      "start": 82.98,
+      "end": 84.49,
+      "rubyText": "おかしなこと言[い]ってもいい？",
       "translation": "이상한 소리 해도 돼?",
-      "romaji": "okashina koto ittemo ii?",
-      "startTime": 82.98,
-      "endTime": 84.49
+      "romaji": "okashina koto ittemo ii?"
     },
     {
       "id": 37,
-      "ruby": "ボクと結婚[けっこん]してくれ！",
+      "start": 84.49,
+      "end": 86.06,
+      "rubyText": "ボクと結婚[けっこん]してくれ！",
       "translation": "나랑 결혼해 줘!",
-      "romaji": "boku to kekkon shite kure!",
-      "startTime": 84.49,
-      "endTime": 86.06
+      "romaji": "boku to kekkon shite kure!"
     },
     {
       "id": 38,
-      "ruby": "お前[まえ]と結婚[けっこん]するわけないだろがっ！？",
+      "start": 86.06,
+      "end": 88.99,
+      "rubyText": "お前[まえ]と結婚[けっこん]するわけないだろがっ！？",
       "translation": "너랑 결혼할 리가 없잖아!?",
-      "romaji": "omae to kekkon suru wake nai daro gaa!?",
-      "startTime": 86.06,
-      "endTime": 88.99
+      "romaji": "omae to kekkon suru wake nai daro gaa!?"
     },
     {
       "id": 39,
-      "ruby": "（ぬあああああ！）",
+      "start": 88.99,
+      "end": 90.5,
+      "rubyText": "（ぬあああああ！）",
       "translation": "크아아아아아아아아아악!",
-      "romaji": "(nuaaaaaa!)",
-      "startTime": 88.99,
-      "endTime": 90.5
+      "romaji": "(nuaaaaaa!)"
     },
     {
       "id": 40,
-      "ruby": "PARTY PARTY PARTY PARTY",
+      "start": 92.02,
+      "end": 93.56,
+      "rubyText": "PARTY PARTY PARTY PARTY",
       "translation": "PARTY PARTY PARTY PARTY",
-      "romaji": "PARTY PARTY PARTY PARTY",
-      "startTime": 92.02,
-      "endTime": 93.56
+      "romaji": "PARTY PARTY PARTY PARTY"
     },
     {
       "id": 41,
-      "ruby": "Today is the 31st",
+      "start": 93.56,
+      "end": 95.0,
+      "rubyText": "Today is the 31st",
       "translation": "Today is the 31st",
-      "romaji": "Today is the 31st",
-      "startTime": 93.56,
-      "endTime": 95.0
+      "romaji": "Today is the 31st"
     },
     {
       "id": 42,
-      "ruby": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
+      "start": 95.0,
+      "end": 96.6,
+      "rubyText": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
       "translation": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
-      "romaji": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
-      "startTime": 95.0,
-      "endTime": 96.6
+      "romaji": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN"
     },
     {
       "id": 43,
-      "ruby": "Teto is 31",
+      "start": 96.6,
+      "end": 98.0,
+      "rubyText": "Teto is 31",
       "translation": "Teto is 31",
-      "romaji": "Teto is 31",
-      "startTime": 96.6,
-      "endTime": 98.0
+      "romaji": "Teto is 31"
     },
     {
       "id": 44,
-      "ruby": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
+      "start": 98.0,
+      "end": 99.56,
+      "rubyText": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
       "translation": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
-      "romaji": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
-      "startTime": 98.0,
-      "endTime": 99.56
+      "romaji": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE"
     },
     {
       "id": 45,
-      "ruby": "Today is the 31st",
+      "start": 99.56,
+      "end": 101.0,
+      "rubyText": "Today is the 31st",
       "translation": "Today is the 31st",
-      "romaji": "Today is the 31st",
-      "startTime": 99.56,
-      "endTime": 101.0
+      "romaji": "Today is the 31st"
     },
     {
       "id": 46,
-      "ruby": "（CANDY CANDY COOKIE COOKIE） チョコレート！",
+      "start": 101.0,
+      "end": 103.99,
+      "rubyText": "（CANDY CANDY COOKIE COOKIE） チョコレート！",
       "translation": "CANDY CANDY COOKIE COOKIE CHOCOLATE",
-      "romaji": "(CANDY CANDY COOKIE COOKIE) chokoreeto!",
-      "startTime": 101.0,
-      "endTime": 103.99
+      "romaji": "(CANDY CANDY COOKIE COOKIE) chokoreeto!"
     },
     {
       "id": 47,
-      "ruby": "PARTY PARTY PARTY PARTY",
+      "start": 103.99,
+      "end": 105.49,
+      "rubyText": "PARTY PARTY PARTY PARTY",
       "translation": "PARTY PARTY PARTY PARTY",
-      "romaji": "PARTY PARTY PARTY PARTY",
-      "startTime": 103.99,
-      "endTime": 105.49
+      "romaji": "PARTY PARTY PARTY PARTY"
     },
     {
       "id": 48,
-      "ruby": "無責任[むせきにん]なのは",
+      "start": 105.49,
+      "end": 107.01,
+      "rubyText": "無責任[むせきにん]なのは",
       "translation": "무책임한 건",
-      "romaji": "musekinin na no wa",
-      "startTime": 105.49,
-      "endTime": 107.01
+      "romaji": "musekinin na no wa"
     },
     {
       "id": 49,
-      "ruby": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
+      "start": 107.01,
+      "end": 108.5,
+      "rubyText": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
       "translation": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
-      "romaji": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN",
-      "startTime": 107.01,
-      "endTime": 108.5
+      "romaji": "PUMPKIN PUMPKIN PUMPKIN PUMPKIN"
     },
     {
       "id": 50,
-      "ruby": "ボクじゃないわ",
+      "start": 108.5,
+      "end": 110.02,
+      "rubyText": "ボクじゃないわ",
       "translation": "내가 아니야!",
-      "romaji": "boku ja nai wa",
-      "startTime": 108.5,
-      "endTime": 110.02
+      "romaji": "boku ja nai wa"
     },
     {
       "id": 51,
-      "ruby": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
+      "start": 110.02,
+      "end": 111.5,
+      "rubyText": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
       "translation": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
-      "romaji": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE",
-      "startTime": 110.02,
-      "endTime": 111.5
+      "romaji": "ZOMBIE ZOMBIE ZOMBIE ZOMBIE"
     },
     {
       "id": 52,
-      "ruby": "勘違[かんちが]いしないで",
+      "start": 111.5,
+      "end": 113.0,
+      "rubyText": "勘違[かんちが]いしないで",
       "translation": "착각하지 말아줘",
-      "romaji": "kanchigai shinaide",
-      "startTime": 111.5,
-      "endTime": 113.0
+      "romaji": "kanchigai shinaide"
     },
     {
       "id": 53,
-      "ruby": "君[きみ]たちぃ？ ボクが奪[うば]ったげるわ",
+      "start": 113.0,
+      "end": 118.64,
+      "rubyText": "君[きみ]たちぃ？ ボクが奪[うば]ったげるわ",
       "translation": "너희들 내가 빼앗아 줄 거야",
-      "romaji": "kimitachii? boku ga ubattageru wa",
-      "startTime": 113.0,
-      "endTime": 118.64
+      "romaji": "kimitachii? boku ga ubattageru wa"
     },
     {
       "id": 54,
-      "ruby": "捕[つか]まえらえるものなら",
+      "start": 124.95,
+      "end": 128.01,
+      "rubyText": "捕[つか]まえらえるものなら",
       "translation": "어디 한번 잡을 수 있다면",
-      "romaji": "tsukamaeraeru mono nara",
-      "startTime": 124.95,
-      "endTime": 128.01
+      "romaji": "tsukamaeraeru mono nara"
     },
     {
       "id": 55,
-      "ruby": "ららえるものなら ららえるものなら",
+      "start": 128.01,
+      "end": 130.99,
+      "rubyText": "ららえるものなら ららえるものなら",
       "translation": "잡을 수 있다면",
-      "romaji": "raraeru mono nara raraeru mono nara",
-      "startTime": 128.01,
-      "endTime": 130.99
+      "romaji": "raraeru mono nara raraeru mono nara"
     },
     {
       "id": 56,
-      "ruby": "捕[つか]まえてみろよ！",
+      "start": 130.99,
+      "end": 134.38,
+      "rubyText": "捕[つか]まえてみろよ！",
       "translation": "한번 잡아보라구!",
-      "romaji": "tsukamaete miro yo!",
-      "startTime": 130.99,
-      "endTime": 134.38
+      "romaji": "tsukamaete miro yo!"
     }
   ],
   "kanjiDictionary": {

@@ -24,6 +24,9 @@ export interface LyricLine {
   rubyText: string; // 인라인 루비 문법: "沈[しず]むように溶[と]けてゆくように"
   translation: string; // 한국어 번역
   romaji?: string;
+  startTime?: number;
+  endTime?: number;
+  ruby?: string;
 }
 
 export interface Song {

@@ -6,323 +6,323 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "ねぇねぇ　もうどーなったって　イイんじゃないの？\nAhh Oh!",
+      "start": 0.0,
+      "end": 4.05,
+      "rubyText": "ねぇねぇ　もうどーなったって　イイんじゃないの？\nAhh Oh!",
       "translation": "어이, 어이, 이제 어떻게 되든 상관없지 않아?\n아아, 오!",
-      "romaji": "nee nee mou dou nattatte ii n ja nai no? / Ahh Oh!",
-      "startTime": 0.0,
-      "endTime": 4.05
+      "romaji": "nee nee mou dou nattatte ii n ja nai no? / Ahh Oh!"
     },
     {
       "id": 2,
-      "ruby": "あー　もうつまんないな　僕[ぼく]らの人生[じんせい]は\n誰[だれ]かが船頭[せんどう]で　ゆらゆら　動[うご]いてんだ",
+      "start": 17.47,
+      "end": 24.67,
+      "rubyText": "あー　もうつまんないな　僕[ぼく]らの人生[じんせい]は\n誰[だれ]かが船頭[せんどう]で　ゆらゆら　動[うご]いてんだ",
       "translation": "아아, 정말 지루하네. 우리 인생은\n누군가가 배를 이끌고 흔들리며 움직이고 있잖아",
-      "romaji": "aa mou tsumannai na bokura no jinsei wa / dareka ga sendou de yurayura ugoiten da",
-      "startTime": 17.47,
-      "endTime": 24.67
+      "romaji": "aa mou tsumannai na bokura no jinsei wa / dareka ga sendou de yurayura ugoiten da"
     },
     {
       "id": 3,
-      "ruby": "そんなの　良[い]いんですか？",
+      "start": 24.67,
+      "end": 26.0,
+      "rubyText": "そんなの　良[い]いんですか？",
       "translation": "그런 게 괜찮은 건가요?",
-      "romaji": "sonna no ii n desu ka?",
-      "startTime": 24.67,
-      "endTime": 26.0
+      "romaji": "sonna no ii n desu ka?"
     },
     {
       "id": 4,
-      "ruby": "後悔[こうかい]ない航海[こうかい]を　進[すす]んで行[い]ったって\n終[お]わりに言[い]えるか？",
+      "start": 26.0,
+      "end": 31.12,
+      "rubyText": "後悔[こうかい]ない航海[こうかい]を　進[すす]んで行[い]ったって\n終[お]わりに言[い]えるか？",
       "translation": "후회 없는 항해를 계속해 나갔다고\n끝에 말할 수 있을까?",
-      "romaji": "koukai nai koukai wo susunde ittatte / owari ni ieru ka?",
-      "startTime": 26.0,
-      "endTime": 31.12
+      "romaji": "koukai nai koukai wo susunde ittatte / owari ni ieru ka?"
     },
     {
       "id": 5,
-      "ruby": "いっせー　Noだ　待[ま]った\nそんなのつまんないぜ",
+      "start": 31.12,
+      "end": 34.39,
+      "rubyText": "いっせー　Noだ　待[ま]った\nそんなのつまんないぜ",
       "translation": "일제히, 아니야, 기다려\n그런 건 재미없어",
-      "romaji": "issee No da matta / sonna no tsumannai ze",
-      "startTime": 31.12,
-      "endTime": 34.39
+      "romaji": "issee No da matta / sonna no tsumannai ze"
     },
     {
       "id": 6,
-      "ruby": "失敗[しっぱい]だってOK そもそも正解[せいかい]ない",
+      "start": 34.39,
+      "end": 37.58,
+      "rubyText": "失敗[しっぱい]だってOK そもそも正解[せいかい]ない",
       "translation": "실패라도 괜찮아. 원래 정답은 없으니까",
-      "romaji": "shippai datte OK somosomo seikai nai",
-      "startTime": 34.39,
-      "endTime": 37.58
+      "romaji": "shippai datte OK somosomo seikai nai"
     },
     {
       "id": 7,
-      "ruby": "楽[たの]しんで行[い]こうぜ　この今[いま]一瞬[いっしゅん]を",
+      "start": 37.58,
+      "end": 40.97,
+      "rubyText": "楽[たの]しんで行[い]こうぜ　この今[いま]一瞬[いっしゅん]を",
       "translation": "이 순간을 즐기며 나아가자",
-      "romaji": "tanoshinde ikou ze kono ima isshun wo",
-      "startTime": 37.58,
-      "endTime": 40.97
+      "romaji": "tanoshinde ikou ze kono ima isshun wo"
     },
     {
       "id": 8,
-      "ruby": "未完成[みかんせい]上等[じょうとう]ね",
+      "start": 40.97,
+      "end": 44.05,
+      "rubyText": "未完成[みかんせい]上等[じょうとう]ね",
       "translation": "미완성이 최고네요",
-      "romaji": "mikansei joutou ne",
-      "startTime": 40.97,
-      "endTime": 44.05
+      "romaji": "mikansei joutou ne"
     },
     {
       "id": 9,
-      "ruby": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 44.05,
+      "end": 48.09,
+      "rubyText": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 44.05,
-      "endTime": 48.09
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 10,
-      "ruby": "酸[す]いも甘[あま]いも　全部[ぜんぶ]　全部[ぜんぶ]\n持[も]ってけ 絶頂[ぜっちょう]先[さき]",
+      "start": 48.09,
+      "end": 51.17,
+      "rubyText": "酸[す]いも甘[あま]いも　全部[ぜんぶ]　全部[ぜんぶ]\n持[も]ってけ 絶頂[ぜっちょう]先[さき]",
       "translation": "쓴 것도 달콤한 것도 모두, 모두\n가져가라, 정점으로",
-      "romaji": "sui mo amai mo zenbu zenbu / motteke zecchou saki",
-      "startTime": 48.09,
-      "endTime": 51.17
+      "romaji": "sui mo amai mo zenbu zenbu / motteke zecchou saki"
     },
     {
       "id": 11,
-      "ruby": "ねぇ　もう\nDo not tap イイじゃん\nDo not tap イイじゃん！",
+      "start": 51.17,
+      "end": 54.77,
+      "rubyText": "ねぇ　もう\nDo not tap イイじゃん\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan / Do not tap ii jan!",
-      "startTime": 51.17,
-      "endTime": 54.77
+      "romaji": "nee mou / Do not tap ii jan / Do not tap ii jan!"
     },
     {
       "id": 12,
-      "ruby": "正論[せいろん]ばっか　説[と]いてないで\n乗[の]り込[こ]め　1 2 3",
+      "start": 54.77,
+      "end": 57.92,
+      "rubyText": "正論[せいろん]ばっか　説[と]いてないで\n乗[の]り込[こ]め　1 2 3",
       "translation": "정론만 늘어놓지 마라\n뛰어들라 1 2 3",
-      "romaji": "seiron bakka toitenaide / norikome 1 2 3",
-      "startTime": 54.77,
-      "endTime": 57.92
+      "romaji": "seiron bakka toitenaide / norikome 1 2 3"
     },
     {
       "id": 13,
-      "ruby": "真[ま]っ煌[きら]な　虹[にじ]の泥舟[どろぶね]漕[こ]ぎ出[だ]して\n真[ま]っ暗[くら]な　航路[みち]なき未知[みち]を切[き]り開[ひら]け",
+      "start": 57.92,
+      "end": 64.77,
+      "rubyText": "真[ま]っ煌[きら]な　虹[にじ]の泥舟[どろぶね]漕[こ]ぎ出[だ]して\n真[ま]っ暗[くら]な　航路[みち]なき未知[みち]を切[き]り開[ひら]け",
       "translation": "눈부신 무지개의 진흙배를 저어 나가라\n어두운 길 없는 미지의 세계를 개척하라",
-      "romaji": "makkira na niji no dorobune kogidashite / makkura na michi naki michi wo kirihirake",
-      "startTime": 57.92,
-      "endTime": 64.77
+      "romaji": "makkira na niji no dorobune kogidashite / makkura na michi naki michi wo kirihirake"
     },
     {
       "id": 14,
-      "ruby": "ねえ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 64.77,
+      "end": 68.62,
+      "rubyText": "ねえ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 64.77,
-      "endTime": 68.62
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 15,
-      "ruby": "激情[げきじょう]　抱[いだ]いて　越[こ]えて行[い]こうぜ\n勝鬨[かちどき]　One up time  Ahh Oh!",
+      "start": 68.62,
+      "end": 72.61,
+      "rubyText": "激情[げきじょう]　抱[いだ]いて　越[こ]えて行[い]こうぜ\n勝鬨[かちどき]　One up time  Ahh Oh!",
       "translation": "열정을 품고 넘어 가자!\n승리의 함성을 지르며 성장하는 순간이다! Ahh Oh!",
-      "romaji": "gekijou idaite koete ikou ze / kachidoki One up time Ahh Oh!",
-      "startTime": 68.62,
-      "endTime": 72.61
+      "romaji": "gekijou idaite koete ikou ze / kachidoki One up time Ahh Oh!"
     },
     {
       "id": 16,
-      "ruby": "あーもう　くだらないな\nムリだ　ダメ　出来[でき]っこないさ",
+      "start": 85.95,
+      "end": 89.52,
+      "rubyText": "あーもう　くだらないな\nムリだ　ダメ　出来[でき]っこないさ",
       "translation": "아, 정말 지겨워.\n안 돼, 안 돼, 절대 안 될 거야",
-      "romaji": "aa mou kudaranai na / muri da dame dekikkonai sa",
-      "startTime": 85.95,
-      "endTime": 89.52
+      "romaji": "aa mou kudaranai na / muri da dame dekikkonai sa"
     },
     {
       "id": 17,
-      "ruby": "醜[しゅう]穢[わい]な有象無象[うぞうむぞう]が　僕[ぼく]らを否定[ひてい]してんだ",
+      "start": 89.52,
+      "end": 93.27,
+      "rubyText": "醜[しゅう]穢[わい]な有象無象[うぞうむぞう]が　僕[ぼく]らを否定[ひてい]してんだ",
       "translation": "추악한 잡다한 것들이 우리를 부정하고 있잖아",
-      "romaji": "shuuwai na uzoumuzou ga bokura wo hitei shiten da",
-      "startTime": 89.52,
-      "endTime": 93.27
+      "romaji": "shuuwai na uzoumuzou ga bokura wo hitei shiten da"
     },
     {
       "id": 18,
-      "ruby": "全速[ぜんそく]前進[ぜんしん]だ",
+      "start": 93.27,
+      "end": 94.77,
+      "rubyText": "全速[ぜんそく]前進[ぜんしん]だ",
       "translation": "전속력으로 전진하라",
-      "romaji": "zensoku zenshin da",
-      "startTime": 93.27,
-      "endTime": 94.77
+      "romaji": "zensoku zenshin da"
     },
     {
       "id": 19,
-      "ruby": "爽快[そうかい]な蒼海[そうかい]を　進[すす]んでいったて\n終[お]わりに言[い]えれば",
+      "start": 94.77,
+      "end": 99.68,
+      "rubyText": "爽快[そうかい]な蒼海[そうかい]を　進[すす]んでいったて\n終[お]わりに言[い]えれば",
       "translation": "청량한 푸른 바다를 힘차게 나아가고 있다는 것을\n마지막으로 말하고 싶네요",
-      "romaji": "soukai na soukai wo susunde ittate / owari ni iereba",
-      "startTime": 94.77,
-      "endTime": 99.68
+      "romaji": "soukai na soukai wo susunde ittate / owari ni iereba"
     },
     {
       "id": 20,
-      "ruby": "一辺倒[いっぺんとう]でGoだ 突[つ]き抜[ぬ]け　劣等生[れっとうせい]",
+      "start": 99.68,
+      "end": 102.7,
+      "rubyText": "一辺倒[いっぺんとう]でGoだ 突[つ]き抜[ぬ]け　劣等生[れっとうせい]",
       "translation": "한결같이 Go다! 돌파하라, 열등생!",
-      "romaji": "ippentou de Go da tsukinuke rettousei",
-      "startTime": 99.68,
-      "endTime": 102.7
+      "romaji": "ippentou de Go da tsukinuke rettousei"
     },
     {
       "id": 21,
-      "ruby": "いっぱいだって　Don't care まだまだ限界[げんかい]ない",
+      "start": 102.7,
+      "end": 106.17,
+      "rubyText": "いっぱいだって　Don't care まだまだ限界[げんかい]ない",
       "translation": "이미 불가능하다고 생각해도 걱정하지 마라. 아직도 한계는 없다.",
-      "romaji": "ippai datte Don't care madamada genkai nai",
-      "startTime": 102.7,
-      "endTime": 106.17
+      "romaji": "ippai datte Don't care madamada genkai nai"
     },
     {
       "id": 22,
-      "ruby": "楽[たの]しんでいこうぜ　荒[あら]ぶる展開[てんかい]を",
+      "start": 106.17,
+      "end": 109.59,
+      "rubyText": "楽[たの]しんでいこうぜ　荒[あら]ぶる展開[てんかい]を",
       "translation": "즐기며 나아가자, 격렬한 전개도",
-      "romaji": "tanoshinde ikou ze araburu tenkai wo",
-      "startTime": 106.17,
-      "endTime": 109.59
+      "romaji": "tanoshinde ikou ze araburu tenkai wo"
     },
     {
       "id": 23,
-      "ruby": "不完全[ふかんぜん]上等[じょうとう]ね",
+      "start": 109.59,
+      "end": 112.63,
+      "rubyText": "不完全[ふかんぜん]上等[じょうとう]ね",
       "translation": "불완전해도 괜찮아",
-      "romaji": "fukanzen joutou ne",
-      "startTime": 109.59,
-      "endTime": 112.63
+      "romaji": "fukanzen joutou ne"
     },
     {
       "id": 24,
-      "ruby": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 112.63,
+      "end": 116.53,
+      "rubyText": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 112.63,
-      "endTime": 116.53
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 25,
-      "ruby": "酸[す]いも甘[あま]いも　全部[ぜんぶ]　全部[ぜんぶ]\n持[も]ってけ 絶挑戦[ぜっちょうせん]",
+      "start": 116.53,
+      "end": 119.77,
+      "rubyText": "酸[す]いも甘[あま]いも　全部[ぜんぶ]　全部[ぜんぶ]\n持[も]ってけ 絶挑戦[ぜっちょうせん]",
       "translation": "쓴 것도 달콤한 것도 모두, 모두\n가져가라! 최고의 도전이다!",
-      "romaji": "sui mo amai mo zenbu zenbu / motteke zecchousen",
-      "startTime": 116.53,
-      "endTime": 119.77
+      "romaji": "sui mo amai mo zenbu zenbu / motteke zecchousen"
     },
     {
       "id": 26,
-      "ruby": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 119.77,
+      "end": 123.53,
+      "rubyText": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 119.77,
-      "endTime": 123.53
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 27,
-      "ruby": "生存[せいぞん]本能[ほんのう]　解[と]いていこうぜ！\n飛[と]び込[こ]め　1 2 3",
+      "start": 123.53,
+      "end": 126.53,
+      "rubyText": "生存[せいぞん]本能[ほんのう]　解[と]いていこうぜ！\n飛[と]び込[こ]め　1 2 3",
       "translation": "생존 본능을 풀어보자!\n뛰어들라 1 2 3",
-      "romaji": "seizon honnou toite ikou ze! / tobikome 1 2 3",
-      "startTime": 123.53,
-      "endTime": 126.53
+      "romaji": "seizon honnou toite ikou ze! / tobikome 1 2 3"
     },
     {
       "id": 28,
-      "ruby": "真[ま]っ新[さら]な　夢[ゆめ]の海図[ちず]　今[いま]描[えが]き出[だ]して\n真[ま]っ赤[か]なんだ　燃[も]やせ　心火[しんか]を焚[く]べろ",
+      "start": 126.53,
+      "end": 133.23,
+      "rubyText": "真[ま]っ新[さら]な　夢[ゆめ]の海図[ちず]　今[いま]描[えが]き出[だ]して\n真[ま]っ赤[か]なんだ　燃[も]やせ　心火[しんか]を焚[く]べろ",
       "translation": "새하얀 꿈의 지도, 지금 그려보자\n붉게 타오르라, 마음의 불을 지펴라",
-      "romaji": "massara na yume no chizu ima egakidashite / makka nan da moyase shinka wo kubero",
-      "startTime": 126.53,
-      "endTime": 133.23
+      "romaji": "massara na yume no chizu ima egakidashite / makka nan da moyase shinka wo kubero"
     },
     {
       "id": 29,
-      "ruby": "ねえ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 133.23,
+      "end": 137.18,
+      "rubyText": "ねえ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 133.23,
-      "endTime": 137.18
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 30,
-      "ruby": "劣情[れつじょう]　砕[くだ]いて　越[こ]えて行[い]こうぜ\n勝鬨[かちどき]　One up time  Ahh Oh!",
+      "start": 137.18,
+      "end": 141.05,
+      "rubyText": "劣情[れつじょう]　砕[くだ]いて　越[こ]えて行[い]こうぜ\n勝鬨[かちどき]　One up time  Ahh Oh!",
       "translation": "욕망 따위는 신경 쓰지 마! 넘어 가자!\n승리의 함성을 지르며 성장하는 순간이다! Ahh Oh!",
-      "romaji": "retsujou kudaite koete ikou ze / kachidoki One up time Ahh Oh!",
-      "startTime": 137.18,
-      "endTime": 141.05
+      "romaji": "retsujou kudaite koete ikou ze / kachidoki One up time Ahh Oh!"
     },
     {
       "id": 31,
-      "ruby": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 153.95,
+      "end": 157.84,
+      "rubyText": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 153.95,
-      "endTime": 157.84
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 32,
-      "ruby": "従順[じゅうじゅん]なんて　マジつまんねえ\nカチこめ　1 2 3",
+      "start": 157.84,
+      "end": 160.85,
+      "rubyText": "従順[じゅうじゅん]なんて　マジつまんねえ\nカチこめ　1 2 3",
       "translation": "복종 따위는 정말 지루해\n카치코메 1 2 3",
-      "romaji": "juujun nante maji tsumannee / kachikome 1 2 3",
-      "startTime": 157.84,
-      "endTime": 160.85
+      "romaji": "juujun nante maji tsumannee / kachikome 1 2 3"
     },
     {
       "id": 33,
-      "ruby": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 160.85,
+      "end": 164.55,
+      "rubyText": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 160.85,
-      "endTime": 164.55
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 34,
-      "ruby": "酸[す]いも甘[あま]いも　全部[ぜんぶ]　全部[ぜんぶ]\n持[も]ってけ 絶頂[ぜっちょう]先[さき]",
+      "start": 164.55,
+      "end": 167.76,
+      "rubyText": "酸[す]いも甘[あま]いも　全部[ぜんぶ]　全部[ぜんぶ]\n持[も]ってけ 絶頂[ぜっちょう]先[さき]",
       "translation": "쓴 것도 달콤한 것도 모두, 모두\n가져가라 절정 앞",
-      "romaji": "sui mo amai mo zenbu zenbu / motteke zecchou saki",
-      "startTime": 164.55,
-      "endTime": 167.76
+      "romaji": "sui mo amai mo zenbu zenbu / motteke zecchou saki"
     },
     {
       "id": 35,
-      "ruby": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 167.76,
+      "end": 171.46,
+      "rubyText": "ねぇ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 167.76,
-      "endTime": 171.46
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 36,
-      "ruby": "正論[せいろん]ばっか　説[と]いてないで\n乗[の]り込[こ]め　1 2 3",
+      "start": 171.46,
+      "end": 174.56,
+      "rubyText": "正論[せいろん]ばっか　説[と]いてないで\n乗[の]り込[こ]め　1 2 3",
       "translation": "정론만 늘어놓지 마라\n뛰어들라 1 2 3",
-      "romaji": "seiron bakka toitenaide / norikome 1 2 3",
-      "startTime": 171.46,
-      "endTime": 174.56
+      "romaji": "seiron bakka toitenaide / norikome 1 2 3"
     },
     {
       "id": 37,
-      "ruby": "真[ま]っ煌[きら]な　虹[にじ]の　泥舟[どろぶね]漕[こ]ぎ出[だ]して\n真[ま]っ暗[くら]な　航路[みち]なき未知[みち]を切[き]り開[ひら]け",
+      "start": 174.56,
+      "end": 181.17,
+      "rubyText": "真[ま]っ煌[きら]な　虹[にじ]の　泥舟[どろぶね]漕[こ]ぎ出[だ]して\n真[ま]っ暗[くら]な　航路[みち]なき未知[みち]を切[き]り開[ひら]け",
       "translation": "눈부신 무지개의 진흙배를 저어 나가라\n어두운 항로 없는 미지의 세계를 개척하라！",
-      "romaji": "makkira na niji no dorobune kogidashite / makkura na michi naki michi wo kirihirake",
-      "startTime": 174.56,
-      "endTime": 181.17
+      "romaji": "makkira na niji no dorobune kogidashite / makkura na michi naki michi wo kirihirake"
     },
     {
       "id": 38,
-      "ruby": "ねえ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
+      "start": 181.17,
+      "end": 185.2,
+      "rubyText": "ねえ　もう\nDo not tap イイじゃん！\nDo not tap イイじゃん！",
       "translation": "hey, 이제　항복하지 마! 너라면 할 수 있어!\n항복하지 마! 너라면 할 수 있어!",
-      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!",
-      "startTime": 181.17,
-      "endTime": 185.2
+      "romaji": "nee mou / Do not tap ii jan! / Do not tap ii jan!"
     },
     {
       "id": 39,
-      "ruby": "劣情[れつじょう]　砕[くだ]いて　越[こ]えて行[い]こうぜ\n感情[かんじょう]　全部[ぜんぶ]　ぶっ放[ぱな]して\n激情[げきじょう]　抱[いだ]いて　越[こ]えて行[い]こうぜ",
+      "start": 185.2,
+      "end": 188.66,
+      "rubyText": "劣情[れつじょう]　砕[くだ]いて　越[こ]えて行[い]こうぜ\n感情[かんじょう]　全部[ぜんぶ]　ぶっ放[ぱな]して\n激情[げきじょう]　抱[いだ]いて　越[こ]えて行[い]こうぜ",
       "translation": "욕망 부수고 넘어가자\n감정 모두 쏟아내자\n열정을 품고 넘어 가자!",
-      "romaji": "retsujou kudaite koete ikou ze / kanjou zenbu buppanashite / gekijou idaite koete ikou ze",
-      "startTime": 185.2,
-      "endTime": 188.66
+      "romaji": "retsujou kudaite koete ikou ze / kanjou zenbu buppanashite / gekijou idaite koete ikou ze"
     },
     {
       "id": 40,
-      "ruby": "勝鬨[かちどき]　One up time  Ahh Oh!",
+      "start": 188.66,
+      "end": 192.3,
+      "rubyText": "勝鬨[かちどき]　One up time  Ahh Oh!",
       "translation": "승리의 함성을 지르며 성장할 때다! \nAhh Oh!!!",
-      "romaji": "kachidoki One up time Ahh Oh!",
-      "startTime": 188.66,
-      "endTime": 192.3
+      "romaji": "kachidoki One up time Ahh Oh!"
     }
   ],
   "kanjiDictionary": {

@@ -6,491 +6,491 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "遂[つい]に始[はじ]まりました！！、",
+      "start": 0.96,
+      "end": 3.01,
+      "rubyText": "遂[つい]に始[はじ]まりました！！、",
       "translation": "드디어 시작되었습니다!",
-      "romaji": "tsui ni hajimarimashita!!,",
-      "startTime": 0.96,
-      "endTime": 3.01
+      "romaji": "tsui ni hajimarimashita!!,"
     },
     {
       "id": 2,
-      "ruby": "ボカコレです！！。",
+      "start": 3.31,
+      "end": 4.66,
+      "rubyText": "ボカコレです！！。",
       "translation": "보카코레예요!",
-      "romaji": "bokakore desu!!.",
-      "startTime": 3.31,
-      "endTime": 4.66
+      "romaji": "bokakore desu!!."
     },
     {
       "id": 3,
-      "ruby": "もひか゚つ！",
+      "start": 10.79,
+      "end": 12.14,
+      "rubyText": "もひか゚つ！",
       "translation": "모힝가츠!",
-      "romaji": "mohingatsu!",
-      "startTime": 10.79,
-      "endTime": 12.14
+      "romaji": "mohingatsu!"
     },
     {
       "id": 4,
-      "ruby": "ちゅばっぽ！",
+      "start": 12.14,
+      "end": 12.8,
+      "rubyText": "ちゅばっぽ！",
       "translation": "츄바뽀!",
-      "romaji": "chubappo!",
-      "startTime": 12.14,
-      "endTime": 12.8
+      "romaji": "chubappo!"
     },
     {
       "id": 5,
-      "ruby": "だれか ぬいてくれ！！",
+      "start": 13.64,
+      "end": 17.14,
+      "rubyText": "だれか ぬいてくれ！！",
       "translation": "누가 좀 빼내 줘!!",
-      "romaji": "dareka nuite kure!!",
-      "startTime": 13.64,
-      "endTime": 17.14
+      "romaji": "dareka nuite kure!!"
     },
     {
       "id": 6,
-      "ruby": "ぬぉ、待[ま]ちんしゃい⋯！",
+      "start": 17.14,
+      "end": 18.29,
+      "rubyText": "ぬぉ、待[ま]ちんしゃい⋯！",
       "translation": "누악, 잠깐 기다리셔…!",
-      "romaji": "nwo, machinshai...!",
-      "startTime": 17.14,
-      "endTime": 18.29
+      "romaji": "nwo, machinshai...!"
     },
     {
       "id": 7,
-      "ruby": "なんでも するから",
+      "start": 18.29,
+      "end": 19.64,
+      "rubyText": "なんでも するから",
       "translation": "뭐든지 할 테니까",
-      "romaji": "nandemo suru kara",
-      "startTime": 18.29,
-      "endTime": 19.64
+      "romaji": "nandemo suru kara"
     },
     {
       "id": 8,
-      "ruby": "おたすけぬぉー！！。",
+      "start": 19.64,
+      "end": 20.79,
+      "rubyText": "おたすけぬぉー！！。",
       "translation": "도와주세누오-!!",
-      "romaji": "otasuke nwoo!!.",
-      "startTime": 19.64,
-      "endTime": 20.79
+      "romaji": "otasuke nwoo!!."
     },
     {
       "id": 9,
-      "ruby": "早[はや]う 助[たす]け舟[ぶね] 求[もと]めてえけど",
+      "start": 32.81,
+      "end": 34.96,
+      "rubyText": "早[はや]う 助[たす]け舟[ぶね] 求[もと]めてえけど",
       "translation": "얼른 구원의 손길 구하고 싶은데",
-      "romaji": "hayau tasukebune motometee kedo",
-      "startTime": 32.81,
-      "endTime": 34.96
+      "romaji": "hayau tasukebune motometee kedo"
     },
     {
       "id": 10,
-      "ruby": "人影[ひとかげ]⋯　絶[た]ゆ",
+      "start": 34.96,
+      "end": 37.65,
+      "rubyText": "人影[ひとかげ]⋯　絶[た]ゆ",
       "translation": "인적이···· 끊겼어",
-      "romaji": "hitokage... tayu",
-      "startTime": 34.96,
-      "endTime": 37.65
+      "romaji": "hitokage... tayu"
     },
     {
       "id": 11,
-      "ruby": "それに この醜態[しゅうたい] 晒[さら]す",
+      "start": 37.65,
+      "end": 39.8,
+      "rubyText": "それに この醜態[しゅうたい] 晒[さら]す",
       "translation": "게다가 이 추태를 드러낼",
-      "romaji": "sore ni kono shuutai sarasu",
-      "startTime": 37.65,
-      "endTime": 39.8
+      "romaji": "sore ni kono shuutai sarasu"
     },
     {
       "id": 12,
-      "ruby": "心[こころ]の準備[じゅんび]が⋯",
+      "start": 39.8,
+      "end": 41.96,
+      "rubyText": "心[こころ]の準備[じゅんび]が⋯",
       "translation": "마음의 준비가...",
-      "romaji": "kokoro no junbi ga...",
-      "startTime": 39.8,
-      "endTime": 41.96
+      "romaji": "kokoro no junbi ga..."
     },
     {
       "id": 13,
-      "ruby": "あっ⋯///",
+      "start": 41.96,
+      "end": 42.46,
+      "rubyText": "あっ⋯///",
       "translation": "아…///",
-      "romaji": "a...///",
-      "startTime": 41.96,
-      "endTime": 42.46
+      "romaji": "a...///"
     },
     {
       "id": 14,
-      "ruby": "ガン見[み]されてらあ 恥[は]ずかしかあ",
+      "start": 43.31,
+      "end": 45.48,
+      "rubyText": "ガン見[み]されてらあ 恥[は]ずかしかあ",
       "translation": "빤히 쳐다보잖아 창피하다고",
-      "romaji": "ganmisareteraa hazukashikaa",
-      "startTime": 43.31,
-      "endTime": 45.48
+      "romaji": "ganmisareteraa hazukashikaa"
     },
     {
       "id": 15,
-      "ruby": "穴[あな]があったら入[はい]りてえ⋯。",
+      "start": 45.48,
+      "end": 46.98,
+      "rubyText": "穴[あな]があったら入[はい]りてえ⋯。",
       "translation": "쥐구멍에라도 들어갈래…",
-      "romaji": "ana ga attara hairitee...",
-      "startTime": 45.48,
-      "endTime": 46.98
+      "romaji": "ana ga attara hairitee..."
     },
     {
       "id": 16,
-      "ruby": "※もう入[はい]ってます",
+      "start": 46.98,
+      "end": 48.13,
+      "rubyText": "※もう入[はい]ってます",
       "translation": "※이미 들어가 있습니다",
-      "romaji": "※mou haittemasu",
-      "startTime": 46.98,
-      "endTime": 48.13
+      "romaji": "※mou haittemasu"
     },
     {
       "id": 17,
-      "ruby": "じゃが 遂[つい]に 到来[とうらい]し 絶好[ぜっこう]の chance",
+      "start": 48.13,
+      "end": 50.99,
+      "rubyText": "じゃが 遂[つい]に 到来[とうらい]し 絶好[ぜっこう]の chance",
       "translation": "그치만 마침내 도래한 절호의 chance",
-      "romaji": "jaga tsui ni touraishi zekkou no chance",
-      "startTime": 48.13,
-      "endTime": 50.99
+      "romaji": "jaga tsui ni touraishi zekkou no chance"
     },
     {
       "id": 18,
-      "ruby": "今[いま]こそ 伝[つた]えるべし SOS",
+      "start": 50.99,
+      "end": 53.67,
+      "rubyText": "今[いま]こそ 伝[つた]えるべし SOS",
       "translation": "지금이야말로 전해야 해 SOS",
-      "romaji": "ima koso tsutaerubeshi SOS",
-      "startTime": 50.99,
-      "endTime": 53.67
+      "romaji": "ima koso tsutaerubeshi SOS"
     },
     {
       "id": 19,
-      "ruby": "じゃが コミュ症[しょう] ですから　おくちは chuck",
+      "start": 53.67,
+      "end": 56.41,
+      "rubyText": "じゃが コミュ症[しょう] ですから　おくちは chuck",
       "translation": "그치만 아싸니까 입은 chuck",
-      "romaji": "jaga komyushou desukara okuchi wa chuck",
-      "startTime": 53.67,
-      "endTime": 56.41
+      "romaji": "jaga komyushou desukara okuchi wa chuck"
     },
     {
       "id": 20,
-      "ruby": "手旗信号[てばたしんごう] 振[ふ]り翳[かざ]んば…！。 ",
+      "start": 56.45,
+      "end": 59.15,
+      "rubyText": "手旗信号[てばたしんごう] 振[ふ]り翳[かざ]んば…！。 ",
       "translation": "깃발 신호를 휘둘러 보인다면…！",
-      "romaji": "tebata shingou furikazanba...!. ",
-      "startTime": 56.45,
-      "endTime": 59.15
+      "romaji": "tebata shingou furikazanba...!. "
     },
     {
       "id": 21,
-      "ruby": "Ѿ Ѿ た Ѿ Ѿ す Ѿ け Ѿ て",
+      "start": 60.15,
+      "end": 63.7,
+      "rubyText": "Ѿ Ѿ た Ѿ Ѿ す Ѿ け Ѿ て",
       "translation": "도와줘요",
-      "romaji": "ta su ke te",
-      "startTime": 60.15,
-      "endTime": 63.7
+      "romaji": "ta su ke te"
     },
     {
       "id": 22,
-      "ruby": "ダメです",
+      "start": 63.7,
+      "end": 64.53,
+      "rubyText": "ダメです",
       "translation": "안 돼요",
-      "romaji": "dame desu",
-      "startTime": 63.7,
-      "endTime": 64.53
+      "romaji": "dame desu"
     },
     {
       "id": 23,
-      "ruby": "は~？、",
+      "start": 64.53,
+      "end": 64.88,
+      "rubyText": "は~？、",
       "translation": "뭐?",
-      "romaji": "ha~?,",
-      "startTime": 64.53,
-      "endTime": 64.88
+      "romaji": "ha~?,"
     },
     {
       "id": 24,
-      "ruby": "Ѿ Ѿ た Ѿ Ѿ す Ѿ け Ѿ て",
+      "start": 65.49,
+      "end": 68.96,
+      "rubyText": "Ѿ Ѿ た Ѿ Ѿ す Ѿ け Ѿ て",
       "translation": "도와줘요",
-      "romaji": "ta su ke te",
-      "startTime": 65.49,
-      "endTime": 68.96
+      "romaji": "ta su ke te"
     },
     {
       "id": 25,
-      "ruby": "ダメです",
+      "start": 68.96,
+      "end": 69.96,
+      "rubyText": "ダメです",
       "translation": "안 돼요",
-      "romaji": "dame desu",
-      "startTime": 68.96,
-      "endTime": 69.96
+      "romaji": "dame desu"
     },
     {
       "id": 26,
-      "ruby": "もお〜！、こっち来[こ]んしゃい、",
+      "start": 69.96,
+      "end": 71.31,
+      "rubyText": "もお〜！、こっち来[こ]んしゃい、",
       "translation": "아 진짜~! 일로 와봐,",
-      "romaji": "moo~! kocchi konshai,",
-      "startTime": 69.96,
-      "endTime": 71.31
+      "romaji": "moo~! kocchi konshai,"
     },
     {
       "id": 27,
-      "ruby": "抜[ぬ]けんのじゃ！！。",
+      "start": 71.31,
+      "end": 72.31,
+      "rubyText": "抜[ぬ]けんのじゃ！！。",
       "translation": "안 빠지잖아!",
-      "romaji": "nuken no ja!!.",
-      "startTime": 71.31,
-      "endTime": 72.31
+      "romaji": "nuken no ja!!."
     },
     {
       "id": 28,
-      "ruby": "ぼーっと見[み]んと早[はや]う救[すく]えや",
+      "start": 72.31,
+      "end": 74.15,
+      "rubyText": "ぼーっと見[み]んと早[はや]う救[すく]えや",
       "translation": "멍하니 보지 말고 얼른 구해달라고",
-      "romaji": "bootto minto hayau sukue ya",
-      "startTime": 72.31,
-      "endTime": 74.15
+      "romaji": "bootto minto hayau sukue ya"
     },
     {
       "id": 29,
-      "ruby": "痴[し]れ者[もの]ォ！！。",
+      "start": 74.15,
+      "end": 74.8,
+      "rubyText": "痴[し]れ者[もの]ォ！！。",
       "translation": "멍청아!!",
-      "romaji": "shiremono o!!.",
-      "startTime": 74.15,
-      "endTime": 74.8
+      "romaji": "shiremono o!!."
     },
     {
       "id": 30,
-      "ruby": "もひか゚つ！",
+      "start": 76.15,
+      "end": 77.45,
+      "rubyText": "もひか゚つ！",
       "translation": "모힝가츠!",
-      "romaji": "mohingatsu!",
-      "startTime": 76.15,
-      "endTime": 77.45
+      "romaji": "mohingatsu!"
     },
     {
       "id": 31,
-      "ruby": "ちゅばっぽ！",
+      "start": 77.45,
+      "end": 78.16,
+      "rubyText": "ちゅばっぽ！",
       "translation": "츄바뽀!",
-      "romaji": "chubappo!",
-      "startTime": 77.45,
-      "endTime": 78.16
+      "romaji": "chubappo!"
     },
     {
       "id": 32,
-      "ruby": "だれか ぬいてくれ！！",
+      "start": 78.96,
+      "end": 82.47,
+      "rubyText": "だれか ぬいてくれ！！",
       "translation": "누가 좀 빼내 줘!!",
-      "romaji": "dareka nuite kure!!",
-      "startTime": 78.96,
-      "endTime": 82.47
+      "romaji": "dareka nuite kure!!"
     },
     {
       "id": 33,
-      "ruby": "ぬぉ、待[ま]ちんしゃい⋯！",
+      "start": 82.47,
+      "end": 83.62,
+      "rubyText": "ぬぉ、待[ま]ちんしゃい⋯！",
       "translation": "누악, 잠깐 기다리셔…!",
-      "romaji": "nwo, machinshai...!",
-      "startTime": 82.47,
-      "endTime": 83.62
+      "romaji": "nwo, machinshai...!"
     },
     {
       "id": 34,
-      "ruby": "なんでも するから",
+      "start": 83.62,
+      "end": 84.97,
+      "rubyText": "なんでも するから",
       "translation": "뭐든지 할 테니까",
-      "romaji": "nandemo suru kara",
-      "startTime": 83.62,
-      "endTime": 84.97
+      "romaji": "nandemo suru kara"
     },
     {
       "id": 35,
-      "ruby": "おたすけぬぉー！！。",
+      "start": 84.97,
+      "end": 86.12,
+      "rubyText": "おたすけぬぉー！！。",
       "translation": "도와주세누오-!!",
-      "romaji": "otasuke nwoo!!.",
-      "startTime": 84.97,
-      "endTime": 86.12
+      "romaji": "otasuke nwoo!!."
     },
     {
       "id": 36,
-      "ruby": "おなか　満[み]たしたいです",
+      "start": 99.55,
+      "end": 101.98,
+      "rubyText": "おなか　満[み]たしたいです",
       "translation": "배 채우고 싶어요",
-      "romaji": "onaka mitashitai desu",
-      "startTime": 99.55,
-      "endTime": 101.98
+      "romaji": "onaka mitashitai desu"
     },
     {
       "id": 37,
-      "ruby": "ダメです",
+      "start": 101.98,
+      "end": 103.67,
+      "rubyText": "ダメです",
       "translation": "안 돼요",
-      "romaji": "dame desu",
-      "startTime": 101.98,
-      "endTime": 103.67
+      "romaji": "dame desu"
     },
     {
       "id": 38,
-      "ruby": "お風呂[ふろ]　入[はい]りたいです",
+      "start": 103.67,
+      "end": 106.1,
+      "rubyText": "お風呂[ふろ]　入[はい]りたいです",
       "translation": "목욕하고 싶어요",
-      "romaji": "ofuro hairitai desu",
-      "startTime": 103.67,
-      "endTime": 106.1
+      "romaji": "ofuro hairitai desu"
     },
     {
       "id": 39,
-      "ruby": "ダメです",
+      "start": 106.1,
+      "end": 107.85,
+      "rubyText": "ダメです",
       "translation": "안 돼요",
-      "romaji": "dame desu",
-      "startTime": 106.1,
-      "endTime": 107.85
+      "romaji": "dame desu"
     },
     {
       "id": 40,
-      "ruby": "お花[はな]　摘[つ]みたいです",
+      "start": 107.85,
+      "end": 110.53,
+      "rubyText": "お花[はな]　摘[つ]みたいです",
       "translation": "일 보고 싶어요",
-      "romaji": "ohana tsumitai desu",
-      "startTime": 107.85,
-      "endTime": 110.53
+      "romaji": "ohana tsumitai desu"
     },
     {
       "id": 41,
-      "ruby": "ダメです",
+      "start": 110.53,
+      "end": 117.74,
+      "rubyText": "ダメです",
       "translation": "안 돼요오오오오",
-      "romaji": "dame desu",
-      "startTime": 110.53,
-      "endTime": 117.74
+      "romaji": "dame desu"
     },
     {
       "id": 42,
-      "ruby": "⋯はい、わしの人生[じんせい]もう",
+      "start": 118.31,
+      "end": 120.01,
+      "rubyText": "⋯はい、わしの人生[じんせい]もう",
       "translation": "…네, 제 인생은 이제",
-      "romaji": "...hai, washi no jinsei mou",
-      "startTime": 118.31,
-      "endTime": 120.01
+      "romaji": "...hai, washi no jinsei mou"
     },
     {
       "id": 43,
-      "ruby": "ダメです☆。",
+      "start": 120.01,
+      "end": 121.36,
+      "rubyText": "ダメです☆。",
       "translation": "망했어요☆",
-      "romaji": "dame desu☆.",
-      "startTime": 120.01,
-      "endTime": 121.36
+      "romaji": "dame desu☆."
     },
     {
       "id": 44,
-      "ruby": "みなさん今[いま]までありがとうございましたー。",
+      "start": 121.36,
+      "end": 123.76,
+      "rubyText": "みなさん今[いま]までありがとうございましたー。",
       "translation": "여러분 지금까지 감사했습니다--.",
-      "romaji": "minasan ima made arigatou gozaimashita-.",
-      "startTime": 121.36,
-      "endTime": 123.76
+      "romaji": "minasan ima made arigatou gozaimashita-."
     },
     {
       "id": 45,
-      "ruby": "手旗信号[てばたしんごう] 振[ふ]り翳[かざ]んば…！。 ",
+      "start": 147.4,
+      "end": 150.3,
+      "rubyText": "手旗信号[てばたしんごう] 振[ふ]り翳[かざ]んば…！。 ",
       "translation": "깃발 신호를 휘둘러 보인다면…！",
-      "romaji": "tebata shingou furikazanba...!. ",
-      "startTime": 147.4,
-      "endTime": 150.3
+      "romaji": "tebata shingou furikazanba...!. "
     },
     {
       "id": 46,
-      "ruby": "Ѿ Ѿ た Ѿ Ѿ す Ѿ け Ѿ て",
+      "start": 151.3,
+      "end": 154.88,
+      "rubyText": "Ѿ Ѿ た Ѿ Ѿ す Ѿ け Ѿ て",
       "translation": "도와줘요",
-      "romaji": "ta su ke te",
-      "startTime": 151.3,
-      "endTime": 154.88
+      "romaji": "ta su ke te"
     },
     {
       "id": 47,
-      "ruby": "ダメです",
+      "start": 154.88,
+      "end": 155.7,
+      "rubyText": "ダメです",
       "translation": "안 돼요",
-      "romaji": "dame desu",
-      "startTime": 154.88,
-      "endTime": 155.7
+      "romaji": "dame desu"
     },
     {
       "id": 48,
-      "ruby": "は~？、",
+      "start": 155.7,
+      "end": 156.05,
+      "rubyText": "は~？、",
       "translation": "뭐?",
-      "romaji": "ha~?,",
-      "startTime": 155.7,
-      "endTime": 156.05
+      "romaji": "ha~?,"
     },
     {
       "id": 49,
-      "ruby": "Ѿ Ѿ た Ѿ Ѿ す Ѿ け Ѿ て",
+      "start": 156.65,
+      "end": 160.2,
+      "rubyText": "Ѿ Ѿ た Ѿ Ѿ す Ѿ け Ѿ て",
       "translation": "도와줘요",
-      "romaji": "ta su ke te",
-      "startTime": 156.65,
-      "endTime": 160.2
+      "romaji": "ta su ke te"
     },
     {
       "id": 50,
-      "ruby": "ダメです",
+      "start": 160.2,
+      "end": 161.15,
+      "rubyText": "ダメです",
       "translation": "안 돼요",
-      "romaji": "dame desu",
-      "startTime": 160.2,
-      "endTime": 161.15
+      "romaji": "dame desu"
     },
     {
       "id": 51,
-      "ruby": "もお〜！、こっち来[こ]んしゃい、",
+      "start": 161.15,
+      "end": 162.47,
+      "rubyText": "もお〜！、こっち来[こ]んしゃい、",
       "translation": "아 진짜~! 일로 와봐,",
-      "romaji": "moo~! kocchi konshai,",
-      "startTime": 161.15,
-      "endTime": 162.47
+      "romaji": "moo~! kocchi konshai,"
     },
     {
       "id": 52,
-      "ruby": "抜[ぬ]けんのじゃ！！。",
+      "start": 162.47,
+      "end": 163.49,
+      "rubyText": "抜[ぬ]けんのじゃ！！。",
       "translation": "안 빠지잖아!",
-      "romaji": "nuken no ja!!.",
-      "startTime": 162.47,
-      "endTime": 163.49
+      "romaji": "nuken no ja!!."
     },
     {
       "id": 53,
-      "ruby": "ぼーっと見[み]んと早[はや]う救[すく]えや",
+      "start": 163.49,
+      "end": 165.29,
+      "rubyText": "ぼーっと見[み]んと早[はや]う救[すく]えや",
       "translation": "멍하니 보지 말고 얼른 구해달라고",
-      "romaji": "bootto minto hayau sukue ya",
-      "startTime": 163.49,
-      "endTime": 165.29
+      "romaji": "bootto minto hayau sukue ya"
     },
     {
       "id": 54,
-      "ruby": "痴[し]れ者[もの]ォ！！。",
+      "start": 165.29,
+      "end": 165.99,
+      "rubyText": "痴[し]れ者[もの]ォ！！。",
       "translation": "멍청아!!",
-      "romaji": "shiremono o!!.",
-      "startTime": 165.29,
-      "endTime": 165.99
+      "romaji": "shiremono o!!."
     },
     {
       "id": 55,
-      "ruby": "もひか゚つ！",
+      "start": 167.29,
+      "end": 168.64,
+      "rubyText": "もひか゚つ！",
       "translation": "모힝가츠!",
-      "romaji": "mohingatsu!",
-      "startTime": 167.29,
-      "endTime": 168.64
+      "romaji": "mohingatsu!"
     },
     {
       "id": 56,
-      "ruby": "ちゅばっぽ！",
+      "start": 168.64,
+      "end": 169.29,
+      "rubyText": "ちゅばっぽ！",
       "translation": "츄바뽀!",
-      "romaji": "chubappo!",
-      "startTime": 168.64,
-      "endTime": 169.29
+      "romaji": "chubappo!"
     },
     {
       "id": 57,
-      "ruby": "だれか ぬいてくれ！！",
+      "start": 170.14,
+      "end": 173.64,
+      "rubyText": "だれか ぬいてくれ！！",
       "translation": "누가 좀 빼내 줘!!",
-      "romaji": "dareka nuite kure!!",
-      "startTime": 170.14,
-      "endTime": 173.64
+      "romaji": "dareka nuite kure!!"
     },
     {
       "id": 58,
-      "ruby": "ぬぉ、待[ま]ちんしゃい⋯！",
+      "start": 173.64,
+      "end": 174.79,
+      "rubyText": "ぬぉ、待[ま]ちんしゃい⋯！",
       "translation": "누악, 잠깐 기다리셔…!",
-      "romaji": "nwo, machinshai...!",
-      "startTime": 173.64,
-      "endTime": 174.79
+      "romaji": "nwo, machinshai...!"
     },
     {
       "id": 59,
-      "ruby": "なんでも するから",
+      "start": 174.79,
+      "end": 176.14,
+      "rubyText": "なんでも するから",
       "translation": "뭐든지 할 테니까",
-      "romaji": "nandemo suru kara",
-      "startTime": 174.79,
-      "endTime": 176.14
+      "romaji": "nandemo suru kara"
     },
     {
       "id": 60,
-      "ruby": "おたすけぬぉー！！。",
+      "start": 176.14,
+      "end": 177.29,
+      "rubyText": "おたすけぬぉー！！。",
       "translation": "도와주세누오-!!",
-      "romaji": "otasuke nwoo!!.",
-      "startTime": 176.14,
-      "endTime": 177.29
+      "romaji": "otasuke nwoo!!."
     },
     {
       "id": 61,
-      "ruby": "だれか ぬいてくれ！！",
+      "start": 178.14,
+      "end": 179.99,
+      "rubyText": "だれか ぬいてくれ！！",
       "translation": "누 가 좀 빼 내 줘 !!",
-      "romaji": "dareka nuite kure!!",
-      "startTime": 178.14,
-      "endTime": 179.99
+      "romaji": "dareka nuite kure!!"
     }
   ],
   "kanjiDictionary": {

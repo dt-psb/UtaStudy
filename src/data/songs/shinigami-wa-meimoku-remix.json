@@ -6,707 +6,707 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "てらてら揺[ゆ]れる",
+      "start": 21.97,
+      "end": 23.24,
+      "rubyText": "てらてら揺[ゆ]れる",
       "translation": "번질번질 일렁이며",
-      "romaji": "teratera yureru",
-      "startTime": 21.97,
-      "endTime": 23.24
+      "romaji": "teratera yureru"
     },
     {
       "id": 2,
-      "ruby": "クロスロード光[ひか]るブルースの CD。",
+      "start": 23.24,
+      "end": 25.48,
+      "rubyText": "クロスロード光[ひか]るブルースの CD。",
       "translation": "크로스로드가 빛나는 블루스 CD.",
-      "romaji": "kurosurōdo hikaru burūsu no CD.",
-      "startTime": 23.24,
-      "endTime": 25.48
+      "romaji": "kurosurōdo hikaru burūsu no CD."
     },
     {
       "id": 3,
-      "ruby": "「人[ひと]の最高[さいこう]はミュージック。",
+      "start": 25.48,
+      "end": 27.21,
+      "rubyText": "「人[ひと]の最高[さいこう]はミュージック。",
       "translation": "「인간이 만들어낸 것 중 최고는 음악.",
-      "romaji": "「hito no saikō wa myūjikku.",
-      "startTime": 25.48,
-      "endTime": 27.21
+      "romaji": "「hito no saikō wa myūjikku."
     },
     {
       "id": 4,
-      "ruby": "最悪[さいあく]は渋滞中[じゅうたいちゅう]さ。」",
+      "start": 27.21,
+      "end": 28.71,
+      "rubyText": "最悪[さいあく]は渋滞中[じゅうたいちゅう]さ。」",
       "translation": "최악은 정체하는 거야.」",
-      "romaji": "saiaku wa jūtaichū sa.」",
-      "startTime": 27.21,
-      "endTime": 28.71
+      "romaji": "saiaku wa jūtaichū sa.」"
     },
     {
       "id": 5,
-      "ruby": "ざらざら振[ふ]れる",
+      "start": 28.71,
+      "end": 30.01,
+      "rubyText": "ざらざら振[ふ]れる",
       "translation": "거칠게 왕복하는",
-      "romaji": "zarazara fureru",
-      "startTime": 28.71,
-      "endTime": 30.01
+      "romaji": "zarazara fureru"
     },
     {
       "id": 6,
-      "ruby": "メトロノームのワイパー",
+      "start": 30.01,
+      "end": 31.28,
+      "rubyText": "メトロノームのワイパー",
       "translation": "메트로놈의 와이퍼.",
-      "romaji": "metoronōmu no waipā",
-      "startTime": 30.01,
-      "endTime": 31.28
+      "romaji": "metoronōmu no waipā"
     },
     {
       "id": 7,
-      "ruby": "いつものレイニー",
+      "start": 31.28,
+      "end": 32.32,
+      "rubyText": "いつものレイニー",
       "translation": "평소와 똑같이 비.",
-      "romaji": "itsumo no reinī",
-      "startTime": 31.28,
-      "endTime": 32.32
+      "romaji": "itsumo no reinī"
     },
     {
       "id": 8,
-      "ruby": "「まだ先[さき]は長[なが]いから",
+      "start": 32.32,
+      "end": 33.82,
+      "rubyText": "「まだ先[さき]は長[なが]いから",
       "translation": "「아직 시간은 많으니까",
-      "romaji": "「mada saki wa nagai kara",
-      "startTime": 32.32,
-      "endTime": 33.82
+      "romaji": "「mada saki wa nagai kara"
     },
     {
       "id": 9,
-      "ruby": "話[はなし]でもしようか。」",
+      "start": 33.82,
+      "end": 35.49,
+      "rubyText": "話[はなし]でもしようか。」",
       "translation": "얘기라도 좀 할까.」",
-      "romaji": "hanashi demo shiyō ka.」",
-      "startTime": 33.82,
-      "endTime": 35.49
+      "romaji": "hanashi demo shiyō ka.」"
     },
     {
       "id": 10,
-      "ruby": "「死[し]にてぇ。」",
+      "start": 35.49,
+      "end": 36.32,
+      "rubyText": "「死[し]にてぇ。」",
       "translation": "「죽고 싶어.」",
-      "romaji": "「shinitē.」",
-      "startTime": 35.49,
-      "endTime": 36.32
+      "romaji": "「shinitē.」"
     },
     {
       "id": 11,
-      "ruby": "ボヤく。",
+      "start": 36.32,
+      "end": 36.72,
+      "rubyText": "ボヤく。",
       "translation": "투덜대.",
-      "romaji": "boyaku.",
-      "startTime": 36.32,
-      "endTime": 36.72
+      "romaji": "boyaku."
     },
     {
       "id": 12,
-      "ruby": "スマートフォンではヘイター。",
+      "start": 36.72,
+      "end": 37.99,
+      "rubyText": "スマートフォンではヘイター。",
       "translation": "스마트폰에서는 헤이터가.",
-      "romaji": "sumātofon de wa heitā.",
-      "startTime": 36.72,
-      "endTime": 37.99
+      "romaji": "sumātofon de wa heitā."
     },
     {
       "id": 13,
-      "ruby": "「あいつもきっと美人[びじん]と金[かね]が空[そら]から降[ふ]れば 明日[あした]も笑[わら]って生[い]きてく。",
+      "start": 37.99,
+      "end": 42.23,
+      "rubyText": "「あいつもきっと美人[びじん]と金[かね]が空[そら]から降[ふ]れば 明日[あした]も笑[わら]って生[い]きてく。",
       "translation": "「그놈도 분명 하늘에서 돈이랑 미인이 내리면 내일도 웃으며 살아갈 걸.",
-      "romaji": "「aitsu mo kitto bijin to kane ga sora kara fureba ashita mo waratte ikiteku.",
-      "startTime": 37.99,
-      "endTime": 42.23
+      "romaji": "「aitsu mo kitto bijin to kane ga sora kara fureba ashita mo waratte ikiteku."
     },
     {
       "id": 14,
-      "ruby": "面白[おもしろ]いのが、",
+      "start": 42.23,
+      "end": 43.49,
+      "rubyText": "面白[おもしろ]いのが、",
       "translation": "재미있는 건,",
-      "romaji": "omoshiroi no ga,",
-      "startTime": 42.23,
-      "endTime": 43.49
+      "romaji": "omoshiroi no ga,"
     },
     {
       "id": 15,
-      "ruby": "あの時[とき]唾[つば]を吐[は]いたことすら",
+      "start": 43.49,
+      "end": 45.2,
+      "rubyText": "あの時[とき]唾[つば]を吐[は]いたことすら",
       "translation": "그때 모욕을 줬다는 것조차",
-      "romaji": "ano toki tsuba o haita koto sura",
-      "startTime": 43.49,
-      "endTime": 45.2
+      "romaji": "ano toki tsuba o haita koto sura"
     },
     {
       "id": 16,
-      "ruby": "パッと忘[わす]れるのさ。",
+      "start": 45.2,
+      "end": 46.9,
+      "rubyText": "パッと忘[わす]れるのさ。",
       "translation": "순식간에 잊는다는 거야.",
-      "romaji": "patto wasureru no sa.",
-      "startTime": 45.2,
-      "endTime": 46.9
+      "romaji": "patto wasureru no sa."
     },
     {
       "id": 17,
-      "ruby": "忘[わす]れたふりするのさ。」",
+      "start": 46.9,
+      "end": 49.0,
+      "rubyText": "忘[わす]れたふりするのさ。」",
       "translation": "잊은 척을 하는 거지.」",
-      "romaji": "wasureta furi suru no sa.」",
-      "startTime": 46.9,
-      "endTime": 49.0
+      "romaji": "wasureta furi suru no sa.」"
     },
     {
       "id": 18,
-      "ruby": "死神[しにがみ]の唄[うた]",
+      "start": 49.0,
+      "end": 59.58,
+      "rubyText": "死神[しにがみ]の唄[うた]",
       "translation": "사신의 노래",
-      "romaji": "shinigami no uta",
-      "startTime": 49.0,
-      "endTime": 59.58
+      "romaji": "shinigami no uta"
     },
     {
       "id": 19,
-      "ruby": "死神[しにがみ]の唄[うた]が始[はじ]まる前[まえ]に",
+      "start": 59.58,
+      "end": 60.84,
+      "rubyText": "死神[しにがみ]の唄[うた]が始[はじ]まる前[まえ]に",
       "translation": "사신의 노래가 시작되기 전에",
-      "romaji": "shinigami no uta ga hajimaru mae ni",
-      "startTime": 59.58,
-      "endTime": 60.84
+      "romaji": "shinigami no uta ga hajimaru mae ni"
     },
     {
       "id": 20,
-      "ruby": "皺[しわ]を伸[の]ばして!",
+      "start": 60.84,
+      "end": 61.84,
+      "rubyText": "皺[しわ]を伸[の]ばして!",
       "translation": "주름을 펴!",
-      "romaji": "shiwa o nobashite!",
-      "startTime": 60.84,
-      "endTime": 61.84
+      "romaji": "shiwa o nobashite!"
     },
     {
       "id": 21,
-      "ruby": "名目[めいもく]はハイライト。",
+      "start": 61.84,
+      "end": 63.55,
+      "rubyText": "名目[めいもく]はハイライト。",
       "translation": "명목은 '하이라이트'.",
-      "romaji": "meimoku wa hairaito.",
-      "startTime": 61.84,
-      "endTime": 63.55
+      "romaji": "meimoku wa hairaito."
     },
     {
       "id": 22,
-      "ruby": "照[て]らす月[つき]が奇麗[きれい]で。",
+      "start": 63.55,
+      "end": 66.12,
+      "rubyText": "照[て]らす月[つき]が奇麗[きれい]で。",
       "translation": "드리우는 달빛이 아름다워서.",
-      "romaji": "terasu tsuki ga kirei de.",
-      "startTime": 63.55,
-      "endTime": 66.12
+      "romaji": "terasu tsuki ga kirei de."
     },
     {
       "id": 23,
-      "ruby": "優[やさ]しい彼女[かのじょ]が首[くび]吊[つ]った理由[りゆう]の",
+      "start": 66.12,
+      "end": 69.29,
+      "rubyText": "優[やさ]しい彼女[かのじょ]が首[くび]吊[つ]った理由[りゆう]の",
       "translation": "마음씨 착한 그녀가 목을 매단 이유에",
-      "romaji": "yasashii kanojo ga kubitsutta riyū no",
-      "startTime": 66.12,
-      "endTime": 69.29
+      "romaji": "yasashii kanojo ga kubitsutta riyū no"
     },
     {
       "id": 24,
-      "ruby": "興味[きょうみ]なんて無[な]くとも。",
+      "start": 69.29,
+      "end": 70.79,
+      "rubyText": "興味[きょうみ]なんて無[な]くとも。",
       "translation": "흥미 따위 없더라도.",
-      "romaji": "kyōmi nante naku tomo.",
-      "startTime": 69.29,
-      "endTime": 70.79
+      "romaji": "kyōmi nante naku tomo."
     },
     {
       "id": 25,
-      "ruby": "鼻[はな]を抜[ぬ]ける雨[あめ]だけは",
+      "start": 70.79,
+      "end": 72.66,
+      "rubyText": "鼻[はな]を抜[ぬ]ける雨[あめ]だけは",
       "translation": "언제나 내리는 비만큼은",
-      "romaji": "hana o nukeru ame dake wa",
-      "startTime": 70.79,
-      "endTime": 72.66
+      "romaji": "hana o nukeru ame dake wa"
     },
     {
       "id": 26,
-      "ruby": "例[たと]え名前[なまえ]が見[み]えなくとも。",
+      "start": 72.66,
+      "end": 76.03,
+      "rubyText": "例[たと]え名前[なまえ]が見[み]えなくとも。",
       "translation": "설령 이름이 보이지 않을지라도.",
-      "romaji": "tatoe namae ga mienaku tomo.",
-      "startTime": 72.66,
-      "endTime": 76.03
+      "romaji": "tatoe namae ga mienaku tomo."
     },
     {
       "id": 27,
-      "ruby": "てらてら揺[ゆ]れる",
+      "start": 76.03,
+      "end": 77.29,
+      "rubyText": "てらてら揺[ゆ]れる",
       "translation": "번질번질 일렁이며",
-      "romaji": "teratera yureru",
-      "startTime": 76.03,
-      "endTime": 77.29
+      "romaji": "teratera yureru"
     },
     {
       "id": 28,
-      "ruby": "衒[てら]う衒[てら]うステイト",
+      "start": 77.29,
+      "end": 78.56,
+      "rubyText": "衒[てら]う衒[てら]うステイト",
       "translation": "으스대는 스테이트",
-      "romaji": "terau terau suteito",
-      "startTime": 77.29,
-      "endTime": 78.56
+      "romaji": "terau terau suteito"
     },
     {
       "id": 29,
-      "ruby": "気[き]が触[ふ]れる",
+      "start": 78.56,
+      "end": 79.43,
+      "rubyText": "気[き]が触[ふ]れる",
       "translation": "정신이 나가",
-      "romaji": "ki ga fureru",
-      "startTime": 78.56,
-      "endTime": 79.43
+      "romaji": "ki ga fureru"
     },
     {
       "id": 30,
-      "ruby": "あんた目掛[めが]けて生首[なまくび]蹴飛[けと]ばして",
+      "start": 79.43,
+      "end": 82.8,
+      "rubyText": "あんた目掛[めが]けて生首[なまくび]蹴飛[けと]ばして",
       "translation": "당신을 겨냥해 자른 목을 차 날리고서",
-      "romaji": "anta megakete namakubi ketobashite",
-      "startTime": 79.43,
-      "endTime": 82.8
+      "romaji": "anta megakete namakubi ketobashite"
     },
     {
       "id": 31,
-      "ruby": "てらてら揺[ゆ]れる",
+      "start": 82.8,
+      "end": 84.07,
+      "rubyText": "てらてら揺[ゆ]れる",
       "translation": "번질번질 일렁이는",
-      "romaji": "teratera yureru",
-      "startTime": 82.8,
-      "endTime": 84.07
+      "romaji": "teratera yureru"
     },
     {
       "id": 32,
-      "ruby": "火[ひ]が火[ひ]が消[き]える",
+      "start": 84.07,
+      "end": 85.33,
+      "rubyText": "火[ひ]が火[ひ]が消[き]える",
       "translation": "불이, 불이 꺼져",
-      "romaji": "hi ga hi ga kieru",
-      "startTime": 84.07,
-      "endTime": 85.33
+      "romaji": "hi ga hi ga kieru"
     },
     {
       "id": 33,
-      "ruby": "今[いま]消[き]える",
+      "start": 85.33,
+      "end": 86.2,
+      "rubyText": "今[いま]消[き]える",
       "translation": "지금 사라져",
-      "romaji": "ima kieru",
-      "startTime": 85.33,
-      "endTime": 86.2
+      "romaji": "ima kieru"
     },
     {
       "id": 34,
-      "ruby": "澄[す]ました顔[かお]が引[ひ]き攣[つ]るとこが見[み]たい",
+      "start": 86.2,
+      "end": 88.7,
+      "rubyText": "澄[す]ました顔[かお]が引[ひ]き攣[つ]るとこが見[み]たい",
       "translation": "시치미 떼던 얼굴이 굳는 걸 보고 싶어",
-      "romaji": "sumashita kao ga hikitsuru toko ga mitai",
-      "startTime": 86.2,
-      "endTime": 88.7
+      "romaji": "sumashita kao ga hikitsuru toko ga mitai"
     },
     {
       "id": 35,
-      "ruby": "自殺[じさつ]幇助[ほうじょ]の歌[うた]ばっか歌[うた]って",
+      "start": 89.57,
+      "end": 91.51,
+      "rubyText": "自殺[じさつ]幇助[ほうじょ]の歌[うた]ばっか歌[うた]って",
       "translation": "자살을 방조하는 노래만 부르며",
-      "romaji": "jisatsu hōjo no uta bakka utatte",
-      "startTime": 89.57,
-      "endTime": 91.51
+      "romaji": "jisatsu hōjo no uta bakka utatte"
     },
     {
       "id": 36,
-      "ruby": "金儲[かねもう]けしてるアーティスト。",
+      "start": 91.51,
+      "end": 92.94,
+      "rubyText": "金儲[かねもう]けしてるアーティスト。",
       "translation": "돈을 벌어대는 아티스트.",
-      "romaji": "kanemōke shiteru ātisuto.",
-      "startTime": 91.51,
-      "endTime": 92.94
+      "romaji": "kanemōke shiteru ātisuto."
     },
     {
       "id": 37,
-      "ruby": "「目[め]の前[まえ]に居[い]ないものは全[すべ]て空想[くうそう]」",
+      "start": 92.94,
+      "end": 95.08,
+      "rubyText": "「目[め]の前[まえ]に居[い]ないものは全[すべ]て空想[くうそう]」",
       "translation": "「눈 앞에 없는 것들은 모두 공상일 뿐」",
-      "romaji": "「me no mae ni inai mono wa subete kūsō」",
-      "startTime": 92.94,
-      "endTime": 95.08
+      "romaji": "「me no mae ni inai mono wa subete kūsō」"
     },
     {
       "id": 38,
-      "ruby": "だと刃[やいば]を刺[さ]す。",
+      "start": 95.08,
+      "end": 95.91,
+      "rubyText": "だと刃[やいば]を刺[さ]す。",
       "translation": "이라며 칼을 꽂아.",
-      "romaji": "da to yaiba o sasu.",
-      "startTime": 95.08,
-      "endTime": 95.91
+      "romaji": "da to yaiba o sasu."
     },
     {
       "id": 39,
-      "ruby": "きっと誰[だれ]かが死[し]んだって笑[わら]って",
+      "start": 95.91,
+      "end": 97.78,
+      "rubyText": "きっと誰[だれ]かが死[し]んだって笑[わら]って",
       "translation": "분명 누군가가 죽어도 웃으며",
-      "romaji": "kitto dareka ga shindatte waratte",
-      "startTime": 95.91,
-      "endTime": 97.78
+      "romaji": "kitto dareka ga shindatte waratte"
     },
     {
       "id": 40,
-      "ruby": "裏[うら]では誇[ほこ]れんことやってんぜ?",
+      "start": 97.78,
+      "end": 99.72,
+      "rubyText": "裏[うら]では誇[ほこ]れんことやってんぜ?",
       "translation": "뒤에서는 떳떳하지 못한 짓 하고 있을 걸?",
-      "romaji": "ura de wa hokoren koto yatten ze?",
-      "startTime": 97.78,
-      "endTime": 99.72
+      "romaji": "ura de wa hokoren koto yatten ze?"
     },
     {
       "id": 41,
-      "ruby": "ペラペラ中身[なかみ]無[な]しのラブソング。",
+      "start": 99.72,
+      "end": 101.39,
+      "rubyText": "ペラペラ中身[なかみ]無[な]しのラブソング。",
       "translation": "진정성 없이 재잘대는 러브송.",
-      "romaji": "perapera nakami nashi no rabusongu.",
-      "startTime": 99.72,
-      "endTime": 101.39
+      "romaji": "perapera nakami nashi no rabusongu."
     },
     {
       "id": 42,
-      "ruby": "腐[くさ]る心[こころ]で金[かね]募[つの]る道具[どうぐ]。",
+      "start": 101.39,
+      "end": 103.09,
+      "rubyText": "腐[くさ]る心[こころ]で金[かね]募[つの]る道具[どうぐ]。",
       "translation": "썩어빠진 마음으로 돈을 모으는 도구.",
-      "romaji": "kusaru kokoro de kane tsunoru dōgu.",
-      "startTime": 101.39,
-      "endTime": 103.09
+      "romaji": "kusaru kokoro de kane tsunoru dōgu."
     },
     {
       "id": 43,
-      "ruby": "だらだら回[まわ]る。",
+      "start": 103.09,
+      "end": 104.32,
+      "rubyText": "だらだら回[まわ]る。",
       "translation": "질질 흘리며 돌아다녀.",
-      "romaji": "daradara mawaru.",
-      "startTime": 103.09,
-      "endTime": 104.32
+      "romaji": "daradara mawaru."
     },
     {
       "id": 44,
-      "ruby": "ペットボトル捨[す]てる一欠片[ひとかけら]の倫理[りんり]。",
+      "start": 104.32,
+      "end": 106.66,
+      "rubyText": "ペットボトル捨[す]てる一欠片[ひとかけら]の倫理[りんり]。",
       "translation": "페트병을 버리는 한 조각 윤리를.",
-      "romaji": "pettobotoru suteru hitokakera no rinri.",
-      "startTime": 104.32,
-      "endTime": 106.66
+      "romaji": "pettobotoru suteru hitokakera no rinri."
     },
     {
       "id": 45,
-      "ruby": "飛[と]ぶ鳥[とり]跡[あと]を濁[にご]さず。",
+      "start": 106.66,
+      "end": 108.16,
+      "rubyText": "飛[と]ぶ鳥[とり]跡[あと]を濁[にご]さず。",
       "translation": "'날아가는 새는 흔적을 남기지 않는다.'",
-      "romaji": "tobu tori ato o nigosazu.",
-      "startTime": 106.66,
-      "endTime": 108.16
+      "romaji": "tobu tori ato o nigosazu."
     },
     {
       "id": 46,
-      "ruby": "人[ひと]に翼[つばさ]は無[な]いのさ。",
+      "start": 108.16,
+      "end": 109.83,
+      "rubyText": "人[ひと]に翼[つばさ]は無[な]いのさ。",
       "translation": "인간에게 날개는 없어.",
-      "romaji": "hito ni tsubasa wa nai no sa.",
-      "startTime": 108.16,
-      "endTime": 109.83
+      "romaji": "hito ni tsubasa wa nai no sa."
     },
     {
       "id": 47,
-      "ruby": "面白[おもしろ]いのが",
+      "start": 109.83,
+      "end": 111.09,
+      "rubyText": "面白[おもしろ]いのが",
       "translation": "재미있는 건",
-      "romaji": "omoshiroi no ga",
-      "startTime": 109.83,
-      "endTime": 111.09
+      "romaji": "omoshiroi no ga"
     },
     {
       "id": 48,
-      "ruby": "どれだけ時計[とけい]が前[まえ]に進[すす]んでもずっと",
+      "start": 111.09,
+      "end": 113.23,
+      "rubyText": "どれだけ時計[とけい]が前[まえ]に進[すす]んでもずっと",
       "translation": "시곗바늘이 아무리 앞으로 나아가도",
-      "romaji": "doredake tokei ga mae ni susunde mo zutto",
-      "startTime": 111.09,
-      "endTime": 113.23
+      "romaji": "doredake tokei ga mae ni susunde mo zutto"
     },
     {
       "id": 49,
-      "ruby": "後悔[こうかい]、未[いま]だ先立[さきだ]たないまま。",
+      "start": 113.23,
+      "end": 116.17,
+      "rubyText": "後悔[こうかい]、未[いま]だ先立[さきだ]たないまま。",
       "translation": "후회는, 여전히 해봤자 소용 없다는 거야.",
-      "romaji": "kōkai, imada sakidatanai mama.",
-      "startTime": 113.23,
-      "endTime": 116.17
+      "romaji": "kōkai, imada sakidatanai mama."
     },
     {
       "id": 50,
-      "ruby": "あーあ。笑[わら]。",
+      "start": 116.17,
+      "end": 120.0,
+      "rubyText": "あーあ。笑[わら]。",
       "translation": "아-아. 웃음.",
-      "romaji": "ā-a. wara.",
-      "startTime": 116.17,
-      "endTime": 120.0
+      "romaji": "ā-a. wara."
     },
     {
       "id": 51,
-      "ruby": "死神[しにがみ]の唄[うた]",
+      "start": 130.05,
+      "end": 136.49,
+      "rubyText": "死神[しにがみ]の唄[うた]",
       "translation": "사신의 노래",
-      "romaji": "shinigami no uta",
-      "startTime": 130.05,
-      "endTime": 136.49
+      "romaji": "shinigami no uta"
     },
     {
       "id": 52,
-      "ruby": "死神[しにがみ]の唄[うた]",
+      "start": 136.49,
+      "end": 140.0,
+      "rubyText": "死神[しにがみ]の唄[うた]",
       "translation": "사신의 노래",
-      "romaji": "shinigami no uta",
-      "startTime": 136.49,
-      "endTime": 140.0
+      "romaji": "shinigami no uta"
     },
     {
       "id": 53,
-      "ruby": "死神[しにがみ]の唄[うた]",
+      "start": 140.0,
+      "end": 143.73,
+      "rubyText": "死神[しにがみ]の唄[うた]",
       "translation": "사신의 노래",
-      "romaji": "shinigami no uta",
-      "startTime": 140.0,
-      "endTime": 143.73
+      "romaji": "shinigami no uta"
     },
     {
       "id": 54,
-      "ruby": "死神[しにがみ]の唄[うた]が始[はじ]まる前[まえ]に",
+      "start": 154.24,
+      "end": 155.47,
+      "rubyText": "死神[しにがみ]の唄[うた]が始[はじ]まる前[まえ]に",
       "translation": "사신의 노래가 시작되기 전에",
-      "romaji": "shinigami no uta ga hajimaru mae ni",
-      "startTime": 154.24,
-      "endTime": 155.47
+      "romaji": "shinigami no uta ga hajimaru mae ni"
     },
     {
       "id": 55,
-      "ruby": "面[めん]を剥[は]がして!",
+      "start": 155.47,
+      "end": 156.51,
+      "rubyText": "面[めん]を剥[は]がして!",
       "translation": "낯짝을 드러내!",
-      "romaji": "men o hagashite!",
-      "startTime": 155.47,
-      "endTime": 156.51
+      "romaji": "men o hagashite!"
     },
     {
       "id": 56,
-      "ruby": "三途[さんず]の川[かわ]の水面[みなも]に映[うつ]る",
+      "start": 143.73,
+      "end": 145.33,
+      "rubyText": "三途[さんず]の川[かわ]の水面[みなも]に映[うつ]る",
       "translation": "[삼도천 수면에 비치는]",
-      "romaji": "sanzu no kawa no minamo ni utsuru",
-      "startTime": 143.73,
-      "endTime": 145.33
+      "romaji": "sanzu no kawa no minamo ni utsuru"
     },
     {
       "id": 57,
-      "ruby": "残[のこ]された憎悪[ぞうお]。",
+      "start": 145.33,
+      "end": 146.16,
+      "rubyText": "残[のこ]された憎悪[ぞうお]。",
       "translation": "[남겨진 증오.]",
-      "romaji": "nokosareta zōo.",
-      "startTime": 145.33,
-      "endTime": 146.16
+      "romaji": "nokosareta zōo."
     },
     {
       "id": 58,
-      "ruby": "鬼[おに]宿[やど]る顔[かお]。",
+      "start": 146.16,
+      "end": 147.03,
+      "rubyText": "鬼[おに]宿[やど]る顔[かお]。",
       "translation": "[악마가 씌인 얼굴.]",
-      "romaji": "oni yadoru kao.",
-      "startTime": 146.16,
-      "endTime": 147.03
+      "romaji": "oni yadoru kao."
     },
     {
       "id": 59,
-      "ruby": "小[ちい]さな背中[せなか]。",
+      "start": 147.03,
+      "end": 147.76,
+      "rubyText": "小[ちい]さな背中[せなか]。",
       "translation": "[작은 몸집.]",
-      "romaji": "chiisana senaka.",
-      "startTime": 147.03,
-      "endTime": 147.76
+      "romaji": "chiisana senaka."
     },
     {
       "id": 60,
-      "ruby": "謝罪[しゃざい]はいらない。",
+      "start": 147.76,
+      "end": 148.7,
+      "rubyText": "謝罪[しゃざい]はいらない。",
       "translation": "[사죄는 필요 없다.]",
-      "romaji": "shazai wa iranai.",
-      "startTime": 147.76,
-      "endTime": 148.7
+      "romaji": "shazai wa iranai."
     },
     {
       "id": 61,
-      "ruby": "分[わ]かっててそれを選[えら]んだんだろう?",
+      "start": 148.7,
+      "end": 150.3,
+      "rubyText": "分[わ]かっててそれを選[えら]んだんだろう?",
       "translation": "[그걸 알고서 한 선택이지 않나?]",
-      "romaji": "wakattete sore o erandan darō?",
-      "startTime": 148.7,
-      "endTime": 150.3
+      "romaji": "wakattete sore o erandan darō?"
     },
     {
       "id": 62,
-      "ruby": "泣[な]きながら振[ふ]り返[かえ]るお前[まえ]を",
+      "start": 150.3,
+      "end": 152.0,
+      "rubyText": "泣[な]きながら振[ふ]り返[かえ]るお前[まえ]を",
       "translation": "[울면서 과거를 돌아보는 널]",
-      "romaji": "nakinagara furikaeru omae o",
-      "startTime": 150.3,
-      "endTime": 152.0
+      "romaji": "nakinagara furikaeru omae o"
     },
     {
       "id": 63,
-      "ruby": "俺[おれ]たちは押[お]してやるのさ。",
+      "start": 152.0,
+      "end": 153.27,
+      "rubyText": "俺[おれ]たちは押[お]してやるのさ。",
       "translation": "[우리는 밀어줄 뿐이다.]",
-      "romaji": "oretachi wa oshite yaru no sa.",
-      "startTime": 152.0,
-      "endTime": 153.27
+      "romaji": "oretachi wa oshite yaru no sa."
     },
     {
       "id": 64,
-      "ruby": "泥[どろ]のような温[ぬる]い手[て]で",
+      "start": 153.27,
+      "end": 154.64,
+      "rubyText": "泥[どろ]のような温[ぬる]い手[て]で",
       "translation": "[진흙 같은 미적지근한 손으로]",
-      "romaji": "doro no yō na nurui te de",
-      "startTime": 153.27,
-      "endTime": 154.64
+      "romaji": "doro no yō na nurui te de"
     },
     {
       "id": 65,
-      "ruby": "お前[まえ]の背中[せなか]を押[お]してやるのさ。",
+      "start": 154.64,
+      "end": 156.51,
+      "rubyText": "お前[まえ]の背中[せなか]を押[お]してやるのさ。",
       "translation": "[네 등을 밀어줄 뿐이다.]",
-      "romaji": "omae no senaka o oshite yaru no sa.",
-      "startTime": 154.64,
-      "endTime": 156.51
+      "romaji": "omae no senaka o oshite yaru no sa."
     },
     {
       "id": 66,
-      "ruby": "瞑目[めいもく]はハイライト。",
+      "start": 156.51,
+      "end": 158.18,
+      "rubyText": "瞑目[めいもく]はハイライト。",
       "translation": "눈을 감는 건 '하이라이트'.",
-      "romaji": "meimoku wa hairaito.",
-      "startTime": 156.51,
-      "endTime": 158.18
+      "romaji": "meimoku wa hairaito."
     },
     {
       "id": 67,
-      "ruby": "照[て]らす月[つき]が奇麗[きれい]で。",
+      "start": 158.18,
+      "end": 160.78,
+      "rubyText": "照[て]らす月[つき]が奇麗[きれい]で。",
       "translation": "드리우는 달빛이 아름다워서.",
-      "romaji": "terasu tsuki ga kirei de.",
-      "startTime": 158.18,
-      "endTime": 160.78
+      "romaji": "terasu tsuki ga kirei de."
     },
     {
       "id": 68,
-      "ruby": "涙[なみだ]の彼[かれ]が叫[さけ]び続[つづ]ける理由[りゆう]の",
+      "start": 160.78,
+      "end": 163.95,
+      "rubyText": "涙[なみだ]の彼[かれ]が叫[さけ]び続[つづ]ける理由[りゆう]の",
       "translation": "눈물지은 그가 계속 소리치는 이유에",
-      "romaji": "namida no kare ga sakebitsudzukeru riyū no",
-      "startTime": 160.78,
-      "endTime": 163.95
+      "romaji": "namida no kare ga sakebitsudzukeru riyū no"
     },
     {
       "id": 69,
-      "ruby": "意味[いみ]なんて無[な]くとも。",
+      "start": 163.95,
+      "end": 165.41,
+      "rubyText": "意味[いみ]なんて無[な]くとも。",
       "translation": "의미 따위 없더라도.",
-      "romaji": "imi nante naku tomo.",
-      "startTime": 163.95,
-      "endTime": 165.41
+      "romaji": "imi nante naku tomo."
     },
     {
       "id": 70,
-      "ruby": "鼻[はな]を抜[ぬ]ける",
+      "start": 165.41,
+      "end": 166.22,
+      "rubyText": "鼻[はな]を抜[ぬ]ける",
       "translation": "언제나 내리는",
-      "romaji": "hana o nukeru",
-      "startTime": 165.41,
-      "endTime": 166.22
+      "romaji": "hana o nukeru"
     },
     {
       "id": 71,
-      "ruby": "雨[あめ]だけは",
+      "start": 166.22,
+      "end": 167.32,
+      "rubyText": "雨[あめ]だけは",
       "translation": "비만큼은",
-      "romaji": "ame dake wa",
-      "startTime": 166.22,
-      "endTime": 167.32
+      "romaji": "ame dake wa"
     },
     {
       "id": 72,
-      "ruby": "あんたが俺[おれ]を知[し]らなくとも。",
+      "start": 167.32,
+      "end": 170.69,
+      "rubyText": "あんたが俺[おれ]を知[し]らなくとも。",
       "translation": "당신이 나를 알지 못한다 해도.",
-      "romaji": "anta ga ore o shiranaku tomo.",
-      "startTime": 167.32,
-      "endTime": 170.69
+      "romaji": "anta ga ore o shiranaku tomo."
     },
     {
       "id": 73,
-      "ruby": "てらてら揺[ゆ]れる",
+      "start": 170.69,
+      "end": 172.36,
+      "rubyText": "てらてら揺[ゆ]れる",
       "translation": "번질번질 일렁이며",
-      "romaji": "teratera yureru",
-      "startTime": 170.69,
-      "endTime": 172.36
+      "romaji": "teratera yureru"
     },
     {
       "id": 74,
-      "ruby": "衒[てら]う衒[てら]うステイト",
+      "start": 172.36,
+      "end": 173.62,
+      "rubyText": "衒[てら]う衒[てら]うステイト",
       "translation": "으스대는 스테이트",
-      "romaji": "terau terau suteito",
-      "startTime": 172.36,
-      "endTime": 173.62
+      "romaji": "terau terau suteito"
     },
     {
       "id": 75,
-      "ruby": "気[き]が触[ふ]れる",
+      "start": 173.62,
+      "end": 174.06,
+      "rubyText": "気[き]が触[ふ]れる",
       "translation": "정신이 나가",
-      "romaji": "ki ga fureru",
-      "startTime": 173.62,
-      "endTime": 174.06
+      "romaji": "ki ga fureru"
     },
     {
       "id": 76,
-      "ruby": "あんた目掛[めが]けて生首[なまくび]蹴飛[けと]ばして",
+      "start": 174.06,
+      "end": 177.43,
+      "rubyText": "あんた目掛[めが]けて生首[なまくび]蹴飛[けと]ばして",
       "translation": "당신을 겨냥해 자른 목을 차 날리고서",
-      "romaji": "anta megakete namakubi ketobashite",
-      "startTime": 174.06,
-      "endTime": 177.43
+      "romaji": "anta megakete namakubi ketobashite"
     },
     {
       "id": 77,
-      "ruby": "てらてら揺[ゆ]れる",
+      "start": 177.43,
+      "end": 178.69,
+      "rubyText": "てらてら揺[ゆ]れる",
       "translation": "번질번질 일렁이는",
-      "romaji": "teratera yureru",
-      "startTime": 177.43,
-      "endTime": 178.69
+      "romaji": "teratera yureru"
     },
     {
       "id": 78,
-      "ruby": "火[ひ]が火[ひ]が消[き]える",
+      "start": 178.69,
+      "end": 179.96,
+      "rubyText": "火[ひ]が火[ひ]が消[き]える",
       "translation": "불이, 불이 꺼져",
-      "romaji": "hi ga hi ga kieru",
-      "startTime": 178.69,
-      "endTime": 179.96
+      "romaji": "hi ga hi ga kieru"
     },
     {
       "id": 79,
-      "ruby": "今[いま]消[き]える",
+      "start": 179.96,
+      "end": 180.83,
+      "rubyText": "今[いま]消[き]える",
       "translation": "지금 사라져",
-      "romaji": "ima kieru",
-      "startTime": 179.96,
-      "endTime": 180.83
+      "romaji": "ima kieru"
     },
     {
       "id": 80,
-      "ruby": "澄[す]ました顔[かお]が引[ひ]き攣[つ]るとこが見[み]たい",
+      "start": 180.83,
+      "end": 183.33,
+      "rubyText": "澄[す]ました顔[かお]が引[ひ]き攣[つ]るとこが見[み]たい",
       "translation": "시치미 떼던 얼굴이 굳는 걸 보고 싶어",
-      "romaji": "sumashita kao ga hikitsuru toko ga mitai",
-      "startTime": 180.83,
-      "endTime": 183.33
+      "romaji": "sumashita kao ga hikitsuru toko ga mitai"
     },
     {
       "id": 81,
-      "ruby": "取[と]り返[かえ]し付[つ]かず",
+      "start": 184.2,
+      "end": 185.9,
+      "rubyText": "取[と]り返[かえ]し付[つ]かず",
       "translation": "돌이키지도 못하며",
-      "romaji": "torikaeshi tsukazu",
-      "startTime": 184.2,
-      "endTime": 185.9
+      "romaji": "torikaeshi tsukazu"
     },
     {
       "id": 82,
-      "ruby": "皺[しわ]と面[めん]も消[き]えず",
+      "start": 185.9,
+      "end": 186.74,
+      "rubyText": "皺[しわ]と面[めん]も消[き]えず",
       "translation": "주름과 상판도 사라지지 않은 채",
-      "romaji": "shiwa to men mo kiezu",
-      "startTime": 185.9,
-      "endTime": 186.74
+      "romaji": "shiwa to men mo kiezu"
     },
     {
       "id": 83,
-      "ruby": "火[ひ]は揺[ゆ]れる",
+      "start": 186.74,
+      "end": 187.6,
+      "rubyText": "火[ひ]は揺[ゆ]れる",
       "translation": "불꽃은 일렁이고",
-      "romaji": "hi wa yureru",
-      "startTime": 186.74,
-      "endTime": 187.6
+      "romaji": "hi wa yureru"
     },
     {
       "id": 84,
-      "ruby": "あんた目掛[めが]けてこの手[て]を伸[の]ばして",
+      "start": 187.6,
+      "end": 190.54,
+      "rubyText": "あんた目掛[めが]けてこの手[て]を伸[の]ばして",
       "translation": "당신을 향해 이 손을 뻗어",
-      "romaji": "anta megakete kono te o nobashite",
-      "startTime": 187.6,
-      "endTime": 190.54
+      "romaji": "anta megakete kono te o nobashite"
     },
     {
       "id": 85,
-      "ruby": "てらてら揺[ゆ]れる",
+      "start": 190.97,
+      "end": 192.68,
+      "rubyText": "てらてら揺[ゆ]れる",
       "translation": "번질번질 일렁이는",
-      "romaji": "teratera yureru",
-      "startTime": 190.97,
-      "endTime": 192.68
+      "romaji": "teratera yureru"
     },
     {
       "id": 86,
-      "ruby": "火[ひ]が火[ひ]が消[き]える",
+      "start": 192.68,
+      "end": 193.94,
+      "rubyText": "火[ひ]が火[ひ]が消[き]える",
       "translation": "불이, 불이 꺼져",
-      "romaji": "hi ga hi ga kieru",
-      "startTime": 192.68,
-      "endTime": 193.94
+      "romaji": "hi ga hi ga kieru"
     },
     {
       "id": 87,
-      "ruby": "今[いま]消[き]える",
+      "start": 193.94,
+      "end": 194.38,
+      "rubyText": "今[いま]消[き]える",
       "translation": "지금 사라져",
-      "romaji": "ima kieru",
-      "startTime": 193.94,
-      "endTime": 194.38
+      "romaji": "ima kieru"
     },
     {
       "id": 88,
-      "ruby": "あんたの番[ばん]だ 転[ころ]がる顔[かお]が見[み]たい",
+      "start": 194.38,
+      "end": 196.81,
+      "rubyText": "あんたの番[ばん]だ 転[ころ]がる顔[かお]が見[み]たい",
       "translation": "당신 차례야　넘어지는 모습을 보고 싶어",
-      "romaji": "anta no ban da korogaru kao ga mitai",
-      "startTime": 194.38,
-      "endTime": 196.81
+      "romaji": "anta no ban da korogaru kao ga mitai"
     }
   ],
   "kanjiDictionary": {

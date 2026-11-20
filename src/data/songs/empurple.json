@@ -6,339 +6,339 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "Empurple",
+      "start": 2.62,
+      "end": 6.21,
+      "rubyText": "Empurple",
       "translation": "Empurple",
-      "romaji": "Empurple",
-      "startTime": 2.62,
-      "endTime": 6.21
+      "romaji": "Empurple"
     },
     {
       "id": 2,
-      "ruby": "電線[でんせん]に跨[またが]って",
+      "start": 13.21,
+      "end": 14.62,
+      "rubyText": "電線[でんせん]に跨[またが]って",
       "translation": "전선에 올라타서",
-      "romaji": "densen ni matagatte",
-      "startTime": 13.21,
-      "endTime": 14.62
+      "romaji": "densen ni matagatte"
     },
     {
       "id": 3,
-      "ruby": "明日[あした]どんな自分[じぶん]かを考[かんが]える",
+      "start": 14.62,
+      "end": 16.79,
+      "rubyText": "明日[あした]どんな自分[じぶん]かを考[かんが]える",
       "translation": "내일은 어떤 자신일지를 생각해",
-      "romaji": "ashita donna jibun ka o kangaeru",
-      "startTime": 14.62,
-      "endTime": 16.79
+      "romaji": "ashita donna jibun ka o kangaeru"
     },
     {
       "id": 4,
-      "ruby": "運命[うんめい]を匿[かくま]って",
+      "start": 16.79,
+      "end": 18.21,
+      "rubyText": "運命[うんめい]を匿[かくま]って",
       "translation": "운명을 감추어 두고",
-      "romaji": "unmei o kakumatte",
-      "startTime": 16.79,
-      "endTime": 18.21
+      "romaji": "unmei o kakumatte"
     },
     {
       "id": 5,
-      "ruby": "黒[くろ]いドレスの少女[しょうじょ]は考[かんが]える",
+      "start": 18.21,
+      "end": 20.46,
+      "rubyText": "黒[くろ]いドレスの少女[しょうじょ]は考[かんが]える",
       "translation": "검은 드레스의 소녀는 생각해",
-      "romaji": "kuroi doresu no shoujo wa kangaeru",
-      "startTime": 18.21,
-      "endTime": 20.46
+      "romaji": "kuroi doresu no shoujo wa kangaeru"
     },
     {
       "id": 6,
-      "ruby": "解答[かいとう]が錆[さ]びついた",
+      "start": 20.46,
+      "end": 21.71,
+      "rubyText": "解答[かいとう]が錆[さ]びついた",
       "translation": "해답이 녹슬었어",
-      "romaji": "kaitou ga sabitsuita",
-      "startTime": 20.46,
-      "endTime": 21.71
+      "romaji": "kaitou ga sabitsuita"
     },
     {
       "id": 7,
-      "ruby": "君[きみ]はどんな顔[かお]する花瓶[かびん]のレベッカ？",
+      "start": 21.71,
+      "end": 24.08,
+      "rubyText": "君[きみ]はどんな顔[かお]する花瓶[かびん]のレベッカ？",
       "translation": "너는 어떤 얼굴을 할래, 꽃병의 레베카?",
-      "romaji": "kimi wa donna kao suru kabin no rebekka?",
-      "startTime": 21.71,
-      "endTime": 24.08
+      "romaji": "kimi wa donna kao suru kabin no rebekka?"
     },
     {
       "id": 8,
-      "ruby": "本当[ほんとう]の私[わたし]が喉[のど]につかえてるままEmpurple",
+      "start": 24.08,
+      "end": 29.21,
+      "rubyText": "本当[ほんとう]の私[わたし]が喉[のど]につかえてるままEmpurple",
       "translation": "진실된 내가 목에 걸려있는 채로 Empurple",
-      "romaji": "hontou no watashi ga nodo ni tsukaeteru mama Empurple",
-      "startTime": 24.08,
-      "endTime": 29.21
+      "romaji": "hontou no watashi ga nodo ni tsukaeteru mama Empurple"
     },
     {
       "id": 9,
-      "ruby": "私[わたし]の左手[ひだりて]を開[あ]けてみて？",
+      "start": 33.83,
+      "end": 40.58,
+      "rubyText": "私[わたし]の左手[ひだりて]を開[あ]けてみて？",
       "translation": "내 왼손을 펼쳐 볼래?",
-      "romaji": "watashi no hidarite o akete mite?",
-      "startTime": 33.83,
-      "endTime": 40.58
+      "romaji": "watashi no hidarite o akete mite?"
     },
     {
       "id": 10,
-      "ruby": "まだ青[あお]い瞳[ひとみ]の",
+      "start": 40.58,
+      "end": 45.21,
+      "rubyText": "まだ青[あお]い瞳[ひとみ]の",
       "translation": "아직 푸른 눈동자인",
-      "romaji": "mada aoi hitomi no",
-      "startTime": 40.58,
-      "endTime": 45.21
+      "romaji": "mada aoi hitomi no"
     },
     {
       "id": 11,
-      "ruby": "私[わたし]が見[み]たら呆[あき]れるかしら",
+      "start": 46.83,
+      "end": 50.46,
+      "rubyText": "私[わたし]が見[み]たら呆[あき]れるかしら",
       "translation": "내가 본다면 어이없어 하려나",
-      "romaji": "watashi ga mitara akireru kashira",
-      "startTime": 46.83,
-      "endTime": 50.46
+      "romaji": "watashi ga mitara akireru kashira"
     },
     {
       "id": 12,
-      "ruby": "素直[すなお]な気持[きも]ちだけで生[い]きてみたい",
+      "start": 50.46,
+      "end": 53.96,
+      "rubyText": "素直[すなお]な気持[きも]ちだけで生[い]きてみたい",
       "translation": "솔직한 마음만으로 살아보고 싶어",
-      "romaji": "sunao na kimochi dake de ikite mitai",
-      "startTime": 50.46,
-      "endTime": 53.96
+      "romaji": "sunao na kimochi dake de ikite mitai"
     },
     {
       "id": 13,
-      "ruby": "手[て]を繋[つな]いだら",
+      "start": 53.96,
+      "end": 55.58,
+      "rubyText": "手[て]を繋[つな]いだら",
       "translation": "손을 잡으면",
-      "romaji": "te o tsunaidara",
-      "startTime": 53.96,
-      "endTime": 55.58
+      "romaji": "te o tsunaidara"
     },
     {
       "id": 14,
-      "ruby": "わかると良[い]いね",
+      "start": 55.58,
+      "end": 57.12,
+      "rubyText": "わかると良[い]いね",
       "translation": "알 수 있었으면 좋겠어",
-      "romaji": "wakaru to ii ne",
-      "startTime": 55.58,
-      "endTime": 57.12
+      "romaji": "wakaru to ii ne"
     },
     {
       "id": 15,
-      "ruby": "Please,Forgive me and \"Purple\"",
+      "start": 57.12,
+      "end": 59.21,
+      "rubyText": "Please,Forgive me and \"Purple\"",
       "translation": "Please, Forgive me and \"Purple\"",
-      "romaji": "Please, Forgive me and \"Purple\"",
-      "startTime": 57.12,
-      "endTime": 59.21
+      "romaji": "Please, Forgive me and \"Purple\""
     },
     {
       "id": 16,
-      "ruby": "まだ真[ま]ん中[なか]の私[わたし]Empurple",
+      "start": 59.21,
+      "end": 61.88,
+      "rubyText": "まだ真[ま]ん中[なか]の私[わたし]Empurple",
       "translation": "아직 한가운데인 나, Empurple",
-      "romaji": "mada mannaka no watashi Empurple",
-      "startTime": 59.21,
-      "endTime": 61.88
+      "romaji": "mada mannaka no watashi Empurple"
     },
     {
       "id": 17,
-      "ruby": "電線[でんせん]を切[き]り裂[さ]いて",
+      "start": 68.25,
+      "end": 69.62,
+      "rubyText": "電線[でんせん]を切[き]り裂[さ]いて",
       "translation": "전선을 가르고",
-      "romaji": "densen o kirisaite",
-      "startTime": 68.25,
-      "endTime": 69.62
+      "romaji": "densen o kirisaite"
     },
     {
       "id": 18,
-      "ruby": "黄金[おうごん]の姫[ひめ]を殺[ころ]した蛇[へび]を掴[つか]んだ",
+      "start": 69.62,
+      "end": 71.83,
+      "rubyText": "黄金[おうごん]の姫[ひめ]を殺[ころ]した蛇[へび]を掴[つか]んだ",
       "translation": "황금빛의 공주를 죽인 뱀을 잡았어",
-      "romaji": "ougon no hime o koroshita hebi o tsukanda",
-      "startTime": 69.62,
-      "endTime": 71.83
+      "romaji": "ougon no hime o koroshita hebi o tsukanda"
     },
     {
       "id": 19,
-      "ruby": "信号[しんごう]で待[ま]ちぼうけ",
+      "start": 71.83,
+      "end": 73.21,
+      "rubyText": "信号[しんごう]で待[ま]ちぼうけ",
       "translation": "신호에서 기다리다 지쳐",
-      "romaji": "shingou de machibouke",
-      "startTime": 71.83,
-      "endTime": 73.21
+      "romaji": "shingou de machibouke"
     },
     {
       "id": 20,
-      "ruby": "代[か]る代[が]る征[ゆ]く人[ひと]の背中[せなか]を見[み]て",
+      "start": 73.21,
+      "end": 74.96,
+      "rubyText": "代[か]る代[が]る征[ゆ]く人[ひと]の背中[せなか]を見[み]て",
       "translation": "번갈아 출정하는 사람의 뒷모습을 보며",
-      "romaji": "kawarugawaru yuku hito no senaka o mite",
-      "startTime": 73.21,
-      "endTime": 74.96
+      "romaji": "kawarugawaru yuku hito no senaka o mite"
     },
     {
       "id": 21,
-      "ruby": "少女[しょうじょ]の瞳[ひとみ]は曇[くも]った",
+      "start": 74.96,
+      "end": 76.46,
+      "rubyText": "少女[しょうじょ]の瞳[ひとみ]は曇[くも]った",
       "translation": "소녀의 눈동자는 흐려졌어",
-      "romaji": "shoujo no hitomi wa kumotta",
-      "startTime": 74.96,
-      "endTime": 76.46
+      "romaji": "shoujo no hitomi wa kumotta"
     },
     {
       "id": 22,
-      "ruby": "別[べつ]のアリスは既[すで]に渡[わた]ってた",
+      "start": 76.46,
+      "end": 78.21,
+      "rubyText": "別[べつ]のアリスは既[すで]に渡[わた]ってた",
       "translation": "다른 앨리스는 이미 건너고 있었어",
-      "romaji": "betsu no arisu wa sude ni watatteta",
-      "startTime": 76.46,
-      "endTime": 78.21
+      "romaji": "betsu no arisu wa sude ni watatteta"
     },
     {
       "id": 23,
-      "ruby": "五臓六腑[ごぞうろっぷ]に絡[から]む電線[でんせん]で",
+      "start": 78.21,
+      "end": 80.33,
+      "rubyText": "五臓六腑[ごぞうろっぷ]に絡[から]む電線[でんせん]で",
       "translation": "오장육부에 뒤엉킨 전선으로",
-      "romaji": "gozouroppu ni karamu densen de",
-      "startTime": 78.21,
-      "endTime": 80.33
+      "romaji": "gozouroppu ni karamu densen de"
     },
     {
       "id": 24,
-      "ruby": "あたま照[て]らしてあげようか",
+      "start": 80.33,
+      "end": 81.83,
+      "rubyText": "あたま照[て]らしてあげようか",
       "translation": "머리를 비추어 줄까",
-      "romaji": "atama terashite ageyou ka",
-      "startTime": 80.33,
-      "endTime": 81.83
+      "romaji": "atama terashite ageyou ka"
     },
     {
       "id": 25,
-      "ruby": "私[わたし]の右手[みぎのて]を開[あ]けてみて？",
+      "start": 81.83,
+      "end": 88.12,
+      "rubyText": "私[わたし]の右手[みぎのて]を開[あ]けてみて？",
       "translation": "내 오른손을 펼쳐 볼래?",
-      "romaji": "watashi no miginote o akete mite?",
-      "startTime": 81.83,
-      "endTime": 88.12
+      "romaji": "watashi no miginote o akete mite?"
     },
     {
       "id": 26,
-      "ruby": "茜色[あかねいろ]の空[そら]",
+      "start": 88.12,
+      "end": 94.5,
+      "rubyText": "茜色[あかねいろ]の空[そら]",
       "translation": "진홍빛의 하늘",
-      "romaji": "akaneiro no sora",
-      "startTime": 88.12,
-      "endTime": 94.5
+      "romaji": "akaneiro no sora"
     },
     {
       "id": 27,
-      "ruby": "あなたが見[み]たら驚[おどろ]くかしら",
+      "start": 94.5,
+      "end": 97.83,
+      "rubyText": "あなたが見[み]たら驚[おどろ]くかしら",
       "translation": "당신이 본다면 놀라려나",
-      "romaji": "anata ga mitara odoroku kashira",
-      "startTime": 94.5,
-      "endTime": 97.83
+      "romaji": "anata ga mitara odoroku kashira"
     },
     {
       "id": 28,
-      "ruby": "こんなに綺麗[きれい]だって知[し]らなくて",
+      "start": 97.83,
+      "end": 101.71,
+      "rubyText": "こんなに綺麗[きれい]だって知[し]らなくて",
       "translation": "이렇게 아름다울 줄은 몰라서",
-      "romaji": "konna ni kirei datte shiranakute",
-      "startTime": 97.83,
-      "endTime": 101.71
+      "romaji": "konna ni kirei datte shiranakute"
     },
     {
       "id": 29,
-      "ruby": "手[て]を繋[つな]いだら",
+      "start": 101.71,
+      "end": 103.46,
+      "rubyText": "手[て]を繋[つな]いだら",
       "translation": "손을 잡으면",
-      "romaji": "te o tsunaidara",
-      "startTime": 101.71,
-      "endTime": 103.46
+      "romaji": "te o tsunaidara"
     },
     {
       "id": 30,
-      "ruby": "温[あたた]かいから…",
+      "start": 103.46,
+      "end": 104.83,
+      "rubyText": "温[あたた]かいから…",
       "translation": "따뜻하니까…",
-      "romaji": "atatakai kara...",
-      "startTime": 103.46,
-      "endTime": 104.83
+      "romaji": "atatakai kara..."
     },
     {
       "id": 31,
-      "ruby": "Please,Forgive me and \"Purple\"",
+      "start": 104.83,
+      "end": 106.54,
+      "rubyText": "Please,Forgive me and \"Purple\"",
       "translation": "Please, Forgive me and \"Purple\"",
-      "romaji": "Please, Forgive me and \"Purple\"",
-      "startTime": 104.83,
-      "endTime": 106.54
+      "romaji": "Please, Forgive me and \"Purple\""
     },
     {
       "id": 32,
-      "ruby": "まだ真[ま]ん中[なか]の私[わたし]Empurple",
+      "start": 106.54,
+      "end": 108.92,
+      "rubyText": "まだ真[ま]ん中[なか]の私[わたし]Empurple",
       "translation": "아직 한가운데인 나, Empurple",
-      "romaji": "mada mannaka no watashi Empurple",
-      "startTime": 106.54,
-      "endTime": 108.92
+      "romaji": "mada mannaka no watashi Empurple"
     },
     {
       "id": 33,
-      "ruby": "まだ青[あお]いこの瞳[ひとみ]が",
+      "start": 115.71,
+      "end": 119.21,
+      "rubyText": "まだ青[あお]いこの瞳[ひとみ]が",
       "translation": "아직 파란 이 눈동자가",
-      "romaji": "mada aoi kono hitomi ga",
-      "startTime": 115.71,
-      "endTime": 119.21
+      "romaji": "mada aoi kono hitomi ga"
     },
     {
       "id": 34,
-      "ruby": "知[し]られざる色[いろ]だとして",
+      "start": 119.21,
+      "end": 122.83,
+      "rubyText": "知[し]られざる色[いろ]だとして",
       "translation": "알려지지 않은 색이라고 해서",
-      "romaji": "shirarezaru iro da to shite",
-      "startTime": 119.21,
-      "endTime": 122.83
+      "romaji": "shirarezaru iro da to shite"
     },
     {
       "id": 35,
-      "ruby": "ひた匿[かく]す茜空[あかねぞら]を",
+      "start": 122.83,
+      "end": 126.21,
+      "rubyText": "ひた匿[かく]す茜空[あかねぞら]を",
       "translation": "오로지 숨기고만 있는 진홍빛 하늘을",
-      "romaji": "hita kakusu akanezora o",
-      "startTime": 122.83,
-      "endTime": 126.21
+      "romaji": "hita kakusu akanezora o"
     },
     {
       "id": 36,
-      "ruby": "あなたなら覚[おぼ]えてるとして",
+      "start": 126.21,
+      "end": 136.96,
+      "rubyText": "あなたなら覚[おぼ]えてるとして",
       "translation": "당신이라면 기억하고 있다고 해서",
-      "romaji": "anata nara oboeteru to shite",
-      "startTime": 126.21,
-      "endTime": 136.96
+      "romaji": "anata nara oboeteru to shite"
     },
     {
       "id": 37,
-      "ruby": "大事[だいじ]なものは離[はな]さないから",
+      "start": 140.5,
+      "end": 143.96,
+      "rubyText": "大事[だいじ]なものは離[はな]さないから",
       "translation": "소중한 것은 놓지 않을 테니까",
-      "romaji": "daiji na mono wa hanasanai kara",
-      "startTime": 140.5,
-      "endTime": 143.96
+      "romaji": "daiji na mono wa hanasanai kara"
     },
     {
       "id": 38,
-      "ruby": "身体[からだ]の中[なか]でまだ壊[こわ]れている",
+      "start": 143.96,
+      "end": 147.46,
+      "rubyText": "身体[からだ]の中[なか]でまだ壊[こわ]れている",
       "translation": "몸 속에서 지금까지도 망가지고 있어",
-      "romaji": "karada no naka de mada kowarete iru",
-      "startTime": 143.96,
-      "endTime": 147.46
+      "romaji": "karada no naka de mada kowarete iru"
     },
     {
       "id": 39,
-      "ruby": "手[て]を繋[つな]いだら",
+      "start": 147.46,
+      "end": 149.08,
+      "rubyText": "手[て]を繋[つな]いだら",
       "translation": "손을 잡는다면",
-      "romaji": "te o tsunaidara",
-      "startTime": 147.46,
-      "endTime": 149.08
+      "romaji": "te o tsunaidara"
     },
     {
       "id": 40,
-      "ruby": "直[なお]してあげて",
+      "start": 149.08,
+      "end": 151.08,
+      "rubyText": "直[なお]してあげて",
       "translation": "고쳐줬으면 해",
-      "romaji": "naoshite agete",
-      "startTime": 149.08,
-      "endTime": 151.08
+      "romaji": "naoshite agete"
     },
     {
       "id": 41,
-      "ruby": "Please,Forgive me and \"Purple\"",
+      "start": 151.08,
+      "end": 152.5,
+      "rubyText": "Please,Forgive me and \"Purple\"",
       "translation": "Please, Forgive me and \"Purple\"",
-      "romaji": "Please, Forgive me and \"Purple\"",
-      "startTime": 151.08,
-      "endTime": 152.5
+      "romaji": "Please, Forgive me and \"Purple\""
     },
     {
       "id": 42,
-      "ruby": "まだ真[ま]ん中[なか]の私[わたし]Empurple",
+      "start": 152.5,
+      "end": 155.83,
+      "rubyText": "まだ真[ま]ん中[なか]の私[わたし]Empurple",
       "translation": "아직 한가운데인 나, Empurple",
-      "romaji": "mada mannaka no watashi Empurple",
-      "startTime": 152.5,
-      "endTime": 155.83
+      "romaji": "mada mannaka no watashi Empurple"
     }
   ],
   "kanjiDictionary": {

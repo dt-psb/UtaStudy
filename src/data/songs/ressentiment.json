@@ -6,451 +6,451 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "ねえ　あなたのせいだよ",
+      "start": 2.32,
+      "end": 4.32,
+      "rubyText": "ねえ　あなたのせいだよ",
       "translation": "있잖아, 당신 때문이야",
-      "romaji": "nee anata no sei da yo",
-      "startTime": 2.32,
-      "endTime": 4.32
+      "romaji": "nee anata no sei da yo"
     },
     {
       "id": 2,
-      "ruby": "こんなに苦[くる]しくなるのもさ",
+      "start": 4.32,
+      "end": 6.79,
+      "rubyText": "こんなに苦[くる]しくなるのもさ",
       "translation": "이렇게 괴로워지는 것도",
-      "romaji": "konna ni kurushiku naru no mo sa",
-      "startTime": 4.32,
-      "endTime": 6.79
+      "romaji": "konna ni kurushiku naru no mo sa"
     },
     {
       "id": 3,
-      "ruby": "ねえ　あなたのせいだよ",
+      "start": 6.92,
+      "end": 8.93,
+      "rubyText": "ねえ　あなたのせいだよ",
       "translation": "있잖아, 당신 때문이야",
-      "romaji": "nee anata no sei da yo",
-      "startTime": 6.92,
-      "endTime": 8.93
+      "romaji": "nee anata no sei da yo"
     },
     {
       "id": 4,
-      "ruby": "こんなに今[いま]笑[わら]えてるのもさ",
+      "start": 8.93,
+      "end": 11.39,
+      "rubyText": "こんなに今[いま]笑[わら]えてるのもさ",
       "translation": "지금 이렇게 웃고 있는 것도",
-      "romaji": "konna ni ima waraeteru no mo sa",
-      "startTime": 8.93,
-      "endTime": 11.39
+      "romaji": "konna ni ima waraeteru no mo sa"
     },
     {
       "id": 5,
-      "ruby": "ねえ　あなたのせいでさ",
+      "start": 11.6,
+      "end": 13.6,
+      "rubyText": "ねえ　あなたのせいでさ",
       "translation": "있잖아, 당신 때문에",
-      "romaji": "nee anata no sei de sa",
-      "startTime": 11.6,
-      "endTime": 13.6
+      "romaji": "nee anata no sei de sa"
     },
     {
       "id": 6,
-      "ruby": "明日[あした]ももうめちゃくちゃなのに",
+      "start": 13.6,
+      "end": 16.07,
+      "rubyText": "明日[あした]ももうめちゃくちゃなのに",
       "translation": "내일도 이미 엉망이 됐는데",
-      "romaji": "ashita mo mou mechakucha na no ni",
-      "startTime": 13.6,
-      "endTime": 16.07
+      "romaji": "ashita mo mou mechakucha na no ni"
     },
     {
       "id": 7,
-      "ruby": "ねえ　あなたはどうせさ",
+      "start": 16.2,
+      "end": 18.2,
+      "rubyText": "ねえ　あなたはどうせさ",
       "translation": "있잖아, 당신은 어차피",
-      "romaji": "nee anata wa douse sa",
-      "startTime": 16.2,
-      "endTime": 18.2
+      "romaji": "nee anata wa douse sa"
     },
     {
       "id": 8,
-      "ruby": "背中[せなか]しか見[み]せてくれないでしょ",
+      "start": 18.2,
+      "end": 19.67,
+      "rubyText": "背中[せなか]しか見[み]せてくれないでしょ",
       "translation": "뒷모습만 보여주겠지",
-      "romaji": "senaka shika misete kurenai desho",
-      "startTime": 18.2,
-      "endTime": 19.67
+      "romaji": "senaka shika misete kurenai desho"
     },
     {
       "id": 9,
-      "ruby": "ねえ　あなたはいいよね",
+      "start": 20.8,
+      "end": 22.81,
+      "rubyText": "ねえ　あなたはいいよね",
       "translation": "있잖아, 당신은 참 좋지?",
-      "romaji": "nee anata wa ii yo ne",
-      "startTime": 20.8,
-      "endTime": 22.81
+      "romaji": "nee anata wa ii yo ne"
     },
     {
       "id": 10,
-      "ruby": "薄[うす]く微笑[ほほえ]むだけで済[す]んで",
+      "start": 22.81,
+      "end": 25.14,
+      "rubyText": "薄[うす]く微笑[ほほえ]むだけで済[す]んで",
       "translation": "옅게 미소짓기만 하면 끝나서",
-      "romaji": "usuku hohoemu dake de sunde",
-      "startTime": 22.81,
-      "endTime": 25.14
+      "romaji": "usuku hohoemu dake de sunde"
     },
     {
       "id": 11,
-      "ruby": "ねえ　あなたはいいよね",
+      "start": 25.41,
+      "end": 27.28,
+      "rubyText": "ねえ　あなたはいいよね",
       "translation": "있잖아, 당신은 참 좋지?",
-      "romaji": "nee anata wa ii yo ne",
-      "startTime": 25.41,
-      "endTime": 27.28
+      "romaji": "nee anata wa ii yo ne"
     },
     {
       "id": 12,
-      "ruby": "誰[だれ]かが助[たす]けてくれるもんね",
+      "start": 27.28,
+      "end": 29.68,
+      "rubyText": "誰[だれ]かが助[たす]けてくれるもんね",
       "translation": "다른 사람들이 도와줄 테니까",
-      "romaji": "dareka ga tasukete kureru mon ne",
-      "startTime": 27.28,
-      "endTime": 29.68
+      "romaji": "dareka ga tasukete kureru mon ne"
     },
     {
       "id": 13,
-      "ruby": "ねえ　あなたはいいよね",
+      "start": 30.01,
+      "end": 31.88,
+      "rubyText": "ねえ　あなたはいいよね",
       "translation": "있잖아, 당신은 참 좋지?",
-      "romaji": "nee anata wa ii yo ne",
-      "startTime": 30.01,
-      "endTime": 31.88
+      "romaji": "nee anata wa ii yo ne"
     },
     {
       "id": 14,
-      "ruby": "悲劇[ひげき]の証人[しょうにん]がいるもんね",
+      "start": 31.88,
+      "end": 34.28,
+      "rubyText": "悲劇[ひげき]の証人[しょうにん]がいるもんね",
       "translation": "비극의 증인이 있잖아",
-      "romaji": "higeki no shounin ga iru mon ne",
-      "startTime": 31.88,
-      "endTime": 34.28
+      "romaji": "higeki no shounin ga iru mon ne"
     },
     {
       "id": 15,
-      "ruby": "ねえ　そんなあなたがどうして",
+      "start": 34.69,
+      "end": 36.49,
+      "rubyText": "ねえ　そんなあなたがどうして",
       "translation": "있잖아, 그런 당신이 왜 그러는 거야?",
-      "romaji": "nee sonna anata ga doushite",
-      "startTime": 34.69,
-      "endTime": 36.49
+      "romaji": "nee sonna anata ga doushite"
     },
     {
       "id": 16,
-      "ruby": "芝居[しばい]ならばやめにしてよ",
+      "start": 36.49,
+      "end": 39.12,
+      "rubyText": "芝居[しばい]ならばやめにしてよ",
       "translation": "연기하고 있는 거라면 그만해",
-      "romaji": "shibai naraba yame ni shite yo",
-      "startTime": 36.49,
-      "endTime": 39.12
+      "romaji": "shibai naraba yame ni shite yo"
     },
     {
       "id": 17,
-      "ruby": "あなただけは",
+      "start": 39.26,
+      "end": 40.86,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 39.26,
-      "endTime": 40.86
+      "romaji": "anata dake wa"
     },
     {
       "id": 18,
-      "ruby": "手[て]を差[さ]し伸[の]べると思[おも]っていたのに",
+      "start": 40.86,
+      "end": 43.26,
+      "rubyText": "手[て]を差[さ]し伸[の]べると思[おも]っていたのに",
       "translation": "손을 뻗어줄 거라 생각했는데",
-      "romaji": "te o sashinoberu to omotte ita no ni",
-      "startTime": 40.86,
-      "endTime": 43.26
+      "romaji": "te o sashinoberu to omotte ita no ni"
     },
     {
       "id": 19,
-      "ruby": "あなただけは",
+      "start": 43.33,
+      "end": 45.2,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 43.33,
-      "endTime": 45.2
+      "romaji": "anata dake wa"
     },
     {
       "id": 20,
-      "ruby": "そんな事[こと]言[い]わないと信[しん]じてたのに",
+      "start": 45.2,
+      "end": 47.2,
+      "rubyText": "そんな事[こと]言[い]わないと信[しん]じてたのに",
       "translation": "그런 말 안 할 거라 믿었는데",
-      "romaji": "sonna koto iwanai to shinjiteta no ni",
-      "startTime": 45.2,
-      "endTime": 47.2
+      "romaji": "sonna koto iwanai to shinjiteta no ni"
     },
     {
       "id": 21,
-      "ruby": "あなただけは",
+      "start": 47.93,
+      "end": 50.27,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 47.93,
-      "endTime": 50.27
+      "romaji": "anata dake wa"
     },
     {
       "id": 22,
-      "ruby": "穢[けが]れた思考[しこう]そのものも知[し]らずに",
+      "start": 50.27,
+      "end": 52.27,
+      "rubyText": "穢[けが]れた思考[しこう]そのものも知[し]らずに",
       "translation": "더럽혀진 생각 따위는 알지 못한 채",
-      "romaji": "kegareta shikou sono mono mo shirazu ni",
-      "startTime": 50.27,
-      "endTime": 52.27
+      "romaji": "kegareta shikou sono mono mo shirazu ni"
     },
     {
       "id": 23,
-      "ruby": "あなただけは",
+      "start": 52.47,
+      "end": 54.8,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 52.47,
-      "endTime": 54.8
+      "romaji": "anata dake wa"
     },
     {
       "id": 24,
-      "ruby": "笑[わら]っているのだと信[しん]じていたのに",
+      "start": 54.8,
+      "end": 56.87,
+      "rubyText": "笑[わら]っているのだと信[しん]じていたのに",
       "translation": "웃고 있는 거라고 믿고 있었는데",
-      "romaji": "waratte iru no da to shinjite ita no ni",
-      "startTime": 54.8,
-      "endTime": 56.87
+      "romaji": "waratte iru no da to shinjite ita no ni"
     },
     {
       "id": 25,
-      "ruby": "あなただけは",
+      "start": 57.14,
+      "end": 57.74,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 57.14,
-      "endTime": 57.74
+      "romaji": "anata dake wa"
     },
     {
       "id": 26,
-      "ruby": "衝動[しょうどう]が身[み]を焦[こ]がす",
+      "start": 66.68,
+      "end": 68.99,
+      "rubyText": "衝動[しょうどう]が身[み]を焦[こ]がす",
       "translation": "충동이 속을 태우고",
-      "romaji": "shoudou ga mi o kogasu",
-      "startTime": 66.68,
-      "endTime": 68.99
+      "romaji": "shoudou ga mi o kogasu"
     },
     {
       "id": 27,
-      "ruby": "感情[かんじょう]が喉[のど]に張[は]り付[つ]いている",
+      "start": 68.99,
+      "end": 71.19,
+      "rubyText": "感情[かんじょう]が喉[のど]に張[は]り付[つ]いている",
       "translation": "감정이 목에 달라붙어있어",
-      "romaji": "kanjou ga nodo ni haritsuite iru",
-      "startTime": 68.99,
-      "endTime": 71.19
+      "romaji": "kanjou ga nodo ni haritsuite iru"
     },
     {
       "id": 28,
-      "ruby": "この痛[いた]みだって奪[うば]わせないよ",
+      "start": 71.45,
+      "end": 73.59,
+      "rubyText": "この痛[いた]みだって奪[うば]わせないよ",
       "translation": "이 아픔도 빼앗기지 않을 거야",
-      "romaji": "kono itami datte ubawasenai yo",
-      "startTime": 71.45,
-      "endTime": 73.59
+      "romaji": "kono itami datte ubawasenai yo"
     },
     {
       "id": 29,
-      "ruby": "僕[ぼく]だけの存在証明[そんざいしょうめい]なんだ",
+      "start": 73.59,
+      "end": 76.06,
+      "rubyText": "僕[ぼく]だけの存在証明[そんざいしょうめい]なんだ",
       "translation": "나만의 존재 증명이란 말이야",
-      "romaji": "boku dake no sonzai shoumei na n da",
-      "startTime": 73.59,
-      "endTime": 76.06
+      "romaji": "boku dake no sonzai shoumei na n da"
     },
     {
       "id": 30,
-      "ruby": "言葉[ことば]が出[で]ないのも",
+      "start": 76.19,
+      "end": 77.26,
+      "rubyText": "言葉[ことば]が出[で]ないのも",
       "translation": "말이 안 나오는 것도",
-      "romaji": "kotoba ga denai no mo",
-      "startTime": 76.19,
-      "endTime": 77.26
+      "romaji": "kotoba ga denai no mo"
     },
     {
       "id": 31,
-      "ruby": "胸[むね]が痛[いた]むのも",
+      "start": 77.26,
+      "end": 78.39,
+      "rubyText": "胸[むね]が痛[いた]むのも",
       "translation": "가슴이 아픈 것도",
-      "romaji": "mune ga itamu no mo",
-      "startTime": 77.26,
-      "endTime": 78.39
+      "romaji": "mune ga itamu no mo"
     },
     {
       "id": 32,
-      "ruby": "笑顔[えがお]を見[み]る度[たび]苦[くる]しくなるのも全部[ぜんぶ]",
+      "start": 78.39,
+      "end": 81.93,
+      "rubyText": "笑顔[えがお]を見[み]る度[たび]苦[くる]しくなるのも全部[ぜんぶ]",
       "translation": "웃는 모습을 볼 때마다 괴로워지는 것도 전부",
-      "romaji": "egao o miru tabi kurushiku naru no mo zenbu",
-      "startTime": 78.39,
-      "endTime": 81.93
+      "romaji": "egao o miru tabi kurushiku naru no mo zenbu"
     },
     {
       "id": 33,
-      "ruby": "全部[ぜんぶ]、あなたのせいだ",
+      "start": 82.47,
+      "end": 84.27,
+      "rubyText": "全部[ぜんぶ]、あなたのせいだ",
       "translation": "전부 다, 당신 때문이야",
-      "romaji": "zenbu, anata no sei da",
-      "startTime": 82.47,
-      "endTime": 84.27
+      "romaji": "zenbu, anata no sei da"
     },
     {
       "id": 34,
-      "ruby": "あなただけが",
+      "start": 85.47,
+      "end": 87.07,
+      "rubyText": "あなただけが",
       "translation": "당신만이",
-      "romaji": "anata dake ga",
-      "startTime": 85.47,
-      "endTime": 87.07
+      "romaji": "anata dake ga"
     },
     {
       "id": 35,
-      "ruby": "分[わ]かってくれると思[おも]っていたのに",
+      "start": 87.07,
+      "end": 89.34,
+      "rubyText": "分[わ]かってくれると思[おも]っていたのに",
       "translation": "이해해줄 거라고 생각했는데",
-      "romaji": "wakatte kureru to omotte ita no ni",
-      "startTime": 87.07,
-      "endTime": 89.34
+      "romaji": "wakatte kureru to omotte ita no ni"
     },
     {
       "id": 36,
-      "ruby": "あなただけが",
+      "start": 89.47,
+      "end": 91.74,
+      "rubyText": "あなただけが",
       "translation": "당신만이",
-      "romaji": "anata dake ga",
-      "startTime": 89.47,
-      "endTime": 91.74
+      "romaji": "anata dake ga"
     },
     {
       "id": 37,
-      "ruby": "認[みと]めてくれると信[しん]じていたのに",
+      "start": 91.74,
+      "end": 94.01,
+      "rubyText": "認[みと]めてくれると信[しん]じていたのに",
       "translation": "인정해줄 거라고 믿었는데",
-      "romaji": "mitomete kureru to shinjite ita no ni",
-      "startTime": 91.74,
-      "endTime": 94.01
+      "romaji": "mitomete kureru to shinjite ita no ni"
     },
     {
       "id": 38,
-      "ruby": "あなただけが",
+      "start": 94.21,
+      "end": 96.35,
+      "rubyText": "あなただけが",
       "translation": "당신만이",
-      "romaji": "anata dake ga",
-      "startTime": 94.21,
-      "endTime": 96.35
+      "romaji": "anata dake ga"
     },
     {
       "id": 39,
-      "ruby": "僕[ぼく]の前[まえ]を歩[ある]き続[つづ]けていたのに",
+      "start": 96.35,
+      "end": 98.52,
+      "rubyText": "僕[ぼく]の前[まえ]を歩[ある]き続[つづ]けていたのに",
       "translation": "계속 나보다 앞서 걷고 있었는데",
-      "romaji": "boku no mae o arukitsuzukete ita no ni",
-      "startTime": 96.35,
-      "endTime": 98.52
+      "romaji": "boku no mae o arukitsuzukete ita no ni"
     },
     {
       "id": 40,
-      "ruby": "あなただけが",
+      "start": 98.72,
+      "end": 100.88,
+      "rubyText": "あなただけが",
       "translation": "당신만이",
-      "romaji": "anata dake ga",
-      "startTime": 98.72,
-      "endTime": 100.88
+      "romaji": "anata dake ga"
     },
     {
       "id": 41,
-      "ruby": "僕[ぼく]の方[ほう]を見[み]てくれやしなかった",
+      "start": 100.88,
+      "end": 103.09,
+      "rubyText": "僕[ぼく]の方[ほう]を見[み]てくれやしなかった",
       "translation": "내 쪽으로는 눈길 한 번 주지 않았던",
-      "romaji": "boku no hou o mite kure ya shinakatta",
-      "startTime": 100.88,
-      "endTime": 103.09
+      "romaji": "boku no hou o mite kure ya shinakatta"
     },
     {
       "id": 42,
-      "ruby": "あなただけが",
+      "start": 103.32,
+      "end": 105.06,
+      "rubyText": "あなただけが",
       "translation": "당신만이",
-      "romaji": "anata dake ga",
-      "startTime": 103.32,
-      "endTime": 105.06
+      "romaji": "anata dake ga"
     },
     {
       "id": 43,
-      "ruby": "あなただけが",
+      "start": 117.07,
+      "end": 120.07,
+      "rubyText": "あなただけが",
       "translation": "당신만이",
-      "romaji": "anata dake ga",
-      "startTime": 117.07,
-      "endTime": 120.07
+      "romaji": "anata dake ga"
     },
     {
       "id": 44,
-      "ruby": "僕[ぼく]に消[き]えない傷[きず]を残[のこ]したんだ",
+      "start": 120.07,
+      "end": 121.81,
+      "rubyText": "僕[ぼく]に消[き]えない傷[きず]を残[のこ]したんだ",
       "translation": "나한테 지워지지 않는 상처를 남겼어",
-      "romaji": "boku ni kienai kizu o nokoshita n da",
-      "startTime": 120.07,
-      "endTime": 121.81
+      "romaji": "boku ni kienai kizu o nokoshita n da"
     },
     {
       "id": 45,
-      "ruby": "あなただけは",
+      "start": 122.34,
+      "end": 123.94,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 122.34,
-      "endTime": 123.94
+      "romaji": "anata dake wa"
     },
     {
       "id": 46,
-      "ruby": "背[せ]を掴[つか]めないとわかっていたのに",
+      "start": 123.94,
+      "end": 126.34,
+      "rubyText": "背[せ]を掴[つか]めないとわかっていたのに",
       "translation": "따라잡을 수 없다는 걸 알고 있었는데",
-      "romaji": "se o tsukamenai to wakatte ita no ni",
-      "startTime": 123.94,
-      "endTime": 126.34
+      "romaji": "se o tsukamenai to wakatte ita no ni"
     },
     {
       "id": 47,
-      "ruby": "あなただけは",
+      "start": 126.41,
+      "end": 128.28,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 126.41,
-      "endTime": 128.28
+      "romaji": "anata dake wa"
     },
     {
       "id": 48,
-      "ruby": "そんな顔[かお]で笑[わら]ってほしくなかった",
+      "start": 128.28,
+      "end": 130.48,
+      "rubyText": "そんな顔[かお]で笑[わら]ってほしくなかった",
       "translation": "그런 표정으로 웃어주길 바라지 않았어",
-      "romaji": "sonna kao de waratte hoshiku nakatta",
-      "startTime": 128.28,
-      "endTime": 130.48
+      "romaji": "sonna kao de waratte hoshiku nakatta"
     },
     {
       "id": 49,
-      "ruby": "あなただけは",
+      "start": 131.01,
+      "end": 133.32,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 131.01,
-      "endTime": 133.32
+      "romaji": "anata dake wa"
     },
     {
       "id": 50,
-      "ruby": "手[て]を離[はな]さないと誓[ちか]っていたのに",
+      "start": 133.32,
+      "end": 135.32,
+      "rubyText": "手[て]を離[はな]さないと誓[ちか]っていたのに",
       "translation": "손을 놓지 않겠다고 맹세했었는데",
-      "romaji": "te o hanasanai to chikatte ita no ni",
-      "startTime": 133.32,
-      "endTime": 135.32
+      "romaji": "te o hanasanai to chikatte ita no ni"
     },
     {
       "id": 51,
-      "ruby": "あなただけは",
+      "start": 135.52,
+      "end": 137.39,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 135.52,
-      "endTime": 137.39
+      "romaji": "anata dake wa"
     },
     {
       "id": 52,
-      "ruby": "笑[わら]っているのだと信[しん]じてたのに",
+      "start": 137.39,
+      "end": 139.92,
+      "rubyText": "笑[わら]っているのだと信[しん]じてたのに",
       "translation": "웃고 있는 거라고 믿고 있었는데",
-      "romaji": "waratte iru no da to shinjiteta no ni",
-      "startTime": 137.39,
-      "endTime": 139.92
+      "romaji": "waratte iru no da to shinjiteta no ni"
     },
     {
       "id": 53,
-      "ruby": "あなただけは",
+      "start": 140.19,
+      "end": 140.79,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 140.19,
-      "endTime": 140.79
+      "romaji": "anata dake wa"
     },
     {
       "id": 54,
-      "ruby": "あなただけは",
+      "start": 154.0,
+      "end": 156.34,
+      "rubyText": "あなただけは",
       "translation": "당신만은",
-      "romaji": "anata dake wa",
-      "startTime": 154.0,
-      "endTime": 156.34
+      "romaji": "anata dake wa"
     },
     {
       "id": 55,
-      "ruby": "消[き]えたりしないと思[おも]っていたんだ",
+      "start": 156.34,
+      "end": 158.41,
+      "rubyText": "消[き]えたりしないと思[おも]っていたんだ",
       "translation": "사라지지 않을 거라고 생각했어",
-      "romaji": "kietari shinai to omotte ita n da",
-      "startTime": 156.34,
-      "endTime": 158.41
+      "romaji": "kietari shinai to omotte ita n da"
     },
     {
       "id": 56,
-      "ruby": "なんでだろうね",
+      "start": 158.74,
+      "end": 159.28,
+      "rubyText": "なんでだろうね",
       "translation": "대체 왜 그랬을까",
-      "romaji": "nande darou ne",
-      "startTime": 158.74,
-      "endTime": 159.28
+      "romaji": "nande darou ne"
     }
   ],
   "kanjiDictionary": {

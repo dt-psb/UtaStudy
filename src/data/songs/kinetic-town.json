@@ -6,235 +6,235 @@
   "lyrics": [
     {
       "id": 1,
-      "ruby": "幼[おさな]い頃[ころ]覚[おぼ]えた　無機物[むきぶつ]の優[やさ]しさは",
+      "start": 15.2,
+      "end": 22.67,
+      "rubyText": "幼[おさな]い頃[ころ]覚[おぼ]えた　無機物[むきぶつ]の優[やさ]しさは",
       "translation": "어릴 적에 배웠던 무생물의 다정함은",
-      "romaji": "osanai koro oboeta mukibutsu no yasashisa wa",
-      "startTime": 15.2,
-      "endTime": 22.67
+      "romaji": "osanai koro oboeta mukibutsu no yasashisa wa"
     },
     {
       "id": 2,
-      "ruby": "硝子[ガラス]ほど脆[もろ]くて",
+      "start": 22.67,
+      "end": 26.44,
+      "rubyText": "硝子[ガラス]ほど脆[もろ]くて",
       "translation": "유리처럼 너무나도 연약해서",
-      "romaji": "garasu hodo morokute",
-      "startTime": 22.67,
-      "endTime": 26.44
+      "romaji": "garasu hodo morokute"
     },
     {
       "id": 3,
-      "ruby": "壊[こわ]してしまいそうになった",
+      "start": 26.44,
+      "end": 30.25,
+      "rubyText": "壊[こわ]してしまいそうになった",
       "translation": "부서뜨려 버릴 것만 같았어",
-      "romaji": "kowashite shimai sou ni natta",
-      "startTime": 26.44,
-      "endTime": 30.25
+      "romaji": "kowashite shimai sou ni natta"
     },
     {
       "id": 4,
-      "ruby": "どうやら今日[きょう]は　煙日和[けむりびより]らしい",
+      "start": 30.25,
+      "end": 35.09,
+      "rubyText": "どうやら今日[きょう]は　煙日和[けむりびより]らしい",
       "translation": "오늘은 왠지 그을음이 흐르는 날이래",
-      "romaji": "douyara kyou wa kemuribiyori rashii",
-      "startTime": 30.25,
-      "endTime": 35.09
+      "romaji": "douyara kyou wa kemuribiyori rashii"
     },
     {
       "id": 5,
-      "ruby": "錆[さ]びついた香[かお]りがした",
+      "start": 35.09,
+      "end": 37.59,
+      "rubyText": "錆[さ]びついた香[かお]りがした",
       "translation": "녹슨 듯한 냄새가 났어",
-      "romaji": "sabitsuita kaori ga shita",
-      "startTime": 35.09,
-      "endTime": 37.59
+      "romaji": "sabitsuita kaori ga shita"
     },
     {
       "id": 6,
-      "ruby": "スクラップから　生[う]まれた心[こころ]を",
+      "start": 37.69,
+      "end": 42.56,
+      "rubyText": "スクラップから　生[う]まれた心[こころ]を",
       "translation": "스크랩에서 태어난 마음을",
-      "romaji": "sukurappu kara umareta kokoro o",
-      "startTime": 37.69,
-      "endTime": 42.56
+      "romaji": "sukurappu kara umareta kokoro o"
     },
     {
       "id": 7,
-      "ruby": "取[と]り零[こぼ]さないように",
+      "start": 42.56,
+      "end": 45.2,
+      "rubyText": "取[と]り零[こぼ]さないように",
       "translation": "놓쳐버리지 않도록",
-      "romaji": "torikobosanai you ni",
-      "startTime": 42.56,
-      "endTime": 45.2
+      "romaji": "torikobosanai you ni"
     },
     {
       "id": 8,
-      "ruby": "壊[こわ]れかけた時計塔[とけいとう]の",
+      "start": 45.2,
+      "end": 48.87,
+      "rubyText": "壊[こわ]れかけた時計塔[とけいとう]の",
       "translation": "무너져 가는 시계탑의",
-      "romaji": "kowarekaketa tokeitou no",
-      "startTime": 45.2,
-      "endTime": 48.87
+      "romaji": "kowarekaketa tokeitou no"
     },
     {
       "id": 9,
-      "ruby": "針[はり]が重[かさ]なってく",
+      "start": 48.87,
+      "end": 52.67,
+      "rubyText": "針[はり]が重[かさ]なってく",
       "translation": "바늘이 포개어져 가네",
-      "romaji": "hari ga kasanatteku",
-      "startTime": 48.87,
-      "endTime": 52.67
+      "romaji": "hari ga kasanatteku"
     },
     {
       "id": 10,
-      "ruby": "キネティックな街[まち]で生[い]きてるんだ",
+      "start": 52.67,
+      "end": 56.34,
+      "rubyText": "キネティックな街[まち]で生[い]きてるんだ",
       "translation": "키네틱한 거리에 우리는 살아가",
-      "romaji": "kinetikku na machi de ikiterun da",
-      "startTime": 52.67,
-      "endTime": 56.34
+      "romaji": "kinetikku na machi de ikiterun da"
     },
     {
       "id": 11,
-      "ruby": "嚙[か]み合[あ]わないから楽[たの]しいんだ",
+      "start": 56.34,
+      "end": 60.18,
+      "rubyText": "嚙[か]み合[あ]わないから楽[たの]しいんだ",
       "translation": "맞물리지 않으니 즐거운 거야",
-      "romaji": "kamiawanai kara tanoshiin da",
-      "startTime": 56.34,
-      "endTime": 60.18
+      "romaji": "kamiawanai kara tanoshiin da"
     },
     {
       "id": 12,
-      "ruby": "貯[た]め込[こ]んだ熱[ねつ]で語[かた]り明[あ]かそうぜ",
+      "start": 60.18,
+      "end": 63.88,
+      "rubyText": "貯[た]め込[こ]んだ熱[ねつ]で語[かた]り明[あ]かそうぜ",
       "translation": "쌓여온 열기로 밤새 얘기하자",
-      "romaji": "tamekonda netsu de katariakasou ze",
-      "startTime": 60.18,
-      "endTime": 63.88
+      "romaji": "tamekonda netsu de katariakasou ze"
     },
     {
       "id": 13,
-      "ruby": "ここが居場所[いばしょ]なら悪[わる]くないな",
+      "start": 63.88,
+      "end": 67.72,
+      "rubyText": "ここが居場所[いばしょ]なら悪[わる]くないな",
       "translation": "여기가 우리 자리라면 나쁘지 않네",
-      "romaji": "koko ga ibasho nara warukunai na",
-      "startTime": 63.88,
-      "endTime": 67.72
+      "romaji": "koko ga ibasho nara warukunai na"
     },
     {
       "id": 14,
-      "ruby": "世界[せかい]に見[み]つからないように",
+      "start": 75.16,
+      "end": 78.93,
+      "rubyText": "世界[せかい]に見[み]つからないように",
       "translation": "세상에 들키지 않도록",
-      "romaji": "sekai ni mitsukaranai you ni",
-      "startTime": 75.16,
-      "endTime": 78.93
+      "romaji": "sekai ni mitsukaranai you ni"
     },
     {
       "id": 15,
-      "ruby": "心[こころ]は閉[と]じたままで",
+      "start": 78.93,
+      "end": 82.67,
+      "rubyText": "心[こころ]は閉[と]じたままで",
       "translation": "마음은 닫아 둔 채로",
-      "romaji": "kokoro wa tojita mama de",
-      "startTime": 78.93,
-      "endTime": 82.67
+      "romaji": "kokoro wa tojita mama de"
     },
     {
       "id": 16,
-      "ruby": "許[ゆる]されないと知[し]っても",
+      "start": 82.67,
+      "end": 86.5,
+      "rubyText": "許[ゆる]されないと知[し]っても",
       "translation": "용서 받지 못할 걸 알면서도",
-      "romaji": "yurusarenai to shittemo",
-      "startTime": 82.67,
-      "endTime": 86.5
+      "romaji": "yurusarenai to shittemo"
     },
     {
       "id": 17,
-      "ruby": "君[きみ]となら怖[こわ]くはないよ",
+      "start": 86.5,
+      "end": 90.27,
+      "rubyText": "君[きみ]となら怖[こわ]くはないよ",
       "translation": "너와 함께라면 두렵지 않아",
-      "romaji": "kimi to nara kowaku wa nai yo",
-      "startTime": 86.5,
-      "endTime": 90.27
+      "romaji": "kimi to nara kowaku wa nai yo"
     },
     {
       "id": 18,
-      "ruby": "また独[ひと]りになる夢[ゆめ]を見[み]たの",
+      "start": 94.01,
+      "end": 97.68,
+      "rubyText": "また独[ひと]りになる夢[ゆめ]を見[み]たの",
       "translation": "다시 혼자가 되는 꿈을 꾸었어",
-      "romaji": "mata hitori ni naru yume o mita no",
-      "startTime": 94.01,
-      "endTime": 97.68
+      "romaji": "mata hitori ni naru yume o mita no"
     },
     {
       "id": 19,
-      "ruby": "全部[ぜんぶ]忘[わす]れたくなるけど",
+      "start": 101.58,
+      "end": 105.22,
+      "rubyText": "全部[ぜんぶ]忘[わす]れたくなるけど",
       "translation": "전부 잊고 싶어지지만",
-      "romaji": "zenbu wasuretaku naru kedo",
-      "startTime": 101.58,
-      "endTime": 105.22
+      "romaji": "zenbu wasuretaku naru kedo"
     },
     {
       "id": 20,
-      "ruby": "壊[こわ]れかけた歯車[はぐるま]では",
+      "start": 105.22,
+      "end": 108.86,
+      "rubyText": "壊[こわ]れかけた歯車[はぐるま]では",
       "translation": "부서져가는 톱니바퀴로는",
-      "romaji": "kowarekaketa haguruma de wa",
-      "startTime": 105.22,
-      "endTime": 108.86
+      "romaji": "kowarekaketa haguruma de wa"
     },
     {
       "id": 21,
-      "ruby": "君[きみ]を救[すく]えないから",
+      "start": 108.93,
+      "end": 112.66,
+      "rubyText": "君[きみ]を救[すく]えないから",
       "translation": "너를 구할 수 없을테니까",
-      "romaji": "kimi o sukuenai kara",
-      "startTime": 108.93,
-      "endTime": 112.66
+      "romaji": "kimi o sukuenai kara"
     },
     {
       "id": 22,
-      "ruby": "キネティックな街[まち]は生[い]きてるんだ",
+      "start": 112.66,
+      "end": 116.17,
+      "rubyText": "キネティックな街[まち]は生[い]きてるんだ",
       "translation": "키네틱한 거리는 살아 움직여",
-      "romaji": "kinetikku na machi wa ikiterun da",
-      "startTime": 112.66,
-      "endTime": 116.17
+      "romaji": "kinetikku na machi wa ikiterun da"
     },
     {
       "id": 23,
-      "ruby": "動力源[どうりょくげん]は憎[にく]しみなんだ",
+      "start": 116.17,
+      "end": 120.14,
+      "rubyText": "動力源[どうりょくげん]は憎[にく]しみなんだ",
       "translation": "원동력은 바로 증오라네",
-      "romaji": "douryokugen wa nikushiminan da",
-      "startTime": 116.17,
-      "endTime": 120.14
+      "romaji": "douryokugen wa nikushiminan da"
     },
     {
       "id": 24,
-      "ruby": "背負[せお]い込[こ]んだ罪[つみ]が背中[せなか]を叩[たた]いた",
+      "start": 120.14,
+      "end": 123.87,
+      "rubyText": "背負[せお]い込[こ]んだ罪[つみ]が背中[せなか]を叩[たた]いた",
       "translation": "짊어진 죄가 등을 두드렸어",
-      "romaji": "seoikonda tsumi ga senaka o tataita",
-      "startTime": 120.14,
-      "endTime": 123.87
+      "romaji": "seoikonda tsumi ga senaka o tataita"
     },
     {
       "id": 25,
-      "ruby": "なるようになれるのなら",
+      "start": 123.87,
+      "end": 127.18,
+      "rubyText": "なるようになれるのなら",
       "translation": "될 대로 된다면야",
-      "romaji": "naru you ni nareru no nara",
-      "startTime": 123.87,
-      "endTime": 127.18
+      "romaji": "naru you ni nareru no nara"
     },
     {
       "id": 26,
-      "ruby": "キネティックな街[まち]を出[で]て行[い]こうぜ",
+      "start": 127.68,
+      "end": 131.15,
+      "rubyText": "キネティックな街[まち]を出[で]て行[い]こうぜ",
       "translation": "키네틱한 거리를 벗어나자",
-      "romaji": "kinetikku na machi o dete ikou ze",
-      "startTime": 127.68,
-      "endTime": 131.15
+      "romaji": "kinetikku na machi o dete ikou ze"
     },
     {
       "id": 27,
-      "ruby": "どこまでだって逃避行[とうひこう]さ",
+      "start": 131.15,
+      "end": 135.19,
+      "rubyText": "どこまでだって逃避行[とうひこう]さ",
       "translation": "어디까지든 도피할거야",
-      "romaji": "doko made datte touhikou sa",
-      "startTime": 131.15,
-      "endTime": 135.19
+      "romaji": "doko made datte touhikou sa"
     },
     {
       "id": 28,
-      "ruby": "躊躇[ためら]うこともない　煙[けむり]の向[む]こうで",
+      "start": 135.19,
+      "end": 138.92,
+      "rubyText": "躊躇[ためら]うこともない　煙[けむり]の向[む]こうで",
       "translation": "망설일 것도 없어, 연기 저 너머에서",
-      "romaji": "tamerau koto mo nai kemuri no mukou de",
-      "startTime": 135.19,
-      "endTime": 138.92
+      "romaji": "tamerau koto mo nai kemuri no mukou de"
     },
     {
       "id": 29,
-      "ruby": "本当[ほんとう]の居場所[いばしょ]を見[み]つけに行[い]こう",
+      "start": 138.92,
+      "end": 142.5,
+      "rubyText": "本当[ほんとう]の居場所[いばしょ]を見[み]つけに行[い]こう",
       "translation": "진짜 우리 자리를 찾으러 가자",
-      "romaji": "hontou no ibasho o mitsuke ni ikou",
-      "startTime": 138.92,
-      "endTime": 142.5
+      "romaji": "hontou no ibasho o mitsuke ni ikou"
     }
   ],
   "kanjiDictionary": {
