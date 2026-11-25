@@ -1,0 +1,979 @@
+{
+  "id": "nakiso_omajinai",
+  "title": "お呪い",
+  "artist": "なきそ feat. 花隈千冬",
+  "youtubeId": "zxYdPypVQvQ",
+  "duration": 117,
+  "lyrics": [
+    {
+      "id": 1,
+      "start": 2.57,
+      "end": 4.5,
+      "rubyText": "困[こま]っちゃうよね 困[こま]っちゃったね",
+      "translation": "곤란해지겠네 곤란해졌네"
+    },
+    {
+      "id": 2,
+      "start": 4.5,
+      "end": 6.466,
+      "rubyText": "それじゃまたね じゃ済[す]ませない",
+      "translation": "다음에 보자는 말로는 끝나지 않아"
+    },
+    {
+      "id": 3,
+      "start": 6.8,
+      "end": 9.866,
+      "rubyText": "ちょっと指先[ゆびさき] ちょんと触[ふ]れたから",
+      "translation": "잠깐 손끝이 톡 닿았으니까"
+    },
+    {
+      "id": 4,
+      "start": 9.866,
+      "end": 10.8,
+      "rubyText": "分[わ]かってるよね？",
+      "translation": "알고 있지?"
+    },
+    {
+      "id": 5,
+      "start": 11.533,
+      "end": 14.533,
+      "rubyText": "運命[うんめい]の人[ひと]は私[わたし]",
+      "translation": "운명의 사람은 나"
+    },
+    {
+      "id": 6,
+      "start": 15.266,
+      "end": 16.065,
+      "rubyText": "なっちゃいましょう",
+      "translation": "되어보자"
+    },
+    {
+      "id": 7,
+      "start": 16.065,
+      "end": 17.033,
+      "rubyText": "幸[しあわ]せに",
+      "translation": "행복하게"
+    },
+    {
+      "id": 8,
+      "start": 17.066,
+      "end": 19.1,
+      "rubyText": "お呪[まじな]いが お呪[まじな]いが",
+      "translation": "주문이, 주문이"
+    },
+    {
+      "id": 9,
+      "start": 19.1,
+      "end": 21.533,
+      "rubyText": "お呪[まじな]いが解[と]けちゃった",
+      "translation": "주문이 풀려버렸어"
+    },
+    {
+      "id": 10,
+      "start": 21.533,
+      "end": 24.266,
+      "rubyText": "解[と]けたら終[お]わりじゃないよね",
+      "translation": "풀리면 끝이라는 말은 아니겠지"
+    },
+    {
+      "id": 11,
+      "start": 24.266,
+      "end": 24.866,
+      "rubyText": "ね？",
+      "translation": "그렇지?"
+    },
+    {
+      "id": 12,
+      "start": 25.6,
+      "end": 27.466,
+      "rubyText": "お呪[まじな]いが お呪[まじな]いが",
+      "translation": "주문이, 주문이"
+    },
+    {
+      "id": 13,
+      "start": 27.466,
+      "end": 29.9,
+      "rubyText": "お呪[まじな]いが解[と]けちゃった",
+      "translation": "주문이 풀려버렸어"
+    },
+    {
+      "id": 14,
+      "start": 30.36,
+      "end": 31.39,
+      "rubyText": "解[と]けちゃったしね",
+      "translation": "풀려버렸고 응?"
+    },
+    {
+      "id": 15,
+      "start": 48.666,
+      "end": 50.466,
+      "rubyText": "どっかいって どっかいって",
+      "translation": "어디로 좀 가버려, 어디로 좀 가버려"
+    },
+    {
+      "id": 16,
+      "start": 50.466,
+      "end": 52.266,
+      "rubyText": "立[た]ち去[さ]って 居座[いすわ]らないで",
+      "translation": "멀리 가버려, 여기 눌러앉아 있지 마"
+    },
+    {
+      "id": 17,
+      "start": 52.266,
+      "end": 53.8,
+      "rubyText": "これは恋[こい]なんですか？",
+      "translation": "이건 사랑인 건가요?"
+    },
+    {
+      "id": 18,
+      "start": 53.8,
+      "end": 54.9,
+      "rubyText": "何[なん]なんですか？",
+      "translation": "대체 뭔가요?"
+    },
+    {
+      "id": 19,
+      "start": 54.9,
+      "end": 56.5,
+      "rubyText": "なんで なんで私[わたし]だけ",
+      "translation": "왜, 어째서 나만"
+    },
+    {
+      "id": 20,
+      "start": 57.0,
+      "end": 58.666,
+      "rubyText": "どっかいって どっかいって",
+      "translation": "어디로 좀 가버려, 어디로 좀 가버려"
+    },
+    {
+      "id": 21,
+      "start": 59.033,
+      "end": 60.633,
+      "rubyText": "どうか居座[いすわ]らないで",
+      "translation": "제발 여기 눌러앉아 있지 마"
+    },
+    {
+      "id": 22,
+      "start": 60.633,
+      "end": 62.033,
+      "rubyText": "ちょっと不平等[ふびょうどう]じゃない？",
+      "translation": "조금 불평등하지 않아?"
+    },
+    {
+      "id": 23,
+      "start": 62.033,
+      "end": 63.266,
+      "rubyText": "何[なん]なんですか",
+      "translation": "진짜 뭔데"
+    },
+    {
+      "id": 24,
+      "start": 63.266,
+      "end": 64.066,
+      "rubyText": "なっちゃったの？",
+      "translation": "되어버린 거야?"
+    },
+    {
+      "id": 25,
+      "start": 64.066,
+      "end": 64.933,
+      "rubyText": "幸[しあわ]せに",
+      "translation": "행복하게"
+    },
+    {
+      "id": 26,
+      "start": 65.2,
+      "end": 67.066,
+      "rubyText": "お呪[まじな]いが お呪[まじな]いが",
+      "translation": "주문이, 주문이"
+    },
+    {
+      "id": 27,
+      "start": 67.066,
+      "end": 69.5,
+      "rubyText": "お呪[まじな]いが解[と]けちゃった",
+      "translation": "주문이 풀려버렸어"
+    },
+    {
+      "id": 28,
+      "start": 69.5,
+      "end": 72.233,
+      "rubyText": "解[と]けたら終[お]わりじゃないよね",
+      "translation": "풀리면 끝이라는 말은 아니겠지"
+    },
+    {
+      "id": 29,
+      "start": 72.233,
+      "end": 72.833,
+      "rubyText": "ね？",
+      "translation": "그렇지?"
+    },
+    {
+      "id": 30,
+      "start": 73.566,
+      "end": 75.433,
+      "rubyText": "お呪[まじな]いが お呪[まじな]いが",
+      "translation": "주문이, 주문이"
+    },
+    {
+      "id": 31,
+      "start": 75.433,
+      "end": 77.866,
+      "rubyText": "お呪[まじな]いが解[と]けちゃった",
+      "translation": "주문이 풀려버렸어"
+    },
+    {
+      "id": 32,
+      "start": 78.333,
+      "end": 80.066,
+      "rubyText": "解[と]けちゃった",
+      "translation": "풀려버렸어"
+    },
+    {
+      "id": 33,
+      "start": 80.7,
+      "end": 82.0,
+      "rubyText": "困[こま]っちゃったね",
+      "translation": "곤란해졌네"
+    },
+    {
+      "id": 34,
+      "start": 82.0,
+      "end": 83.7,
+      "rubyText": "だからといって許[ゆる]さない",
+      "translation": "그렇다 해도 용서하지 않아"
+    },
+    {
+      "id": 35,
+      "start": 84.033,
+      "end": 86.533,
+      "rubyText": "ちょっと指先[ゆびさき] ちょんと触[ふ]れたから",
+      "translation": "잠깐 손끝이 톡 닿았으니까"
+    },
+    {
+      "id": 36,
+      "start": 88.266,
+      "end": 90.133,
+      "rubyText": "お呪[まじな]いが お呪[まじな]いが",
+      "translation": "주문이, 주문이"
+    },
+    {
+      "id": 37,
+      "start": 90.133,
+      "end": 92.5,
+      "rubyText": "お呪[まじな]いが解[と]けちゃった",
+      "translation": "주문이 풀려버렸어"
+    },
+    {
+      "id": 38,
+      "start": 92.5,
+      "end": 95.833,
+      "rubyText": "解[と]けても終[お]わりじゃないからね",
+      "translation": "풀렸다고 끝난 게 아니니까"
+    },
+    {
+      "id": 39,
+      "start": 96.633,
+      "end": 98.433,
+      "rubyText": "お呪[まじな]いが お呪[まじな]いが",
+      "translation": "주문이, 주문이"
+    },
+    {
+      "id": 40,
+      "start": 98.433,
+      "end": 100.566,
+      "rubyText": "お呪[まじな]いが解[と]けちゃった",
+      "translation": "주문이 풀려버렸어"
+    },
+    {
+      "id": 41,
+      "start": 100.8,
+      "end": 104.866,
+      "rubyText": "地獄[じごく]に堕[お]ちて 地獄[じごく]に堕[お]ちて",
+      "translation": "지옥에 떨어져, 지옥에 떨어져"
+    },
+    {
+      "id": 42,
+      "start": 104.866,
+      "end": 107.43,
+      "rubyText": "地獄[じごく]に、堕[お]ちろ。",
+      "translation": "지옥에, 떨어져라."
+    }
+  ],
+  "kanjiDictionary": {
+    "不": {
+      "character": "不",
+      "korean": "아니 불 / 아닐 부",
+      "kun": [],
+      "on": [
+        "フ",
+        "ブ"
+      ],
+      "meaning": "아니다, 못하다, 어긋나다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "理不尽",
+          "reading": "りふじん",
+          "meaning": "부당함, 도리에 어긋남"
+        },
+        {
+          "word": "不安",
+          "reading": "ふあん",
+          "meaning": "불안"
+        }
+      ]
+    },
+    "人": {
+      "character": "人",
+      "korean": "사람 인",
+      "kun": [
+        "ひと"
+      ],
+      "on": [
+        "ジン",
+        "ニン"
+      ],
+      "meaning": "사람, 인간",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "人間",
+          "reading": "にんげん",
+          "meaning": "인간"
+        },
+        {
+          "word": "一人",
+          "reading": "ひとり",
+          "meaning": "한 사람, 혼자"
+        }
+      ]
+    },
+    "何": {
+      "character": "何",
+      "korean": "어찌 하",
+      "kun": [
+        "なに",
+        "なん"
+      ],
+      "on": [
+        "カ"
+      ],
+      "meaning": "무엇, 무슨, 어찌",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "何か",
+          "reading": "なにか",
+          "meaning": "무언가"
+        },
+        {
+          "word": "何度",
+          "reading": "なんど",
+          "meaning": "몇 번"
+        }
+      ]
+    },
+    "先": {
+      "character": "先",
+      "korean": "먼저 선",
+      "kun": [
+        "さき",
+        "ま.ず"
+      ],
+      "on": [
+        "セン"
+      ],
+      "meaning": "먼저, 앞, 앞서다",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "先生",
+          "reading": "せんせい",
+          "meaning": "선생님"
+        },
+        {
+          "word": "先",
+          "reading": "さき",
+          "meaning": "앞, 먼저"
+        }
+      ]
+    },
+    "分": {
+      "character": "分",
+      "korean": "나눌 분",
+      "kun": [
+        "わ.ける",
+        "わ.かる"
+      ],
+      "on": [
+        "ブン",
+        "フン",
+        "ブ"
+      ],
+      "meaning": "나누다, 알다, 몫",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "分かる",
+          "reading": "わかる",
+          "meaning": "알다, 이해하다"
+        },
+        {
+          "word": "自分",
+          "reading": "じぶん",
+          "meaning": "자신, 나"
+        }
+      ]
+    },
+    "去": {
+      "character": "去",
+      "korean": "갈 거",
+      "kun": [
+        "さ.る"
+      ],
+      "on": [
+        "キョ",
+        "コ"
+      ],
+      "meaning": "가다, 떠나다, 지나가다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "過去",
+          "reading": "かこ",
+          "meaning": "과거"
+        },
+        {
+          "word": "去る",
+          "reading": "さる",
+          "meaning": "떠나다"
+        }
+      ]
+    },
+    "呪": {
+      "character": "呪",
+      "korean": "빌 주",
+      "kun": [
+        "のろ.う"
+      ],
+      "on": [
+        "ジュ"
+      ],
+      "meaning": "저주하다, 주문을 외우다",
+      "examples": [
+        {
+          "word": "呪い",
+          "reading": "のろい",
+          "meaning": "저주"
+        },
+        {
+          "word": "呪文",
+          "reading": "じゅもん",
+          "meaning": "주문"
+        }
+      ],
+      "jlptLevel": "N1"
+    },
+    "命": {
+      "character": "命",
+      "korean": "목숨 명",
+      "kun": [
+        "いのち"
+      ],
+      "on": [
+        "メイ",
+        "ミョウ"
+      ],
+      "meaning": "목숨, 명령, 운명",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "命",
+          "reading": "いのち",
+          "meaning": "목숨, 생명"
+        },
+        {
+          "word": "運命",
+          "reading": "うんめい",
+          "meaning": "운명"
+        }
+      ]
+    },
+    "困": {
+      "character": "困",
+      "korean": "곤할 곤",
+      "kun": [
+        "こま.る"
+      ],
+      "on": [
+        "コン"
+      ],
+      "meaning": "곤란하다, 난처하다, 고통받다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "困る",
+          "reading": "こまる",
+          "meaning": "곤란하다, 난처하다"
+        },
+        {
+          "word": "困難",
+          "reading": "こんなん",
+          "meaning": "곤란, 어려움"
+        }
+      ]
+    },
+    "地": {
+      "character": "地",
+      "korean": "땅 지",
+      "kun": [],
+      "on": [
+        "チ",
+        "ジ"
+      ],
+      "meaning": "땅, 대지, 마음씨, 본성",
+      "examples": [
+        {
+          "word": "地下",
+          "reading": "ちか",
+          "meaning": "지하"
+        },
+        {
+          "word": "意地",
+          "reading": "いじ",
+          "meaning": "고집, 심술, 성벽"
+        }
+      ],
+      "jlptLevel": "N4"
+    },
+    "堕": {
+      "character": "堕",
+      "korean": "떨어질 타",
+      "kun": [
+        "お.ちる",
+        "くず.す"
+      ],
+      "on": [
+        "ダ"
+      ],
+      "meaning": "떨어지다, 타락하다",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "堕天使",
+          "reading": "だてんし",
+          "meaning": "타락천사"
+        },
+        {
+          "word": "堕落",
+          "reading": "だらく",
+          "meaning": "타락"
+        }
+      ]
+    },
+    "居": {
+      "character": "居",
+      "korean": "있을 거 / 살 거",
+      "kun": [
+        "い.る",
+        "お.る"
+      ],
+      "on": [
+        "キョ"
+      ],
+      "meaning": "있다, 살다, 머무르다",
+      "examples": [
+        {
+          "word": "居る",
+          "reading": "いる",
+          "meaning": "있다, 존재하다"
+        },
+        {
+          "word": "居場所",
+          "reading": "いばしょ",
+          "meaning": "있을 곳, 거처"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "平": {
+      "character": "平",
+      "korean": "평평할 평",
+      "kun": [
+        "たい.ら",
+        "ひら"
+      ],
+      "on": [
+        "ヘイ",
+        "ビョウ"
+      ],
+      "meaning": "평평하다, 공평하다, 평민",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "平民",
+          "reading": "へいみん",
+          "meaning": "평민"
+        },
+        {
+          "word": "平等",
+          "reading": "びょうどう",
+          "meaning": "평등"
+        }
+      ]
+    },
+    "幸": {
+      "character": "幸",
+      "korean": "다행 행 / 복 행",
+      "kun": [
+        "さいわ.い",
+        "しあわ.せ"
+      ],
+      "on": [
+        "コウ"
+      ],
+      "meaning": "행복, 다행",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "幸せ",
+          "reading": "しあわせ",
+          "meaning": "행복"
+        },
+        {
+          "word": "幸福",
+          "reading": "こうふく",
+          "meaning": "행복"
+        }
+      ]
+    },
+    "座": {
+      "character": "座",
+      "korean": "자리 좌",
+      "kun": [
+        "すわ.る"
+      ],
+      "on": [
+        "ザ"
+      ],
+      "meaning": "자리, 좌석, 별자리",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "星座",
+          "reading": "せいざ",
+          "meaning": "별자리"
+        },
+        {
+          "word": "座る",
+          "reading": "すわる",
+          "meaning": "앉다"
+        },
+        {
+          "word": "口座",
+          "reading": "こうざ",
+          "meaning": "계좌"
+        }
+      ]
+    },
+    "恋": {
+      "character": "恋",
+      "korean": "그리워할 련",
+      "kun": [
+        "こい",
+        "こい.しい",
+        "こ.う"
+      ],
+      "on": [
+        "レン"
+      ],
+      "meaning": "그리워하다, 사랑, 연애",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "恋",
+          "reading": "こい",
+          "meaning": "사랑, 연애"
+        },
+        {
+          "word": "恋しい",
+          "reading": "こいしい",
+          "meaning": "그립다"
+        }
+      ]
+    },
+    "指": {
+      "character": "指",
+      "korean": "손가락 지",
+      "kun": [
+        "ゆび",
+        "さ.す"
+      ],
+      "on": [
+        "シ"
+      ],
+      "meaning": "손가락, 가리키다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "指す",
+          "reading": "さす",
+          "meaning": "가리키다"
+        },
+        {
+          "word": "指示",
+          "reading": "しじ",
+          "meaning": "지시"
+        }
+      ]
+    },
+    "済": {
+      "character": "済",
+      "korean": "건널 제",
+      "kun": [
+        "す.む",
+        "す.ます"
+      ],
+      "on": [
+        "サイ",
+        "セイ"
+      ],
+      "meaning": "끝나다, 끝내다, 해결하다, 구제하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "救済",
+          "reading": "きゅうさい",
+          "meaning": "구제"
+        },
+        {
+          "word": "済ませる",
+          "reading": "すませる",
+          "meaning": "끝마치다, 해결하다"
+        }
+      ]
+    },
+    "獄": {
+      "character": "獄",
+      "korean": "옥 옥",
+      "kun": [],
+      "on": [
+        "ゴク"
+      ],
+      "meaning": "감옥, 지옥",
+      "examples": [
+        {
+          "word": "地獄",
+          "reading": "じごく",
+          "meaning": "지옥"
+        },
+        {
+          "word": "投獄",
+          "reading": "とうごく",
+          "meaning": "투옥"
+        }
+      ],
+      "jlptLevel": "N1"
+    },
+    "私": {
+      "character": "私",
+      "korean": "사사 사 / 나 사",
+      "kun": [
+        "わたし",
+        "わたくし"
+      ],
+      "on": [
+        "シ"
+      ],
+      "meaning": "나, 저 (1인칭)",
+      "examples": [
+        {
+          "word": "私",
+          "reading": "わたし",
+          "meaning": "나, 저"
+        },
+        {
+          "word": "私立",
+          "reading": "しりつ",
+          "meaning": "사립"
+        }
+      ],
+      "jlptLevel": "N5"
+    },
+    "立": {
+      "character": "立",
+      "korean": "설 립",
+      "kun": [
+        "た.つ",
+        "た.てる"
+      ],
+      "on": [
+        "リツ",
+        "リュウ"
+      ],
+      "meaning": "서다, 세우다",
+      "examples": [
+        {
+          "word": "奮い立つ",
+          "reading": "ふるいたつ",
+          "meaning": "용기를 내다"
+        },
+        {
+          "word": "立場",
+          "reading": "たちば",
+          "meaning": "입장"
+        }
+      ],
+      "jlptLevel": "N5"
+    },
+    "等": {
+      "character": "等",
+      "korean": "같을 등",
+      "kun": [
+        "ひと.しい"
+      ],
+      "on": [
+        "トウ"
+      ],
+      "meaning": "같다, 등급, 무리",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "平等",
+          "reading": "びょうどう",
+          "meaning": "평등"
+        },
+        {
+          "word": "高等",
+          "reading": "こうとう",
+          "meaning": "고등"
+        }
+      ]
+    },
+    "終": {
+      "character": "終",
+      "korean": "마칠 종",
+      "kun": [
+        "お.わる",
+        "お.える"
+      ],
+      "on": [
+        "シュウ"
+      ],
+      "meaning": "끝나다, 마치다, 마침내",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "終わり",
+          "reading": "おわり",
+          "meaning": "끝"
+        },
+        {
+          "word": "最終",
+          "reading": "さいしゅう",
+          "meaning": "최종"
+        }
+      ]
+    },
+    "解": {
+      "character": "解",
+      "korean": "풀 해",
+      "kun": [
+        "と.く",
+        "と.ける"
+      ],
+      "on": [
+        "カイ",
+        "ゲ"
+      ],
+      "meaning": "풀다, 이해하다, 해설",
+      "examples": [
+        {
+          "word": "解決",
+          "reading": "かいけつ",
+          "meaning": "해결"
+        },
+        {
+          "word": "理解",
+          "reading": "りかい",
+          "meaning": "이해"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "触": {
+      "character": "触",
+      "korean": "닿을 촉",
+      "kun": [
+        "ふ.れる",
+        "さわ.る"
+      ],
+      "on": [
+        "ショク"
+      ],
+      "meaning": "닿다, 접촉하다, 건드리다",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "触れる",
+          "reading": "ふれる",
+          "meaning": "닿다, 접하다"
+        },
+        {
+          "word": "感触",
+          "reading": "かんしょく",
+          "meaning": "감촉"
+        }
+      ]
+    },
+    "許": {
+      "character": "許",
+      "korean": "허락할 허",
+      "kun": [
+        "ゆる.す"
+      ],
+      "on": [
+        "キョ"
+      ],
+      "meaning": "허락하다, 용서하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "許す",
+          "reading": "ゆるす",
+          "meaning": "용서하다, 허락하다"
+        },
+        {
+          "word": "許可",
+          "reading": "きょか",
+          "meaning": "허가"
+        }
+      ]
+    },
+    "運": {
+      "character": "運",
+      "korean": "옮길 운",
+      "kun": [
+        "はこ.ぶ"
+      ],
+      "on": [
+        "ウン"
+      ],
+      "meaning": "운, 운명, 옮기다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "運命",
+          "reading": "うんめい",
+          "meaning": "운명"
+        },
+        {
+          "word": "幸運",
+          "reading": "こううん",
+          "meaning": "행운"
+        }
+      ]
+    }
+  }
+}

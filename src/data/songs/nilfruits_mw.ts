@@ -404,7 +404,7 @@ export const nilfruitsMw: Song = {
       "id": 50,
       "start": 176.41,
       "end": 179.85,
-      "rubyText": "身[から]体[だ]の奥[おく]で「違[ちが]うだろ」って聴[き]こえたんだ",
+      "rubyText": "身体[からだ]の奥[おく]で「違[ちが]うだろ」って聴[き]こえたんだ",
       "translation": "몸속 깊은 곳에서 \"그게 아니잖아\"라고 들려왔어",
       "romaji": "karada no oku de chigau daro tte kikoetan da"
     },
@@ -476,7 +476,7 @@ export const nilfruitsMw: Song = {
       "id": 59,
       "start": 204.57,
       "end": 207.57,
-      "rubyText": "きっと思い出[だ]してくれ",
+      "rubyText": "きっと思[おも]い出[だ]してくれ",
       "translation": "부디 떠올려 줘",
       "romaji": "kitto omoidashite kure"
     },

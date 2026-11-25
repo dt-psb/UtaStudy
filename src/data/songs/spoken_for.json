@@ -472,7 +472,7 @@
       "id": 59,
       "start": 199.91,
       "end": 203.35,
-      "rubyText": "意[い]味[み]をもらいたくても上[うま]手[く]いかないの",
+      "rubyText": "意[い]味[み]をもらいたくても上手[うま]くいかないの",
       "romaji": "try to give me meaning, it's a losing game",
       "translation": "내게 의미를 부여해 봐, 어차피 안 되겠지만"
     },
@@ -3829,6 +3829,29 @@
           "word": "鬼",
           "reading": "おに",
           "meaning": "도깨비, 귀신"
+        }
+      ]
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
         }
       ]
     }

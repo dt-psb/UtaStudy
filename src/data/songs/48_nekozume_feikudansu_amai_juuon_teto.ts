@@ -140,7 +140,7 @@ export const song48NekozumeFeikudansuAmaiJuuonTetoSong: Song = {
       "id": 17,
       "start": 43.73,
       "end": 45.43,
-      "rubyText": "束の間[つかのま]のParty Time",
+      "rubyText": "束[つか]の間[ま]のParty Time",
       "translation": "잠깐뿐인 Party Time",
       "romaji": "tsukanoma no Party Time"
     },
@@ -332,7 +332,7 @@ export const song48NekozumeFeikudansuAmaiJuuonTetoSong: Song = {
       "id": 41,
       "start": 93.85,
       "end": 95.61,
-      "rubyText": "束の間[つかのま]のParty Time",
+      "rubyText": "束[つか]の間[ま]のParty Time",
       "translation": "잠깐뿐인 Party Time",
       "romaji": "tsukanoma no Party Time"
     },
@@ -452,7 +452,7 @@ export const song48NekozumeFeikudansuAmaiJuuonTetoSong: Song = {
       "id": 56,
       "start": 122.93,
       "end": 126.29,
-      "rubyText": "毎日[まいにち]繰り返[くりかえ]しループ",
+      "rubyText": "毎日[まいにち]繰[く]り返[かえ]しループ",
       "translation": "매일 반복되는 Loop",
       "romaji": "mainichi kurikaeshi ruupu"
     },

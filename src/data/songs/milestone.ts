@@ -1179,7 +1179,7 @@ export const milestoneSong: Song = {
       "examples": [
         {
           "word": "描く",
-          "reading": "え가く",
+          "reading": "えがく",
           "meaning": "그리다"
         },
         {

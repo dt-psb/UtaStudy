@@ -36,7 +36,7 @@ export const ribbonSong: Song = {
       "id": 4,
       "start": 22.5,
       "end": 27.36,
-      "rubyText": "遠[とお]い場所[ばしょ]へ旅立[たた다]つ時[とき]まで",
+      "rubyText": "遠[とお]い場所[ばしょ]へ旅立[たびだ]つ時[とき]まで",
       "translation": "머나먼 곳으로 떠날 때까지",
       "romaji": "tooi basho e tabidatsu toki made"
     },
@@ -1199,7 +1199,7 @@ export const ribbonSong: Song = {
       "examples": [
         {
           "word": "描く",
-          "reading": "え가く",
+          "reading": "えがく",
           "meaning": "그리다"
         },
         {

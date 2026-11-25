@@ -394,7 +394,7 @@
       "id": 49,
       "start": 100.94,
       "end": 101.44,
-      "rubyText": "思い知[おもいし]る",
+      "rubyText": "思[おも]い知[し]る",
       "translation": "뼈저리게 느껴",
       "romaji": "omoishiru"
     },
@@ -538,7 +538,7 @@
       "id": 67,
       "start": 131.49,
       "end": 133.16,
-      "rubyText": "逃[に]げていいって言い切[いいき]れんの？",
+      "rubyText": "逃[に]げていいって言[い]い切[き]れんの？",
       "translation": "도망쳐도 괜찮다고 단정 지어 말할 수 있어?",
       "romaji": "nige teiitte iikire nno ？"
     },

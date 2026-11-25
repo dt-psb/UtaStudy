@@ -204,7 +204,7 @@ export const song37NamigrooveTobidaseWandapyoiNamiguruZundamonSong: Song = {
       "id": 25,
       "start": 46.25,
       "end": 47.96,
-      "rubyText": "入れ替[いれか]わって 夢[ゆめ]叶[かな]って",
+      "rubyText": "入[い]れ替[か]わって 夢[ゆめ]叶[かな]って",
       "translation": "뒤바뀌고 꿈이 이루어져",
       "romaji": "irekawa tte   yume kanatsu te"
     },
@@ -236,7 +236,7 @@ export const song37NamigrooveTobidaseWandapyoiNamiguruZundamonSong: Song = {
       "id": 29,
       "start": 52.71,
       "end": 56.13,
-      "rubyText": "カラフルセカイに飛び込[とびこ]んじゃえ！",
+      "rubyText": "カラフルセカイに飛[と]び込[こ]んじゃえ！",
       "translation": "컬러풀한 세계에 뛰어들어!",
       "romaji": "karafurusekai ni tobikon jae !"
     },
@@ -268,7 +268,7 @@ export const song37NamigrooveTobidaseWandapyoiNamiguruZundamonSong: Song = {
       "id": 33,
       "start": 66.42,
       "end": 69.83,
-      "rubyText": "かぼちゃの馬車[ばしゃ]から 飛び降[とびお]りちゃえ！",
+      "rubyText": "かぼちゃの馬車[ばしゃ]から 飛[と]び降[お]りちゃえ！",
       "translation": "호박 마차에서 뛰어내려버려!",
       "romaji": "kabochano basha kara   tobiori chae !"
     },

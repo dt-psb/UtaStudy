@@ -156,7 +156,7 @@ export const song30MendozidGurumesameMendozidJuuonTetoSong: Song = {
       "id": 19,
       "start": 51.11,
       "end": 55.0,
-      "rubyText": "今日[きょう]も食[た]べて生き続[いきつづ]ける",
+      "rubyText": "今日[きょう]も食[た]べて生[い]き続[つづ]ける",
       "translation": "오늘도 먹으며 계속 살아가",
       "romaji": "kyou mo tabete ikitsuzuke ru"
     },
@@ -348,7 +348,7 @@ export const song30MendozidGurumesameMendozidJuuonTetoSong: Song = {
       "id": 43,
       "start": 131.07,
       "end": 134.87,
-      "rubyText": "新[あたら]しい世界[せかい]に飛び込[とびこ]む",
+      "rubyText": "新[あたら]しい世界[せかい]に飛[と]び込[こ]む",
       "translation": "새로운 세계로 뛰어들어",
       "romaji": "atarashii sekai ni tobikomu"
     },

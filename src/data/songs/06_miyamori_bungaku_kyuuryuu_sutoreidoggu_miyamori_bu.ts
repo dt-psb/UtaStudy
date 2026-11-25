@@ -140,9 +140,9 @@ export const song06MiyamoriBungakuKyuuryuuSutoreidogguMiyamoriBuSong: Song = {
       "id": 17,
       "start": 40.78,
       "end": 42.48,
-      "rubyText": "飼[か]い慣[な]らされて誰[だれ]かの言[い]う通[とう]り",
+      "rubyText": "飼[か]い慣[な]らされて誰[だれ]かの言[い]う通[とお]り",
       "translation": "목줄 차고 시키는 대로나 하고.",
-      "romaji": "kainarasaretedarekanoiutouri"
+      "romaji": "kainarasaretedarekanoiutoori"
     },
     {
       "id": 18,
@@ -236,9 +236,9 @@ export const song06MiyamoriBungakuKyuuryuuSutoreidogguMiyamoriBuSong: Song = {
       "id": 29,
       "start": 81.94,
       "end": 83.55,
-      "rubyText": "3つ数[かぞ]えたら慄[りつ]く",
+      "rubyText": "3つ数[かぞ]えたら慄[おのの]く",
       "translation": "셋만 세면 벌벌 떨지.",
-      "romaji": "3 tsukazoetararitsuku"
+      "romaji": "3 tsukazoetaraononoku"
     },
     {
       "id": 30,
@@ -276,9 +276,9 @@ export const song06MiyamoriBungakuKyuuryuuSutoreidogguMiyamoriBuSong: Song = {
       "id": 34,
       "start": 89.97,
       "end": 92.78,
-      "rubyText": "道[みち]は間違[まちが]っても大事[だいじ]なもの失[う]ってないしOK",
+      "rubyText": "道[みち]は間違[まちが]っても大事[だいじ]なもの失[うしな]ってないしOK",
       "translation": "길이 틀렸어도 소중한 건 안 잃었어. 난 괜찮아.",
-      "romaji": "michihamachigattemodaijinamonouttenaishi OK"
+      "romaji": "michihamachigattemodaijinamonoushinattenaishi OK"
     },
     {
       "id": 35,

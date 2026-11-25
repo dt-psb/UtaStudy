@@ -380,7 +380,7 @@ export const song07VocaloidEsuKaFuSong: Song = {
       "id": 47,
       "start": 195.2,
       "end": 198.1,
-      "rubyText": "味[아지]わってほしい",
+      "rubyText": "味[あじ]わってほしい",
       "translation": "맛보았으면 좋겠어",
       "romaji": "ajiwatte hoshii"
     },

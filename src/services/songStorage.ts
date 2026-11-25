@@ -16,7 +16,8 @@ const DELETED_VIDS = new Set([
   'pIuQ_us5W4Y', // MTMTM
   'ksdvNgqOToQ', // どっちにするの？
   '4LrRm2Kv0So', // リトライ！
-  'dgNceSpd424'  // 거짓, 음률, 세상
+  'dgNceSpd424', // 거짓, 음률, 세상
+  'ThOViq2fHqg'  // Kikuo - 君が死んでも許してあげるよ (사용자 요청 영구 스킵: 제작 불필요)
 ]);
 
 // Deleted song title markers
@@ -187,7 +188,8 @@ export const getDeletedSongIds = (): Set<string> => {
     '24-tak-doridori-tak-mtmtm-hatsune-miku', 'pIuQ_us5W4Y',
     '25-hiroki-dotchinisuruno-hatsune-miku-juuon', 'ksdvNgqOToQ',
     '26-hiroki-ritorai-hatsune-miku-juuon', '4LrRm2Kv0So',
-    '49-wyvernp-sv', 'dgNceSpd424'
+    '49-wyvernp-sv', 'dgNceSpd424',
+    'ThOViq2fHqg' // Kikuo - 君が死んでも許してあげるよ (사용자 요청 영구 스킵)
   ];
   toDelete.forEach(id => set.add(id));
   try {

@@ -196,7 +196,7 @@ export const song17KenshiYonezuYonetsuGenShiKenshiSong: Song = {
       "id": 24,
       "start": 84.09,
       "end": 86.0,
-      "rubyText": "デコにスティグマ 申し訳[もうしわけ]ねえな",
+      "rubyText": "デコにスティグマ 申[もう]し訳[わけ]ねえな",
       "translation": "이마에 낙인 미안하게 됐네",
       "romaji": "deko ni suteiguma moushi moushiwakeneena"
     },

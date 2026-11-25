@@ -419,7 +419,7 @@ export const takMochimochiSong: Song = {
     {
       "id": 52,
       "start": 128.42,
-      "end": 130.13,
+      "end": 129.86,
       "rubyText": "棚[たな]からぼたもち",
       "translation": "찹쌀떡 그림의 떡",
       "romaji": "tana kara botamochi"

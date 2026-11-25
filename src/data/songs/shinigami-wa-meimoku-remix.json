@@ -430,22 +430,6 @@
     },
     {
       "id": 54,
-      "start": 154.24,
-      "end": 155.47,
-      "rubyText": "死神[しにがみ]の唄[うた]が始[はじ]まる前[まえ]に",
-      "translation": "사신의 노래가 시작되기 전에",
-      "romaji": "shinigami no uta ga hajimaru mae ni"
-    },
-    {
-      "id": 55,
-      "start": 155.47,
-      "end": 156.51,
-      "rubyText": "面[めん]を剥[は]がして!",
-      "translation": "낯짝을 드러내!",
-      "romaji": "men o hagashite!"
-    },
-    {
-      "id": 56,
       "start": 143.73,
       "end": 145.33,
       "rubyText": "三途[さんず]の川[かわ]の水面[みなも]に映[うつ]る",
@@ -453,7 +437,7 @@
       "romaji": "sanzu no kawa no minamo ni utsuru"
     },
     {
-      "id": 57,
+      "id": 55,
       "start": 145.33,
       "end": 146.16,
       "rubyText": "残[のこ]された憎悪[ぞうお]。",
@@ -461,7 +445,7 @@
       "romaji": "nokosareta zōo."
     },
     {
-      "id": 58,
+      "id": 56,
       "start": 146.16,
       "end": 147.03,
       "rubyText": "鬼[おに]宿[やど]る顔[かお]。",
@@ -469,7 +453,7 @@
       "romaji": "oni yadoru kao."
     },
     {
-      "id": 59,
+      "id": 57,
       "start": 147.03,
       "end": 147.76,
       "rubyText": "小[ちい]さな背中[せなか]。",
@@ -477,7 +461,7 @@
       "romaji": "chiisana senaka."
     },
     {
-      "id": 60,
+      "id": 58,
       "start": 147.76,
       "end": 148.7,
       "rubyText": "謝罪[しゃざい]はいらない。",
@@ -485,7 +469,7 @@
       "romaji": "shazai wa iranai."
     },
     {
-      "id": 61,
+      "id": 59,
       "start": 148.7,
       "end": 150.3,
       "rubyText": "分[わ]かっててそれを選[えら]んだんだろう?",
@@ -493,7 +477,7 @@
       "romaji": "wakattete sore o erandan darō?"
     },
     {
-      "id": 62,
+      "id": 60,
       "start": 150.3,
       "end": 152.0,
       "rubyText": "泣[な]きながら振[ふ]り返[かえ]るお前[まえ]を",
@@ -501,7 +485,7 @@
       "romaji": "nakinagara furikaeru omae o"
     },
     {
-      "id": 63,
+      "id": 61,
       "start": 152.0,
       "end": 153.27,
       "rubyText": "俺[おれ]たちは押[お]してやるのさ。",
@@ -509,20 +493,36 @@
       "romaji": "oretachi wa oshite yaru no sa."
     },
     {
-      "id": 64,
+      "id": 62,
       "start": 153.27,
-      "end": 154.64,
+      "end": 154.2,
       "rubyText": "泥[どろ]のような温[ぬる]い手[て]で",
       "translation": "[진흙 같은 미적지근한 손으로]",
       "romaji": "doro no yō na nurui te de"
     },
     {
-      "id": 65,
-      "start": 154.64,
-      "end": 156.51,
+      "id": 63,
+      "start": 154.2,
+      "end": 155.0,
       "rubyText": "お前[まえ]の背中[せなか]を押[お]してやるのさ。",
       "translation": "[네 등을 밀어줄 뿐이다.]",
       "romaji": "omae no senaka o oshite yaru no sa."
+    },
+    {
+      "id": 64,
+      "start": 155.0,
+      "end": 155.8,
+      "rubyText": "死神[しにがみ]の唄[うた]が始[はじ]まる前[まえ]に",
+      "translation": "사신의 노래가 시작되기 전에",
+      "romaji": "shinigami no uta ga hajimaru mae ni"
+    },
+    {
+      "id": 65,
+      "start": 155.8,
+      "end": 156.51,
+      "rubyText": "面[めん]を剥[は]がして!",
+      "translation": "낯짝을 드러내!",
+      "romaji": "men o hagashite!"
     },
     {
       "id": 66,

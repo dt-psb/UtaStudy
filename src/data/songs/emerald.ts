@@ -1244,7 +1244,7 @@ export const emeraldSong: Song = {
       "character": "幼",
       "korean": "어릴 유",
       "kun": [
-        "おさな.이"
+        "おさな.い"
       ],
       "on": [
         "ヨウ"
@@ -1403,7 +1403,7 @@ export const emeraldSong: Song = {
       "examples": [
         {
           "word": "描く",
-          "reading": "え가く",
+          "reading": "えがく",
           "meaning": "그리다"
         },
         {

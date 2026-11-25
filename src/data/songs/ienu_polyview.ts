@@ -211,7 +211,7 @@ export const ienuPolyviewSong: Song = {
       "id": 26,
       "start": 191.34,
       "end": 193.6,
-      "rubyText": "残[のこ]り香[가]は薫[かお]っていたんだ",
+      "rubyText": "残[のこ]り香[が]は薫[かお]っていたんだ",
       "romaji": "nokoriga wa kaotteitan da",
       "translation": "잔향은 피어오르고 있었어"
     },

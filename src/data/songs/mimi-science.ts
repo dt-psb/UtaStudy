@@ -307,7 +307,7 @@ export const mimiScienceSong: Song = {
     {
       "id": 38,
       "start": 112.8,
-      "end": 115.57,
+      "end": 115.5,
       "rubyText": "嗚呼[ああ] 解[かい]はひとつじゃ無[な]いかもしれんが",
       "translation": "아아 해답은 하나가 아닐지도 모르지만",
       "romaji": "ā kai wa hitotsu ja nai kamo shiren ga"

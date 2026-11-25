@@ -92,9 +92,9 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 11,
       "start": 25.12,
       "end": 27.1,
-      "rubyText": "理性[りせい]失[う]ってキマる兵隊[へいたい]",
+      "rubyText": "理性[りせい]失[うしな]ってキマる兵隊[へいたい]",
       "translation": "이성을 잃고 취한 병사들",
-      "romaji": "riseiutte kima ruheitai"
+      "romaji": "riseiushinatte kima ruheitai"
     },
     {
       "id": 12,
@@ -108,7 +108,7 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 13,
       "start": 28.87,
       "end": 30.45,
-      "rubyText": "真相[しんそう]加工[かこう]して切り取[きりと]って",
+      "rubyText": "真相[しんそう]加工[かこう]して切[き]り取[と]って",
       "translation": "진실을 가공하고 잘라내",
       "romaji": "shinsoukakoushite kiri kiritotte"
     },
@@ -132,9 +132,9 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 16,
       "start": 33.3,
       "end": 36.0,
-      "rubyText": "赤[あか]い目[め]が嗤[し]っている",
+      "rubyText": "赤[あか]い目[め]が嗤[わら]っている",
       "translation": "붉은 눈이 웃고 있다",
-      "romaji": "akaimegashitteiru"
+      "romaji": "akaimegawaratteiru"
     },
     {
       "id": 17,
@@ -156,9 +156,9 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 19,
       "start": 42.4,
       "end": 44.5,
-      "rubyText": "損[そん]在[ざい]に正[せい]を模[も]った免罪符[めんざいふ]",
+      "rubyText": "損[そん]在[ざい]に正[せい]を模[かたど]った免罪符[めんざいふ]",
       "translation": "손해를 본 채 정의를 모방한 면죄부",
-      "romaji": "sonzainiseiwomottamenzaifu"
+      "romaji": "sonzainiseiwokatadottamenzaifu"
     },
     {
       "id": 20,
@@ -228,17 +228,17 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 28,
       "start": 67.1,
       "end": 69.3,
-      "rubyText": "ほら数[かぞ]えや髑髏[どくろ][どくろ]",
+      "rubyText": "ほら数[かぞ]えや髑髏[どくろ]",
       "translation": "봐, 해골을 세어봐",
-      "romaji": "horakazoeyadokuro [ dokuro ]"
+      "romaji": "horakazoeyadokuro"
     },
     {
       "id": 29,
       "start": 69.5,
       "end": 72.2,
-      "rubyText": "嗚呼[ああ]、奇[き]奇怪[きかい]怪[かい] 虚仮[こけ]威[い]かしの宵[しょう]々",
+      "rubyText": "嗚呼[ああ]、奇[き]奇怪[きかい]怪[かい] 虚仮[こけ]威[おど]かしの宵々[よいよい]",
       "translation": "아아, 기기괴괴 허세부리는 밤밤",
-      "romaji": "aa, kikikaikai kokeikashinoshou (kurikaesi)"
+      "romaji": "aa, kikikaikai kokeodokashinoyoiyoi"
     },
     {
       "id": 30,
@@ -268,9 +268,9 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 33,
       "start": 79.41,
       "end": 80.8,
-      "rubyText": "獲[かく]った首[くび]を大[だい]掲載[けいさい]",
+      "rubyText": "獲[と]った首[くび]を大[だい]掲載[けいさい]",
       "translation": "잡은 머리를 크게 전시",
-      "romaji": "kakuttakubiwodaikeisai"
+      "romaji": "tottakubiwodaikeisai"
     },
     {
       "id": 34,
@@ -316,9 +316,9 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 39,
       "start": 96.7,
       "end": 99.7,
-      "rubyText": "No, no 想定[そうてい]外[そと] 一捻[ひとねじ]り 独[ひと]りでに往生[おうじょう]",
+      "rubyText": "No, no 想定外[そうていがい] 一捻[ひとねじ]り 独[ひと]りでに往生[おうじょう]",
       "translation": "아니, 아니 예상 밖 갑작스러운 죽음, 혼자",
-      "romaji": "No, no souteisoto hitonejiri hitoridenioujou"
+      "romaji": "No, no souteigai hitonejiri hitoridenioujou"
     },
     {
       "id": 40,
@@ -364,9 +364,9 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 45,
       "start": 109.9,
       "end": 113.24,
-      "rubyText": "狩[かり]って愉[たの]しい花一匁[はないちもんめ]",
+      "rubyText": "狩[か]って愉[たの]しい花一匁[はないちもんめ]",
       "translation": "사냥은 즐거운 꽃 한 송이",
-      "romaji": "karittetanoshiihanaichimonme"
+      "romaji": "kattetanoshiihanaichimonme"
     },
     {
       "id": 46,
@@ -380,9 +380,9 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 47,
       "start": 115.73,
       "end": 120.0,
-      "rubyText": "抗[こう]い根絶[ねだ]やし花一匁[はないちもんめ]",
+      "rubyText": "抗[あらが]い根絶[ねだ]やし花一匁[はないちもんめ]",
       "translation": "저항하고 뿌리 뽑기, 꽃 한 송이",
-      "romaji": "kouinedayashihanaichimonme"
+      "romaji": "aragainedayashihanaichimonme"
     },
     {
       "id": 48,
@@ -404,7 +404,7 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 50,
       "start": 137.32,
       "end": 141.3,
-      "rubyText": "仇[あだ]なして手に入[てにい]れるpeace of mind",
+      "rubyText": "仇[あだ]なして手[て]に入[い]れるpeace of mind",
       "translation": "적을 만들어 마음의 평화를 얻다",
       "romaji": "adanashite teni teniireru peace of mind"
     },
@@ -412,7 +412,7 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 51,
       "start": 141.8,
       "end": 144.0,
-      "rubyText": "人の世[ひとのよ]に然様[さよう]なら",
+      "rubyText": "人[ひと]の世[よ]に然様[さよう]なら",
       "translation": "인간 세상에 작별을 고하다",
       "romaji": "nin nohitonoyonisayounara"
     },
@@ -460,17 +460,17 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 57,
       "start": 160.73,
       "end": 163.7,
-      "rubyText": "(嗚呼[ああ]、奇[き]奇怪[きかい]怪[かい] 虚仮[こけ]威[い]かしの宵[しょう]々)",
+      "rubyText": "(嗚呼[ああ]、奇[き]奇怪[きかい]怪[かい] 虚仮[こけ]威[おど]かしの宵々[よいよい])",
       "translation": "(아아, 기기괴괴 허세부리는 밤밤)",
-      "romaji": "(aa, kikikaikai kokeikashinoshou (kurikaesi))"
+      "romaji": "(aa, kikikaikai kokeodokashinoyoiyoi)"
     },
     {
       "id": 58,
       "start": 163.9,
       "end": 165.31,
-      "rubyText": "獲[かく]った首[くび]を大[だい]掲載[けいさい]",
+      "rubyText": "獲[と]った首[くび]を大[だい]掲載[けいさい]",
       "translation": "잡은 머리를 크게 전시",
-      "romaji": "kakuttakubiwodaikeisai"
+      "romaji": "tottakubiwodaikeisai"
     },
     {
       "id": 59,
@@ -492,17 +492,17 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 61,
       "start": 170.3,
       "end": 172.5,
-      "rubyText": "ほら数[かぞ]えや髑髏[どくろ][どくろ]",
+      "rubyText": "ほら数[かぞ]えや髑髏[どくろ]",
       "translation": "봐, 해골을 세어봐",
-      "romaji": "horakazoeyadokuro [ dokuro ]"
+      "romaji": "horakazoeyadokuro"
     },
     {
       "id": 62,
       "start": 172.52,
       "end": 175.3,
-      "rubyText": "嗚呼[ああ]、奇[き]奇怪[きかい]怪[かい] 虚仮[こけ]威[い]かしの宵[しょう]々",
+      "rubyText": "嗚呼[ああ]、奇[き]奇怪[きかい]怪[かい] 虚仮[こけ]威[おど]かしの宵々[よいよい]",
       "translation": "아아, 기기괴괴 허세부리는 밤밤",
-      "romaji": "aa, kikikaikai kokeikashinoshou (kurikaesi)"
+      "romaji": "aa, kikikaikai kokeodokashinoyoiyoi"
     },
     {
       "id": 63,
@@ -532,9 +532,9 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
       "id": 66,
       "start": 182.6,
       "end": 183.94,
-      "rubyText": "獲[かく]った首[くび]を大[だい]掲載[けいさい]",
+      "rubyText": "獲[と]った首[くび]を大[だい]掲載[けいさい]",
       "translation": "잡은 머리를 크게 전시",
-      "romaji": "kakuttakubiwodaikeisai"
+      "romaji": "tottakubiwodaikeisai"
     },
     {
       "id": 67,
@@ -5271,6 +5271,29 @@ export const song09KaitoOniNoKubiMatsuSong: Song = {
           "word": "黎民",
           "reading": "れいみん",
           "meaning": "여민, 백성"
+        }
+      ]
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
         }
       ]
     }

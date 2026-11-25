@@ -107,14 +107,14 @@ export const wolfSong: Song = {
     {
       "id": 13,
       "start": 56.077,
-      "end": 58.307,
+      "end": 58.4,
       "rubyText": "君[きみ]が",
       "translation": "네가",
       "romaji": "kimiga"
     },
     {
       "id": 14,
-      "start": 58.307,
+      "start": 58.4,
       "end": 60.635,
       "rubyText": "降[ふ]らせているんだって",
       "translation": "내리게 하고 있구나 하고",
@@ -130,7 +130,7 @@ export const wolfSong: Song = {
     },
     {
       "id": 16,
-      "start": 69.215,
+      "start": 72.167,
       "end": 76.804,
       "rubyText": "その愛[あい]という 言葉[ことば]の裏面[りめん] 誰[だれ]が棲[す]みついている",
       "translation": "그 사랑이란 이름의 말의 이면 누군가 깃들어 살고 있어",
@@ -163,71 +163,71 @@ export const wolfSong: Song = {
     {
       "id": 20,
       "start": 86.535,
-      "end": 89.043,
+      "end": 90.619,
       "rubyText": "獣[けもの]みたいに吠[ほ]えてくれよ！",
       "translation": "짐승처럼 짖어줘!",
       "romaji": "kemono mitaini hoetekureyo!"
     },
     {
       "id": 21,
-      "start": 89.043,
-      "end": 92.529,
+      "start": 91.275,
+      "end": 95.292,
       "rubyText": "心[こころ]ひとつ分[わ]けてくれよ！",
       "translation": "마음 하나를 나눠줘!",
       "romaji": "kokoro hitotsu waketekureyo!"
     },
     {
       "id": 22,
-      "start": 92.529,
-      "end": 95.275,
+      "start": 95.584,
+      "end": 98.313,
       "rubyText": "世界[せかい]を拒[こば]む前[まえ]に",
       "translation": "세계를 거부하기 전에",
       "romaji": "sekaio kobamu maeni"
     },
     {
       "id": 23,
-      "start": 95.275,
-      "end": 97.43,
+      "start": 98.313,
+      "end": 100.626,
       "rubyText": "君[きみ]と",
       "translation": "너와",
       "romaji": "kimito"
     },
     {
       "id": 24,
-      "start": 97.43,
-      "end": 99.712,
+      "start": 100.626,
+      "end": 102.751,
       "rubyText": "転[ころ]がって生[い]きていたい",
       "translation": "쓰러지며 살아가고 싶어",
       "romaji": "korogatte ikiteitai"
     },
     {
       "id": 25,
-      "start": 99.712,
-      "end": 102.046,
+      "start": 102.751,
+      "end": 105.176,
       "rubyText": "息[いき]が止[と]まろうとも",
       "translation": "숨이 멈추더라도",
       "romaji": "ikiga tomaroutomo"
     },
     {
       "id": 26,
-      "start": 102.046,
-      "end": 104.381,
+      "start": 105.176,
+      "end": 107.595,
       "rubyText": "孤独[こどく]と踊[おど]らないで",
       "translation": "고독과 춤추지 말아줘",
       "romaji": "kodokuto odoranaide"
     },
     {
       "id": 27,
-      "start": 104.381,
-      "end": 106.666,
+      "start": 107.595,
+      "end": 109.888,
       "rubyText": "君[きみ]が",
       "translation": "네가",
       "romaji": "kimiga"
     },
     {
       "id": 28,
-      "start": 106.666,
-      "end": 109.041,
+      "start": 109.888,
+      "end": 112.126,
       "rubyText": "弱[よわ]く笑[わら]えたなら",
       "translation": "약하게 웃을 수 있다면",
       "romaji": "yowaku waraetanara"
@@ -242,47 +242,47 @@ export const wolfSong: Song = {
     },
     {
       "id": 30,
-      "start": 138.455,
-      "end": 141.144,
+      "start": 138.36,
+      "end": 141.051,
       "rubyText": "世界[せかい]が終[お]わる前[まえ]に",
       "translation": "세계가 끝나기 전에",
       "romaji": "sekaiga owaru maeni"
     },
     {
       "id": 31,
-      "start": 141.144,
-      "end": 143.411,
+      "start": 141.051,
+      "end": 143.384,
       "rubyText": "君[きみ]と",
       "translation": "너와",
       "romaji": "kimito"
     },
     {
       "id": 32,
-      "start": 143.411,
-      "end": 145.717,
+      "start": 143.384,
+      "end": 145.525,
       "rubyText": "強[つよ]がって生[い]きていたい",
       "translation": "강한 척을 하며 살아가고 싶어",
       "romaji": "tsuyogatte ikiteitai"
     },
     {
       "id": 33,
-      "start": 145.717,
-      "end": 148.069,
+      "start": 145.525,
+      "end": 147.95,
       "rubyText": "傷[きず]つけ合[あ]おうとも",
       "translation": "서로 상처를 입히려 해도",
       "romaji": "kizutsukeaoutomo"
     },
     {
       "id": 34,
-      "start": 148.069,
-      "end": 150.485,
+      "start": 147.95,
+      "end": 150.395,
       "rubyText": "悲[かな]しい雨[あめ]はきっと",
       "translation": "서글픈 비는 분명",
       "romaji": "kanashii amewa kitto"
     },
     {
       "id": 35,
-      "start": 150.485,
+      "start": 150.395,
       "end": 152.709,
       "rubyText": "君[きみ]が",
       "translation": "네가",
@@ -303,38 +303,6 @@ export const wolfSong: Song = {
       "rubyText": "そう思[おも]ってしまうよ",
       "translation": "그렇게 생각해버리게 돼",
       "romaji": "sou omotteshimauyo"
-    },
-    {
-      "id": 38,
-      "start": 157.425,
-      "end": 160.053,
-      "rubyText": "せかいがおわるまえに",
-      "translation": "세계가 끝나기 전에",
-      "romaji": "sekaiga owaru maeni"
-    },
-    {
-      "id": 39,
-      "start": 160.053,
-      "end": 162.274,
-      "rubyText": "きみと",
-      "translation": "너와",
-      "romaji": "kimito"
-    },
-    {
-      "id": 40,
-      "start": 162.274,
-      "end": 165.25,
-      "rubyText": "こどくとおどらないで",
-      "translation": "고독과 춤추지 말아줘",
-      "romaji": "kodokuto odoranaide"
-    },
-    {
-      "id": 41,
-      "start": 165.25,
-      "end": 168.0,
-      "rubyText": "きみが",
-      "translation": "네가",
-      "romaji": "kimiga"
     }
   ],
   "kanjiDictionary": {

@@ -35,7 +35,7 @@ export const mellowclePainSong: Song = {
       "id": 4,
       "start": 9.42,
       "end": 11.58,
-      "rubyText": "憧憬[どうけい]に 耽[ふけ]けてさ",
+      "rubyText": "憧憬[どうけい]に 耽[ふ]けてさ",
       "romaji": "doukei ni fukekete sa",
       "translation": "동경에 빠져서는"
     },
@@ -2008,7 +2008,7 @@ export const mellowclePainSong: Song = {
       "examples": [
         {
           "word": "描く",
-          "reading": "え가く",
+          "reading": "えがく",
           "meaning": "그리다"
         },
         {

@@ -1,0 +1,1314 @@
+{
+  "id": "namigroove_doshichigo_samba",
+  "title": "ド七五サンバ",
+  "artist": "なみぐる feat. 重音テトSV",
+  "youtubeId": "-6WgX8_iyR0",
+  "lyrics": [
+    {
+      "id": 1,
+      "start": 0.9,
+      "end": 3.12,
+      "rubyText": "ド　七五[しちご]サンバ",
+      "translation": "도 시치고 삼바"
+    },
+    {
+      "id": 2,
+      "start": 3.9,
+      "end": 4.84,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 3,
+      "start": 4.84,
+      "end": 5.78,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 4,
+      "start": 5.78,
+      "end": 6.71,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 5,
+      "start": 6.71,
+      "end": 7.64,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 6,
+      "start": 7.64,
+      "end": 8.58,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 7,
+      "start": 8.58,
+      "end": 10.91,
+      "rubyText": "ぱらぱらぱらぴれぴょん！",
+      "translation": "파라파라파라피레 뿅!"
+    },
+    {
+      "id": 8,
+      "start": 11.3,
+      "end": 14.81,
+      "rubyText": "ド七五[しちご]サンバのドは",
+      "translation": "도 시치고 삼바의 도는"
+    },
+    {
+      "id": 9,
+      "start": 14.81,
+      "end": 18.7,
+      "rubyText": "毒[どく]おねずみのド",
+      "translation": "독이 있는 쥐의 도"
+    },
+    {
+      "id": 10,
+      "start": 18.7,
+      "end": 22.58,
+      "rubyText": "ド七五[しちご]サンバのシチは",
+      "translation": "도 시치고 삼바의 시치는"
+    },
+    {
+      "id": 11,
+      "start": 22.58,
+      "end": 26.48,
+      "rubyText": "七面鳥[しちめんちょう]のシチ",
+      "translation": "칠면조의 시치"
+    },
+    {
+      "id": 12,
+      "start": 26.48,
+      "end": 30.38,
+      "rubyText": "ド七五[しちご]サンバのゴは",
+      "translation": "도 시치고 삼바의 고는"
+    },
+    {
+      "id": 13,
+      "start": 30.38,
+      "end": 34.27,
+      "rubyText": "極楽浄土[ごくらくじょうど]のゴ",
+      "translation": "극락정토의 고"
+    },
+    {
+      "id": 14,
+      "start": 34.27,
+      "end": 38.17,
+      "rubyText": "ド七五[しちご]サンバのサンは",
+      "translation": "도 시치고 삼바의 삼은"
+    },
+    {
+      "id": 15,
+      "start": 38.17,
+      "end": 41.68,
+      "rubyText": "サンスクリットのサン",
+      "translation": "산스크리트어의 삼"
+    },
+    {
+      "id": 16,
+      "start": 41.68,
+      "end": 42.61,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 17,
+      "start": 42.61,
+      "end": 43.54,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 18,
+      "start": 43.54,
+      "end": 44.47,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 19,
+      "start": 44.47,
+      "end": 45.41,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 20,
+      "start": 45.41,
+      "end": 46.35,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 21,
+      "start": 46.35,
+      "end": 47.75,
+      "rubyText": "ぱらぱらぱらぴれ",
+      "translation": "파라파라파라피레"
+    },
+    {
+      "id": 22,
+      "start": 47.75,
+      "end": 48.84,
+      "rubyText": "ぴ～やっ！",
+      "translation": "피~얏!"
+    },
+    {
+      "id": 23,
+      "start": 48.84,
+      "end": 49.82,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 24,
+      "start": 49.82,
+      "end": 50.8,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 25,
+      "start": 50.8,
+      "end": 51.78,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 26,
+      "start": 51.78,
+      "end": 52.76,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 27,
+      "start": 52.76,
+      "end": 53.74,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 28,
+      "start": 53.74,
+      "end": 55.31,
+      "rubyText": "ぱらぱらぱらぴれぴょん！",
+      "translation": "파라파라파라피레 뿅!"
+    },
+    {
+      "id": 29,
+      "start": 57.5,
+      "end": 59.2,
+      "rubyText": "ド〜〜〜〜〜〜〜",
+      "translation": "도~~~~~~~"
+    },
+    {
+      "id": 30,
+      "start": 59.2,
+      "end": 60.2,
+      "rubyText": "七五[しちご]サンバ",
+      "translation": "시치고 삼바"
+    },
+    {
+      "id": 31,
+      "start": 60.2,
+      "end": 61.18,
+      "rubyText": "ド～してもサンバ",
+      "translation": "어~떻게든 삼바"
+    },
+    {
+      "id": 32,
+      "start": 61.18,
+      "end": 64.88,
+      "rubyText": "身体[からだ]が勝手[かって]に動[うご]き出[だ]す",
+      "translation": "몸이 멋대로 움직이기 시작해"
+    },
+    {
+      "id": 33,
+      "start": 64.88,
+      "end": 65.8,
+      "rubyText": "ド〜",
+      "translation": "도~"
+    },
+    {
+      "id": 34,
+      "start": 65.8,
+      "end": 66.8,
+      "rubyText": "七五[しちご]サンバ",
+      "translation": "시치고 삼바"
+    },
+    {
+      "id": 35,
+      "start": 66.8,
+      "end": 68.59,
+      "rubyText": "ド～してもサンバ",
+      "translation": "어~떻게든 삼바"
+    },
+    {
+      "id": 36,
+      "start": 68.59,
+      "end": 69.8,
+      "rubyText": "あめあめ",
+      "translation": "사탕 사탕"
+    },
+    {
+      "id": 37,
+      "start": 69.8,
+      "end": 71.14,
+      "rubyText": "ふれふれ",
+      "translation": "와라 와"
+    },
+    {
+      "id": 38,
+      "start": 71.14,
+      "end": 72.2,
+      "rubyText": "ちとせあ",
+      "translation": "치토세아"
+    },
+    {
+      "id": 39,
+      "start": 72.2,
+      "end": 74.0,
+      "rubyText": "めめっめっめっめめっ！",
+      "translation": "메멧 멧 멧 메멧!"
+    },
+    {
+      "id": 40,
+      "start": 74.07,
+      "end": 75.0,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 41,
+      "start": 75.0,
+      "end": 75.93,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 42,
+      "start": 75.93,
+      "end": 76.86,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 43,
+      "start": 76.86,
+      "end": 77.79,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 44,
+      "start": 77.79,
+      "end": 78.72,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 45,
+      "start": 78.72,
+      "end": 80.1,
+      "rubyText": "ぱらぱらぱらぴれ",
+      "translation": "파라파라파라피레"
+    },
+    {
+      "id": 46,
+      "start": 80.1,
+      "end": 81.22,
+      "rubyText": "ぴ～やっ！",
+      "translation": "피~얏!"
+    },
+    {
+      "id": 47,
+      "start": 81.22,
+      "end": 82.2,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 48,
+      "start": 82.2,
+      "end": 83.18,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 49,
+      "start": 83.18,
+      "end": 84.15,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 50,
+      "start": 84.15,
+      "end": 85.13,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 51,
+      "start": 85.13,
+      "end": 86.11,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 52,
+      "start": 86.11,
+      "end": 89.03,
+      "rubyText": "ぱらぱらぱらぴれぴょん！",
+      "translation": "파라파라파라피레 뿅!"
+    },
+    {
+      "id": 53,
+      "start": 89.03,
+      "end": 92.81,
+      "rubyText": "Yo, listen, you hear that?",
+      "translation": "Yo, listen, you hear that?"
+    },
+    {
+      "id": 54,
+      "start": 92.81,
+      "end": 96.59,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 55,
+      "start": 96.59,
+      "end": 100.37,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 56,
+      "start": 100.37,
+      "end": 104.15,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 57,
+      "start": 104.15,
+      "end": 107.93,
+      "rubyText": "Yo, listen, you hear that?",
+      "translation": "Yo, listen, you hear that?"
+    },
+    {
+      "id": 58,
+      "start": 107.93,
+      "end": 111.71,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 59,
+      "start": 111.71,
+      "end": 115.49,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 60,
+      "start": 115.49,
+      "end": 119.27,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 61,
+      "start": 119.27,
+      "end": 123.05,
+      "rubyText": "Yo, listen, you hear that?",
+      "translation": "Yo, listen, you hear that?"
+    },
+    {
+      "id": 62,
+      "start": 123.05,
+      "end": 126.83,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 63,
+      "start": 126.83,
+      "end": 130.61,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 64,
+      "start": 130.61,
+      "end": 132.5,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 65,
+      "start": 132.5,
+      "end": 134.39,
+      "rubyText": "Yo, listen, you hear that?",
+      "translation": "Yo, listen, you hear that?"
+    },
+    {
+      "id": 66,
+      "start": 134.39,
+      "end": 136.0,
+      "rubyText": "Do-Shichi-Go-Samba",
+      "translation": "Do-Shichi-Go-Samba"
+    },
+    {
+      "id": 67,
+      "start": 136.0,
+      "end": 137.5,
+      "rubyText": "Samba… Samba…",
+      "translation": "Samba… Samba…"
+    },
+    {
+      "id": 68,
+      "start": 137.5,
+      "end": 138.2,
+      "rubyText": "ド〜〜〜〜〜〜〜",
+      "translation": "도~~~~~~~"
+    },
+    {
+      "id": 69,
+      "start": 138.2,
+      "end": 139.3,
+      "rubyText": "七五[しちご]サンバ",
+      "translation": "시치고 삼바"
+    },
+    {
+      "id": 70,
+      "start": 139.3,
+      "end": 140.65,
+      "rubyText": "ド～してもサンバ",
+      "translation": "어~떻게든 삼바"
+    },
+    {
+      "id": 71,
+      "start": 140.65,
+      "end": 144.35,
+      "rubyText": "身体[からだ]が勝手[かって]に動[うご]き出[だ]す",
+      "translation": "몸이 멋대로 움직이기 시작해"
+    },
+    {
+      "id": 72,
+      "start": 144.35,
+      "end": 145.3,
+      "rubyText": "ド〜",
+      "translation": "도~"
+    },
+    {
+      "id": 73,
+      "start": 145.3,
+      "end": 146.4,
+      "rubyText": "七五[しちご]サンバ",
+      "translation": "시치고 삼바"
+    },
+    {
+      "id": 74,
+      "start": 146.4,
+      "end": 148.05,
+      "rubyText": "ド～してもサンバ",
+      "translation": "어~떻게든 삼바"
+    },
+    {
+      "id": 75,
+      "start": 148.05,
+      "end": 149.15,
+      "rubyText": "あめあめ",
+      "translation": "사탕 사탕"
+    },
+    {
+      "id": 76,
+      "start": 149.15,
+      "end": 150.24,
+      "rubyText": "ふれふれ",
+      "translation": "와라 와"
+    },
+    {
+      "id": 77,
+      "start": 150.24,
+      "end": 151.1,
+      "rubyText": "ちとせあ",
+      "translation": "치토세아"
+    },
+    {
+      "id": 78,
+      "start": 151.1,
+      "end": 152.28,
+      "rubyText": "め め め め め",
+      "translation": "메 메 메 메 메"
+    },
+    {
+      "id": 79,
+      "start": 152.28,
+      "end": 154.1,
+      "rubyText": "め～でたいサンバ",
+      "translation": "경~사스러운 삼바"
+    },
+    {
+      "id": 80,
+      "start": 154.1,
+      "end": 155.92,
+      "rubyText": "天[てん]に歌[うた]えば",
+      "translation": "하늘에 노래하면"
+    },
+    {
+      "id": 81,
+      "start": 155.92,
+      "end": 157.2,
+      "rubyText": "冥界[めいかい]の",
+      "translation": "저승에 계신"
+    },
+    {
+      "id": 82,
+      "start": 157.2,
+      "end": 159.67,
+      "rubyText": "爺[じい]と婆[ばあ]も踊[おど]り出[だ]す",
+      "translation": "할아버지 할머니도 춤추기 시작해"
+    },
+    {
+      "id": 83,
+      "start": 159.67,
+      "end": 160.7,
+      "rubyText": "ド〜",
+      "translation": "도~"
+    },
+    {
+      "id": 84,
+      "start": 160.7,
+      "end": 161.8,
+      "rubyText": "七五[しちご]サンバ",
+      "translation": "시치고 삼바"
+    },
+    {
+      "id": 85,
+      "start": 161.8,
+      "end": 163.38,
+      "rubyText": "も～いちどサンバ",
+      "translation": "다시 한 번 삼바"
+    },
+    {
+      "id": 86,
+      "start": 163.38,
+      "end": 164.48,
+      "rubyText": "あめあめ",
+      "translation": "사탕 사탕"
+    },
+    {
+      "id": 87,
+      "start": 164.48,
+      "end": 165.58,
+      "rubyText": "もっとふれ",
+      "translation": "좀 더 와라"
+    },
+    {
+      "id": 88,
+      "start": 165.58,
+      "end": 166.6,
+      "rubyText": "ちとせあ",
+      "translation": "치토세아"
+    },
+    {
+      "id": 89,
+      "start": 166.6,
+      "end": 168.43,
+      "rubyText": "めめっめっめっめめっ！",
+      "translation": "메멧 멧 멧 메멧"
+    },
+    {
+      "id": 90,
+      "start": 168.43,
+      "end": 169.45,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 91,
+      "start": 169.45,
+      "end": 170.47,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 92,
+      "start": 170.47,
+      "end": 171.49,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 93,
+      "start": 171.49,
+      "end": 172.51,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 94,
+      "start": 172.51,
+      "end": 173.54,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 95,
+      "start": 173.54,
+      "end": 174.9,
+      "rubyText": "ぱらぱらぱらぴれ",
+      "translation": "파라파라파라피레"
+    },
+    {
+      "id": 96,
+      "start": 174.9,
+      "end": 176.04,
+      "rubyText": "ぴ～やっ！",
+      "translation": "피~얏!"
+    },
+    {
+      "id": 97,
+      "start": 176.04,
+      "end": 177.02,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 98,
+      "start": 177.02,
+      "end": 178.0,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 99,
+      "start": 178.0,
+      "end": 178.98,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 100,
+      "start": 178.98,
+      "end": 179.96,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 101,
+      "start": 179.96,
+      "end": 180.94,
+      "rubyText": "ぽんぱらっぱっぱ",
+      "translation": "폰파랏팟파"
+    },
+    {
+      "id": 102,
+      "start": 180.94,
+      "end": 182.55,
+      "rubyText": "ぱらぱらぱらぴれぴょん！",
+      "translation": "파라파라파라피레 뿅!"
+    }
+  ],
+  "kanjiDictionary": {
+    "七": {
+      "character": "七",
+      "korean": "일곱 칠",
+      "kun": [
+        "なな",
+        "なな.つ",
+        "なの"
+      ],
+      "on": [
+        "シチ"
+      ],
+      "meaning": "일곱, 일곱 번",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "七光り",
+          "reading": "ななひかり",
+          "meaning": "후광, 부모의 덕"
+        },
+        {
+          "word": "七月",
+          "reading": "しちがつ",
+          "meaning": "7월"
+        }
+      ]
+    },
+    "五": {
+      "character": "五",
+      "korean": "다섯 오",
+      "kun": [
+        "いつ",
+        "いつ・つ"
+      ],
+      "on": [
+        "ゴ"
+      ],
+      "meaning": "다섯, 5",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "五",
+          "reading": "ご",
+          "meaning": "다섯, 5"
+        },
+        {
+          "word": "五つ",
+          "reading": "いつつ",
+          "meaning": "다섯 개"
+        },
+        {
+          "word": "五臓六腑",
+          "reading": "ごぞうろっぷ",
+          "meaning": "오장육부"
+        }
+      ]
+    },
+    "体": {
+      "character": "体",
+      "korean": "몸 체",
+      "kun": [
+        "からだ"
+      ],
+      "on": [
+        "たい",
+        "てい"
+      ],
+      "meaning": "몸, 신체, 물체, 형태",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "正体",
+          "reading": "しょうたい",
+          "meaning": "정체, 본모습"
+        },
+        {
+          "word": "体",
+          "reading": "からだ",
+          "meaning": "몸, 신체"
+        },
+        {
+          "word": "全体",
+          "reading": "ぜんたい",
+          "meaning": "전체"
+        }
+      ]
+    },
+    "冥": {
+      "character": "冥",
+      "korean": "어두울 명",
+      "kun": [
+        "くら.い"
+      ],
+      "on": [
+        "メイ",
+        "ミョウ"
+      ],
+      "meaning": "어둡다, 그윽하다, 저승",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "冥冥",
+          "reading": "めいめい",
+          "meaning": "아득함, 어두컴컴함"
+        },
+        {
+          "word": "冥福",
+          "reading": "めいふく",
+          "meaning": "명복"
+        }
+      ]
+    },
+    "出": {
+      "character": "出",
+      "korean": "날 출",
+      "kun": [
+        "で.る",
+        "だ.す"
+      ],
+      "on": [
+        "シュツ",
+        "スイ"
+      ],
+      "meaning": "나가다, 내다, 드러나다",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "出す",
+          "reading": "だす",
+          "meaning": "내다"
+        },
+        {
+          "word": "溶け出す",
+          "reading": "とけだす",
+          "meaning": "녹아내리다"
+        }
+      ]
+    },
+    "動": {
+      "character": "動",
+      "korean": "움직일 동",
+      "kun": [
+        "うご.く",
+        "うご.かす"
+      ],
+      "on": [
+        "ドウ"
+      ],
+      "meaning": "움직이다, 작동하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "運動",
+          "reading": "うんどう",
+          "meaning": "운동"
+        },
+        {
+          "word": "動物",
+          "reading": "どうぶつ",
+          "meaning": "동물"
+        }
+      ]
+    },
+    "勝": {
+      "character": "勝",
+      "korean": "이길 승",
+      "kun": [
+        "か.つ",
+        "まさ.る"
+      ],
+      "on": [
+        "ショウ"
+      ],
+      "meaning": "이기다, 낫다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "勝負",
+          "reading": "しょうぶ",
+          "meaning": "승부"
+        },
+        {
+          "word": "勝利",
+          "reading": "しょうり",
+          "meaning": "승리"
+        }
+      ]
+    },
+    "土": {
+      "character": "土",
+      "korean": "흙 토",
+      "kun": [
+        "つち"
+      ],
+      "on": [
+        "ト",
+        "ド"
+      ],
+      "meaning": "흙, 땅, 흙으로 만든 것",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "土竜",
+          "reading": "もぐら",
+          "meaning": "두더지 (숙자훈)"
+        },
+        {
+          "word": "土地",
+          "reading": "とち",
+          "meaning": "토지, 땅"
+        }
+      ]
+    },
+    "天": {
+      "character": "天",
+      "korean": "하늘 천",
+      "kun": [
+        "あま",
+        "あめ"
+      ],
+      "on": [
+        "テン"
+      ],
+      "meaning": "하늘, 천성, 자연",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "天才",
+          "reading": "てんさい",
+          "meaning": "천재"
+        },
+        {
+          "word": "天命",
+          "reading": "てんめい",
+          "meaning": "천명"
+        }
+      ]
+    },
+    "婆": {
+      "character": "婆",
+      "korean": "할미 파",
+      "kun": [
+        "ばば",
+        "ばあ"
+      ],
+      "on": [
+        "バ"
+      ],
+      "meaning": "할머니, 노파",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "老婆",
+          "reading": "ろうば",
+          "meaning": "노파, 늙은 여자"
+        },
+        {
+          "word": "お転婆",
+          "reading": "おてんば",
+          "meaning": "말괄량이"
+        },
+        {
+          "word": "産婆",
+          "reading": "さんば",
+          "meaning": "산파, 조산사"
+        }
+      ]
+    },
+    "手": {
+      "character": "手",
+      "korean": "손 수",
+      "kun": [
+        "て",
+        "た"
+      ],
+      "on": [
+        "シュ"
+      ],
+      "meaning": "손, 수단",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "手",
+          "reading": "て",
+          "meaning": "손"
+        },
+        {
+          "word": "拍手",
+          "reading": "はくしゅ",
+          "meaning": "박수"
+        }
+      ]
+    },
+    "極": {
+      "character": "極",
+      "korean": "다할 극",
+      "kun": [
+        "きわ.める",
+        "きわ.まる"
+      ],
+      "on": [
+        "キョク",
+        "ゴク"
+      ],
+      "meaning": "극진하다, 최고, 다하다",
+      "examples": [
+        {
+          "word": "極上",
+          "reading": "ごくじょう",
+          "meaning": "극상, 최상급"
+        },
+        {
+          "word": "極限",
+          "reading": "きょくげん",
+          "meaning": "극한"
+        }
+      ],
+      "jlptLevel": "N2"
+    },
+    "楽": {
+      "character": "楽",
+      "korean": "즐길 락 / 풍류 악",
+      "kun": [
+        "たの.しい",
+        "たの.しむ"
+      ],
+      "on": [
+        "ラク",
+        "ガク"
+      ],
+      "meaning": "즐겁다, 편안하다, 음악",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "楽しい",
+          "reading": "たのしい",
+          "meaning": "즐겁다"
+        },
+        {
+          "word": "音楽",
+          "reading": "おんがく",
+          "meaning": "음악"
+        }
+      ]
+    },
+    "歌": {
+      "character": "歌",
+      "korean": "노래 가",
+      "kun": [
+        "うた",
+        "うた.う"
+      ],
+      "on": [
+        "カ"
+      ],
+      "meaning": "노래, 노래하다",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "歌手",
+          "reading": "かしゅ",
+          "meaning": "가수"
+        },
+        {
+          "word": "校歌",
+          "reading": "こうか",
+          "meaning": "교가"
+        }
+      ]
+    },
+    "毒": {
+      "character": "毒",
+      "korean": "독 독",
+      "kun": [],
+      "on": [
+        "ドク"
+      ],
+      "meaning": "독, 해악, 해롭다",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "毒",
+          "reading": "どく",
+          "meaning": "독"
+        },
+        {
+          "word": "毒入り",
+          "reading": "どくいり",
+          "meaning": "독이 든 것"
+        },
+        {
+          "word": "消毒",
+          "reading": "しょうどく",
+          "meaning": "소독"
+        }
+      ]
+    },
+    "浄": {
+      "character": "浄",
+      "korean": "깨끗할 정 (맑힐 정)",
+      "kun": [
+        "きよ・める",
+        "きよ・い"
+      ],
+      "on": [
+        "ジョウ"
+      ],
+      "meaning": "깨끗하다, 맑히다, 정화하다",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "浄化",
+          "reading": "じょうか",
+          "meaning": "정화"
+        },
+        {
+          "word": "清浄",
+          "reading": "せいじょう",
+          "meaning": "청정"
+        },
+        {
+          "word": "洗浄",
+          "reading": "せんじょう",
+          "meaning": "세정, 씻음"
+        }
+      ]
+    },
+    "爺": {
+      "character": "爺",
+      "korean": "할아버지 야",
+      "kun": [
+        "じじ",
+        "じい"
+      ],
+      "on": [
+        "ヤ"
+      ],
+      "meaning": "할아버지, 늙은이",
+      "jlptLevel": "N1",
+      "onyomi": [
+        "ヤ"
+      ],
+      "kunyomi": [
+        "じじ",
+        "じい"
+      ],
+      "jlpt": "N1",
+      "examples": [
+        {
+          "word": "爺",
+          "reading": "じい",
+          "meaning": "할아버지, 늙은이"
+        },
+        {
+          "word": "爺婆",
+          "reading": "じじばば",
+          "meaning": "할아버지와 할머니"
+        },
+        {
+          "word": "翁爺",
+          "reading": "おうや",
+          "meaning": "노옹, 노인"
+        }
+      ]
+    },
+    "界": {
+      "character": "界",
+      "korean": "지경 계",
+      "kun": [],
+      "on": [
+        "カイ"
+      ],
+      "meaning": "경계, 한계, 세계",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "限界",
+          "reading": "げんかい",
+          "meaning": "한계"
+        },
+        {
+          "word": "世界",
+          "reading": "せかい",
+          "meaning": "세계"
+        }
+      ]
+    },
+    "踊": {
+      "character": "踊",
+      "korean": "춤출 용",
+      "kun": [
+        "おど.る",
+        "おど.り"
+      ],
+      "on": [
+        "ヨウ"
+      ],
+      "meaning": "춤추다, 뛰다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "踊る",
+          "reading": "おどる",
+          "meaning": "춤추다"
+        },
+        {
+          "word": "舞踊",
+          "reading": "ぶよう",
+          "meaning": "무용"
+        }
+      ]
+    },
+    "身": {
+      "character": "身",
+      "korean": "몸 신",
+      "kun": [
+        "み"
+      ],
+      "on": [
+        "シン"
+      ],
+      "meaning": "몸, 자신, 신체",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "身",
+          "reading": "み",
+          "meaning": "몸, 신체"
+        },
+        {
+          "word": "自身",
+          "reading": "じしん",
+          "meaning": "자신"
+        }
+      ]
+    },
+    "面": {
+      "character": "面",
+      "korean": "낯 면 / 얼굴 면",
+      "kun": [
+        "おも",
+        "おもて",
+        "つら"
+      ],
+      "on": [
+        "メン"
+      ],
+      "meaning": "얼굴, 겉면, 방면",
+      "examples": [
+        {
+          "word": "真面目",
+          "reading": "まじめ",
+          "meaning": "성실함"
+        },
+        {
+          "word": "方面",
+          "reading": "ほうめん",
+          "meaning": "방면"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "鳥": {
+      "character": "鳥",
+      "korean": "새 조",
+      "kun": [
+        "とり"
+      ],
+      "on": [
+        "チョウ"
+      ],
+      "meaning": "새, 조류, 닭",
+      "examples": [
+        {
+          "word": "小鳥",
+          "reading": "ことり",
+          "meaning": "작은 새, 아기 새"
+        },
+        {
+          "word": "鳥",
+          "reading": "とり",
+          "meaning": "새, 날짐승"
+        },
+        {
+          "word": "野鳥",
+          "reading": "やちょう",
+          "meaning": "야생 조류, 들새"
+        }
+      ],
+      "jlptLevel": "N4"
+    }
+  }
+}

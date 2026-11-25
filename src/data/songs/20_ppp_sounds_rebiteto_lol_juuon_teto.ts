@@ -20,7 +20,7 @@ export const song20PppSoundsRebitetoLolJuuonTetoSong: Song = {
       "id": 2,
       "start": 6.66,
       "end": 8.72,
-      "rubyText": "嫌[きら]いね世の中[よのなか]なんて",
+      "rubyText": "嫌[きら]いね世[よ]の中[なか]なんて",
       "translation": "이 세상 따윈 싫어",
       "romaji": "kiraine yono yononakanante"
     },
@@ -60,7 +60,7 @@ export const song20PppSoundsRebitetoLolJuuonTetoSong: Song = {
       "id": 7,
       "start": 29.1,
       "end": 31.1,
-      "rubyText": "繰り返[くりかえ]してはまた縋[すが]る",
+      "rubyText": "繰[く]り返[かえ]してはまた縋[すが]る",
       "translation": "반복하고 반복해",
       "romaji": "kuri kurikaeshitehamatasugaru"
     },
@@ -252,7 +252,7 @@ export const song20PppSoundsRebitetoLolJuuonTetoSong: Song = {
       "id": 31,
       "start": 107.8,
       "end": 109.8,
-      "rubyText": "嫌[きら]いね世の中[よのなか]なんて",
+      "rubyText": "嫌[きら]いね世[よ]の中[なか]なんて",
       "translation": "이 세상 따윈 싫어",
       "romaji": "kiraine yono yononakanante"
     },

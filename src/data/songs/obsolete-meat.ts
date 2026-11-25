@@ -266,152 +266,152 @@ export const obsoleteMeatSong: Song = {
     },
     {
       "id": 33,
-      "start": 141.88,
-      "end": 143.18,
+      "start": 101.88,
+      "end": 103.18,
       "rubyText": "新[あら]たな食事[しょくじ]が出[で]る度[たび]、",
       "translation": "새로운 음식이 나올 때마다,",
       "romaji": "aratana shokuji ga deru tabi,"
     },
     {
       "id": 34,
-      "start": 143.18,
-      "end": 144.48,
+      "start": 103.18,
+      "end": 104.48,
       "rubyText": "何処[どこ]からか湧[わ]いてくる、ノスタルジー",
       "translation": "어디선가 솟아나는, 노스탤지어",
       "romaji": "doko kara ka waite kuru, nosutarujii"
     },
     {
       "id": 35,
-      "start": 144.48,
-      "end": 146.35,
+      "start": 104.48,
+      "end": 106.35,
       "rubyText": "なんか、毎年[まいとし]いつも同[おな]じムーブだね。",
       "translation": "뭐랄까, 매년 항상 똑같은 무브네.",
       "romaji": "nanka, maitoshi itsumo onaji muubu da ne."
     },
     {
       "id": 36,
-      "start": 146.35,
-      "end": 147.52,
+      "start": 106.35,
+      "end": 107.52,
       "rubyText": "それこそ、お腹[なか]がいっぱい。",
       "translation": "그거야말로, 배가 한가득.",
       "romaji": "sore koso, onaka ga ippai."
     },
     {
       "id": 37,
-      "start": 147.52,
-      "end": 148.46,
+      "start": 107.52,
+      "end": 108.46,
       "rubyText": "もう、主観[しゅかん]と、客観[きゃっかん]が、",
       "translation": "이미, 주관과, 객관이,",
       "romaji": "mou, shukan to, kyakkan ga,"
     },
     {
       "id": 38,
-      "start": 148.46,
-      "end": 149.4,
+      "start": 108.46,
+      "end": 109.4,
       "rubyText": "ごっちゃになっている",
       "translation": "뒤범벅이 되어 있는",
       "romaji": "gotcha ni natte iru"
     },
     {
       "id": 39,
-      "start": 149.4,
-      "end": 150.52,
+      "start": 109.4,
+      "end": 110.52,
       "rubyText": "カスのサラダボウル？",
       "translation": "카오스의 샐러드볼?",
       "romaji": "kasu no sarada bouru?"
     },
     {
       "id": 40,
-      "start": 150.52,
-      "end": 151.9,
+      "start": 110.52,
+      "end": 111.9,
       "rubyText": "はたまた、事実[じじつ]に反[はん]する",
       "translation": "아니면, 사실에 반하는",
       "romaji": "hatamata, jijitsu ni hansuru"
     },
     {
       "id": 41,
-      "start": 151.9,
-      "end": 153.28,
+      "start": 111.9,
+      "end": 113.28,
       "rubyText": "確証[かくしょう]バイアスか？",
       "translation": "확증편향인가?",
       "romaji": "kakushou baiasu ka?"
     },
     {
       "id": 42,
-      "start": 153.28,
-      "end": 154.0,
+      "start": 113.28,
+      "end": 114.0,
       "rubyText": "じゃあ、例[たと]えば。",
       "translation": "그러면, 예를 들면.",
       "romaji": "jaa, tatoeba."
     },
     {
       "id": 43,
-      "start": 154.0,
-      "end": 155.54,
+      "start": 114.0,
+      "end": 115.54,
       "rubyText": "数年後[すうねんご]には、脚光[きゃっこう]の主役[しゅやく]が",
       "translation": "수년 후에는, 각광의 주역이",
       "romaji": "suunengo ni wa, kyakkou no shuyaku ga"
     },
     {
       "id": 44,
-      "start": 155.54,
-      "end": 156.57,
+      "start": 115.54,
+      "end": 116.57,
       "rubyText": "取[と]って代[か]わられているとして、",
       "translation": "빼앗겨 있더라도,",
       "romaji": "totte kawararete iru to shite,"
     },
     {
       "id": 45,
-      "start": 156.57,
-      "end": 157.79,
+      "start": 116.57,
+      "end": 117.79,
       "rubyText": "その時[とき]、あなたはそれでも",
       "translation": "그때, 당신은 그럼에도",
       "romaji": "sono toki, anata wa sore demo"
     },
     {
       "id": 46,
-      "start": 157.79,
-      "end": 159.74,
+      "start": 117.79,
+      "end": 119.74,
       "rubyText": "私[わたし]の隣[となり]に居[い]続[つづ]けてはくれるのかな。",
       "translation": "내 곁에 계속 있어주려나.",
       "romaji": "watashi no tonari ni itsuzukete wa kureru no ka na."
     },
     {
       "id": 47,
-      "start": 159.74,
-      "end": 161.35,
+      "start": 119.74,
+      "end": 121.35,
       "rubyText": "流行[はや]り廃[すた]りの延長線[えんちょうせん]に、",
       "translation": "유행과 쇠퇴의 연장선에,",
       "romaji": "hayarisutari no enchousen ni,"
     },
     {
       "id": 48,
-      "start": 161.35,
-      "end": 162.76,
+      "start": 121.35,
+      "end": 122.76,
       "rubyText": "腐[くさ]り落[お]つ私達[わたしたち]が有[あ]って。",
       "translation": "썩어서 떨어진 우리가 있어.",
       "romaji": "kusariotsu watashitachi ga atte."
     },
     {
       "id": 49,
-      "start": 162.76,
-      "end": 163.84,
+      "start": 122.76,
+      "end": 123.84,
       "rubyText": "賞味期限[しょうみきげん]も過[す]ぎずに、",
       "translation": "유통기한도 지나지 않은 채로,",
       "romaji": "shoumikigen mo sugizu ni,"
     },
     {
       "id": 50,
-      "start": 163.84,
-      "end": 164.77,
+      "start": 123.84,
+      "end": 124.77,
       "rubyText": "とっとと廃棄[はいき]で、",
       "translation": "냉큼 폐기하고,",
       "romaji": "tottoto haiki de,"
     },
     {
       "id": 51,
-      "start": 164.77,
-      "end": 165.71,
+      "start": 124.77,
+      "end": 125.71,
       "rubyText": "「次[つぎ]の注文[ちゅうもん]」って…",
       "translation": "\"다음 주문\"이라고...",
       "romaji": "\"tsugi no chuumon\" tte..."

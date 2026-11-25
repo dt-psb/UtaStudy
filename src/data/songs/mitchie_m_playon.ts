@@ -371,7 +371,7 @@ export const mitchieMPlayonSong: Song = {
       "id": 46,
       "start": 219.466,
       "end": 224.933,
-      "rubyText": "喜び讃歌[さんか]しPlay on",
+      "rubyText": "喜[よろこ]び讃歌[さんか]しPlay on",
       "translation": "기쁨을 찬가하며 Play on",
       "romaji": "yorokobi sanka shi Play on"
     },
@@ -451,7 +451,7 @@ export const mitchieMPlayonSong: Song = {
       "id": 56,
       "start": 281.399,
       "end": 287.0,
-      "rubyText": "喜び讃歌[さんか]し Play on",
+      "rubyText": "喜[よろこ]び讃歌[さんか]し Play on",
       "translation": "기쁨을 찬가하며 Play on",
       "romaji": "yorokobi sanka shi Play on"
     },

@@ -164,7 +164,7 @@ export const song05VocaloidSupaishiiuitchikurafutoHatsuneMikuSong: Song = {
       "id": 20,
       "start": 44.15,
       "end": 46.35,
-      "rubyText": "でっかい夢[ゆめ]に詰め込[つめこ]んだ思[おも]いを",
+      "rubyText": "でっかい夢[ゆめ]に詰[つ]め込[こ]んだ思[おも]いを",
       "translation": "커다란 꿈에 가득 담은 마음을",
       "romaji": "dekkaiyumeni tsume tsumekondaomoiwo"
     },
@@ -260,7 +260,7 @@ export const song05VocaloidSupaishiiuitchikurafutoHatsuneMikuSong: Song = {
       "id": 32,
       "start": 70.54,
       "end": 72.35,
-      "rubyText": "遊び心[あそびごころ]は収[おさ]まんない",
+      "rubyText": "遊[あそ]び心[ごころ]は収[おさ]まんない",
       "translation": "장난기는 가라앉질 않아",
       "romaji": "asobi asobigokorohaosamannai"
     },
@@ -404,7 +404,7 @@ export const song05VocaloidSupaishiiuitchikurafutoHatsuneMikuSong: Song = {
       "id": 50,
       "start": 102.73,
       "end": 105.04,
-      "rubyText": "でっかい夢[ゆめ]に詰め込[つめこ]んだ思[おも]いを",
+      "rubyText": "でっかい夢[ゆめ]に詰[つ]め込[こ]んだ思[おも]いを",
       "translation": "커다란 꿈에 가득 담은 마음을",
       "romaji": "dekkaiyumeni tsume tsumekondaomoiwo"
     },

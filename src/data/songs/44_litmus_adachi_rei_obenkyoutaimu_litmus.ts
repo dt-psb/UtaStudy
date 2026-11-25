@@ -156,7 +156,7 @@ export const song44LitmusAdachiReiObenkyoutaimuLitmusSong: Song = {
       "id": 19,
       "start": 39.07,
       "end": 40.92,
-      "rubyText": "ArrayIndexOutOfBoundsException ※読み方[よみかた]：情報[じょうほう]膨大[ぼうだい]NO（脳[のう]）問題[もんだい]ない！",
+      "rubyText": "ArrayIndexOutOfBoundsException ※読[よ]み方[かた]：情報[じょうほう]膨大[ぼうだい]NO（脳[のう]）問題[もんだい]ない！",
       "translation": "ArrayIndexOutOfBoundsException ※읽는 법：정보 방대 NO (뇌) 문제 없음",
       "romaji": "ArrayIndexOutOfBoundsException  ※ yomikata : jouhou boudai NO ( nou ) mondai nai !"
     },

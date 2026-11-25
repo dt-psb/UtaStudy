@@ -44,7 +44,7 @@ export const song42TakDoridoriTakNumbNumbHatsuneSong: Song = {
       "id": 5,
       "start": 19.06,
       "end": 21.09,
-      "rubyText": "網膜[もうまく]に焼き付[やきつ]く影[かげ]",
+      "rubyText": "網膜[もうまく]に焼[や]き付[つ]く影[かげ]",
       "translation": "망막에 눌어붙은 그림자",
       "romaji": "moumaku ni yakitsuku kage"
     },
@@ -132,7 +132,7 @@ export const song42TakDoridoriTakNumbNumbHatsuneSong: Song = {
       "id": 16,
       "start": 38.87,
       "end": 41.37,
-      "rubyText": "飲み込[のみこ]まれてゆく",
+      "rubyText": "飲[の]み込[こ]まれてゆく",
       "translation": "삼켜져가고 있어",
       "romaji": "nomikoma reteyuku"
     },
@@ -292,7 +292,7 @@ export const song42TakDoridoriTakNumbNumbHatsuneSong: Song = {
       "id": 36,
       "start": 79.13,
       "end": 81.16,
-      "rubyText": "網膜[もうまく]に焼き付[やきつ]く影[かげ]",
+      "rubyText": "網膜[もうまく]に焼[や]き付[つ]く影[かげ]",
       "translation": "망막에 눌어붙은 그림자",
       "romaji": "moumaku ni yakitsuku kage"
     },

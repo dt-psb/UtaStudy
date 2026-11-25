@@ -66,7 +66,7 @@
       "id": 8,
       "start": 25.79,
       "end": 27.67,
-      "rubyText": "踏み込[ふみこ]んでステージ 一二三[ひふみ]",
+      "rubyText": "踏[ふ]み込[こ]んでステージ 一二三[ひふみ]",
       "translation": "뛰어들어 스테이지 이얼싼(一二三)",
       "romaji": "fumi fumikonde suteeji hifumi"
     },
@@ -194,9 +194,9 @@
       "id": 24,
       "start": 58.88,
       "end": 59.96,
-      "rubyText": "満タン[まんたん]だ!",
+      "rubyText": "満[まん]タンだ!",
       "translation": "만땅땅!",
-      "romaji": "mantan [ mantan ] da!"
+      "romaji": "mantan da!"
     },
     {
       "id": 25,
@@ -410,9 +410,9 @@
       "id": 51,
       "start": 134.57,
       "end": 135.69,
-      "rubyText": "満タン[まんたん]だ!",
+      "rubyText": "満[まん]タンだ!",
       "translation": "만땅땅!",
-      "romaji": "mantan [ mantan ] da!"
+      "romaji": "mantan da!"
     },
     {
       "id": 52,
@@ -1338,7 +1338,7 @@
       "character": "幼",
       "korean": "어릴 유",
       "kun": [
-        "おさな.이"
+        "おさな.い"
       ],
       "on": [
         "ヨウ"
@@ -3134,6 +3134,29 @@
           "word": "新鮮",
           "reading": "しんせん",
           "meaning": "신선"
+        }
+      ]
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
         }
       ]
     }

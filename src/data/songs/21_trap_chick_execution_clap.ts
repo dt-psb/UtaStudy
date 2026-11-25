@@ -140,7 +140,7 @@ export const song21TrapChickExecutionClapSong: Song = {
       "id": 17,
       "start": 44.03,
       "end": 45.85,
-      "rubyText": "聖女[せいじょ]ぶって気持ち悪[きもちわる]いね",
+      "rubyText": "聖女[せいじょ]ぶって気持[きも]ち悪[わる]いね",
       "translation": "성녀인 척 기분나쁘네",
       "romaji": "seijobutte kimochiki mochiwaruine"
     },
@@ -349,14 +349,14 @@ export const song21TrapChickExecutionClapSong: Song = {
       "start": 94.6,
       "end": 96.3,
       "rubyText": "さあさあ隠[かく]れて",
-      "translation": "",
+      "translation": "자아 어서 숨어",
       "romaji": "saasaakakurete"
     },
     {
       "id": 44,
       "start": 96.3,
       "end": 98.03,
-      "rubyText": "髪の毛[かみのけ]見[み]える",
+      "rubyText": "髪[かみ]の毛[け]見[み]える",
       "translation": "돌아갈 수 없어 이미",
       "romaji": "kami nokaminokemieru"
     },

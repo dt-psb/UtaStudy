@@ -396,7 +396,7 @@ export const song19HybeLabelsZicoLilasYoasobiSSong: Song = {
       "id": 49,
       "start": 99.64,
       "end": 101.78,
-      "rubyText": "パズルを組み合[くみあ]わせるみたいに click click",
+      "rubyText": "パズルを組[く]み合[あ]わせるみたいに click click",
       "translation": "퍼즐을 맞추듯이 click click",
       "romaji": "pazuru wo kumi kumiawaserumitaini click click"
     },

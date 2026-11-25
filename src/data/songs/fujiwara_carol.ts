@@ -1308,7 +1308,7 @@ export const fujiwaraCarolSong: Song = {
       "character": "幼",
       "korean": "어릴 유",
       "kun": [
-        "おさな.이"
+        "おさな.い"
       ],
       "on": [
         "ヨウ"

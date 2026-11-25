@@ -140,7 +140,7 @@ export const song45PppSoundsSexyMinusLolHatsuneSong: Song = {
       "id": 17,
       "start": 41.63,
       "end": 45.1,
-      "rubyText": "書き換[かきか]えられて踏[ふ]み潰[つぶ]されて",
+      "rubyText": "書[か]き換[か]えられて踏[ふ]み潰[つぶ]されて",
       "translation": "다시 쓰여지고 짓밟혀서",
       "romaji": "kakikaera rete fumi tsubusa rete"
     },

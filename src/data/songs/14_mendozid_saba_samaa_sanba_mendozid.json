@@ -106,7 +106,7 @@
       "id": 13,
       "start": 34.12,
       "end": 36.82,
-      "rubyText": "太っ腹[ふとっぱら]満腹[まんぷく]踊[おど]っている大[おお]トロ",
+      "rubyText": "太[ふと]っ腹[ぱら]満腹[まんぷく]踊[おど]っている大[おお]トロ",
       "translation": "통 크게 춤추고 있는 빵빵한 대뱃살 (※ 참치입니다. 믿어주세요)",
       "romaji": "futotsu futopparamanpukuodotteiruoo toro"
     },
@@ -2613,6 +2613,29 @@
           "word": "金魚",
           "reading": "きんぎょ",
           "meaning": "금붕어"
+        }
+      ]
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
         }
       ]
     }

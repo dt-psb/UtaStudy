@@ -34,7 +34,7 @@
       "id": 4,
       "start": 25.21,
       "end": 28.34,
-      "rubyText": "全[ぜん]概[がい]念[ねん]のせいで最[さい]低[てい]じゃん笑",
+      "rubyText": "全[ぜん]概[がい]念[ねん]のせいで最[さい]低[てい]じゃん笑[わら]",
       "translation": "모든 개념 때문에 최악이잖아 ㅋ",
       "romaji": "zen'gainen no sei de saitei jan"
     },
@@ -2725,6 +2725,29 @@
           "word": "最高",
           "reading": "さいこう",
           "meaning": "최고"
+        }
+      ]
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
         }
       ]
     }

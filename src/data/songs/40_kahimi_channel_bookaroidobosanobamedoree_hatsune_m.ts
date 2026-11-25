@@ -764,7 +764,7 @@ export const song40KahimiChannelBookaroidobosanobamedoreeHatsuneMSong: Song = {
       "id": 95,
       "start": 276.58,
       "end": 278.7,
-      "rubyText": "価値観[かちかん]もエゴも押し付[おしつ]けて",
+      "rubyText": "価値観[かちかん]もエゴも押[お]し付[つ]けて",
       "translation": "가치관도 이기심도 밀어붙여서",
       "romaji": "kachikan mo ego mo oshitsuke te"
     },
@@ -1260,9 +1260,9 @@ export const song40KahimiChannelBookaroidobosanobamedoreeHatsuneMSong: Song = {
       "id": 157,
       "start": 492.68,
       "end": 496.94,
-      "rubyText": "君[きみ]は酷[こく]く顔[かお]をしかめて",
+      "rubyText": "君[きみ]は酷[ひど]く顔[かお]をしかめて",
       "translation": "너는 얼굴을 잔뜩 찌푸리며",
-      "romaji": "kimi ha koku ku kao woshikamete"
+      "romaji": "kimi ha hidoku kao woshikamete"
     },
     {
       "id": 158,
@@ -4451,7 +4451,7 @@ export const song40KahimiChannelBookaroidobosanobamedoreeHatsuneMSong: Song = {
       "examples": [
         {
           "word": "描く",
-          "reading": "え가く",
+          "reading": "えがく",
           "meaning": "그리다"
         },
         {
@@ -8508,6 +8508,29 @@ export const song40KahimiChannelBookaroidobosanobamedoreeHatsuneMSong: Song = {
         }
       ],
       "jlptLevel": "N1"
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
+        }
+      ]
     }
   }
 };

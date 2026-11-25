@@ -427,37 +427,13 @@ export const shinigamiWaMeimokuSong: Song = {
     {
       "id": 53,
       "start": 156.01,
-      "end": 164.0,
-      "rubyText": "死神[しにがみ]の唄[うた]",
-      "translation": "사신의 노래",
-      "romaji": "shinigami no uta"
-    },
-    {
-      "id": 54,
-      "start": 164.0,
-      "end": 167.5,
-      "rubyText": "死神[しにがみ]の唄[うた]が始[はじ]まる前[まえ]に",
-      "translation": "사신의 노래가 시작되기 전에",
-      "romaji": "shinigami no uta ga hajimaru mae ni"
-    },
-    {
-      "id": 55,
-      "start": 167.5,
-      "end": 169.99,
-      "rubyText": "面[めん]を剥[は]がして!",
-      "translation": "낯짝을 드러내!",
-      "romaji": "men o hagashite!"
-    },
-    {
-      "id": 56,
-      "start": 156.01,
       "end": 157.5,
       "rubyText": "三途[さんず]の川[かわ]の水面[みなも]に映[うつ]る",
       "translation": "[삼도천 수면에 비치는]",
       "romaji": "sanzu no kawa no minamo ni utsuru"
     },
     {
-      "id": 57,
+      "id": 54,
       "start": 157.5,
       "end": 158.6,
       "rubyText": "残[のこ]された憎悪[ぞうお]。",
@@ -465,7 +441,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "nokosareta zōo."
     },
     {
-      "id": 58,
+      "id": 55,
       "start": 158.6,
       "end": 159.6,
       "rubyText": "鬼[おに]宿[やど]る顔[かお]。",
@@ -473,7 +449,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "oni yadoru kao."
     },
     {
-      "id": 59,
+      "id": 56,
       "start": 159.6,
       "end": 160.3,
       "rubyText": "小[ちい]さな背中[せなか]。",
@@ -481,7 +457,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "chiisana senaka."
     },
     {
-      "id": 60,
+      "id": 57,
       "start": 160.3,
       "end": 161.5,
       "rubyText": "謝罪[しゃざい]はいらない。",
@@ -489,7 +465,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "shazai wa iranai."
     },
     {
-      "id": 61,
+      "id": 58,
       "start": 161.5,
       "end": 163.4,
       "rubyText": "分[わ]かっててそれを選[えら]んだんだろう?",
@@ -497,7 +473,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "wakattete sore o erandan darō?"
     },
     {
-      "id": 62,
+      "id": 59,
       "start": 163.4,
       "end": 165.1,
       "rubyText": "泣[な]きながら振[ふ]り返[かえ]るお前[まえ]を",
@@ -505,7 +481,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "nakinagara furikaeru omae o"
     },
     {
-      "id": 63,
+      "id": 60,
       "start": 165.1,
       "end": 166.6,
       "rubyText": "俺[おれ]たちは押[お]してやるのさ。",
@@ -513,7 +489,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "oretachi wa oshite yaru no sa."
     },
     {
-      "id": 64,
+      "id": 61,
       "start": 166.6,
       "end": 167.9,
       "rubyText": "泥[どろ]のような温[ぬる]い手[て]で",
@@ -521,15 +497,31 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "doro no yō na nurui te de"
     },
     {
-      "id": 65,
+      "id": 62,
       "start": 167.9,
-      "end": 169.5,
+      "end": 168.8,
       "rubyText": "お前[まえ]の背中[せなか]を押[お]してやるのさ。",
       "translation": "[네 등을 밀어줄 뿐이다.]",
       "romaji": "omae no senaka o oshite yaru no sa."
     },
     {
-      "id": 66,
+      "id": 63,
+      "start": 168.8,
+      "end": 169.4,
+      "rubyText": "死神[しにがみ]の唄[うた]が始[はじ]まる前[まえ]に",
+      "translation": "사신의 노래가 시작되기 전에",
+      "romaji": "shinigami no uta ga hajimaru mae ni"
+    },
+    {
+      "id": 64,
+      "start": 169.4,
+      "end": 169.99,
+      "rubyText": "面[めん]を剥[は]がして!",
+      "translation": "낯짝을 드러내!",
+      "romaji": "men o hagashite!"
+    },
+    {
+      "id": 65,
       "start": 169.99,
       "end": 171.95,
       "rubyText": "瞑目[めいもく]はハイライト。",
@@ -537,7 +529,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "meimoku wa hairaito."
     },
     {
-      "id": 67,
+      "id": 66,
       "start": 171.95,
       "end": 174.53,
       "rubyText": "照[て]らす月[つき]が奇麗[きれい]で。",
@@ -545,7 +537,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "terasu tsuki ga kirei de."
     },
     {
-      "id": 68,
+      "id": 67,
       "start": 174.53,
       "end": 178.19,
       "rubyText": "涙[なみだ]の彼[かれ]が叫[さけ]び続[つづ]ける理由[りゆう]の",
@@ -553,7 +545,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "namida no kare ga sakebitsudzukeru riyū no"
     },
     {
-      "id": 69,
+      "id": 68,
       "start": 178.19,
       "end": 179.8,
       "rubyText": "意味[いみ]なんて無[な]くとも。",
@@ -561,7 +553,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "imi nante naku tomo."
     },
     {
-      "id": 70,
+      "id": 69,
       "start": 179.8,
       "end": 180.8,
       "rubyText": "鼻[はな]を抜[ぬ]ける",
@@ -569,7 +561,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "hana o nukeru"
     },
     {
-      "id": 71,
+      "id": 70,
       "start": 180.8,
       "end": 181.87,
       "rubyText": "雨[あめ]だけは",
@@ -577,7 +569,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "ame dake wa"
     },
     {
-      "id": 72,
+      "id": 71,
       "start": 181.87,
       "end": 185.03,
       "rubyText": "あんたが俺[おれ]を知[し]らなくとも。",
@@ -585,7 +577,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "anta ga ore o shiranaku tomo."
     },
     {
-      "id": 73,
+      "id": 72,
       "start": 185.5,
       "end": 186.94,
       "rubyText": "てらてら揺[ゆ]れる",
@@ -593,7 +585,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "teratera yureru"
     },
     {
-      "id": 74,
+      "id": 73,
       "start": 186.94,
       "end": 188.31,
       "rubyText": "衒[てら]う衒[てら]うステイト",
@@ -601,7 +593,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "terau terau suteito"
     },
     {
-      "id": 75,
+      "id": 74,
       "start": 188.31,
       "end": 189.27,
       "rubyText": "気[き]が触[ふ]れる",
@@ -609,7 +601,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "ki ga fureru"
     },
     {
-      "id": 76,
+      "id": 75,
       "start": 189.27,
       "end": 192.94,
       "rubyText": "あんた目掛[めが]けて生首[なまくび]蹴飛[けと]ばして",
@@ -617,7 +609,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "anta megakete namakubi ketobashite"
     },
     {
-      "id": 77,
+      "id": 76,
       "start": 192.94,
       "end": 194.34,
       "rubyText": "てらてら揺[ゆ]れる",
@@ -625,7 +617,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "teratera yureru"
     },
     {
-      "id": 78,
+      "id": 77,
       "start": 194.34,
       "end": 195.65,
       "rubyText": "火[ひ]が火[ひ]が消[き]える",
@@ -633,7 +625,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "hi ga hi ga kieru"
     },
     {
-      "id": 79,
+      "id": 78,
       "start": 195.65,
       "end": 196.51,
       "rubyText": "今[いま]消[き]える",
@@ -641,7 +633,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "ima kieru"
     },
     {
-      "id": 80,
+      "id": 79,
       "start": 196.51,
       "end": 200.38,
       "rubyText": "澄[す]ました顔[かお]が引[ひ]き攣[つ]るとこが見[み]たい",
@@ -649,7 +641,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "sumashita kao ga hikitsuru toko ga mitai"
     },
     {
-      "id": 81,
+      "id": 80,
       "start": 200.38,
       "end": 201.69,
       "rubyText": "取[と]り返[かえ]し付[つ]かず",
@@ -657,7 +649,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "torikaeshi tsukazu"
     },
     {
-      "id": 82,
+      "id": 81,
       "start": 201.69,
       "end": 203.09,
       "rubyText": "皺[しわ]と面[めん]も消[き]えず",
@@ -665,7 +657,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "shiwa to men mo kiezu"
     },
     {
-      "id": 83,
+      "id": 82,
       "start": 203.09,
       "end": 204.09,
       "rubyText": "火[ひ]は揺[ゆ]れる",
@@ -673,7 +665,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "hi wa yureru"
     },
     {
-      "id": 84,
+      "id": 83,
       "start": 204.09,
       "end": 207.76,
       "rubyText": "あんた目掛[めが]けてこの手[て]を伸[の]ばして",
@@ -681,7 +673,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "anta megakete kono te o nobashite"
     },
     {
-      "id": 85,
+      "id": 84,
       "start": 207.76,
       "end": 209.03,
       "rubyText": "てらてら揺[ゆ]れる",
@@ -689,7 +681,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "teratera yureru"
     },
     {
-      "id": 86,
+      "id": 85,
       "start": 209.03,
       "end": 210.53,
       "rubyText": "火[ひ]が火[ひ]が消[き]える",
@@ -697,7 +689,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "hi ga hi ga kieru"
     },
     {
-      "id": 87,
+      "id": 86,
       "start": 210.53,
       "end": 211.4,
       "rubyText": "今[いま]消[き]える",
@@ -705,7 +697,7 @@ export const shinigamiWaMeimokuSong: Song = {
       "romaji": "ima kieru"
     },
     {
-      "id": 88,
+      "id": 87,
       "start": 211.4,
       "end": 215.13,
       "rubyText": "あんたの番[ばん]だ 転[ころ]がる顔[かお]が見[み]たい",

@@ -1,0 +1,1329 @@
+import type { Song } from '../../types/song';
+
+export const mimiWatashiManualSong: Song = {
+  "id": "mimi_watashi_manual",
+  "title": "わたしマニュアル",
+  "artist": "MIMI feat. 可不",
+  "youtubeId": "hupkoU8e1is",
+  "lyrics": [
+    {
+      "id": 1,
+      "start": 11.59,
+      "end": 14.25,
+      "rubyText": "言葉[ことば]の欠片[かけら]が無[な]いように",
+      "translation": "말의 파편이 없도록"
+    },
+    {
+      "id": 2,
+      "start": 14.25,
+      "end": 16.9,
+      "rubyText": "なんにも私[わたし]ら知[し]らないの",
+      "translation": "아무것도, 우리들은 모르고 있어"
+    },
+    {
+      "id": 3,
+      "start": 16.9,
+      "end": 19.52,
+      "rubyText": "教[おし]えて教[おし]えてどうやって",
+      "translation": "알려줘, 알려줘, 어떻게 해서"
+    },
+    {
+      "id": 4,
+      "start": 19.52,
+      "end": 22.14,
+      "rubyText": "楽[らく]な生[い]き方[かた]１ピース",
+      "translation": "편안히 살 수 있는지 한 조각이라도"
+    },
+    {
+      "id": 5,
+      "start": 22.14,
+      "end": 24.72,
+      "rubyText": "でも余計[よけい]なことばか知[し]っちゃって",
+      "translation": "그렇지만 쓸데없는 것만 알게 돼서"
+    },
+    {
+      "id": 6,
+      "start": 24.72,
+      "end": 27.31,
+      "rubyText": "痛[いた]いの痛[いた]いの今日[きょう]だって",
+      "translation": "아파, 아파, 오늘도"
+    },
+    {
+      "id": 7,
+      "start": 27.31,
+      "end": 30.05,
+      "rubyText": "嗚呼[ああ] 夜[よる]の海底[かいてい]",
+      "translation": "아아, 밤의 해저"
+    },
+    {
+      "id": 8,
+      "start": 30.05,
+      "end": 32.78,
+      "rubyText": "言[い]えない、言[い]えないよつらいなんて",
+      "translation": "말할 수 없어, 말할 수 없어 괴롭다니"
+    },
+    {
+      "id": 9,
+      "start": 32.78,
+      "end": 35.13,
+      "rubyText": "ねぇココロの隙間[すきま]",
+      "translation": "저기, 마음의 틈"
+    },
+    {
+      "id": 10,
+      "start": 35.13,
+      "end": 37.49,
+      "rubyText": "知[し]ってゆく昨日[きのう]の奥[おく]",
+      "translation": "알아가 어제의 깊숙한 곳에서"
+    },
+    {
+      "id": 11,
+      "start": 38.22,
+      "end": 40.91,
+      "rubyText": "明日[あした]の隣[となり]で笑[わら]う様[よう]に",
+      "translation": "내일의 곁에서 웃는 듯이"
+    },
+    {
+      "id": 12,
+      "start": 40.91,
+      "end": 43.59,
+      "rubyText": "言葉[ことば]の底[そこ]で微睡[まどろ]む様[よう]に",
+      "translation": "말들의 밑바닥에서 잠드는 듯이"
+    },
+    {
+      "id": 13,
+      "start": 43.59,
+      "end": 46.25,
+      "rubyText": "なんにも私[わたし]ら知[し]らないの",
+      "translation": "아무것도, 우리들은 모르고 있어"
+    },
+    {
+      "id": 14,
+      "start": 46.25,
+      "end": 48.9,
+      "rubyText": "嗚呼[ああ] ならそれでいいじゃん",
+      "translation": "아아, 그럼 그걸로 괜찮잖아"
+    },
+    {
+      "id": 15,
+      "start": 48.9,
+      "end": 51.5,
+      "rubyText": "つらいのつらいの飛[と]んでかない",
+      "translation": "괴로운 것, 괴로운 것이 날아가지 않아"
+    },
+    {
+      "id": 16,
+      "start": 51.5,
+      "end": 54.1,
+      "rubyText": "なら眠[ねむ]れぬ僕[ぼく]らを抱[だ]きしめて！",
+      "translation": "그럼 잠들지 못하는 우리들을 감싸안아 줘!"
+    },
+    {
+      "id": 17,
+      "start": 54.1,
+      "end": 59.14,
+      "rubyText": "溶[と]けだす季節[きせつ]にループする",
+      "translation": "녹아가는 계절을 반복해"
+    },
+    {
+      "id": 18,
+      "start": 59.14,
+      "end": 61.35,
+      "rubyText": "嗚呼[ああ] ただそれでいいじゃん、なんて。",
+      "translation": "아아, 그저 그걸로 괜찮잖아, 라니"
+    },
+    {
+      "id": 19,
+      "start": 68.5,
+      "end": 70.22,
+      "rubyText": "んー",
+      "translation": "응"
+    },
+    {
+      "id": 20,
+      "start": 70.22,
+      "end": 71.56,
+      "rubyText": "たーりらったりらっ",
+      "translation": "타리랏타리랏"
+    },
+    {
+      "id": 21,
+      "start": 71.56,
+      "end": 72.9,
+      "rubyText": "たりらイェイイェ",
+      "translation": "타리라예이예"
+    },
+    {
+      "id": 22,
+      "start": 72.9,
+      "end": 74.24,
+      "rubyText": "たーりらったりらっ",
+      "translation": "타리랏타리랏"
+    },
+    {
+      "id": 23,
+      "start": 74.24,
+      "end": 75.58,
+      "rubyText": "たりらイェイイェ",
+      "translation": "타리라예이예"
+    },
+    {
+      "id": 24,
+      "start": 75.58,
+      "end": 76.92,
+      "rubyText": "たーりらったりらっ",
+      "translation": "타리랏타리랏"
+    },
+    {
+      "id": 25,
+      "start": 76.92,
+      "end": 78.26,
+      "rubyText": "たりらイェイイェ",
+      "translation": "타리랏예이예"
+    },
+    {
+      "id": 26,
+      "start": 78.26,
+      "end": 79.63,
+      "rubyText": "たーりらったったったった",
+      "translation": "타리랏탓탓탓타"
+    },
+    {
+      "id": 27,
+      "start": 79.63,
+      "end": 81.0,
+      "rubyText": "るるらる",
+      "translation": "루루라루"
+    },
+    {
+      "id": 28,
+      "start": 81.96,
+      "end": 83.78,
+      "rubyText": "気持[きも]ちの欠片[かけら]",
+      "translation": "마음의 조각"
+    },
+    {
+      "id": 29,
+      "start": 83.78,
+      "end": 85.6,
+      "rubyText": "知[し]ってゆく未来[みらい]の奥[おく]",
+      "translation": "알아가 미래의 깊숙한 곳에서"
+    },
+    {
+      "id": 30,
+      "start": 86.27,
+      "end": 88.91,
+      "rubyText": "明日[あした]の隣[となり]で笑[わら]う様[よう]に",
+      "translation": "내일의 곁에서 웃는 듯이"
+    },
+    {
+      "id": 31,
+      "start": 88.91,
+      "end": 91.54,
+      "rubyText": "言葉[ことば]の底[そこ]で微睡[まどろ]む様[よう]に",
+      "translation": "말들의 밑바닥에서 잠드는 듯이"
+    },
+    {
+      "id": 32,
+      "start": 91.54,
+      "end": 94.06,
+      "rubyText": "なんにも私[わたし]ら知[し]らないの",
+      "translation": "아무것도, 우리들은 모르고 있어"
+    },
+    {
+      "id": 33,
+      "start": 94.06,
+      "end": 96.58,
+      "rubyText": "嗚呼[ああ] ならそれでいいじゃん",
+      "translation": "아아, 그럼 그걸로 괜찮잖아"
+    },
+    {
+      "id": 34,
+      "start": 96.58,
+      "end": 99.42,
+      "rubyText": "つらいのつらいの飛[と]んでかない",
+      "translation": "괴로운 것, 괴로운 것이 날아가지 않아"
+    },
+    {
+      "id": 35,
+      "start": 99.42,
+      "end": 102.25,
+      "rubyText": "なら眠[ねむ]れぬ僕[ぼく]らを抱[だ]きしめて！",
+      "translation": "그럼 잠들지 못하는 우리들을 감싸안아 줘!"
+    },
+    {
+      "id": 36,
+      "start": 102.25,
+      "end": 107.39,
+      "rubyText": "溶[と]けだす季節[きせつ]にループする",
+      "translation": "녹아가는 계절을 반복해"
+    },
+    {
+      "id": 37,
+      "start": 107.39,
+      "end": 110.5,
+      "rubyText": "嗚呼[ああ] ただそれでいいじゃん、なんて。",
+      "translation": "아아, 그저 그걸로 괜찮잖아, 라니"
+    }
+  ],
+  "kanjiDictionary": {
+    "今": {
+      "character": "今",
+      "korean": "이제 금",
+      "kun": [
+        "いま"
+      ],
+      "on": [
+        "コン",
+        "キン"
+      ],
+      "meaning": "지금, 현재",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "今宵",
+          "reading": "こよい",
+          "meaning": "오늘 밤"
+        },
+        {
+          "word": "今",
+          "reading": "いま",
+          "meaning": "지금"
+        }
+      ]
+    },
+    "余": {
+      "character": "余",
+      "korean": "남을 여",
+      "kun": [
+        "あま.る",
+        "あま.す"
+      ],
+      "on": [
+        "ヨ"
+      ],
+      "meaning": "남다, 나머지, 여유",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "余裕",
+          "reading": "よゆう",
+          "meaning": "여유"
+        },
+        {
+          "word": "余る",
+          "reading": "あまる",
+          "meaning": "남다"
+        }
+      ]
+    },
+    "僕": {
+      "character": "僕",
+      "korean": "나 복 / 종 복",
+      "kun": [
+        "しもべ"
+      ],
+      "on": [
+        "ボク"
+      ],
+      "meaning": "나 (남성 1인칭 대명사), 하인",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "僕たち",
+          "reading": "ぼくたち",
+          "meaning": "우리들"
+        },
+        {
+          "word": "公僕",
+          "reading": "こうぼく",
+          "meaning": "공복(공무원)"
+        }
+      ]
+    },
+    "呼": {
+      "character": "呼",
+      "korean": "부를 호",
+      "kun": [
+        "よ.ぶ"
+      ],
+      "on": [
+        "コ"
+      ],
+      "meaning": "부르다, 숨을 내쉬다, 호칭하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "呼ぶ",
+          "reading": "よぶ",
+          "meaning": "부르다"
+        },
+        {
+          "word": "呼吸",
+          "reading": "こきゅう",
+          "meaning": "호흡"
+        }
+      ]
+    },
+    "嗚": {
+      "character": "嗚",
+      "korean": "슬플 오 / 탄식할 오",
+      "kun": [],
+      "on": [
+        "オ",
+        "ウ"
+      ],
+      "meaning": "슬퍼하다, 탄식하다",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "嗚咽",
+          "reading": "おえつ",
+          "meaning": "오열"
+        },
+        {
+          "word": "嗚呼",
+          "reading": "ああ",
+          "meaning": "아아(감탄사)"
+        }
+      ]
+    },
+    "夜": {
+      "character": "夜",
+      "korean": "밤 야",
+      "kun": [
+        "よ",
+        "よる"
+      ],
+      "on": [
+        "ヤ"
+      ],
+      "meaning": "밤, 어두운 때",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "夜",
+          "reading": "よる",
+          "meaning": "밤"
+        },
+        {
+          "word": "今夜",
+          "reading": "こんや",
+          "meaning": "오늘 밤"
+        }
+      ]
+    },
+    "奥": {
+      "character": "奥",
+      "korean": "깊을 옥 / 속 옥",
+      "kun": [
+        "おく"
+      ],
+      "on": [
+        "オウ"
+      ],
+      "meaning": "깊은 곳, 안쪽",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "奥",
+          "reading": "おく",
+          "meaning": "안쪽, 깊은 곳"
+        },
+        {
+          "word": "奥深",
+          "reading": "おくふかい",
+          "meaning": "깊숙하다, 심오하다"
+        }
+      ]
+    },
+    "季": {
+      "character": "季",
+      "korean": "계절 계",
+      "kun": [],
+      "on": [
+        "キ"
+      ],
+      "meaning": "seasons, period of time",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "四季",
+          "reading": "しき",
+          "meaning": "four seasons"
+        },
+        {
+          "word": "季節",
+          "reading": "きせつ",
+          "meaning": "season"
+        },
+        {
+          "word": "季語",
+          "reading": "きご",
+          "meaning": "seasonal word (in haiku)"
+        }
+      ]
+    },
+    "底": {
+      "character": "底",
+      "korean": "밑 저",
+      "kun": [
+        "そこ"
+      ],
+      "on": [
+        "テイ"
+      ],
+      "meaning": "바닥, 밑바닥",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "底",
+          "reading": "そこ",
+          "meaning": "바닥, 밑"
+        },
+        {
+          "word": "海底",
+          "reading": "かいてい",
+          "meaning": "해저"
+        }
+      ]
+    },
+    "微": {
+      "character": "微",
+      "korean": "작을 미",
+      "kun": [
+        "かす.か"
+      ],
+      "on": [
+        "ビ"
+      ],
+      "meaning": "작다, 은은하다, 아련하다",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "微妙",
+          "reading": "びみょう",
+          "meaning": "미묘함"
+        },
+        {
+          "word": "微笑み",
+          "reading": "ほほえみ",
+          "meaning": "미소"
+        }
+      ]
+    },
+    "抱": {
+      "character": "抱",
+      "korean": "안을 포",
+      "kun": [
+        "だ.く",
+        "いだ.く",
+        "かか.える"
+      ],
+      "on": [
+        "ホウ"
+      ],
+      "meaning": "안다, 품다",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "抱く",
+          "reading": "いだく",
+          "meaning": "마음에 품다"
+        },
+        {
+          "word": "抱擁",
+          "reading": "ほうよう",
+          "meaning": "포옹"
+        }
+      ]
+    },
+    "持": {
+      "character": "持",
+      "korean": "가질 지",
+      "kun": [
+        "も.つ"
+      ],
+      "on": [
+        "ジ"
+      ],
+      "meaning": "가지다, 쥐다, 유지하다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "持つ",
+          "reading": "もつ",
+          "meaning": "가지다"
+        },
+        {
+          "word": "気持ち",
+          "reading": "きもち",
+          "meaning": "기분"
+        }
+      ]
+    },
+    "教": {
+      "character": "教",
+      "korean": "가르칠 교",
+      "kun": [
+        "おし.える",
+        "おそ.わる"
+      ],
+      "on": [
+        "キョウ"
+      ],
+      "meaning": "가르치다, 배우다, 종교",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "教える",
+          "reading": "おしえる",
+          "meaning": "가르치다"
+        },
+        {
+          "word": "教室",
+          "reading": "きょうしつ",
+          "meaning": "교실"
+        }
+      ]
+    },
+    "方": {
+      "character": "方",
+      "korean": "모 방 / 방법 방",
+      "kun": [
+        "かた"
+      ],
+      "on": [
+        "ホウ"
+      ],
+      "meaning": "방향, 방법, 분(존칭)",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "方法",
+          "reading": "ほうほう",
+          "meaning": "방법"
+        },
+        {
+          "word": "夕方",
+          "reading": "ゆうがた",
+          "meaning": "해질녘"
+        }
+      ]
+    },
+    "日": {
+      "character": "日",
+      "korean": "날 일",
+      "kun": [
+        "ひ",
+        "か"
+      ],
+      "on": [
+        "ニチ",
+        "ジツ"
+      ],
+      "meaning": "해, 날, 낮",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "毎日",
+          "reading": "まいにち",
+          "meaning": "매일"
+        },
+        {
+          "word": "日曜日",
+          "reading": "にちようび",
+          "meaning": "일요일"
+        }
+      ]
+    },
+    "明": {
+      "character": "明",
+      "korean": "밝을 명",
+      "kun": [
+        "あか.るい",
+        "あ.ける"
+      ],
+      "on": [
+        "メイ",
+        "ミョウ"
+      ],
+      "meaning": "밝다, 환하다, 밝히다",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "明日",
+          "reading": "あした",
+          "meaning": "내일"
+        },
+        {
+          "word": "説明",
+          "reading": "せつめい",
+          "meaning": "설명"
+        }
+      ]
+    },
+    "昨": {
+      "character": "昨",
+      "korean": "어제 작",
+      "kun": [],
+      "on": [
+        "サク"
+      ],
+      "meaning": "어제, 지난 때",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "昨日",
+          "reading": "きのう",
+          "meaning": "어제"
+        },
+        {
+          "word": "昨年",
+          "reading": "さくねん",
+          "meaning": "작년"
+        }
+      ]
+    },
+    "未": {
+      "character": "未",
+      "korean": "아닐 미",
+      "kun": [
+        "いま.だ",
+        "ひつじ"
+      ],
+      "on": [
+        "ミ"
+      ],
+      "meaning": "아직 ~하지 못하다, 미래",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "未来",
+          "reading": "みらい",
+          "meaning": "미래"
+        },
+        {
+          "word": "未定",
+          "reading": "みてい",
+          "meaning": "미정"
+        }
+      ]
+    },
+    "来": {
+      "character": "来",
+      "korean": "올 래",
+      "kun": [
+        "く.る",
+        "きた.る"
+      ],
+      "on": [
+        "ライ"
+      ],
+      "meaning": "오다, 다가오다, 다음",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "来年",
+          "reading": "らいねん",
+          "meaning": "내년"
+        },
+        {
+          "word": "本来",
+          "reading": "ほんらい",
+          "meaning": "본래"
+        }
+      ]
+    },
+    "楽": {
+      "character": "楽",
+      "korean": "즐길 락 / 풍류 악",
+      "kun": [
+        "たの.しい",
+        "たの.しむ"
+      ],
+      "on": [
+        "ラク",
+        "ガク"
+      ],
+      "meaning": "즐겁다, 편안하다, 음악",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "楽しい",
+          "reading": "たのしい",
+          "meaning": "즐겁다"
+        },
+        {
+          "word": "音楽",
+          "reading": "おんがく",
+          "meaning": "음악"
+        }
+      ]
+    },
+    "様": {
+      "character": "様",
+      "korean": "모양 양 / 님 양",
+      "kun": [
+        "さま"
+      ],
+      "on": [
+        "ヨウ"
+      ],
+      "meaning": "모양, 상태, 님(존칭)",
+      "jlptLevel": "N4",
+      "examples": [
+        {
+          "word": "神様",
+          "reading": "かみさま",
+          "meaning": "신(하느님)"
+        },
+        {
+          "word": "様子",
+          "reading": "ようす",
+          "meaning": "모양, 상태"
+        }
+      ]
+    },
+    "欠": {
+      "character": "欠",
+      "korean": "이지러질 결",
+      "kun": [
+        "か.ける",
+        "か.く"
+      ],
+      "on": [
+        "ケツ"
+      ],
+      "meaning": "이지러지다, 결여되다, 흠",
+      "examples": [
+        {
+          "word": "欠ける",
+          "reading": "かける",
+          "meaning": "이지러지다, 결여되다"
+        },
+        {
+          "word": "欠点",
+          "reading": "けってん",
+          "meaning": "결점"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "気": {
+      "character": "気",
+      "korean": "기운 기",
+      "kun": [
+        "いき"
+      ],
+      "on": [
+        "キ",
+        "ケ"
+      ],
+      "meaning": "기운, 마음, 기분",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "勇気",
+          "reading": "ゆうき",
+          "meaning": "용기"
+        },
+        {
+          "word": "一気",
+          "reading": "いっき",
+          "meaning": "단숨에"
+        }
+      ]
+    },
+    "海": {
+      "character": "海",
+      "korean": "바다 해",
+      "kun": [
+        "うみ"
+      ],
+      "on": [
+        "カイ"
+      ],
+      "meaning": "바다, 넓고 깊음",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "海",
+          "reading": "うみ",
+          "meaning": "바다"
+        },
+        {
+          "word": "海外",
+          "reading": "かいがい",
+          "meaning": "해외"
+        }
+      ]
+    },
+    "溶": {
+      "character": "溶",
+      "korean": "녹을 용",
+      "kun": [
+        "と.ける",
+        "と.かす"
+      ],
+      "on": [
+        "ヨウ"
+      ],
+      "meaning": "녹다, 풀리다",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "溶け出す",
+          "reading": "とけだす",
+          "meaning": "녹아내리다"
+        },
+        {
+          "word": "溶液",
+          "reading": "ようえき",
+          "meaning": "용액"
+        }
+      ]
+    },
+    "無": {
+      "character": "無",
+      "korean": "없을 무",
+      "kun": [
+        "な.い"
+      ],
+      "on": [
+        "ム",
+        "ブ"
+      ],
+      "meaning": "없다, 아니하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "無理",
+          "reading": "むり",
+          "meaning": "무리"
+        },
+        {
+          "word": "無事",
+          "reading": "ぶじ",
+          "meaning": "무사함"
+        }
+      ]
+    },
+    "片": {
+      "character": "片",
+      "korean": "조각 편",
+      "kun": [
+        "かた"
+      ],
+      "on": [
+        "ヘン"
+      ],
+      "meaning": "조각, 한쪽, 정리하다",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "片付く",
+          "reading": "かたづく",
+          "meaning": "정리되다, 결말나다"
+        },
+        {
+          "word": "片道",
+          "reading": "かたみち",
+          "meaning": "편도"
+        }
+      ]
+    },
+    "生": {
+      "character": "生",
+      "korean": "날 생 / 살 생",
+      "kun": [
+        "い.きる",
+        "う.まれる",
+        "なま"
+      ],
+      "on": [
+        "セイ",
+        "ショウ"
+      ],
+      "meaning": "살다, 낳다, 날것",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "生きる",
+          "reading": "いきる",
+          "meaning": "살아가다"
+        },
+        {
+          "word": "生活",
+          "reading": "せいかつ",
+          "meaning": "생활"
+        }
+      ]
+    },
+    "痛": {
+      "character": "痛",
+      "korean": "아플 통",
+      "kun": [
+        "いた.い",
+        "いた.む"
+      ],
+      "on": [
+        "ツウ"
+      ],
+      "meaning": "아프다, 괴롭다",
+      "examples": [
+        {
+          "word": "痛い",
+          "reading": "いたい",
+          "meaning": "아프다, 괴롭다"
+        },
+        {
+          "word": "苦痛",
+          "reading": "くつう",
+          "meaning": "고통"
+        }
+      ],
+      "jlptLevel": "N3"
+    },
+    "眠": {
+      "character": "眠",
+      "korean": "잘 면",
+      "kun": [
+        "ねむ・る",
+        "ねむ・い"
+      ],
+      "on": [
+        "みん"
+      ],
+      "meaning": "자다, 잠들다, 졸리다",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "眠る",
+          "reading": "ねむる",
+          "meaning": "잠들다, 자다"
+        },
+        {
+          "word": "眠い",
+          "reading": "ねむい",
+          "meaning": "졸리다"
+        },
+        {
+          "word": "睡眠",
+          "reading": "すいみん",
+          "meaning": "수면"
+        }
+      ]
+    },
+    "睡": {
+      "character": "睡",
+      "korean": "잘 수",
+      "kun": [
+        "ねむ.る"
+      ],
+      "on": [
+        "スイ"
+      ],
+      "meaning": "자다, 졸다, 잠",
+      "jlptLevel": "N1",
+      "examples": [
+        {
+          "word": "睡眠",
+          "reading": "すいみん",
+          "meaning": "수면"
+        },
+        {
+          "word": "微睡み",
+          "reading": "まどろみ",
+          "meaning": "선잠, 깜빡 잠듦"
+        },
+        {
+          "word": "熟睡",
+          "reading": "じゅくすい",
+          "meaning": "숙면"
+        }
+      ]
+    },
+    "知": {
+      "character": "知",
+      "korean": "알 지",
+      "kun": [
+        "し.る"
+      ],
+      "on": [
+        "チ"
+      ],
+      "meaning": "알다, 지식",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "知る",
+          "reading": "しる",
+          "meaning": "알다"
+        },
+        {
+          "word": "知識",
+          "reading": "ちしき",
+          "meaning": "지식"
+        }
+      ]
+    },
+    "私": {
+      "character": "私",
+      "korean": "사사 사 / 나 사",
+      "kun": [
+        "わたし",
+        "わたくし"
+      ],
+      "on": [
+        "シ"
+      ],
+      "meaning": "나, 저 (1인칭)",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "私",
+          "reading": "わたし",
+          "meaning": "나, 저"
+        },
+        {
+          "word": "私立",
+          "reading": "しりつ",
+          "meaning": "사립"
+        }
+      ]
+    },
+    "笑": {
+      "character": "笑",
+      "korean": "웃을 소",
+      "kun": [
+        "わら.う",
+        "え.む"
+      ],
+      "on": [
+        "ショウ"
+      ],
+      "meaning": "웃다, 기뻐하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "笑う",
+          "reading": "わらう",
+          "meaning": "웃다"
+        },
+        {
+          "word": "笑顔",
+          "reading": "えがお",
+          "meaning": "웃는 얼굴"
+        }
+      ]
+    },
+    "節": {
+      "character": "節",
+      "korean": "마디 절",
+      "kun": [
+        "ふし"
+      ],
+      "on": [
+        "セツ",
+        "セチ"
+      ],
+      "meaning": "마디, 관절, 계절, 절약하다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "節穴",
+          "reading": "ふしあな",
+          "meaning": "옹이구멍, 옹이자국"
+        },
+        {
+          "word": "季節",
+          "reading": "きせつ",
+          "meaning": "계절"
+        }
+      ]
+    },
+    "葉": {
+      "character": "葉",
+      "korean": "잎 엽",
+      "kun": [
+        "は"
+      ],
+      "on": [
+        "ヨウ"
+      ],
+      "meaning": "나뭇잎, 잎사귀",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "葉書",
+          "reading": "はがき",
+          "meaning": "엽서"
+        },
+        {
+          "word": "紅葉",
+          "reading": "こうよう",
+          "meaning": "단풍"
+        }
+      ]
+    },
+    "言": {
+      "character": "言",
+      "korean": "말씀 언",
+      "kun": [
+        "い.う",
+        "こと"
+      ],
+      "on": [
+        "ゲン",
+        "ゴン"
+      ],
+      "meaning": "말하다, 말씀, 단어",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "言葉",
+          "reading": "ことば",
+          "meaning": "말, 언어"
+        },
+        {
+          "word": "方言",
+          "reading": "ほうげん",
+          "meaning": "방언, 사투리"
+        }
+      ]
+    },
+    "計": {
+      "character": "計",
+      "korean": "셈할 계",
+      "kun": [
+        "はか.る",
+        "はか.らう"
+      ],
+      "on": [
+        "ケイ"
+      ],
+      "meaning": "세다, 계산하다, 설계, 계획",
+      "examples": [
+        {
+          "word": "設計図",
+          "reading": "せっけいず",
+          "meaning": "설계도"
+        },
+        {
+          "word": "計画",
+          "reading": "けいかく",
+          "meaning": "계획"
+        }
+      ],
+      "jlptLevel": "N4"
+    },
+    "間": {
+      "character": "間",
+      "korean": "사이 간",
+      "kun": [
+        "あいだ",
+        "ま"
+      ],
+      "on": [
+        "カン",
+        "ケン"
+      ],
+      "meaning": "사이, 틈, 순간",
+      "jlptLevel": "N5",
+      "examples": [
+        {
+          "word": "瞬間",
+          "reading": "しゅんかん",
+          "meaning": "순간"
+        },
+        {
+          "word": "人間",
+          "reading": "にんげん",
+          "meaning": "인간"
+        }
+      ]
+    },
+    "隙": {
+      "character": "隙",
+      "korean": "틈 극",
+      "kun": [
+        "すき",
+        "す.く",
+        "ひま"
+      ],
+      "on": [
+        "ゲキ"
+      ],
+      "meaning": "틈, 빈틈, 겨를",
+      "examples": [
+        {
+          "word": "隙間",
+          "reading": "すきま",
+          "meaning": "틈새, 빈틈"
+        },
+        {
+          "word": "隙",
+          "reading": "すき",
+          "meaning": "틈, 허점, 방심"
+        }
+      ],
+      "jlptLevel": "N1"
+    },
+    "隣": {
+      "character": "隣",
+      "korean": "이웃 린",
+      "kun": [
+        "となり",
+        "とな.る"
+      ],
+      "on": [
+        "リン"
+      ],
+      "meaning": "이웃, 곁, 옆",
+      "jlptLevel": "N2",
+      "examples": [
+        {
+          "word": "隣",
+          "reading": "となり",
+          "meaning": "이웃, 옆, 곁"
+        },
+        {
+          "word": "近隣",
+          "reading": "きんりん",
+          "meaning": "근린, 이웃, 부근"
+        }
+      ]
+    },
+    "飛": {
+      "character": "飛",
+      "korean": "날 비",
+      "kun": [
+        "と・ぶ",
+        "と・ばす"
+      ],
+      "on": [
+        "ひ"
+      ],
+      "meaning": "날다, 날아가다, 날리다",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "飛ぶ",
+          "reading": "とぶ",
+          "meaning": "날다, 날아가다"
+        },
+        {
+          "word": "飛行機",
+          "reading": "ひこうき",
+          "meaning": "비행기"
+        },
+        {
+          "word": "飛び出す",
+          "reading": "とびだす",
+          "meaning": "뛰쳐나가다, 불쑥 나오다"
+        }
+      ]
+    }
+  }
+};

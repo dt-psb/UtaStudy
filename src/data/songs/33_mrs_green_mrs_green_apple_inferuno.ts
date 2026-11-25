@@ -92,7 +92,7 @@ export const song33MrsGreenMrsGreenAppleInferunoSong: Song = {
       "id": 11,
       "start": 47.79,
       "end": 53.31,
-      "rubyText": "思い出[おもいだ]すは優[やさ]しいメロディー",
+      "rubyText": "思[おも]い出[だ]すは優[やさ]しいメロディー",
       "translation": "떠올리는 건 상냥한 멜로디",
       "romaji": "omoidasu ha yasashii merodii"
     },
@@ -2906,6 +2906,29 @@ export const song33MrsGreenMrsGreenAppleInferunoSong: Song = {
         }
       ],
       "jlptLevel": "N3"
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
+        }
+      ]
     }
   }
 };

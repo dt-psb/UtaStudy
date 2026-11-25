@@ -123,14 +123,14 @@
       "start": 123.31,
       "end": 130.14,
       "rubyText": "ともすれば甘口[あまくち]辛口[からくち]ここは1つほら全部[ぜんぶ]壊[こわ]しちゃえ",
-      "translation": "",
+      "translation": "자칫하면 순한맛 매운맛 여기선 하나 자 전부 부숴버려",
       "romaji": "tomosurebaamakuchikarakuchikokoha 1 tsuhorazenbukowashichae"
     },
     {
       "id": 16,
       "start": 131.57,
       "end": 135.48,
-      "rubyText": "ああなんでだろう当たり前[あたりまえ]のことがおかしくて",
+      "rubyText": "ああなんでだろう当[あ]たり前[まえ]のことがおかしくて",
       "translation": "아, 왜일까? 당연한 일이 이상하게 느껴져.",
       "romaji": "aanandedarou atari atarimaenokotogaokashikute"
     },
@@ -163,7 +163,7 @@
       "start": 156.05,
       "end": 160.59,
       "rubyText": "さよならを",
-      "translation": "",
+      "translation": "작별을",
       "romaji": "sayonarawo"
     }
   ],

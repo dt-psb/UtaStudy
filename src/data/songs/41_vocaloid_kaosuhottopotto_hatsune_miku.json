@@ -82,7 +82,7 @@
       "id": 10,
       "start": 38.37,
       "end": 40.4,
-      "rubyText": "すぐに飛び込[とびこ]んでくる",
+      "rubyText": "すぐに飛[と]び込[こ]んでくる",
       "translation": "바로 뛰어 들어버리는",
       "romaji": "suguni tobikon dekuru"
     },
@@ -250,7 +250,7 @@
       "id": 31,
       "start": 101.37,
       "end": 103.1,
-      "rubyText": "飲み干[のみほ]すように",
+      "rubyText": "飲[の]み干[ほ]すように",
       "translation": "다 마시듯",
       "romaji": "nomihosu youni"
     },
@@ -298,7 +298,7 @@
       "id": 37,
       "start": 118.13,
       "end": 120.5,
-      "rubyText": "あれこれ詰め込[つめこ]んで",
+      "rubyText": "あれこれ詰[つ]め込[こ]んで",
       "translation": "이것저것 채워넣고",
       "romaji": "arekore tsumekon de"
     },
@@ -2546,6 +2546,29 @@
         }
       ],
       "jlptLevel": "N3"
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
+        }
+      ]
     }
   }
 }

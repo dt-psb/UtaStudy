@@ -212,7 +212,7 @@ export const song27ChenomioChenomioONegaiDokutaaSong: Song = {
       "id": 26,
       "start": 115.4,
       "end": 118.0,
-      "rubyText": "キュルキュルと 結び目[むすびめ]締[し]まるの",
+      "rubyText": "キュルキュルと 結[むす]び目[め]締[し]まるの",
       "translation": "꽉꽉 매듭이 조여오는걸",
       "romaji": "kyurukyuru to musubi musubimeshimaruno"
     },

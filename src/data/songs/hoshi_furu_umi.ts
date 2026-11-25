@@ -308,7 +308,7 @@ export const hoshiFuruUmiSong: Song = {
       "id": 38,
       "start": 216.25,
       "end": 223.1,
-      "rubyText": "集[あつ]めて紡[つむ]いで 未来[미라이]へ踏[ふ]み出[だ]す先[さき]も",
+      "rubyText": "集[あつ]めて紡[つむ]いで 未来[みらい]へ踏[ふ]み出[だ]す先[さき]も",
       "translation": "모아 엮어서 미래로 내딛는 그 앞도",
       "romaji": "atsumete tsumuide mirai e fumidasu saki mo"
     },

@@ -68,7 +68,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 8,
       "start": 41.5,
       "end": 44.4,
-      "rubyText": "ロッカーに全部[ぜんぶ]詰め込[つめこ]んだ",
+      "rubyText": "ロッカーに全部[ぜんぶ]詰[つ]め込[こ]んだ",
       "translation": "락커 안에 전부 집어넣었어",
       "romaji": "rokkaa nizenbu tsume tsumekonda"
     },
@@ -84,7 +84,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 10,
       "start": 47.5,
       "end": 50.1,
-      "rubyText": "踊[おど]ってない夜[よる]が気に入[きにい]らない",
+      "rubyText": "踊[おど]ってない夜[よる]が気[き]に入[い]らない",
       "translation": "춤추지 않는 밤이 마음에 안 들어",
       "romaji": "odottenaiyoruga kini kiniiranai"
     },
@@ -100,7 +100,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 12,
       "start": 53.2,
       "end": 56.2,
-      "rubyText": "踊[おど]ってない夜[よる]が気に入[きにい]らないよ",
+      "rubyText": "踊[おど]ってない夜[よる]が気[き]に入[い]らないよ",
       "translation": "춤추지 않는 밤이 마음에 안 들어",
       "romaji": "odottenaiyoruga kini kiniiranaiyo"
     },
@@ -108,7 +108,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 13,
       "start": 57.2,
       "end": 60.8,
-      "rubyText": "気に入[きにい]らない夜[よる]なんてもう僕[ぼく]は知[し]らない",
+      "rubyText": "気[き]に入[い]らない夜[よる]なんてもう僕[ぼく]は知[し]らない",
       "translation": "마음에 안 드는 밤따위 이젠 난 몰라",
       "romaji": "kini kiniiranaiyorunantemoubokuhashiranai"
     },
@@ -204,7 +204,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 25,
       "start": 103.3,
       "end": 106.1,
-      "rubyText": "踊[おど]ってない夜[よる]が気に入[きにい]らない",
+      "rubyText": "踊[おど]ってない夜[よる]が気[き]に入[い]らない",
       "translation": "춤추지 않는 밤을 몰라",
       "romaji": "odottenaiyoruga kini kiniiranai"
     },
@@ -220,7 +220,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 27,
       "start": 108.8,
       "end": 112.1,
-      "rubyText": "踊[おど]ってない夜[よる]が気に入[きにい]らないよ",
+      "rubyText": "踊[おど]ってない夜[よる]が気[き]に入[い]らないよ",
       "translation": "춤추지 않는 밤을 몰라",
       "romaji": "odottenaiyoruga kini kiniiranaiyo"
     },
@@ -228,7 +228,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 28,
       "start": 113.2,
       "end": 117.0,
-      "rubyText": "気に入[きにい]らない夜[よる]なんてもう僕[ぼく]は知[し]らない",
+      "rubyText": "気[き]に入[い]らない夜[よる]なんてもう僕[ぼく]は知[し]らない",
       "translation": "춤추지 않는 밤이 마음에 안 들어",
       "romaji": "kini kiniiranaiyorunantemoubokuhashiranai"
     },
@@ -324,7 +324,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 40,
       "start": 173.0,
       "end": 175.7,
-      "rubyText": "踊[おど]ってない夜[よる]が気に入[きにい]らない",
+      "rubyText": "踊[おど]ってない夜[よる]が気[き]に入[い]らない",
       "translation": "춤추지 않는 밤이 마음에 안 들어",
       "romaji": "odottenaiyoruga kini kiniiranai"
     },
@@ -340,7 +340,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 42,
       "start": 178.7,
       "end": 182.1,
-      "rubyText": "踊[おど]ってない夜[よる]が気に入[きにい]らないよ",
+      "rubyText": "踊[おど]ってない夜[よる]が気[き]に入[い]らないよ",
       "translation": "춤추지 않는 밤이 마음에 안 들어",
       "romaji": "odottenaiyoruga kini kiniiranaiyo"
     },
@@ -348,7 +348,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 43,
       "start": 183.1,
       "end": 186.6,
-      "rubyText": "気に入[きにい]らない夜[よる]なんてもう僕[ぼく]は知[し]らない",
+      "rubyText": "気[き]に入[い]らない夜[よる]なんてもう僕[ぼく]は知[し]らない",
       "translation": "마음에 안 드는 밤따위 이젠 난 몰라",
       "romaji": "kini kiniiranaiyorunantemoubokuhashiranai"
     },
@@ -372,7 +372,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 46,
       "start": 195.5,
       "end": 198.1,
-      "rubyText": "踊[おど]ってたい夜[よる]を気に入[きにい]りたい",
+      "rubyText": "踊[おど]ってたい夜[よる]を気[き]に入[い]りたい",
       "translation": "춤추고 싶은 밤을 마음에 들고 싶어",
       "romaji": "odottetaiyoruwo kini kiniiritai"
     },
@@ -388,7 +388,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 48,
       "start": 200.9,
       "end": 204.2,
-      "rubyText": "踊[おど]ってない夜[よる]が気に入[きにい]らないよ",
+      "rubyText": "踊[おど]ってない夜[よる]が気[き]に入[い]らないよ",
       "translation": "춤추지 않는 밤이 마음에 안 들어",
       "romaji": "odottenaiyoruga kini kiniiranaiyo"
     },
@@ -396,7 +396,7 @@ export const song29FredericFurederikkuOdoruupuMusicVideoSong: Song = {
       "id": 49,
       "start": 205.3,
       "end": 209.0,
-      "rubyText": "気に入[きにい]らない夜[よる]なんてもう僕[ぼく]は知[し]らない",
+      "rubyText": "気[き]に入[い]らない夜[よる]なんてもう僕[ぼく]は知[し]らない",
       "translation": "마음에 안 드는 밤따위 이젠 난 몰라",
       "romaji": "kini kiniiranaiyorunantemoubokuhashiranai"
     },

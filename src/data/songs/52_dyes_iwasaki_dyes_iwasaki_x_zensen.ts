@@ -268,7 +268,7 @@ export const song52DyesIwasakiDyesIwasakiXZensenSong: Song = {
       "id": 33,
       "start": 103.86,
       "end": 105.84,
-      "rubyText": "台本[だいほん]にある通[とう]り",
+      "rubyText": "台本[だいほん]にある通[とお]り",
       "translation": "각본에 쓰인 그대로",
       "romaji": "daihon niaru touri"
     },
@@ -2224,6 +2224,29 @@ export const song52DyesIwasakiDyesIwasakiXZensenSong: Song = {
         }
       ],
       "jlptLevel": "N5"
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
+        }
+      ]
     }
   }
 };

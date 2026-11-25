@@ -12,7 +12,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 1,
       "start": 8.7,
       "end": 11.7,
-      "rubyText": "Moonguys Moonguys 僕らはまだ",
+      "rubyText": "Moonguys Moonguys 僕[ぼく]らはまだ",
       "translation": "Moonguys Moonguys 우리들은 아직",
       "romaji": "Moonguys Moonguys bokura wa mada"
     },
@@ -20,7 +20,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 2,
       "start": 11.7,
       "end": 14.3,
-      "rubyText": "Moonguys Moonguys 無垢な 兵隊[ソルジャー]",
+      "rubyText": "Moonguys Moonguys 無垢[むく]な 兵隊[ソルジャー]",
       "translation": "Moonguys Moonguys 순수한 병사 (솔저)",
       "romaji": "Moonguys Moonguys mukuna sorujaa"
     },
@@ -108,7 +108,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 13,
       "start": 43.4,
       "end": 46.2,
-      "rubyText": "Moonguys Moonguys 僕らはまだ",
+      "rubyText": "Moonguys Moonguys 僕[ぼく]らはまだ",
       "translation": "Moonguys Moonguys 우리들은 아직",
       "romaji": "Moonguys Moonguys bokura wa mada"
     },
@@ -116,7 +116,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 14,
       "start": 46.2,
       "end": 48.7,
-      "rubyText": "Moonguys Moonguys 無垢な 兵隊[ソルジャー]",
+      "rubyText": "Moonguys Moonguys 無垢[むく]な 兵隊[ソルジャー]",
       "translation": "Moonguys Moonguys 순수한 병사 (솔저)",
       "romaji": "Moonguys Moonguys mukuna sorujaa"
     },
@@ -188,7 +188,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 23,
       "start": 76.6,
       "end": 79.2,
-      "rubyText": "Moonguys Moonguys 僕らはまだ",
+      "rubyText": "Moonguys Moonguys 僕[ぼく]らはまだ",
       "translation": "Moonguys Moonguys 우리들은 아직",
       "romaji": "Moonguys Moonguys bokura wa mada"
     },
@@ -196,7 +196,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 24,
       "start": 79.2,
       "end": 81.7,
-      "rubyText": "Moonguys Moonguys 無垢な 兵隊[ソルジャー]",
+      "rubyText": "Moonguys Moonguys 無垢[むく]な 兵隊[ソルジャー]",
       "translation": "Moonguys Moonguys 순수한 병사 (솔저)",
       "romaji": "Moonguys Moonguys mukuna sorujaa"
     },
@@ -260,7 +260,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 32,
       "start": 102.1,
       "end": 104.2,
-      "rubyText": "勿[わす]忘[れ]草[なぐさ]もきっと枯[か]れる",
+      "rubyText": "勿忘草[わすれなぐさ]もきっと枯[か]れる",
       "translation": "물망초도 반드시 시들어",
       "romaji": "wasurenagusa mo kitto kareru"
     },
@@ -292,7 +292,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 36,
       "start": 111.05,
       "end": 113.8,
-      "rubyText": "Moonguys Moonguys 僕らはまだ",
+      "rubyText": "Moonguys Moonguys 僕[ぼく]らはまだ",
       "translation": "Moonguys Moonguys 우리들은 아직",
       "romaji": "Moonguys Moonguys bokura wa mada"
     },
@@ -300,7 +300,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 37,
       "start": 113.8,
       "end": 116.3,
-      "rubyText": "Moonguys Moonguys 無垢な 兵隊[ソルジャー]",
+      "rubyText": "Moonguys Moonguys 無垢[むく]な 兵隊[ソルジャー]",
       "translation": "Moonguys Moonguys 순수한 병사 (솔저)",
       "romaji": "Moonguys Moonguys mukuna sorujaa"
     },
@@ -316,7 +316,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 39,
       "start": 118.3,
       "end": 121.0,
-      "rubyText": "流[は]行[や]り風[か]邪[ぜ]が媚[こ]びる",
+      "rubyText": "流行[はや]り風邪[かぜ]が媚[こ]びる",
       "translation": "유행성 감기가 아첨해",
       "romaji": "hayarikaze ga kobiru"
     },
@@ -460,7 +460,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 57,
       "start": 177.4,
       "end": 182.5,
-      "rubyText": "Moonguys Moonguys 僕らはまだ",
+      "rubyText": "Moonguys Moonguys 僕[ぼく]らはまだ",
       "translation": "Moonguys Moonguys 우리들은 아직",
       "romaji": "Moonguys Moonguys bokura wa mada"
     },
@@ -468,7 +468,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 58,
       "start": 182.5,
       "end": 187.6,
-      "rubyText": "Moonguys Moonguys 無垢な 兵隊[ソルジャー]",
+      "rubyText": "Moonguys Moonguys 無垢[むく]な 兵隊[ソルジャー]",
       "translation": "Moonguys Moonguys 순수한 병사 (솔저)",
       "romaji": "Moonguys Moonguys mukuna sorujaa"
     },
@@ -476,7 +476,7 @@ export const nilfruitsMoonguys: Song = {
       "id": 59,
       "start": 187.6,
       "end": 190.5,
-      "rubyText": "Moonguys Moonguys 僕らだけが",
+      "rubyText": "Moonguys Moonguys 僕[ぼく]らだけが",
       "translation": "Moonguys Moonguys 우리들만이",
       "romaji": "Moonguys Moonguys bokura dake ga"
     },
@@ -3461,6 +3461,29 @@ export const nilfruitsMoonguys: Song = {
           "word": "駄作",
           "reading": "ださく",
           "meaning": "졸작"
+        }
+      ]
+    },
+    "々": {
+      "character": "々",
+      "korean": "되풀이표 노마",
+      "kun": [
+        "くりかえし",
+        "のま"
+      ],
+      "on": [],
+      "meaning": "한자 반복 기호 (앞 한자를 거듭 쓸 때 사용)",
+      "jlptLevel": "N3",
+      "examples": [
+        {
+          "word": "虎視眈々",
+          "reading": "こしたんたん",
+          "meaning": "호시탐탐"
+        },
+        {
+          "word": "日々",
+          "reading": "ひび",
+          "meaning": "나날, 매일"
         }
       ]
     }

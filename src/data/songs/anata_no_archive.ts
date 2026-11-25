@@ -188,7 +188,7 @@ export const anataNoArchiveSong: Song = {
       "id": 23,
       "start": 91.32,
       "end": 97.21,
-      "rubyText": "湧[わ]き出[だ]す期待[きたい]を　託[たく]します未来[미らい]に",
+      "rubyText": "湧[わ]き出[だ]す期待[きたい]を　託[たく]します未来[みらい]に",
       "translation": "솟아오르는 기대를 맡길게요, 미래에",
       "romaji": "wakidasu kitai o takushimasu mirai ni"
     },
@@ -340,7 +340,7 @@ export const anataNoArchiveSong: Song = {
       "id": 42,
       "start": 170.01,
       "end": 175.73,
-      "rubyText": "湧[わ]き出[だ]す期待[きたい]を　託[たく]します未来[미らい]に",
+      "rubyText": "湧[わ]き出[だ]す期待[きたい]を　託[たく]します未来[みらい]に",
       "translation": "솟아오르는 기대를 맡길게요, 미래에",
       "romaji": "wakidasu kitai o takushimasu mirai ni"
     },

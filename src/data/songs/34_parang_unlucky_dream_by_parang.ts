@@ -372,7 +372,7 @@ export const song34ParangUnluckyDreamByParangSong: Song = {
       "id": 46,
       "start": 84.09,
       "end": 85.25,
-      "rubyText": "生き返[いきかえ]る！",
+      "rubyText": "生[い]き返[かえ]る！",
       "translation": "되살아났어!",
       "romaji": "ikikaeru !"
     },

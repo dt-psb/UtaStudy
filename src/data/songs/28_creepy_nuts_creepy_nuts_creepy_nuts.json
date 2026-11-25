@@ -18,7 +18,7 @@
       "id": 2,
       "start": 3.38,
       "end": 4.96,
-      "rubyText": "禁忌[きんき]、禁じ手[きんじて]、明[あき]らか盲点[もうてん]",
+      "rubyText": "禁忌[きんき]、禁[きん]じ手[て]、明[あき]らか盲点[もうてん]",
       "translation": "금기, 금지 기술, 명백한 맹점",
       "romaji": "kinki, kinji kinjite, akirakamouten"
     },
@@ -26,7 +26,7 @@
       "id": 3,
       "start": 4.96,
       "end": 6.92,
-      "rubyText": "反則[はんそく]、異次元[いじげん]、この世の中[よのなか]のもんでは無[な]いです",
+      "rubyText": "反則[はんそく]、異次元[いじげん]、この世[よ]の中[なか]のもんでは無[な]いです",
       "translation": "반칙, 다른 차원, 이 세상의 것이 아",
       "romaji": "hansoku, ijigen, kono yono yononakanomondehanaidesu"
     },
@@ -338,9 +338,9 @@
       "id": 42,
       "start": 102.81,
       "end": 104.06,
-      "rubyText": "バレットなら満タン[まんたん]",
+      "rubyText": "バレットなら満[まん]タン",
       "translation": "불렛이라면 가득",
-      "romaji": "baretto nara mantan [ mantan ]"
+      "romaji": "baretto nara mantan"
     },
     {
       "id": 43,
@@ -378,9 +378,9 @@
       "id": 47,
       "start": 114.82,
       "end": 116.37,
-      "rubyText": "この身体[しんたい]tattooは入[いっ]って無[な]い",
+      "rubyText": "この身体[しんたい]tattooは入[はい]って無[な]い",
       "translation": "이 몸에 tattoo는 없지",
-      "romaji": "konoshintai tattoo haitsuttenai"
+      "romaji": "kono shintai tattoo ha haittenai"
     },
     {
       "id": 48,
@@ -394,7 +394,7 @@
       "id": 49,
       "start": 117.91,
       "end": 119.41,
-      "rubyText": "繰り返[くりかえ]しやらかしてくダメージが",
+      "rubyText": "繰[く]り返[かえ]しやらかしてくダメージが",
       "translation": "반복해 가는 대미지가",
       "romaji": "kuri kurikaeshiyarakashiteku dameeji ga"
     },

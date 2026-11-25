@@ -10,9 +10,9 @@
       "id": 1,
       "start": 0.22,
       "end": 2.36,
-      "rubyText": "滲[しん]んでは溶[と]ける",
+      "rubyText": "滲[し]んでは溶[と]ける",
       "translation": "번지고, 녹아내려",
-      "romaji": "shin ndeha toke ru"
+      "romaji": "shindeha toke ru"
     },
     {
       "id": 2,
@@ -50,9 +50,9 @@
       "id": 6,
       "start": 27.59,
       "end": 32.17,
-      "rubyText": "札付[ふだつき]きの僕[ぼく]らも景色[けしき]になるらしい",
+      "rubyText": "札付[ふだつ]きの僕[ぼく]らも景色[けしき]になるらしい",
       "translation": "찍힌 애들인 우리마저 풍경 속으로 스며들어",
-      "romaji": "fudatsuki kino bokura mo keshiki ninarurashii"
+      "romaji": "fudatsuki no bokuramo keshiki ninarurashii"
     },
     {
       "id": 7,
@@ -90,7 +90,7 @@
       "id": 11,
       "start": 40.41,
       "end": 42.17,
-      "rubyText": "こんな生き方[いきかた]しか知[し]らないって",
+      "rubyText": "こんな生[い]き方[かた]しか知[し]らないって",
       "translation": "우린 이런 식으로 사는 법밖에 몰라",
       "romaji": "konna ikikata shika shira naitte"
     },
@@ -154,9 +154,9 @@
       "id": 19,
       "start": 56.43,
       "end": 58.35,
-      "rubyText": "滲[しん]んでは溶[と]ける",
+      "rubyText": "滲[し]んでは溶[と]ける",
       "translation": "번지고, 녹아내려",
-      "romaji": "shin ndeha toke ru"
+      "romaji": "shindeha toke ru"
     },
     {
       "id": 20,
@@ -194,9 +194,9 @@
       "id": 24,
       "start": 65.74,
       "end": 67.71,
-      "rubyText": "失[う]ってばかりだね",
+      "rubyText": "失[うしな]ってばかりだね",
       "translation": "우린 잃기만 하네",
-      "romaji": "utsu tebakaridane"
+      "romaji": "ushinatte bakaridane"
     },
     {
       "id": 25,
@@ -290,7 +290,7 @@
       "id": 36,
       "start": 92.28,
       "end": 93.75,
-      "rubyText": "drip 飲み干[のみほ]す証拠[しょうこ]品[ひん]",
+      "rubyText": "drip 飲[の]み干[ほ]す証拠[しょうこ]品[ひん]",
       "translation": "drip—증거품을 전부 마셔",
       "romaji": "drip  nomihosu shouko hin"
     },
@@ -362,9 +362,9 @@
       "id": 45,
       "start": 104.59,
       "end": 105.78,
-      "rubyText": "依存性[いぞんせい] 言[い]う通[とう]り",
+      "rubyText": "依存性[いぞんせい] 言[い]う通[とお]り",
       "translation": "의존성, 말한 대로네",
-      "romaji": "izonsei   iu touri"
+      "romaji": "izonsei iu toori"
     },
     {
       "id": 46,
@@ -418,7 +418,7 @@
       "id": 52,
       "start": 119.62,
       "end": 122.16,
-      "rubyText": "そう お互[たが]い事情[じじょう]は退っ引き[のっぴき]なんない",
+      "rubyText": "そう お互[たが]い事情[じじょう]は退[の]っ引[ぴ]きなんない",
       "translation": "그래, 우리 둘 다 이제 물러설 수 없어",
       "romaji": "sou   o tagai jijou ha noppiki nannai"
     },
@@ -490,9 +490,9 @@
       "id": 61,
       "start": 147.75,
       "end": 149.72,
-      "rubyText": "失[う]ってばかりだね",
+      "rubyText": "失[うしな]ってばかりだね",
       "translation": "우린 잃기만 하네",
-      "romaji": "utsu tebakaridane"
+      "romaji": "ushinatte bakaridane"
     },
     {
       "id": 62,
@@ -579,7 +579,7 @@
       "start": 171.24,
       "end": 174.04,
       "rubyText": "そして私[わたし]たちは、お互[たが]いを見送[みおく]るようにして別[わか]れた。",
-      "translation": "",
+      "translation": "그리고 우리들은 서로를 배웅하듯이 헤어졌다.",
       "romaji": "soshite watashitachi ha , o tagai wo miokuru younishite wakare ta ."
     },
     {
@@ -587,7 +587,7 @@
       "start": 174.04,
       "end": 175.56,
       "rubyText": "街[まち]はまだ喧[かしま]しくて、",
-      "translation": "",
+      "translation": "거리는 아직 시끌벅적하고,",
       "romaji": "machi hamada kashimashiku te ,"
     },
     {
@@ -611,7 +611,7 @@
       "start": 180.79,
       "end": 183.93,
       "rubyText": "別[わか]れ際[さい]の彼女[かのじょ]の笑顔[えがお]も、私[わたし]しか見[み]ていない。",
-      "translation": "",
+      "translation": "헤어질 무렵 그녀의 미소도 나밖에 보지 않았어.",
       "romaji": "wakare saino kanojo no egao mo , watashi shika mite inai ."
     },
     {
